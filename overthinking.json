@@ -1,0 +1,20 @@
+{
+    "quotes" :[
+    {
+    "id":"1",
+    "quote":"If you want to achieve greatness stop asking for permission.",
+    "author":"Bill Gates"
+    },
+    {
+    "id":"2",
+    "quote":"things work out best for those who make the best of how things work out.",
+    "author":"Bill Gates"
+    },
+    {
+    "id":"3",
+    "quote":"To live a creative life, we must lose our fear of being wrong.",
+    "author":"Bill Gates"
+    }
+    ]
+    
+}
