@@ -1,0 +1,25 @@
+{
+    "CategoryItem" :[
+    {
+    "id":"1",
+    "text":"OverThinking",
+    "image":"https://pixarimages.files.wordpress.com/2022/05/img_8221.png"
+    },
+    {
+    "id":"2",
+    "text":"Positive",
+    "image":"https://pixarimages.files.wordpress.com/2022/05/img_8240.png"
+    },
+    {
+    "id":"3",
+    "text":"Self-Development",
+    "image":"https://pixarimages.files.wordpress.com/2022/05/img_8241.png"
+    },
+    {
+        "id":"4",
+        "text":"Toxic-RelationShips",
+        "image":"https://pixarimages.files.wordpress.com/2022/05/img_8242.png"
+        }
+    ]
+    
+}
