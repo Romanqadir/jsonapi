@@ -1,0 +1,750 @@
+[
+    {
+        "id":"1",
+        "text":"You only live once, but if you do it right, once is enough",
+        "author":"Mae West"
+    },
+    {
+        "id":"2",
+        "text":"In three words I can sum up everything I've learned about life: it goes on",
+        "author":"Robert Frost"
+    },
+    {
+        "id":"3",
+        "text":"To live is the rarest thing in the world. Most people exist, that is all",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"4",
+        "text":"There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"5",
+        "text":"It does not do to dwell on dreams and forget to live",
+        "author":"J.K. Rowling"
+    },
+    {
+        "id":"6",
+        "text":"Good friends, good books, and a sleepy conscience: this is the ideal life",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"7",
+        "text":"Life is what happens to us while we are making other plans",
+        "author":"Allen Saunders"
+    },
+    {
+        "id":"8",
+        "text":"I may not have gone where I intended to go, but I think I have ended up where I needed to be",
+        "author":"douglas adams"
+    },
+    {
+        "id":"9",
+        "text":"Everything you can imagine is real",
+        "author":"Pablo Picasso"
+    },
+    {
+        "id":"10",
+        "text":"Sometimes the questions are complicated and the answers are simple",
+        "author":"Dr. Seuss"
+    },
+    {
+        "id":"11",
+        "text":"Life isn't about finding yourself. Life is about creating yourself",
+        "author":"George Bernard"
+    },
+    {
+        "id":"12",
+        "text":"Today you are You, that is truer than true. There is no one alive who is Youer than You",
+        "author":"Dr. Seuss"
+    },
+    {
+        "id":"13",
+        "text":"I'm not afraid of death; I just don't want to be there when it happens",
+        "author":"Woody Allen"
+    },
+    {
+        "id":"14",
+        "text":"Life is like riding a bicycle. To keep your balance, you must keep moving",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"15",
+        "text":"Some infinities are bigger than other infinities",
+        "author":"John Green"
+    },
+    {
+        "id":"16",
+        "text":"Reality continues to ruin my life",
+        "author":"Bill Watterson"
+    },
+    {
+        "id":"17",
+        "text":"Things change. And friends leave. Life doesn't stop for anybody",
+        "author":"Stephen Chbosky"
+    },
+    {
+        "id":"18",
+        "text":"Who are you to judge the life I live? I know I'm not perfect - and I don't live to be - but before you start pointing fingers - make sure you hands are clean!",
+        "author":"Bob Marley"
+    },
+    {
+        "id":"19",
+        "text":"The only way out of the labyrinth of suffering is to forgive",
+        "author":"John Green"
+    },
+    {
+        "id":"20",
+        "text":"When someone loves you, the way they talk about you is different. You feel safe and comfortable",
+        "author":"Jess C. Scott"
+    },
+    {
+        "id":"21",
+        "text":"Dumbledore watched her fly away, and as her silvery glow faded he turned back to Snape, and his eyes were full of tears. After all this time?",
+        "author":"J.K. Rowling"
+    },
+    {
+        "id":"22",
+        "text":"We are what we pretend to be, so we must be careful about what we pretend to be",
+        "author":"Kurt Vonnegut"
+    },
+    {
+        "id":"23",
+        "text":"I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to",
+        "author":"Jimi Hendrix"
+    },
+    {
+        "id":"24",
+        "text":"But better to get hurt by the truth than comforted with a lie",
+        "author":"Khaled Hosseini"
+    },
+    {
+        "id":"25",
+        "text":"The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"26",
+        "text":"Just when you think it can't get any worse, it can. And just when you think it can't get any better, it can",
+        "author":"Nicholas Sparks"
+    },
+    {
+        "id":"27",
+        "text":"The one you love and the one who loves you are never, ever the same person",
+        "author":"Chuck Palahniuk"
+    },
+    {
+        "id":"28",
+        "text":"The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom",
+        "author":"Isaac Asimov"
+    },
+    {
+        "id":"29",
+        "text":"I speak to everyone in the same way, whether he is the garbage man or the president of the university",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"30",
+        "text":"We're all human, aren't we? Every human life is worth the same, and worth saving",
+        "author":"J.K. Rowling"
+    },
+    {
+        "id":"31",
+        "text":"If you don't know where you're going, any road'll take you there”",
+        "author":"George Harrison"
+    },
+    {
+        "id":"32",
+        "text":"This life’s hard, but it’s harder if you’re stupid",
+        "author":"George V. Higgins"
+    },
+    {
+        "id":"33",
+        "text":"Sometimes I can hear my bones straining under the weight of all the lives I'm not living",
+        "author":"Jonathan Safran Foer"
+    },
+    {
+        "id":"34",
+        "text":"Death ends a life, not a relationship",
+        "author":"Mitch Albom"
+    },
+    {
+        "id":"35",
+        "text":"Do not read, as children do, to amuse yourself, or like the ambitious, for the purpose of instruction. No, read in order to live",
+        "author":"Gustave Flaubert"
+    },
+    {
+        "id":"36",
+        "text":"You cannot find peace by avoiding life",
+        "author":"Michael Cunningham"
+    },
+    {
+        "id":"37",
+        "text":"May you live every day of your life",
+        "author":"Jonathan Swift"
+    },
+    {
+        "id":"38",
+        "text":"Where there is love there is life",
+        "author":"Mahatma Gandhi"
+    },
+    {
+        "id":"39",
+        "text":"If my life is going to mean anything, I have to live it myself",
+        "author":"Rick Riordan"
+    },
+    {
+        "id":"40",
+        "text":"Get busy living or get busy dying",
+        "author":"Stephen King"
+    },
+    {
+        "id":"41",
+        "text":"Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"42",
+        "text":"Life is pain, highness. Anyone who says differently is selling something",
+        "author":"William Goldman"
+    },
+    {
+        "id":"43",
+        "text":"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were",
+        "author":"Kahlil Gibran"
+    },
+    {
+        "id":"44",
+        "text":"Life's under no obligation to give us what we expect",
+        "author":"Margaret Mitchell"
+    },
+    {
+        "id":"45",
+        "text":"Unbeing dead isn't being alive",
+        "author":"E. E. Cummings"
+    },
+    {
+        "id":"46",
+        "text":"Nobody likes being alone that much. I don't go out of my way to make friends, that's all. It just leads to disappointment",
+        "author":"Haruki Murakami"
+    },
+    {
+        "id":"47",
+        "text":"Sometimes our light goes out, but is blown again into instant flame by an encounter with another human being",
+        "author":"Albert Schweitzer"
+    },
+    {
+        "id":"48",
+        "text":"Some people have lives; some people have music",
+        "author":"John Green"
+    },
+    {
+        "id":"49",
+        "text":"The things you do for yourself are gone when you are gone, but the things you do for others remain as your legacy",
+        "author":"Kalu Ndukwe Kalu"
+    },
+    {
+        "id":"50",
+        "text":"Tell the truth, or someone will tell it for you",
+        "author":"Stephanie Klein"
+    },
+    {
+        "id":"51",
+        "text":"Life is for the living.Death is for the dead. Let life be like music. And death a note unsaid",
+        "author":"Langston Hughes"
+    },
+    {
+        "id":"52",
+        "text":"If cats looked like frogs we'd realize what nasty, cruel little bastards they are. Style. That's what people remember",
+        "author":"Terry Pratchett"
+    },
+    {
+        "id":"53",
+        "text":"People aren't born good or bad. Maybe they're born with tendencies either way, but its the way you live your life that matters",
+        "author":"Cassandra Clare"
+    },
+    {
+        "id":"54",
+        "text":"He who has a why to live for can bear almost any how",
+        "author":"Friedrich Nietzsche"
+    },
+    {
+        "id":"55",
+        "text":"Friedrich Nietzsche",
+        "author":"G.K. Chesterton"
+    },
+    {
+        "id":"56",
+        "text":"A woman has to live her life, or live to repent not having lived it",
+        "author":"D.H. Lawrence"
+    },
+    {
+        "id":"57",
+        "text":"The most wasted of all days is one without laughter",
+        "author":"Nicolas Chamfort"
+    },
+    {
+        "id":"58",
+        "text":"If I can stop one heart from breaking, I shall not live in vain",
+        "author":"Emily Dickinson"
+    },
+    {
+        "id":"59",
+        "text":"The more I see, the less I know for sure",
+        "author":"John Lennon"
+    },
+    {
+        "id":"60",
+        "text":"Live to the point of tears",
+        "author":"Albert Camus"
+    },
+    {
+        "id":"61",
+        "text":"Dwell on the beauty of life. Watch the stars, and see yourself running with them",
+        "author":"Marcus Aurelius"
+    },
+    {
+        "id":"62",
+        "text":"Why didn't I learn to treat everything like it was the last time. My greatest regret was how much I believed in the future",
+        "author":"Jonathan Safran Foer"
+    },
+    {
+        "id":"63",
+        "text":"I go to seek a Great Perhaps",
+        "author":"François Rabelais"
+    },
+    {
+        "id":"64",
+        "text":"I am not sure that I exist, actually. I am all the writers that I have read, all the people that I have met, all the women that I have loved; all the cities I have visited",
+        "author":"Jorge Luis Borges"
+    },
+    {
+        "id":"65",
+        "text":"Life is to be enjoyed, not endured",
+        "author":"Gordon B. Hinckley"
+    },
+    {
+        "id":"66",
+        "text":"No matter how much suffering you went through, you never wanted to let go of those memories",
+        "author":"haruki murakami"
+    },
+    {
+        "id":"67",
+        "text":"This is your life and its ending one moment at a time",
+        "author":"Chuck Palahniuk"
+    },
+    {
+        "id":"68",
+        "text":"Don't take life too seriously. Punch it in the face when it needs a good hit. Laugh at it",
+        "author":"Colleen Hoover"
+    },
+    {
+        "id":"69",
+        "text":"Follow your heart, listen to your inner voice, stop caring about what others think",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"70",
+        "text":"Even death has a heart",
+        "author":"Markus Zusak"
+    },
+    {
+        "id":"71",
+        "text":"Life shrinks or expands in proportion to one's courage",
+        "author":"Anais Nin"
+    },
+    {
+        "id":"72",
+        "text":"on't be afraid of death; be afraid of an unlived life. You don't have to live forever, you just have to live",
+        "author":"Natalie Babbitt"
+    },
+    {
+        "id":"73",
+        "text":"Don't part with your illusions. When they are gone you may still exist, but you have ceased to live",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"74",
+        "text":"Don't you think it's better to be extremely happy for a short while, even if you lose it, than to be just okay for your whole life?",
+        "author":"Audrey Niffenegger"
+    },
+    {
+        "id":"75",
+        "text":"People say that life is the thing, but I prefer reading",
+        "author":"Logan Pearsall Smith"
+    },
+    {
+        "id":"76",
+        "text":"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"77",
+        "text":"It was not the feeling of completeness I so needed, but the feeling of not being empty",
+        "author":"Jonathan Safran Foer"
+    },
+    {
+        "id":"78",
+        "text":"I'm sure the universe is full of intelligent life. It's just been too intelligent to come here",
+        "author":"Arthur C. Clarke"
+    },
+    {
+        "id":"79",
+        "text":"To say goodbye is to die a little",
+        "author":"Raymond Chandler"
+    },
+    {
+        "id":"80",
+        "text":"That it will never come again is what makes life so sweet",
+        "author":"Emily Dickinson"
+    },
+    {
+        "id":"81",
+        "text":"Don't waste your time with explanations: people only hear what they want to hear",
+        "author":"Paulo Coelho"
+    },
+    {
+        "id":"82",
+        "text":"The past has no power over the present moment",
+        "author":"Eckhart Tolle"
+    },
+    {
+        "id":"83",
+        "text":"You couldn't relive your life, skipping the awful parts, without losing what made it worthwhile. You had to accept it as a whole--like the world, or the person you loved",
+        "author":"Stewart O'Nan"
+    },
+    {
+        "id":"84",
+        "text":"Biology gives you a brain. Life turns it into a mind",
+        "author":"Jeffrey Eugenides"
+    },
+    {
+        "id":"85",
+        "text":"If you ask me what I came to do in this world, I, an artist, will answer you: I am here to live out loud",
+        "author":"Émile Zola"
+    },
+    {
+        "id":"86",
+        "text":"We must be willing to let go of the life we planned so as to have the life that is waiting for us",
+        "author":"Joseph Campbell"
+    },
+    {
+        "id":"87",
+        "text":"I've got nothing to do today but smile",
+        "author":"Simon and Garfunkel"
+    },
+    {
+        "id":"88",
+        "text":"Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren't. I'm not surprised some people prefer books",
+        "author":"Julian Barnes"
+    },
+    {
+        "id":"89",
+        "text":"Life is a series of natural and spontaneous changes. Don't resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like",
+        "author":"Lao Tzu"
+    },
+    {
+        "id":"90",
+        "text":"The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man",
+        "author":"George Bernard Shaw"
+    },
+    {
+        "id":"91",
+        "text":"Was it hard? I ask. Letting go Not as hard as holding on to something that wasn't real?",
+        "author":"Lisa Schroeder"
+    },
+    {
+        "id":"92",
+        "text":"Maybe everyone can live beyond what they're capable of",
+        "author":"Markus Zusak"
+    },
+    {
+        "id":"93",
+        "text":"A good traveler has no fixed plans and is not intent on arriving",
+        "author":"Lao Tzu"
+    },
+    {
+        "id":"94",
+        "text":"You endure what is unbearable, and you bear it. That is all",
+        "author":"Cassandra Clare"
+    },
+    {
+        "id":"95",
+        "text":"You realize that our mistrust of the future makes it hard to give up the past",
+        "author":"Chuck Palahniuk"
+    },
+    {
+        "id":"96",
+        "text":"Appear weak when you are strong, and strong when you are weak",
+        "author":"Sun Tzu"
+    },
+    {
+        "id":"97",
+        "text":"A purpose of human life, no matter who is controlling it, is to love whoever is around to be loved",
+        "author":"Kurt Vonnegut"
+    },
+    {
+        "id":"98",
+        "text":"Once you had put the pieces back together, even though you may look intact, you were never quite the same as you'd been before the fall",
+        "author":"Jodi Picoult"
+    },
+    {
+        "id":"99",
+        "text":"You yourself, as much as anybody in the entire universe, deserve your love and affection",
+        "author":"Sharon Salzberg"
+    },
+    {
+        "id":"100",
+        "text":"Wisdom comes from experience. Experience is often a result of lack of wisdom",
+        "author":"Terry Pratchett"
+    },
+    {
+        "id":"101",
+        "text":"It does not matter how slowly you go as long as you do not stop",
+        "author":"Confucius"
+    },
+    {
+        "id":"102",
+        "text":"In a time of destruction, create something",
+        "author":"Maxine Hong Kingston"
+    },
+    {
+        "id":"103",
+        "text":"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience",
+        "author":"Eleanor Roosevelt"
+    },
+    {
+        "id":"104",
+        "text":"No persons are more frequently wrong, than those who will not admit they are wrong",
+        "author":"François de La Rochefoucauld"
+    },
+    {
+        "id":"105",
+        "text":"There is only one sin. and that is theft... when you tell a lie, you steal someones right to the truth",
+        "author":"Khaled Hosseini"
+    },
+    {
+        "id":"106",
+        "text":"One of the advantages of being disorganized is that one is always having surprising discoveries",
+        "author":"A.A. Milne"
+    },
+    {
+        "id":"107",
+        "text":"The more you know who you are, and what you want, the less you let things upset you",
+        "author":"Stephanie Perkins"
+    },
+    {
+        "id":"108",
+        "text":"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"109",
+        "text":"How nice - to feel nothing, and still get full credit for being alive",
+        "author":"Kurt Vonnegut"
+    },{
+        "id":"110",
+        "text":"Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing",
+        "author":"Elie Wiesel"
+    },
+    {
+        "id":"111",
+        "text":"The trouble is if you don’t spend your life yourself, other people spend it for you",
+        "author":"Peter Shaffer"
+    },
+    {
+        "id":"112",
+        "text":"I like flaws. I think they make things interesting",
+        "author":"Sarah Dessen"
+    },
+    {
+        "id":"113",
+        "text":"There are two means of refuge from the misery of life — music and cats",
+        "author":"Albert Schweitzer"
+    },
+    {
+        "id":"114",
+        "text":"Life is not a matter of holding good cards, but of playing a poor hand well",
+        "author":"Robert Louis Stevenson"
+    },
+    {
+        "id":"115",
+        "text":"please believe that things are good with me, and even when they're not, they will be soon enough. And i will always believe the same about you",
+        "author":"Stephen Chbosky"
+    },
+    {
+        "id":"116",
+        "text":"Never be bullied into silence. Never allow yourself to be made a victim. Accept no one's definition of your life, but define yourself",
+        "author":"Harvey Fierstein"
+    },
+    {
+        "id":"117",
+        "text":"I don't like people who have never fallen or stumbled. Their virtue is lifeless and it isn't of much value. Life hasn't revealed its beauty to them",
+        "author":"Boris Pasternak"
+    },
+    {
+        "id":"118",
+        "text":"If I had my life to live over again, I would have made a rule to read some poetry and listen to some music at least once every week",
+        "author":"Charles Darwin"
+    },
+    {
+        "id":"119",
+        "text":"Better to die fighting for freedom then be a prisoner all the days of your life",
+        "author":"Bob Marley"
+    },
+    {
+        "id":"120",
+        "text":"I could die for you. But I couldn't, and wouldn't, live for you",
+        "author":"Ayn Rand"
+    },
+    {
+        "id":"121",
+        "text":"To choose doubt as a philosophy of life is akin to choosing immobility as a means of transportation",
+        "author":"Yann Martel"
+    },
+    {
+        "id":"122",
+        "text":"There's nowhere you can be that isn't where you're meant to be...",
+        "author":"John Lennon"
+    },
+    {
+        "id":"123",
+        "text":"They say I'm old-fashioned, and live in the past, but sometimes I think progress progresses too fast!",
+        "author":"Dr. Seuss"
+    },
+    {
+        "id":"124",
+        "text":"Let the improvement of yourself keep you so busy that you have no time to criticize others",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"125",
+        "text":"A man who dares to waste one hour of time has not discovered the value of life",
+        "author":"Charles Darwin"
+    },
+    {
+        "id":"126",
+        "text":"If the real world were a book, it would never find a publisher. Overlong, detailed to the point of distraction-and ultimately, without a major resolution",
+        "author":"Jasper Forde"
+    },
+    {
+        "id":"127",
+        "text":"I'm killing time while I wait for life to shower me with meaning and happiness",
+        "author":"Bill Watterson"
+    },
+    {
+        "id":"128",
+        "text":"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less",
+        "author":"Marie Curie"
+    },
+    {
+        "id":"129",
+        "text":"Life is either a daring adventure or nothing at all",
+        "author":"Helen Keller"
+    },
+    {
+        "id":"130",
+        "text":"I want to be in a relationship where you telling me you love me is just a ceremonious validation of what you already show me",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"131",
+        "text":"Do you not see how necessary a world of pains and troubles is to school an intelligence and make it a soul?",
+        "author":"John Keats"
+    },
+    {
+        "id":"132",
+        "text":"Luxury is not a necessity to me, but beautiful and good things are",
+        "author":"Anais Nin"
+    },
+    {
+        "id":"133",
+        "text":"You get what anybody gets - you get a lifetime",
+        "author":"Neil Gaiman"
+    },
+    {
+        "id":"134",
+        "text":"Maybe this world is another planet’s hell",
+        "author":"Aldous Huxley"
+    },
+    {
+        "id":"135",
+        "text":"Death is so terribly final, while life is full of possibilities",
+        "author":"George R.R. Martin"
+    },
+    {
+        "id":"136",
+        "text":"It is not the length of life, but the depth",
+        "author":"Ralph Waldo Emerson"
+    },
+    {
+        "id":"137",
+        "text":"When you consider things like the stars, our affairs don't seem to matter very much, do they?",
+        "author":"Virginia Woolf"
+    },
+    {
+        "id":"138",
+        "text":"Throw your dreams into space like a kite, and you do not know what it will bring back, a new life, a new friend, a new love, a new country",
+        "author":"Anais Nin"
+    },
+    {
+        "id":"139",
+        "text":"Life doesn't imitate art, it imitates bad television",
+        "author":"Woody Allen"
+    },{
+        "id":"140",
+        "text":"The most authentic thing about us is our capacity to create, to overcome, to endure, to transform, to love and to be greater than our suffering",
+        "author":"Ben Okri"
+    },
+    {
+        "id":"141",
+        "text":"Sometimes it takes a good fall to really know where you stand",
+        "author":"Hayley Williams"
+    },
+    {
+        "id":"142",
+        "text":"Be steady and well-ordered in your life so that you can be fierce and original in your work",
+        "author":"Gustave Flaubert"
+    },
+    {
+        "id":"143",
+        "text":"What a strange thing! to be alive beneath cherry blossoms",
+        "author":"Kobayashi Issa"
+    },
+    {
+        "id":"144",
+        "text":"If a man will begin with certainties, he shall end in doubts; but if he will be content to begin with doubts, he shall end in certainties",
+        "author":"Francis Bacon"
+    },
+    {
+        "id":"145",
+        "text":"sometimes you don't need a goal in life, you don't need to know the big picture. you just need to know what you're going to do next!",
+        "author":"Sophie Kinsella"
+    },
+    {
+        "id":"146",
+        "text":"I'll try anything once, twice if I like it, three times to make sure",
+        "author":"Mae West"
+    },
+    {
+        "id":"147",
+        "text":"It was only a sunny smile, and little it cost in the giving, but like morning light it scattered the night and made the day worth living",
+        "author":"F. Scott Fitzgerald"
+    },
+    {
+        "id":"148",
+        "text":"I believe in being strong when everything seems to be going wrong. I believe that happy girls are the prettiest girls. I believe that tomorrow is another day, and I believe in miracles",
+        "author":"Audrey Hepburn"
+    },
+    {
+        "id":"149",
+        "text":"Ordinary life is pretty complex stuff",
+        "author":"Harvey Pekar"
+    },
+    {
+        "id":"150",
+        "text":"So it’s true, when all is said and done, grief is the price we pay for love",
+        "author":"E.A. Bucchianeri"
+    }
+]
