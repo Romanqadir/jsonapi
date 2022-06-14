@@ -1,0 +1,764 @@
+[
+    {
+        "id":"1",
+        "text":"All our dreams can come true, if we have the courage to pursue them",
+        "author":"Walt Disney"
+    },
+    {
+        "id":"2",
+        "text":"Our chief want in life, is someone who shall make us do what we can. This is the service of a friend. With him, we are easily great",
+        "author":"Ralph Waldo Emerson"
+    },
+    {
+        "id":"3",
+        "text":"Tough times never last, but tough people do",
+        "author":"Robert H. Schuller"
+    },
+    {
+        "id":"4",
+        "text":"Don’t worry about being successful but work toward being significant and the success will naturally follow",
+        "author":"Oprah Winfrey"
+    },
+    {
+        "id":"5",
+        "text":"Remember why you started",
+        "author":"Unknown"
+    },
+    {
+        "id":"6",
+        "text":"There is nothing more beautiful than someone who goes out of their way to make life beautiful for others",
+        "author":"Mandy Hale"
+    },
+    {
+        "id":"7",
+        "text":"The way to get started is to quit talking and begin doing",
+        "author":"Walt Disney"
+    },
+    {
+        "id":"8",
+        "text":"The Team! The Team! The Team!",
+        "author":"Bo Schembechler"
+    },
+    {
+        "id":"9",
+        "text":"You have to believe it before you see it",
+        "author":"Unknown"
+    },
+    {
+        "id":"10",
+        "text":"Be so good they can’t ignore you",
+        "author":"Steve Martin"
+    },
+    {
+        "id":"11",
+        "text":"Never underestimate the power of a t-shirt",
+        "author":"Unknown"
+    },
+    {
+        "id":"12",
+        "text":"Be the change you wish to see in the world",
+        "author":"Mahatma Gandhi"
+    },
+    {
+        "id":"13",
+        "text":"An entrepreneur tends to bite off a little more than he can chew hoping he’ll quickly learn how to chew it",
+        "author":"Roy Ash"
+    },
+    {
+        "id":"14",
+        "text":"We all have things we must do that we don’t really care to do and things we must do that we don’t mind doing, then there’s the goofing off",
+        "author":"Mi Oon"
+    },
+    {
+        "id":"15",
+        "text":"A ship in the harbor is safe, but that is not what ships are built for",
+        "author":"John A. Shedd"
+    },
+    {
+        "id":"16",
+        "text":"If you don’t have big dreams and goals, you’ll end up working for someone that does",
+        "author":"Unknown"
+    },
+    {
+        "id":"17",
+        "text":"I have not failed. I’ve just found 10,000 ways that won’t work",
+        "author":"Thomas Edison"
+    },
+    {
+        "id":"18",
+        "text":"Because, you know, resilience – if you think of it in terms of the Gold Rush, then you’d be pretty depressed right now because the last nugget of gold would be gone. But the good thing is, with innovation, there isn’t a last nugget. Every new thing creates two new questions and two new opportunities",
+        "author":"Jeff Bezos"
+    },
+    {
+        "id":"19",
+        "text":"Don’t worry about failure; you only have to be right once",
+        "author":"Drew Houston"
+    },
+    {
+        "id":"20",
+        "text":"In carrying out e-commerce, the most important thing is to keep doing what you are doing right now with passion, to keep it up",
+        "author":"Jack Ma"
+    },
+    {
+        "id":"21",
+        "text":"Someone is sitting in the shade today because someone planted a tree a long time ago",
+        "author":"Warren Buffett"
+    },
+    {
+        "id":"22",
+        "text":"Try not to become a man of success. Rather become a man of value",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"23",
+        "text":"Don’t risk more than you can afford to lose!",
+        "author":"The Backroads Bosslady"
+    },
+    {
+        "id":"24",
+        "text":"Knowledge without action is meaningless",
+        "author":"Abu Bakr"
+    },
+    {
+        "id":"25",
+        "text":"Never give up on a dream just because of the time it will take to accomplish it",
+        "author":"Unknown"
+    },
+    {
+        "id":"26",
+        "text":"Service is the rent we pay for being. It is the very purpose of life, and not something you do in your spare time",
+        "author":"Marian Wright Edelman"
+    },
+    {
+        "id":"27",
+        "text":"Life’s too short to learn from your own mistakes. So learn from others",
+        "author":"Unknown"
+    },
+    {
+        "id":"28",
+        "text":"If your ship doesn’t come in, swim out to meet it!",
+        "author":"Jonathan Winters"
+    },
+    {
+        "id":"29",
+        "text":"Your time is limited, so don’t waste it living someone else’s life",
+        "author":"Steve Jobs"
+    },
+    {
+        "id":"30",
+        "text":"Business has only two functions – marketing and innovation",
+        "author":"Peter Drucker"
+    },
+    {
+        "id":"31",
+        "text":"Have the end in mind and every day make sure your working towards it",
+        "author":"Ryan Allis"
+    },
+    {
+        "id":"32",
+        "text":"The function of leadership is to produce more leaders, not more followers",
+        "author":"Ralph Nader"
+    },
+    {
+        "id":"33",
+        "text":"Paying attention to simple little things that most men neglect makes a few men rich",
+        "author":"Henry Ford"
+    },
+    {
+        "id":"34",
+        "text":"Formal education will make you a living; self education will make you a fortune",
+        "author":"Jim Rohn"
+    },
+    {
+        "id":"35",
+        "text":"Success is walking from failure to failure with no loss of enthusiasm",
+        "author":"Winston Churchill"
+    },
+    {
+        "id":"36",
+        "text":"Stopping advertising to save money is like stopping your watch to save time",
+        "author":"Henry Ford"
+    },
+    {
+        "id":"37",
+        "text":"One day your life will flash before your eyes. Make sure it is worth watching",
+        "author":"Unknown"
+    },
+    {
+        "id":"38",
+        "text":"Courage is being scared to death, but saddling up anyway",
+        "author":"John Wayne"
+    },
+    {
+        "id":"39",
+        "text":"We are what we repeatedly do. Excellence then is not an act but a habit",
+        "author":"Aristotle"
+    },
+    {
+        "id":"40",
+        "text":"Success is liking yourself, liking what you do, and liking how you do it",
+        "author":"Maya Angelou"
+    },
+    {
+        "id":"41",
+        "text":"Advertising is only evil when it advertises evil things",
+        "author":"David Ogilvy"
+    },
+    {
+        "id":"42",
+        "text":"What the mind of man can conceive and believe, it can achieve",
+        "author":"Napoleon Hill"
+    },
+    {
+        "id":"43",
+        "text":"Failure defeats losers, failure inspires winners",
+        "author":"Robert T. Kiyosaki"
+    },
+    {
+        "id":"44",
+        "text":"Expect the best. Prepare for the worst. Capitalize on what comes",
+        "author":"Zig Ziglar"
+    },
+    {
+        "id":"45",
+        "text":"Creative without strategy is called art. Creative with strategy is called advertising",
+        "author":" Jeff  I. Richards"
+    },
+    {
+        "id":"46",
+        "text":"Be content to act, and leave the talking to others",
+        "author":"Baltasa"
+    },
+    {
+        "id":"47",
+        "text":"A goal is a dream with a deadline",
+        "author":"Napoleon Hill"
+    },
+    {
+        "id":"48",
+        "text":"Logic will get you from A to B. Imagination will take you everywhere",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"49",
+        "text":"If you can’t feed a team with two pizzas, it’s too large",
+        "author":"Jeff Bezos"
+    },
+    {
+        "id":"50",
+        "text":"Poor people have big TV. Rich people have big library",
+        "author":"Jim Rohn"
+    },
+    {
+        "id":"51",
+        "text":"Don’t be evil",
+        "author":"Larry Page"
+    },
+    {
+        "id":"52",
+        "text":"Good ideas come from bad ideas, but only if there are enough of them",
+        "author":"Seth Godin"
+    },
+    {
+        "id":"53",
+        "text":"Identify your problems but give your power and energy to solutions",
+        "author":"Tony Robbin"
+    },
+    {
+        "id":"54",
+        "text":"Be content to act, and leave the talking to others",
+        "author":"Baltasa"
+    },
+    {
+        "id":"55",
+        "text":"Failure defeats losers, failure inspires winners",
+        "author":"Robert T. Kiyosaki"
+    },
+    {
+        "id":"56",
+        "text":"There’s no shortage of remarkable ideas, what’s missing is the will to execute them",
+        "author":"Seth Godin"
+    },
+    {
+        "id":"57",
+        "text":"People rarely buy what they need. They buy what they want",
+        "author":"Seth Godin"
+    },
+    {
+        "id":"58",
+        "text":"Let your plans be dark and impenetrable as night, and when you move, fall like a thunderbolt",
+        "author":"Sun Tzu"
+    },
+    {
+        "id":"59",
+        "text":"If I love you, what business is it of yours?",
+        "author":"Johann wolfgang von Goethe"
+    },
+    {
+        "id":"60",
+        "text":"You have to be burning with an idea, or a problem, or a wrong that you want to right. If you're not passionate enough from the start, you'll never stick it out",
+        "author":"Steve Jobs"
+    },
+    {
+        "id":"61",
+        "text":"Rejection is an opportunity for your selection",
+        "author":"Bernard Branson"
+    },
+    {
+        "id":"62",
+        "text":"Done is better than perfect",
+        "author":"Sheryl Sandberg"
+    },
+    {
+        "id":"63",
+        "text":"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"64",
+        "text":"Knowledge is power is time is money",
+        "author":"Robert Thier"
+    },
+    {
+        "id":"65",
+        "text":"Price is what you pay. Value is what you get",
+        "author":"Warren Buffett"
+    },
+    {
+        "id":"66",
+        "text":"The best way to predict your future is to create it",
+        "author":"Peter Drucker"
+    },
+    {
+        "id":"67",
+        "text":"Advertising is legitimised lying",
+        "author":"H.G. Wells"
+    },
+    {
+        "id":"68",
+        "text":"who wishes to fight must first count the cost",
+        "author":"Sun Tzu"
+    },
+    {
+        "id":"69",
+        "text":"Don't blow off another's candle for it won't make yours shine brighter",
+        "author":"Jaachynma N.E. Agu"
+    },
+    {
+        "id":"70",
+        "text":"My own business always bores me to death; I prefer other people's",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"71",
+        "text":"The strength of the team is each individual member. The strength of each member is the team",
+        "author":"Phil Jackson"
+    },
+    {
+        "id":"72",
+        "text":"You have to work on the business first before it works for you",
+        "author":"Idowu Koyenikan"
+    },
+    {
+        "id":"73",
+        "text":"I would prefer a sword to fight duel, but a pen to plan a war",
+        "author":"Robert Thier"
+    },
+    {
+        "id":"74",
+        "text":"We cannot change what we are not aware of, and once we are aware, we cannot help but change",
+        "author":"Sheryl Sandberg"
+    },
+    {
+        "id":"75",
+        "text":"There's no luck in business. There's only drive, determination, and more drive",
+        "author":"Sophie Kinsella"
+    },
+    {
+        "id":"76",
+        "text":"Business is a game, played for fantastic stakes, and you're in competition with experts. If you want to win, you have to learn to be a master of the game",
+        "author":"Sidney Sheldon"
+    },
+    {
+        "id":"77",
+        "text":"Whenever you see a successful business, someone once made a courageous decision",
+        "author":"Peter F. Drucker"
+    },
+    {
+        "id":"78",
+        "text":"I’m a fake fact factory. The things I make are the things I make up. Also, as a side business, I make love. Actually, I just made that up",
+        "author":"Dora J. Arod"
+    },
+    {
+        "id":"79",
+        "text":"Rouse him, and learn the principle of his activity or inactivity. Force him to reveal himself, so as to find out his vulnerable spots",
+        "author":"Sun Tzu"
+    },
+    {
+        "id":"80",
+        "text":"Don't set your goals by what other people deem important",
+        "author":"Jaachynma N.E. Agu"
+    },
+    {
+        "id":"81",
+        "text":"Attack is the secret of defense; defense is the planning of an attack",
+        "author":"Sun Tzu"
+    },
+    {
+        "id":"82",
+        "text":"Fortune does favor the bold and you'll never know what you're capable of if you don't try",
+        "author":"Sheryl Sandberg"
+    },
+    {
+        "id":"83",
+        "text":"If you want to change the fruits, you will first have to change the roots. If you want to change the visible, you must first change the invisible",
+        "author":"T. Harv Eker"
+    },
+    {
+        "id":"84",
+        "text":"Simply minding one's own business is more offensive than being intrusive. Without ever saying a word one can make a person feel less-than",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"85",
+        "text":"Business, you know, may bring money, but friendship hardly ever does",
+        "author":"Jane Austen"
+    },
+    {
+        "id":"86",
+        "text":"Truth builds trust",
+        "author":"Marilyn Suttle"
+    },
+    {
+        "id":"87",
+        "text":"Great results, can be achieved with small forces",
+        "author":"Sun Tzu"
+    },
+    {
+        "id":"88",
+        "text":"If you're waiting until you feel talented enough to make it, you'll never make it",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"89",
+        "text":"If you hire people just because they can do a job, they’ll work for your money. But if you hire people who believe what you believe, they’ll work for you with blood and sweat and tears",
+        "author":"Simon Sinek"
+    },
+    {
+        "id":"90",
+        "text":"A photograph shouldn't be just a picture, it should be a philosophy",
+        "author":"Amit Kalantri"
+    },
+    {
+        "id":"91",
+        "text":"It has been my philosophy of life that difficulties vanish when faced boldly",
+        "author":"Isaac Asimov"
+    },
+    {
+        "id":"92",
+        "text":"To escape fear, you have to go through it, not around",
+        "author":"Richie Norton"
+    },
+    {
+        "id":"93",
+        "text":"The absence of a message sometimes is a presence of one",
+        "author":"Hasse Jerner"
+    },
+    {
+        "id":"94",
+        "text":"If you are deliberately trying to create a future that feels safe, you will willfully ignore the future that is likely",
+        "author":"Seth Godin"
+    },
+    {
+        "id":"95",
+        "text":"I have a head for business and a body for sin. Unfortunately, the sin appears to be gluttony",
+        "author":"Jenny Colgan"
+    },
+    {
+        "id":"96",
+        "text":"Move not unless you see an advantage; use not your troops unless there is something to be gained; fight not unless the position is critical",
+        "author":"Sun Tzu"
+    },
+    {
+        "id":"97",
+        "text":"The purpose of bureaucracy is to compensate for incompetence and lack of discipline",
+        "author":"Jim Collins"
+    },
+    {
+        "id":"98",
+        "text":"Strive not to be a success, but rather to be of value",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"99",
+        "text":"If you can dream it, then you can achieve it. You will get all you want in life if you help enough other people get what they want",
+        "author":"Zig Ziglar"
+    },
+    {
+        "id":"100",
+        "text":"The purpose of business is to create and keep a customer",
+        "author":"Peter Drucker"
+    },
+    {
+        "id":"101",
+        "text":"Practice does not make perfect. Perfect practice makes perfect",
+        "author":"Vince Lombardi"
+    },
+    {
+        "id":"102",
+        "text":"He will win who, prepared himself, waits to take the enemy unprepared",
+        "author":"Sun Tzu"
+    },
+    {
+        "id":"103",
+        "text":"You can’t tax business. Business doesn’t pay taxes. It collects taxes",
+        "author":"Ronald Reagan"
+    },
+    {
+        "id":"104",
+        "text":"Anyone who believes that exponential growth can go on forever in a finite world is either a madman or an economist",
+        "author":"Kenneth Boulding"
+    },
+    {
+        "id":"105",
+        "text":"Early to bed, early to rise, work like hell, and advertise",
+        "author":"Ted Turner"
+    },
+    {
+        "id":"106",
+        "text":"This is the music business. 'Five years is five hundred years' - your words",
+        "author":"Jennifer Egan"
+    },
+    {
+        "id":"107",
+        "text":"Resources are hired to give results, not reasons",
+        "author":"Amit Kalantri"
+    },
+    {
+        "id":"108",
+        "text":"To earn more, you must learn more",
+        "author":"Brian Tracy"
+    },
+    {
+        "id":"109",
+        "text":"In business, sir, one has no friends, only correspondents",
+        "author":"Alexandre Dumas"
+    },
+    {
+        "id":"110",
+        "text":"Think continally about what you want, not about the things you fear",
+        "author":"Brian Tracy"
+    },
+    {
+        "id":"111",
+        "text":"the key to human development is building on who you already are",
+        "author":"Tom Rath"
+    },
+    {
+        "id":"112",
+        "text":"I'm not a businessman, I'm a business, man!",
+        "author":"Jay-Z"
+    },
+    {
+        "id":"113",
+        "text":"Innovation is the specific instrument of entrepreneurship...the act that endows resources with a new capacity to create wealth",
+        "author":"Peter Drucker"
+    },
+    {
+        "id":"114",
+        "text":"A confident woman wears a smile and has this air of comfortability and pleasantness about her",
+        "author":"Agu Jaachynma N.E"
+    },
+    {
+        "id":"115",
+        "text":"You become what you think about",
+        "author":"Napoleon Hill"
+    },
+    {
+        "id":"116",
+        "text":"Cream always rises to the top...so do good leaders",
+        "author":"John Paul Warren"
+    },
+    {
+        "id":"117",
+        "text":"When nations grow old the Arts grow cold And commerce settles on every tree",
+        "author":"William Blake"
+    },
+    {
+        "id":"118",
+        "text":"When you depersonalize abrasive behavior and see it as a call for help you become a catalyst for the best kind of change",
+        "author":"Marilyn Suttle"
+    },
+    {
+        "id":"119",
+        "text":"While others were dreaming about it - I was getting it done",
+        "author":"Nathan W. Morris"
+    },
+    {
+        "id":"120",
+        "text":"As long as politics is the shadow of big business, the attenuation of the shadow will not change the substance",
+        "author":"John Dewey"
+    },
+    {
+        "id":"121",
+        "text":"An entrepreneur without funding is a musician without an instrument",
+        "author":"Robert A. Rice Jr"
+    },
+    {
+        "id":"122",
+        "text":"The future belongs to the competent. It belongs to those who are very, very good at what they do. It does not belong to the well-meaning",
+        "author":"Brian Tracy"
+    },
+    {
+        "id":"123",
+        "text":"When a man finds this kind of woman, he will go all out for her knowing that she will not be a letdown",
+        "author":"Agu Jaachynma N.E"
+    },
+    {
+        "id":"124",
+        "text":"We first become salesmen as children in the confession booths of our parents",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"125",
+        "text":"Being trustworthy requires: Doing the right thing. And doing things right",
+        "author":"Don Peppers"
+    },
+    {
+        "id":"126",
+        "text":"There is enough dough in the world to make bread for us all to eat together",
+        "author":"Habeeb Akande"
+    },
+    {
+        "id":"127",
+        "text":"I used to use business to make money. But I've learned that business is a tool. You can use it to support what you believe in",
+        "author":"Po Bronson"
+    },
+    {
+        "id":"128",
+        "text":"That is why enemies can be great motivators. They serve as fuel for your fire",
+        "author":"Simon Zingerman"
+    },
+    {
+        "id":"129",
+        "text":"Patience is a virtue not a vice",
+        "author":"Agu Jaachynma N.E"
+    },
+    {
+        "id":"130",
+        "text":"When I stopped to take a breath, I noticed I had wings",
+        "author":"Jodi Livon"
+    },
+    {
+        "id":"131",
+        "text":"I find that the harder I work , the more luck I seem to have",
+        "author":"Thomas Jefferson"
+    },
+    {
+        "id":"132",
+        "text":"There’s not a chance we’ll reach our full potential until we stop blaming each other and start practicing personal accountability",
+        "author":"John G. Miller"
+    },
+    {
+        "id":"133",
+        "text":"A business absolutely devoted to service will have only one worry about profits. They will be embarrassingly large",
+        "author":"Henry Ford"
+    },
+    {
+        "id":"133",
+        "text":"I have a business appointment that I am anxious... to miss",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"134",
+        "text":"Don't try to follow trends. Create them",
+        "author":"Simon Zingerman"
+    },
+    {
+        "id":"135",
+        "text":"I built them what they wanted and I made a profit off of it. Now they call me a god...What fools these mortals be",
+        "author":"Benjamin R. Smith"
+    },
+    {
+        "id":"136",
+        "text":"Accountants are in the past, managers are in the present, and leaders are in the future",
+        "author":"Paul Orfalea"
+    },
+    {
+        "id":"136",
+        "text":"The price of inaction is far greater than the cost of a mistake",
+        "author":"Meg Whitman"
+    },
+    {
+        "id":"137",
+        "text":"Be the kind of person who catches the shit before it hits the fan, not the one who scrapes it off afterwards",
+        "author":"Jonas Eriksson"
+    },
+    {
+        "id":"138",
+        "text":"No secrecy, no business",
+        "author":"Toba Beta"
+    },
+    {
+        "id":"139",
+        "text":"Wealth is a person’s ability to survive a certain number of days forward",
+        "author":"R. Buckminster Fuller"
+    },
+    {
+        "id":"140",
+        "text":"Success is nothing if you don't have the right people to share it with; you're just gonna end up Lonley",
+        "author":"selena gomez"
+    },
+    {
+        "id":"141",
+        "text":"A penny saved is still just a fucking penny",
+        "author":"Dan Lok"
+    },
+    {
+        "id":"142",
+        "text":"Opportunities don't happen. You create them",
+        "author":"Chris Grosser"
+    },
+    {
+        "id":"143",
+        "text":"Success is not final; failure is not fatal: It is the courage to continue that counts",
+        "author":"Winston S. Churchill"
+    },
+    {
+        "id":"144",
+        "text":"It is better to fail in originality than to succeed in imitation",
+        "author":"Herman Melville"
+    },
+    {
+        "id":"145",
+        "text":"The road to success and the road to failure are almost exactly the same",
+        "author":"Colin R. Davis"
+    },
+    {
+        "id":"146",
+        "text":"Don't be afraid to give up the good to go for the great",
+        "author":"John D. Rockefeller"
+    },
+    {
+        "id":"147",
+        "text":"I find that the harder I work, the more luck I seem to have",
+        "author":"Thomas Jefferson"
+    },
+    {
+        "id":"148",
+        "text":"Try not to become a man of success. Rather become a man of value",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"149",
+        "text":"Never give in except to convictions of honor and good sense",
+        "author":"Winston Churchill"
+    },
+    {
+        "id":"150",
+        "text":"Stop chasing the money and start chasing the passion",
+        "author":"Tony Hsieh"
+    }
+   
+
+]
