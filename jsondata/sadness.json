@@ -1,0 +1,751 @@
+[
+    {
+        "id":"1",
+        "text":"Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad",
+        "author":"Henry Wadsworth Longfellow"
+    },
+    {
+        "id":"2",
+        "text":"You cannot protect yourself from sadness without protecting yourself from happiness",
+        "author":"Jonathan Safran Foer"
+    },
+    {
+        "id":"3",
+        "text":"What you must understand about me is that I’m a deeply unhappy person",
+        "author":"John Green"
+    },
+    {
+        "id":"4",
+        "text":"Any fool can be happy. It takes a man with real heart to make beauty out of the stuff that makes us weep",
+        "author":"Clive Barker"
+    },
+    {
+        "id":"5",
+        "text":"They say when you are missing someone that they are probably feeling the same, but I don't think it's possible for you to miss me as much as I'm missing you right now",
+        "author":"Edna St. Vincent Millay"
+    },
+    {
+        "id":"6",
+        "text":"Imagine smiling after a slap in the face. Then think of doing it twenty-four hours a day",
+        "author":"Markus Zusak"
+    },
+    {
+        "id":"7",
+        "text":"Tonight I can write the saddest lines I loved her, and sometimes she loved me too",
+        "author":"Pablo Neruda"
+    },
+    {
+        "id":"8",
+        "text":"Tears shed for another person are not a sign of weakness. They are a sign of a pure heart",
+        "author":"José N. Harris"
+    },
+    {
+        "id":"9",
+        "text":"Tears are words that need to be written",
+        "author":"Paulo Coelho"
+    },
+    {
+        "id":"10",
+        "text":"The longer and more carefully we look at a funny story, the sadder it becomes",
+        "author":"Nikolai V. Gogol"
+    },
+    {
+        "id":"11",
+        "text":"I can't eat and I can't sleep. I'm not doing well in terms of being a functional human, you know?",
+        "author":"Ned Vizzini"
+    },
+    {
+        "id":"12",
+        "text":"Don't cry over someone who wouldn't cry over you",
+        "author":"Lauren Conrad"
+    },
+    {
+        "id":"13",
+        "text":"there are two types of people in the world: those who prefer to be sad among others, and those who prefer to be sad alone",
+        "author":"Nicole Krauss"
+    },
+    {
+        "id":"14",
+        "text":"Why do beautiful songs make you sad?' 'Because they aren't true.' 'Never?' 'Nothing is beautiful and true",
+        "author":"Jonathan Safran Foer"
+    },
+    {
+        "id":"15",
+        "text":"There is no point treating a depressed person as though she were just feeling sad, saying, 'There now, hang on, you'll get over it.' Sadness is more or less like a head cold- with patience, it passes. Depression is like cancer",
+        "author":"Barbara Kingsolver"
+    },
+    {
+        "id":"16",
+        "text":"So it’s true, when all is said and done, grief is the price we pay for love",
+        "author":"E.A. Bucchianeri"
+    },
+    {
+        "id":"17",
+        "text":"Nothing can cure the soul but the senses, just as nothing can cure the senses but the soul",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"18",
+        "text":"I waste at least an hour every day lying in bed. Then I waste time pacing. I waste time thinking. I waste time being quiet and not saying anything because I'm afraid I'll stutter",
+        "author":"Ned Vizzini"
+    },
+    {
+        "id":"19",
+        "text":"There is some kind of a sweet innocence in being human- in not having to be just happy or just sad- in the nature of being able to be both broken and whole, at the same time",
+        "author":"C. JoyBell C"
+    },
+    {
+        "id":"20",
+        "text":"I don’t know what they are called, the spaces between seconds– but I think of you always in those intervals",
+        "author":"Salvador Plascencia"
+    },
+    {
+        "id":"21",
+        "text":"Nothing thicker than a knife's blade separates happiness from melancholy",
+        "author":"Virginia Woolf"
+    },
+    {
+        "id":"22",
+        "text":"When you've suffered a great deal in life, each additional pain is both unbearable and trifling",
+        "author":"Yann Martel"
+    },
+    {
+        "id":"23",
+        "text":"Give sorrow words; the grief that does not speak knits up the o-er wrought heart and bids it break",
+        "author":"William Shakespeare"
+    },
+    {
+        "id":"24",
+        "text":"The sadness will last forever",
+        "author":"Vincent van Gogh"
+    },
+    {
+        "id":"25",
+        "text":"Some people are just not meant to be in this world. It's just too much for them",
+        "author":"Phoebe Stone"
+    },
+    {
+        "id":"26",
+        "text":"Maybe we all have darkness inside of us and some of us are better at dealing with it than others",
+        "author":"Jasmine Warga"
+    },
+    {
+        "id":"27",
+        "text":"I am in that temper that if I were under water I would scarcely kick to come to the top",
+        "author":"John Keats"
+    },
+    {
+        "id":"28",
+        "text":"If a man cannot understand the beauty of life, it is probably because life never understood the beauty in him",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"29",
+        "text":"When you do something noble and beautiful and nobody noticed, do not be sad. For the sun every morning is a beautiful spectacle and yet most of the audience still sleeps",
+        "author":"John Lennon"
+    },
+    {
+        "id":"30",
+        "text":"Parting is such sweet sorrow that I shall say goodnight till it be morrow",
+        "author":"Shakespeare"
+    },
+    {
+        "id":"31",
+        "text":"I did not know how to reach him, how to catch up with him... The land of tears is so mysterious",
+        "author":"ntoine de Saint-Exupéry"
+    },
+    {
+        "id":"32",
+        "text":"Your memory feels like home to me. So whenever my mind wanders, it always finds it’s way back to you",
+        "author":"Ranata Suzuki"
+    },
+    {
+        "id":"33",
+        "text":"I have so much in me, and the feeling for her absorbs it all; I have so much, and without her it all comes to nothing",
+        "author":"Johann Wolfgang von Goethe"
+    },
+    {
+        "id":"34",
+        "text":"There you go...let it all slide out. Unhappiness can't stick in a person's soul when it's slick with tears",
+        "author":"Shannon Hale"
+    },
+    {
+        "id":"35",
+        "text":"She had loved him for such a long time, she thought. How was it that she did now know him at all?",
+        "author":"Cassandra Clare"
+    },
+    {
+        "id":"36",
+        "text":"There is an ocean of silence between us… and I am drowning in it",
+        "author":"Ranata Suzuki"
+    },
+    {
+        "id":"37",
+        "text":"I do not believe anyone can be perfectly well, who has a brain and a heart",
+        "author":"Henry Wadsworth Longfellow"
+    },
+    {
+        "id":"38",
+        "text":"Tears are words the mouth can't say nor can the heart bear",
+        "author":"Joshua Wisenbaker"
+    },
+    {
+        "id":"39",
+        "text":"From the moment we are born, we begin to die",
+        "author":"Janne Teller"
+    },
+    {
+        "id":"40",
+        "text":"You can't keep the birds of sadness from flying over your head, but you can keep them from nesting in your hair",
+        "author":"Sharon Creech"
+    },
+    {
+        "id":"41",
+        "text":"It seemed silly to wash one day when I would only have to wash again the next. It made me tired just to think of it",
+        "author":"Sylvia Plath"
+    },
+    {
+        "id":"42",
+        "text":"Now something so sad has hold of us that the breath leaves and we can't even cry",
+        "author":"Charles Bukowski"
+    },
+    {
+        "id":"43",
+        "text":"I am intrigued by the smile upon your face, and the sadness within your eyes",
+        "author":"Jeremy Aldana"
+    },
+    {
+        "id":"44",
+        "text":"Anyone who has actually been that sad can tell you that there's nothing beautiful or literary or mysterious about depression",
+        "author":"Jasmine Warga"
+    },
+    {
+        "id":"45",
+        "text":"I will be stronger than my sadness",
+        "author":"Jasmine Warga"
+    },
+    {
+        "id":"46",
+        "text":"There is no beauty in sadness. No honor in suffering. No growth in fear. No relief in hate. It’s just a waste of perfectly good happiness",
+        "author":" Katerina Stoykova Klemer"
+    },
+    {
+        "id":"47",
+        "text":"One need not be a chamber to be haunted",
+        "author":"Emily Dickinson"
+    },
+    {
+        "id":"48",
+        "text":"I saw the world in black and white instead of the vibrant colours and shades I knew existed",
+        "author":"Katie McGarry"
+    },
+    {
+        "id":"49",
+        "text":"The sadness of the world has different ways of getting to people, but it seems to succeed almost every time",
+        "author":"Louis-Ferdinand Céline"
+    },
+    {
+        "id":"50",
+        "text":"Sometimes you weren't supposed to share pain. Sometimes it was best just to deal with it alone",
+        "author":"Sarah Addison Allen"
+    },
+    {
+        "id":"51",
+        "text":"It always is harder to be left behind than to be the one to go...",
+        "author":"Bodie Thoene"
+    },
+    {
+        "id":"52",
+        "text":"I think the saddest people always try their hardest to make people happy because they know what it’s like to feel absolutely worthless and they don’t want anyone else to feel like that",
+        "author":"Robin Williams"
+    },
+    {
+        "id":"53",
+        "text":"I am living in a nightmare, from which from time to time I wake in sleep",
+        "author":"Ursula K. Le Guin"
+    },
+    {
+        "id":"54",
+        "text":"Sadness is but a wall between two gardens",
+        "author":"Kahlil Gibran"
+    },
+    {
+        "id":"55",
+        "text":"One of the greatest tragedies in life is to lose your own sense of self and accept the version of you that is expected by everyone else",
+        "author":"K.L. Toth"
+    },
+    {
+        "id":"56",
+        "text":"A poet should be so crafty with words that he is envied even for his pains",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"57",
+        "text":"It is beautiful, it is endless, it is full and yet seems empty. It hurts us",
+        "author":"Jackson Pearce"
+    },
+    {
+        "id":"58",
+        "text":"It was that sort of sleep in which you wake every hour and think to yourself that you have not been sleeping at all; you can remember dreams that are like reflections, daytime thinking slightly warped",
+        "author":"Kim Stanley Robinson"
+    },
+    {
+        "id":"59",
+        "text":"Numb the dark and you numb the light",
+        "author":"Brené Brown"
+    },
+    {
+        "id":"60",
+        "text":"It weren’t too loo long before I seen something in me, had changed. A bitter seed was planted inside of me. And I just didn’t feel so, accepting, anymore",
+        "author":"Kathryn Stockett"
+    },
+    {
+        "id":"61",
+        "text":"It's like I have this large black hole in my brain and it's sucking the life out of me. The answers are in there so I sit for hours and stare. No matter how hard and long I look, I only see darkness",
+        "author":"Katie McGarry"
+    },
+    {
+        "id":"62",
+        "text":"I'd rather laugh with the sinners than cry with the saints",
+        "author":"Billy Joel"
+    },
+    {
+        "id":"63",
+        "text":"I laugh, and my lipstick leaves a red stain like a bloody crescent moon on the top of the beer can",
+        "author":"Sylvia Plath"
+    },
+    {
+        "id":"64",
+        "text":"Mostly I have felt myself becoming a servant of sadness. I am still looking for the beauty in that",
+        "author":"Maggie Nelson"
+    },
+    {
+        "id":"65",
+        "text":"True confessions are written with tears only. But my tears would drown the world, as my inner fire would reduce it to ashes",
+        "author":"Emil Cioran"
+    },
+    {
+        "id":"66",
+        "text":"The largest part of what we call 'personality' is determined by how we've opted to defend ourselves against anxiety and sadness",
+        "author":"Alain de Botton"
+    },
+    {
+        "id":"67",
+        "text":"Absence is a house so vast that inside you will pass through its walls and hang pictures on the air",
+        "author":"Pablo Neruda"
+    },
+    {
+        "id":"68",
+        "text":"It's OK not to be OK",
+        "author":"Lindsey Kelk"
+    },
+    {
+        "id":"69",
+        "text":"It would be wrong to refuse to face the fact that everything is fundamentally sick and sad",
+        "author":"Thomas Bernhard"
+    },
+    {
+        "id":"70",
+        "text":"She's known sadness. That's what it is. I only just thought that as I wrote it. She's known sadness, and it has made her kind",
+        "author":"Nathan Filer"
+    },
+    {
+        "id":"71",
+        "text":"It’s how I fill the time when nothing’s happening. Thinking too much, flirting with melancholy",
+        "author":"Tim Winton"
+    },
+    {
+        "id":"72",
+        "text":"And empty words are evil",
+        "author":"Homer"
+    },
+    {
+        "id":"73",
+        "text":"How little our careers express what lies in us, and yet how much time they take up. It's sad, really",
+        "author":"Philip Larkin"
+    },
+    {
+        "id":"74",
+        "text":"It is necessary to fall in love – the better to provide an alibi for all the despair we are going to feel anyway",
+        "author":"Albert Camus"
+    },
+    {
+        "id":"75",
+        "text":"I just let the pain take over, allowing it to numb the pain of being left behind",
+        "author":"Jessica Sorensen"
+    },
+    {
+        "id":"76",
+        "text":"I am afraid because I can so clearly foresee my own life rotting away of itself, like a leaf that rots without falling, while I pursue my round of existence from day to day",
+        "author":"Osamu Dazai"
+    },
+    {
+        "id":"77",
+        "text":"Joy came always after pain",
+        "author":"Guillaume Apollinaire"
+    },
+    {
+        "id":"78",
+        "text":"Man cries, his tears dry up and run out. So he becomes a devil, reduced to a monster",
+        "author":"Kouta Hirano"
+    },
+    {
+        "id":"79",
+        "text":"Tantrums are seldom about the thing they appear to be about",
+        "author":"Diana Wynne Jones"
+    },
+    {
+        "id":"80",
+        "text":"Let us not burthen our remembrance with A heaviness that's gone",
+        "author":"William Shakespeare"
+    },
+    {
+        "id":"81",
+        "text":"There’s no point to living life unless you make history and the best way to make history is to help others",
+        "author":"Demi Lovato"
+    },
+    {
+        "id":"82",
+        "text":"Sometimes two people will regard each other over a gulf too wide to ever be bridged, and know immediately what could have happened, and that it never will",
+        "author":"Roger Ebert"
+    },
+    {
+        "id":"83",
+        "text":"Once you start down the slippery slope of depression, it's hard to climb off of it. And sometimes you don't want to climb off of it",
+        "author":"Keary Taylor"
+    },
+    {
+        "id":"84",
+        "text":"I'll never wake up in a good mood again. I'm tired of these stinky boots",
+        "author":"Jim Morrison"
+    },
+    {
+        "id":"85",
+        "text":"Some of the most beautiful things we have in life comes from our mistakes",
+        "author":"Surgeo Bell"
+    },
+    {
+        "id":"86",
+        "text":"When your sad - like really sad - you only want to be with other people who are sad",
+        "author":"Nick Hornby"
+    },
+    {
+        "id":"87",
+        "text":"I love walking in the rain because no one can see me crying",
+        "author":"Rowan Atkinson"
+    },
+    {
+        "id":"88",
+        "text":"i want to give up my bearings, slip out of who i am, shed everything, the way a snake discards old skin",
+        "author":"Khaled Hosseini"
+    },
+    {
+        "id":"89",
+        "text":"Sorry excuses for hunters and friends. Both of us",
+        "author":"Suzanne Collins"
+    },
+    {
+        "id":"90",
+        "text":"I tell you solemnly, that I have many times tried to become an insect. But I was not equal even to that. I swear, gentlemen, that to be too conscious is an illness- a real thorough-going illness",
+        "author":"Fyodor Dostoevsky"
+    },
+    {
+        "id":"91",
+        "text":"Don't dwell on things. Don't stay in one place too long. It was the only way to stay ahead of sadness",
+        "author":"Rick Riordan"
+    },
+    {
+        "id":"92",
+        "text":"There is no loss, if you cannot remember what you have lost",
+        "author":"Claire North"
+    },
+    {
+        "id":"93",
+        "text":"A tragedy need not have blood and death; it's enough that it all be filled with that majestic sadness that is the pleasure of tragedy",
+        "author":"Jean Racine"
+    },
+    {
+        "id":"94",
+        "text":"I thought living dead girls couldn't feel pain, thought I was emptied out but I'm not, I'm not",
+        "author":"Elizabeth Scott"
+    },
+    {
+        "id":"95",
+        "text":"There are edges around the black and every now and then a flash of color streaks out of the gray. But I can never really grasp any of the slivers of memories that emerge",
+        "author":"Katie McGarry"
+    },
+    {
+        "id":"96",
+        "text":"I've never wanted to be loved. And God Knows no one's done it yet",
+        "author":"Lisa Kleypas"
+    },
+    {
+        "id":"97",
+        "text":"What a sad story, I thought for so long. Not that I now think it was happy. But I think it is true, and thus the question of whether it is sad or happy has no meaning whatever",
+        "author":"Bernhard Schlink"
+    },
+    {
+        "id":"98",
+        "text":"Hearing him talk about his mother, about his intact family, makes my chest hurt for a second, like someone pierced it with a needle",
+        "author":"Veronica Roth"
+    },
+    {
+        "id":"99",
+        "text":"He gave everything to everybody. Except to me",
+        "author":"J.K. Rowling"
+    },
+    {
+        "id":"100",
+        "text":"Sadness is a vice",
+        "author":"Gustave Flaubert"
+    },
+    {
+        "id":"101",
+        "text":"Think I'll miss you forever, Like the stars miss the sun in the morning sky",
+        "author":"Lana Del Rey"
+    },
+    {
+        "id":"102",
+        "text":"Sometimes things have to get worse before they get better",
+        "author":"Shannon Messenger"
+    },
+    {
+        "id":"103",
+        "text":"You know what sucks about sorry? It's the worst word in the world. Because it always happens after you fuck up something good",
+        "author":"Brigid Kemmerer"
+    },
+    {
+        "id":"104",
+        "text":"He knows what he'll find if he digs deeper. there's no rush to unpack my insides. he understands there is nothing special about emptiness, nothing interesting about depression",
+        "author":"Jasmine Warga"
+    },
+    {
+        "id":"105",
+        "text":"Carrie doesn't seem to talk about anything with sharp edges. Maybe she's afraid they might poke her and then she'd burst",
+        "author":"Lisa McMann"
+    },
+    {
+        "id":"106",
+        "text":"when I look at my arms, I don't think revolutionary. I think sad, and pain, but not revolutionary",
+        "author":"Kathleen Glasgow"
+    },
+    {
+        "id":"107",
+        "text":"Sadness was so claustrophobic",
+        "author":"Kiran Desai"
+    },
+    {
+        "id":"108",
+        "text":"You don't know where you are or where your dreams end and the world begins",
+        "author":"Rachel Klein"
+    },
+    {
+        "id":"109",
+        "text":"Sorrow eats time. Be patient. Time eats sorrow",
+        "author":"Louise Erdrich"
+    },{
+        "id":"110",
+        "text":"It was the time of year, the time of day, for a small insistent sadness to pass into the texture of things. Dusk, silence, iron chill. Something lonely in the bone",
+        "author":"Don Delillo"
+    },
+    {
+        "id":"111",
+        "text":"Tears are shed in my heart like the rain on the town",
+        "author":"Paul Verlaine"
+    },
+    {
+        "id":"112",
+        "text":"He who has felt the deepest grief is best able to experience supreme happiness",
+        "author":"Alexandre Dumas"
+    },
+    {
+        "id":"113",
+        "text":"We try to fix the outside so much, but our control of the outer world is limited, temporary, and often, illusory",
+        "author":"Matthieu Ricard"
+    },
+    {
+        "id":"114",
+        "text":"Life is like butter - when things cool down it can be reshaped",
+        "author":"Alan Sheinwald"
+    },
+    {
+        "id":"115",
+        "text":"I strongly believe that love is the answer and that it can mend even the deepest unseen wounds. Love can heal, love can console, love can strengthen, and yes, love can make change",
+        "author":"Somaly Mam"
+    },
+    {
+        "id":"116",
+        "text":"At the end of the day your ability to connect with your readers comes down to how you make them feel",
+        "author":"Benjamin J. Carey"
+    },
+    {
+        "id":"117",
+        "text":"The tears stream down my cheeks from my unblinking eyes. What makes me weep so? There is nothing saddening here. Perhaps it is liquefied brain",
+        "author":"Samuel Beckett"
+    },
+    {
+        "id":"118",
+        "text":"In the moonlight which is always sad, as the light of the sun itself is - as the light called human life is--at its coming and its going",
+        "author":" Charles Dickens"
+    },
+    {
+        "id":"119",
+        "text":"I stumbled out into the courtyard to try to flee my misery, but of course we can never flee the misery that is within us",
+        "author":"Arthur Golden"
+    },
+    {
+        "id":"120",
+        "text":"It was such a relief to be able to sob and have someone know all the reasons why",
+        "author":"Rachel Hawkins"
+    },
+    {
+        "id":"121",
+        "text":"She was becoming sad. There is no joy involved in following others' expectations of yourself",
+        "author":"Miriam Toews"
+    },
+    {
+        "id":"122",
+        "text":"I wanted to fall; good thing you pushed me",
+        "author":"Mihail Drumeş"
+    },
+    {
+        "id":"123",
+        "text":"The person you hurt the most in this world was the person that brought you into it",
+        "author":"Vannary Rang"
+    },
+    {
+        "id":"124",
+        "text":"Clearly God was in some kind of mood on my birthday",
+        "author":"Jodi Picoult"
+    },
+    {
+        "id":"125",
+        "text":"I used to cover my windows in heavy curtains, never drawn. Now I danced in the sunlight on my hardwood floors",
+        "author":"Kimberly Novosel"
+    },
+    {
+        "id":"126",
+        "text":"His absence is so big it's like he's there",
+        "author":"Patrick Ness"
+    },
+    {
+        "id":"127",
+        "text":"There is no greater sorrow than to recall in misery the time when we were happy",
+        "author":"Dante Alighieri"
+    },
+    {
+        "id":"128",
+        "text":"She became a story, one I have mostly forgotten. One I can't end because she died a long time ago",
+        "author":"Elizabeth Scott"
+    },
+    {
+        "id":"129",
+        "text":"He wipes tears off my face and then snot. He uses his hands. He loves me that much",
+        "author":"Nina LaCour"
+    },
+    {
+        "id":"130",
+        "text":"After a while, though, even the deepest sorrow faltered, even the most penetrating despair lost its scalpel edge",
+        "author":"Richard Matheson"
+    },
+    {
+        "id":"131",
+        "text":"Why, then, did I always feel as if his happiness was my responsibility? It wasn't fair for him to burden me with that. It had never been fair",
+        "author":"Melanie Benjamin"
+    },
+    {
+        "id":"132",
+        "text":"The trouble with a great sadness is that it doesn't fit inside your body",
+        "author":"Manuel Rivas"
+    },
+    {
+        "id":"133",
+        "text":"Tell the truth through whichever veil comes to hand – but tell it. Resign yourself to the lifelong sadness that comes from never ­being satisfied",
+        "author":"Zadie Smith"
+    },
+    {
+        "id":"134",
+        "text":"Grief, no matter how you try to cater to its wail, has a way of fading away",
+        "author":"V.C. Andrews"
+    },
+    {
+        "id":"135",
+        "text":"Your coffin reached the monstrous hole. And a part of me went down into the muddy earth with you and lay down next to you and died with you",
+        "author":"Rosamund Lupton"
+    },
+    {
+        "id":"136",
+        "text":"People who shout joy from the rooftops are often the saddest of all",
+        "author":"Milan Kundera"
+    },
+    {
+        "id":"137",
+        "text":"I smile. I smile all the time, but you're just not around to see it these days",
+        "author":"Sarra Manning"
+    },
+    {
+        "id":"138",
+        "text":"My boyfriend is named Percocet, I say. We're very close. I even went to Europe with him last summer",
+        "author":"E. Lockhart"
+    },
+    {
+        "id":"139",
+        "text":"I try to smile at her, but I can't extend my flexibility training to my mouth, it just won't move",
+        "author":"Stephanie Campbell"
+    },
+    {
+        "id":"140",
+        "text":"Do not feel sad for your tears as rocks never regret the waterfalls",
+        "author":"Munia Khan"
+    },
+    {
+        "id":"141",
+        "text":"If you choose to be sad then you will be sad but there times you don't know why you're sad. Tears start flowing from your eyes",
+        "author":"Ann Marie Aguilar"
+    },
+    {
+        "id":"142",
+        "text":"When you feel sadness inside, wipe it away by cries and tears!",
+        "author":"Toba Beta"
+    },
+    {
+        "id":"143",
+        "text":"Comfort is beauty muted by heroin. Sadness is beauty drained by lack of it",
+        "author":"Luke Davies"
+    },
+    {
+        "id":"144",
+        "text":"No one's ever going to shag you if you cry all the time",
+        "author":"Richard Kelly"
+    },
+    {
+        "id":"145",
+        "text":"It’s not about being happy,’ he said, which was, and still is, the saddest remark I’ve ever heard",
+        "author":"Anna Burns"
+    },
+    {
+        "id":"146",
+        "text":"Even monsters must dream of fears and wants, and the sadness in his voice drew me closer",
+        "author":"Marie Lu"
+    },
+    {
+        "id":"147",
+        "text":"A mist is rolling over the fields. Why is a summer mist romantic and autumn mist just sad?",
+        "author":"Dodie Smith"
+    },
+    {
+        "id":"148",
+        "text":"Because pieces of your heart clearly weigh more when they're sitting shattered at the bottom of your stomach",
+        "author":"Heather Brewer"
+    },
+    {
+        "id":"149",
+        "text":"Sometimes I wish life was written pencil so we could erase it and write it all over again",
+        "author":"Thisuri Wanniarachchi"
+    },
+    {
+        "id":"150",
+        "text":"We had no choice. Sadness was a dangerous as panthers and bears. the wilderness needs your whole attention",
+        "author":"Laura Ingalls Wilder"
+    }
+]

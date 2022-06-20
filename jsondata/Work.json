@@ -1,0 +1,781 @@
+
+[
+    {
+        "id":"1",
+        "text":"Be humble. Be hungry. And always be the hardest worker in the room.",
+        "author":"The Rock"
+        
+    },
+    {
+        "id":"2",
+        "text":"Work hard and be kind and amazing things will happen.",
+        "author":"Conan O'Brien"
+    },
+    {
+        "id":"3",
+        "text":"Hard work beats talent when talent doesn’t work hard",
+        "author":"Tim Notke"
+    },
+    {
+        "id":"4",
+        "text":"There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+        "author":"Colin Powell"
+    },
+    {
+        "id":"5",
+        "text":"Hard work spotlights the character of people. Some turn up their sleeves. Some turn up their noses, and some don’t turn up at all.",
+        "author":"Sam Ewing"
+    },
+    {
+        "id":"6",
+        "text":"Opportunity is missed by most people because it is dressed in overalls and looks like work.",
+        "author":"Thomas Edison"
+    },
+    {
+        "id":"7",
+        "text":"A river cuts through a rock not because of its power but its persistence.",
+        "author":"Jim Watkins"
+    },
+    {
+        "id":"8",
+        "text":"Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
+        "author":"Newt Gingrich"
+    },
+    {
+        "id":"9",
+        "text":"Nothing will work unless you do.",
+        "author":"Maya Angelou"
+    },
+    {
+        "id":"10",
+        "text":"Work hard in silence, let your success be your noise.",
+        "author":"Frank Ocean"
+    },
+    {
+        "id":"11",
+        "text":"The only way to do great work is to love what you do. if you haven't found it yet, keep looking. Don't settle.",
+        "author":"Steve Jobs"
+    },
+    {
+        "id":"12",
+        "text":"You don’t have to see the whole staircase, just take the first step",
+        "author":"Martin Luther"
+    },
+    {
+        "id":"13",
+        "text":"Working hard for something we dont care about is called stress: Working hard for something we love is called passion.",
+        "author":"Simon Sinek"
+    },
+    {
+        "id":"14",
+        "text":"If you’ve created a work culture where vulnerability isn’t ok, you’ve also created a culture where innovation and creativity aren't ok",
+        "author":"Brené Brown"
+    },
+    {
+        "id":"15",
+        "text":"Don’t confuse having a career with having a life.",
+        "author":"Hillary Clinton"
+    },
+    {
+        "id":"16",
+        "text":"Customers will never love a company until the employees love it first.",
+        "author":"Simon Sinek"
+    },
+    {
+        "id":"17",
+        "text":"The only thing of real importance that leaders do is create and manage culture",
+        "author":"Edgar Schein"
+    },
+    {
+        "id":"18",
+        "text":"Clients do not come first. Employees come first. If you take care of your employees, they will take care of the clients.",
+        "author":"Richard Branson"
+    },
+    {
+        "id":"19",
+        "text":"All good leaders are connectors. They relate well and make people feel confident about themselves and their leader",
+        "author":"John Maxwell"
+    },
+    {
+        "id":"20",
+        "text":"To handle yourself use your head; to handle others, use your heart.",
+        "author":"Eleanor Roosevelt"
+    },
+    {
+        "id":"21",
+        "text":"It is amazing what you can accomplish if you do not care who gets the credit.",
+        "author":"Harry Truman"
+    },
+    {
+        "id":"22",
+        "text":"Don’t judge each day by the harvest you reap but by the seeds that you plant",
+        "author":"Robert Louis Stevenson"
+    },
+    {
+        "id":"23",
+        "text":"If you are not growing, you are dying.",
+        "author":"Tony Robbins"
+    },
+    {
+        "id":"24",
+        "text":"Learning is the only thing the mind never exhausts, never fears, and never regrets.",
+        "author":"Leonardo Da Vinci"
+    },
+    {
+        "id":"25",
+        "text":"We do not learn from experience. We learn from reflecting on experience.",
+        "author":"John Dewey"
+    },
+    {
+        "id":"26",
+        "text":"No one on his deathbed ever said, ‘I wish I had spent more time at the office.",
+        "author":"Paul Tsongas"
+    },
+    {
+        "id":"27",
+        "text":"Never get so busy making a living that you forget to make a life.",
+        "author":"Dolly Parton"
+    
+    },
+    {
+        "id":"28",
+        "text":"We need to do a better job of putting ourselves higher on our own ‘to do’ list",
+        "author":"Michelle Obama"
+    },
+    {
+        "id":"29",
+        "text":"There is no such thing as work-life balance. It is all life. The balance has to be within you.",
+        "author":"Sadhguru"
+    },
+    {
+        "id":"30",
+        "text":"If you get tired, learn to rest, not to quit.",
+        "author":"Banksy"
+    },
+    {
+        "id":"31",
+        "text":"You can have it all. You just can’t have it all at once.",
+        "author":"Oprah Winfrey"
+    },
+    {
+        "id":"32",
+        "text":"Be sure when you step, step with care and great tact. And remember that life is a great balancing act.",
+        "author":"Dr. Seuss"
+    },
+    {
+        "id":"33",
+        "text":"Concentrate all your thoughts upon the work in hand. The sun's rays do not burn until brought to a focus.",
+        "author":"Alexander Graham Bell"
+    },
+    {
+        "id":"34",
+        "text":"Either you run the day or the day runs you.",
+        "author":"Jim Rohn"
+    },
+    {
+        "id":"35",
+        "text":"I’m a greater believer in luck, and I find the harder I work the more I have of it.",
+        "author":"Thomas Jefferson"
+    },
+    {
+        "id":"36",
+        "text":"When we strive to become better than we are, everything around us becomes better too.",
+        "author":"Paulo Coelho"
+    },
+    {
+        "id":"37",
+        "text":"You've got to get up every morning with determination if you're going to go to bed with satisfaction",
+        "author":"George Lorimer"
+    },
+    {
+        "id":"38",
+        "text":"Whether you think you can, or you think you can’t – you’re right.",
+        "author":"Henry Ford"
+    },
+    {
+        "id":"39",
+        "text":"Don’t wish it were easier. Wish you were better.",
+        "author":"Jim Rohn"
+    },
+    {
+        "id":"40",
+        "text":"Developing a good work ethic is key. Apply yourself at whatever you do, whether you're a janitor or taking your first summer job because that work ethic will be reflected in everything you do in life.",
+        "author":"Tyler Perry"
+    },
+    {
+        "id":"41",
+        "text":"Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.",
+        "author":"Franklin D. Roosevelt"
+    },
+    {
+        "id":"42",
+        "text":"Be regular and orderly in your life, so that you may be violent and original in your work.",
+        "author":"Gustave Flaubert"
+    },
+    {
+        "id":"43",
+        "text":"The future depends on what you do today",
+        "author":"Mahatma Gandhi"
+    },
+    {
+        "id":"44",
+        "text":"The man who moves a mountain begins by carrying away small stones",
+        "author":"Confucius"
+    },
+    {
+        "id":"45",
+        "text":"Start by doing what’s necessary, then what’s possible; and suddenly you are doing the impossible.",
+        "author":"Saint Francis"
+    },
+    {
+        "id":"46",
+        "text":"To think too long about doing a thing often becomes its undoing.",
+        "author":"Eva Young"
+    },
+    {
+        "id":"47",
+        "text":"People rarely succeed unless they have fun in what they are doing.",
+        "author":"Dale Carnegie"
+    },
+    {
+        "id":"48",
+        "text":"Talent means nothing, while experience, acquired in humility and with hard work, means everything.",
+        "author":"Patrick Suskind"
+    },
+    {
+        "id":"49",
+        "text":"Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don’t quit.",
+        "author":"Conrad Hilton"
+    },
+    {
+        "id":"50",
+        "text":"Happiness is the real sense of fulfillment that comes from hard work.",
+        "author":"Joseph Barbaraj"
+    },
+    {
+        "id":"51",
+        "text":"If you want to make an easy job seem mighty hard, just keep putting off doing it",
+        "author":"Olin Miller"
+    },
+    {
+        "id":"52",
+        "text":"Amateurs sit and wait for inspiration, the rest of us just get up and go to work.",
+        "author":"Stephen King"
+    },
+    {
+        "id":"53",
+        "text":"Once you have commitment, you need the discipline and hard work to get you there.",
+        "author":"Haile Gebrselassie"
+    },
+    {
+        "id":"54",
+        "text":"Your ability to discipline yourself to set clear goals, and then to work toward them every day, will do more to guarantee your success than any other single factor.",
+        "author":"Brian Tracy"
+    },
+    {
+        "id":"55",
+        "text":"Follow effective actions with quiet reflection. From the quiet reflection will come even more effective action.",
+        "author":"Peter Drucker"
+    },
+    {
+        "id":"56",
+        "text":"Work gives you meaning and purpose and life is empty without it",
+        "author":"Stephen Hawking"
+    },
+    {
+        "id":"57",
+        "text":"The beginning is the most important part of the work.",
+        "author":"Booker T. Washington"
+    },
+    {
+        "id":"58",
+        "text":"By working faithfully eight hours a day you may eventually get to be boss and work twelve hours a day.",
+        "author":"Robert Frost"
+    },
+    {   "id":"59",
+        "text":"Nothing ever comes to one, that is worth having, except as a result of hard work.",
+        "author":"Booker T. Washington"
+    },
+    {
+        "id":"60",
+        "text":"Let us realize that: the privilege to work is a gift, the power to work is a blessing, the love of work is success!",
+        "author":"David O. McKay"
+    },
+    {
+        "id":"61",
+        "text":"If you must have motivation, think of your paycheck on Friday.",
+        "author":"Noel Coward"
+    },
+    {
+        "id":"62",
+        "text":"Be regular and orderly in your life, so that you may be violent and original in your work.",
+        "author":"Gustave Flaubert"
+    },
+    {
+        "id":"63",
+        "text":"Quality is everyone's responsibility.",
+        "author":"W. Edwards Deming"
+    },
+    {
+        "id":"64",
+        "text":"Whatever your life's work is, do it well. A man should do his job so well that the living, the dead, and the unborn could do it no better.",
+        "author":"Martin Luther King, Jr."
+    },
+    {
+        "id":"65",
+        "text":"Opportunities are usually disguised as hard work, so most people don't recognize them.",
+        "author":"Ann Landers"
+    },
+    {
+        "id":"66",
+        "text":"Laziness may appear attractive, but work gives satisfaction.",
+        "author":"Anne Frank"
+    },
+    {
+        "id":"67",
+        "text":"It is the working man who is the happy man. It is the idle man who is the miserable man.",
+        "author":"Benjamin Franklin"
+    },
+    {
+        "id":"68",
+        "text":"Before you start some work, always ask yourself three questions - Why am I doing it, What the results might be and Will I be successful. Only when you think deeply and find satisfactory answers to these questions, go ahead.",
+        "author":"Chanakya"
+    },
+    {
+        "id":"69",
+        "text":"Good things happen to those who hustle.",
+        "author":"chuck Noll"
+    },
+    {
+        "id":"70",
+        "text":"When your work speaks for itself, don't interrupt.",
+        "author":"Henry J. Kaiser"
+    },
+    {
+        "id":"71",
+        "text":"Plans are only good intentions unless they immediately degenerate into hard work.",
+        "author":"Peter Drucker"
+    },
+    {
+        "id":"72",
+        "text":"Don't stay in bed, unless you can make money in bed.",
+        "author":"George Burns"
+    },
+    {
+        "id":"73",
+        "text":"Without labor nothing prosper",
+        "author":"Sophocles"
+    },
+    {
+        "id":"74",
+        "text":"Working hard and working smart sometimes can be two different things.",
+        "author":"Byron Dorgan"
+    },
+    {
+        "id":"75",
+        "text":"I've learned from experience that if you work harder at it, and apply more energy and time to it, and more consistency, you get a better result. It comes from the work.",
+        "author":"Louis C. K."
+    },
+    {
+        "id":"76",
+        "text":"I believe in stopping work and eating lunch.",
+        "author":"L'Wren Scott"
+    },
+    {
+        "id":"77",
+        "text":"Inspiration comes of working every day.",
+        "author":"Charles Baudelaire"
+    },
+    {
+        "id":"78",
+        "text":"The power of one, if fearless and focused, is formidable, but the power of many working together is bette",
+        "author":"Gloria Macapagal Arroyo"
+    },
+    {
+        "id":"79",
+        "text":"To find joy in work is to discover the fountain of youth.",
+        "author":"Pearl S. Buck"
+    },
+    {
+        "id":"80",
+        "text":"We have a system that increasingly taxes work and subsidizes nonwork.",
+        "author":"Milton Friedm"
+    },
+    {
+        "id":"81",
+        "text":"I guess we all like to be recognized not for one piece of fireworks, but for the ledger of our daily work.",
+        "author":"Neil Armstrong"
+    },
+    {
+        "id":"82",
+        "text":"All wealth is the product of labor.",
+        "author":"John Locke"
+    },
+    {
+        "id":"83",
+        "text":"The supreme accomplishment is to blur the line between work and play.",
+        "author":"Arnold J. Toynbee"
+    },
+    {
+        "id":"84",
+        "text":"Life grants nothing to us mortals without hard work.",
+        "author":"Life grants nothing to us mortals without hard work."
+    },
+    {
+        "id":"85",
+        "text":"The only thing that overcomes hard luck is hard work",
+        "author":"Harry Golden"
+    },
+    {
+        "id":"86",
+        "text":"He who seeks rest finds boredom. He who seeks work finds rest.",
+        "author":"Dylan Thomas"
+    },
+    {
+        "id":"87",
+        "text":"Work is not man's punishment. It is his reward and his strength and his pleasure.",
+        "author":"Work is not man's punishment. It is his reward and his strength and his pleasure."
+    },
+    {
+        "id":"88",
+        "text":"I know you've heard it a thousand times before. But it's true - hard work pays off. If you want to be good, you have to practice, practice, practice. If you don't love something, then don't do it.",
+        "author":"Ray Bradbury"
+    },
+    {
+        "id":"89",
+        "text":"Every noble work is at first impossible.",
+        "author":"Thomas Carlyle"
+    },
+    {
+        "id":"90",
+        "text":"By the work one knows the workman.",
+        "author":"Jean de La Fontaine"
+    },
+    {
+        "id":"91",
+        "text":"Can anything be sadder than work left unfinished? Yes, work never begun.",
+        "author":"Christina Rossetti"
+    },
+    {
+        "id":"92",
+        "text":"I think the person who takes a job in order to live - that is to say, for the money - has turned himself into a slave.",
+        "author":"Joseph Campbell"
+    },
+    {
+        "id":"93",
+        "text":"Work, apart from devotion or love of God, is helpless and cannot stand alone.",
+        "author":"Ramakrishna"
+    },
+    {
+        "id":"94",
+        "text":"Ya gots to work with what you gots to work with.",
+        "author":"Stevie Wonder"
+    },
+    {
+        "id":"95",
+        "text":"Luck? I don't know anything about luck. I've never banked on it and I'm afraid of people who do. Luck to me is something else: Hard work - and realizing what is opportunity and what isn't.",
+        "author":"Lucille Ball"
+    },
+    {
+        "id":"96",
+        "text":"And where I excel is ridiculous, sickening, work ethic. You know, while the other guy's sleeping? I'm working.",
+        "author":"Will Smith"
+    },
+    {
+        "id":"97",
+        "text":"Every man's work, whether it be literature, or music or pictures or architecture or anything else, is always a portrait of himself.",
+        "author":"Samuel Butler"
+    },
+    {
+        "id":"98",
+        "text":"reers, like rockets, don't always take off on time. The trick is to always keep the engine running.",
+        "author":"Gary Sinise"
+    },
+    {
+        "id":"99",
+        "text":"Work isn't to make money; you work to justify life.",
+        "author":"Marc Chagall"
+    },
+    {
+        "id":"100",
+        "text":"When a man tells you that he got rich through hard work, ask him: 'Whose?",
+        "author":"Don Marquis"
+    },
+    {
+        "id":"101",
+        "text":"Economics is extremely useful as a form of employment for economists.",
+        "author":"John Kenneth Galbraith"
+    },
+    {
+        "id":"102",
+        "text":"The only way to enjoy anything in this life is to earn it first.",
+        "author":"Ginger Rogers"
+    },
+    {
+        "id":"103",
+        "text":"The idea of having a steady job is appealing.",
+        "author":"The idea of having a steady job is appealing."
+    },
+    {
+        "id":"104",
+        "text":"Work will win when wishy washy wishing won t.",
+        "author":"Thomas S. Monson"
+    },
+    {
+        "id":"105",
+        "text":"",
+        "author":""
+    },
+    {
+        "id":"106",
+        "text":"Nothing is work unless you'd rather be doing something else.",
+        "author":"George Halas"
+    },
+    {
+        "id":"107",
+        "text":"",
+        "author":""
+    },
+    {
+        "id":"108",
+        "text":"Work expands so as to fill the time available for its completion.",
+        "author":"C. Northcote Parkinson"
+    },
+    {
+        "id":"109",
+        "text":"Men for the sake of getting a living forget to live.",
+        "author":"Margaret Fuller"
+    },
+    {
+        "id":"110",
+        "text":"Working hard is very important. You're not going to get anywhere without working extremely hard.",
+        "author":"George Lucas"
+    },
+    {
+        "id":"111",
+        "text":"A good job is more than just a paycheck. A good job fosters independence and discipline, and contributes to the health of the community. A good job is a means to provide for the health and welfare of your family, to own a home, and save for retirement.",
+        "author":"James H. Douglas, Jr."
+    },
+    {
+        "id":"112",
+        "text":"The only place success comes before work is in the dictionary.",
+        "author":"Vince Lombardi"
+    },
+    {
+        "id":"113",
+        "text":"Concentrate on your job and you will forget your other troubles.",
+        "author":"William Feather"
+    },
+    
+    {
+        "id":"114",
+        "text":"Honest labor bears a lovely face.",
+        "author":"Thomas Dekker"
+    },
+    
+    {
+        "id":"115",
+        "text":"The pay is good and I can walk to work.",
+        "author":"John F. Kennedy"
+    },
+    {
+        "id":"116",
+        "text":"The brain is a wonderful organ; it starts working the moment you get up in the morning and does not stop until you get into the office.",
+        "author":"Robert Frost"
+    },
+    {
+        "id":"117",
+        "text":"There is no substitute for hard work.",
+        "author":"Thomas A. Edison"
+    },
+    {
+        "id":"118",
+        "text":"Work, look for peace and calm in work: you will find it nowhere else.",
+        "author":" Dmitri Mendeleev"
+    },
+    {
+        "id":"119",
+        "text":"When you form a team, why do you try to form a team? Because teamwork builds trust and trust builds speed.",
+        "author":"Russel Honore"
+    },
+    {
+        "id":"120",
+        "text":"There's something to be said in favor of working in isolation in the real world.",
+        "author":" A. R. Ammons"
+    },
+    {
+        "id":"121",
+        "text":"Work is the curse of the drinking classes. ",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"122",
+        "text":"It is only when I am doing my work that I feel truly alive.",
+        "author":"Federico Fellini"
+    },
+    {
+        "id":"123",
+        "text":"I have found in work that you only get back what you put into it, but it does come back gift-wrapped.",
+        "author":"Joyce Brothers"
+    },
+    {
+        "id":"124",
+        "text":"Unemployment is capitalism's way of getting you to plant a garden.",
+        "author":"Orson Scott Card"
+    },
+    {
+        "id":"125",
+        "text":"No fine work can be done without concentration and self-sacrifice and toil and doubt.",
+        "author":" Max Beerbohm"
+    },
+    {
+        "id":"126",
+        "text":"The best preparation for good work tomorrow is to do good work today.",
+        "author":"Elbert Hubbard"
+    },
+    {
+        "id":"127",
+        "text":"I think about my work every minute of the day.",
+        "author":"Jeff Koons"
+    },
+    {
+        "id":"128",
+        "text":"Work is a prayer. And I start off every morning dedicating it to our Creator.",
+        "author":" Joseph Murray"
+    },
+    {
+        "id":"129",
+        "text":"If you put all your strength and faith and vigor into a job and try to do the best you can, the money will come.",
+        "author":"Lawrence Welk"
+    },
+    {
+        "id":"130",
+        "text":"Blessed is he who has found his work; let him ask no other blessedness.",
+        "author":"Thomas Carlyle"
+    },
+    {
+        "id":"131",
+        "text":"Be open to the amazing changes which are occurring in the field that interest you.",
+        "author":"Leigh Steinberg"
+    },
+    {
+        "id":"132",
+        "text":"You're blessed if you have the strength to work. ",
+        "author":"Mahalia Jackson"
+    },
+    {
+        "id":"133",
+        "text":"No one can arrive from being talented alone, work transforms talent into genius.",
+        "author":"Anna Pavlova"
+    },
+    {
+        "id":"134",
+        "text":"Individual commitment to a group effort - that is what makes a team work, a company work, a society work, a civilization work.",
+        "author":"Vince Lombardi"
+    },
+    {
+        "id":"135",
+        "text":"Every man loves what he is good at.",
+        "author":"Thomas Shadwell"
+    },
+    {
+        "id":"136",
+        "text":"The end of labor is to gain leisure.",
+        "author":" Aristotle"
+    },
+    {
+        "id":"137",
+        "text":"Going to work for a large company is like getting on a train. Are you going sixty miles an hour or is the train going sixty miles an hour and you're just sitting still?",
+        "author":"J. Paul Getty"
+    },
+    {
+        "id":"138",
+        "text":"Most people treat the office manual the way they treat a software manual. They never look at it.",
+        "author":" James Levine"
+    },
+    {
+        "id":"139",
+        "text":"Management must manage!",
+        "author":"Harold S. Geneen"
+    },
+    {
+        "id":"140",
+        "text":"Teaching was the hardest work I had ever done, and it remains the hardest work I have done to date.",
+        "author":"Ann Richards"
+    },
+    {
+        "id":"141",
+        "text":"I never did a day's work in my life. It was all fun.",
+        "author":"Thomas A. Edison"
+    },
+    {
+        "id":"142",
+        "text":"Choose a job you love, and you will never have to work a day in your life.",
+        "author":"Unknown"
+    },
+    {
+        "id":"143",
+        "text":"Nobody ever drowned in his own sweat.",
+        "author":"Ann Landers"
+    },
+    {
+        "id":"144",
+        "text":"Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
+        "author":"Rumi"
+    },
+    {
+        "id":"145",
+        "text":"Once you start a working on something, don't be afraid of failure and don't abandon it. People who work sincerely are the happiest.",
+        "author":"Chanakya"
+    },
+    {
+        "id":"146",
+        "text":"Find a job you like and you add five days to every week.",
+        "author":"H. Jackson Brown, Jr"
+    },
+    {
+        "id":"147",
+        "text":"Work is much more fun than fun.",
+        "author":"Noel Coward"
+    },
+    {
+        "id":"148",
+        "text":"Quality is pride of workmanship",
+        "author":"W. Edwards Deming"
+    },
+    {
+        "id":"149",
+        "text":"My experience has been that work is almost the best way to pull oneself out of the depths.",
+        "author":"Eleanor Roosevelt"
+    },
+    {
+        "id":"150",
+        "text":"What you are will show in what you do.",
+        "author":"Thomas A. Edison"
+    },
+    {
+        "id":"151",
+        "text":"Married couples who work together to build and maintain a business assume broad responsibilities. Not only is their work important to our local and national economies, but their success is central to the well-being of their families.",
+        "author":"Melissa Bean"
+    },
+    {
+        "id":"152",
+        "text":"If you don't want to work you have to work to earn enough money so that you won't have to work.",
+        "author":" Ogden Nash"
+    },
+    {
+        "id":"153",
+        "text":"Work is a necessity for man. Man invented the alarm clock.",
+        "author":"Pablo Picasso"
+    },
+    {
+        "id":"154",
+        "text":"Give yourself something to work toward - constantly.",
+        "author":"Mary Kay Ash"
+    },
+    {
+        "id":"155",
+        "text":"Big jobs usually go to the men who prove their ability to outgrow small ones.",
+        "author":"Theodore Roosevelt"
+    }
+    ]

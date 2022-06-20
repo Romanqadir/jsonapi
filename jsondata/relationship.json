@@ -1,0 +1,750 @@
+[
+    {
+        "id":"1",
+        "text":"When someone loves you, the way they talk about you is different. You feel safe and comfortable",
+        "author":"Jess C. Scott"
+    },
+    {
+        "id":"2",
+        "text":"Indifference and neglect often do much more damage than outright dislike",
+        "author":"J.K. Rowling"
+    },
+    {
+        "id":"3",
+        "text":"The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed",
+        "author":"Carl Gustav Jung"
+    },
+    {
+        "id":"4",
+        "text":"A guy and a girl can be just friends, but at one point or another, they will fall for each other...Maybe temporarily, maybe at the wrong time, maybe too late, or maybe forever",
+        "author":"Dave Matthews Band"
+    },
+    {
+        "id":"5",
+        "text":"For the two of us, home isn't a place. It is a person. And we are finally home",
+        "author":"Stephanie Perkins"
+    },
+    {
+        "id":"6",
+        "text":"Man may have discovered fire, but women discovered how to play with it",
+        "author":"Candace Bushnell"
+    },
+    {
+        "id":"7",
+        "text":"The most painful thing is losing yourself in the process of loving someone too much, and forgetting that you are special too",
+        "author":"Ernest Hemingway"
+    },
+    {
+        "id":"8",
+        "text":"I mean, if the relationship can't survive the long term, why on earth would it be worth my time and energy for the short term?",
+        "author":"Nicholas Sparks"
+    },
+    {
+        "id":"9",
+        "text":"When you stop expecting people to be perfect, you can like them for who they are",
+        "author":"Donald Miller"
+    },
+    {
+        "id":"10",
+        "text":"Every man I meet wants to protect me. I can't figure out what from",
+        "author":"Mae West"
+    },
+    {
+        "id":"11",
+        "text":"There is greatness in doing something you hate for the sake of someone you love",
+        "author":"Shmuley Boteach"
+    },
+    {
+        "id":"12",
+        "text":"If conversation was the lyrics, laughter was the music, making time spent together a melody that could be replayed over and over without getting stale",
+        "author":" Nicholas Sparks"
+    },
+    {
+        "id":"13",
+        "text":"I know I am but summer to your heart, and not the full four seasons of the year",
+        "author":"Edna St"
+    },
+    {
+        "id":"14",
+        "text":"Come sleep with me: We won't make Love, Love will make us",
+        "author":"Julio Cortázar"
+    },
+    {
+        "id":"15",
+        "text":"It's no good pretending that any relationship has a future if your record collections disagree violently or if your favorite films wouldn't even speak to each other if they met at a party",
+        "author":"Nick Hornby"
+    },
+    {
+        "id":"16",
+        "text":"Holding Eleanor's hand was like holding a butterfly. Or a heartbeat. Like holding something complete, and completely alive",
+        "author":"Rainbow Rowell"
+    },
+    {
+        "id":"17",
+        "text":"To be fully seen by somebody, then, and be loved anyhow - this is a human offering that can border on miraculous",
+        "author":"Elizabeth Gilbert"
+    },
+    {
+        "id":"18",
+        "text":"Maybe our girlfriends are our soulmates and guys are just people to have fun with",
+        "author":"Candace Bushnell"
+    },
+    {
+        "id":"19",
+        "text":"I’ve been fighting to be who I am all my life. What’s the point of being who I am, if I can’t have the person who was worth all the fighting for?",
+        "author":"Stephanie Lennox"
+    },
+    {
+        "id":"20",
+        "text":"I want to be in a relationship where you telling me you love me is just a ceremonious validation of what you already show me",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"21",
+        "text":"Never marry at all, Dorian. Men marry because they are tired, women, because they are curious: both are disappointed",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"22",
+        "text":"I suffer from girlnextdooritis where the guy is friends with you and that's it",
+        "author":"Taylor Swift"
+    },
+    {
+        "id":"23",
+        "text":"Man, when you lose your laugh you lose your footing",
+        "author":"Ken Kesey"
+    },
+    {
+        "id":"24",
+        "text":"Every couple needs to argue now and then. Just to prove that the relationship is strong enough to survive. Long-term relationships, the ones that matter, are all about weathering the peaks and the valleys",
+        "author":"Nicholas Sparks"
+    },
+    {
+        "id":"25",
+        "text":"I know enough to know that no woman should ever marry a man who hated his mother",
+        "author":"Martha Gellhorn"
+    },
+    {
+        "id":"26",
+        "text":"For there to be betrayal, there would have to have been trust first",
+        "author":"Suzanne Collins"
+    },
+    {
+        "id":"27",
+        "text":"When you don't talk, there's a lot of stuff that ends up not getting said",
+        "author":"Catherine Gilbert Murdock"
+    },
+    {
+        "id":"28",
+        "text":"Our wounds are often the openings into the best and most beautiful part of us",
+        "author":"David Richo"
+    },
+    {
+        "id":"29",
+        "text":"Cheating and lying aren't struggles, they're reasons to break up",
+        "author":"Patti Callahan Henry"
+    },
+    {
+        "id":"30",
+        "text":"If you spend your time hoping someone will suffer the consequences for what they did to your heart, then you're allowing them to hurt you a second time in your mind",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"31",
+        "text":"I used to advertise my loyalty and I don't believe there is a single person I loved that I didn't eventually betray",
+        "author":"Albert Camus"
+    },
+    {
+        "id":"32",
+        "text":"Relationships dont always make sense. Especially from the outside",
+        "author":"Sarah Dessen"
+    },
+    {
+        "id":"33",
+        "text":"Every couple has ups and downs, every couple argues, and that’s the thing—you’re a couple, and couples can’t function without trust",
+        "author":"Nicholas Sparks"
+    },
+    {
+        "id":"34",
+        "text":"A dame that knows the ropes isn't likely to get tied up",
+        "author":"Mae West"
+    },
+    {
+        "id":"35",
+        "text":"I know my heart will never be the same But I'm telling myself I'll be okay",
+        "author":"Sara Evans"
+    },
+    {
+        "id":"36",
+        "text":"Women cannot complain about men anymore until they start getting better taste in them",
+        "author":"Bill Maher"
+    },
+    {
+        "id":"37",
+        "text":"What we wait around a lifetime for with one person, we can find in a moment with someone else",
+        "author":"Stephanie Klein"
+    },
+    {
+        "id":"38",
+        "text":"I think you are wrong to want a heart. It makes most people unhappy. If you only knew it, you are in luck not to have a heart",
+        "author":"L. Frank Baum"
+    },
+    {
+        "id":"39",
+        "text":"nothing in this world was more difficult than love",
+        "author":"Gabriel García Márquez"
+    },
+    {
+        "id":"40",
+        "text":"Books are a poor substitute for female companionship, but they are easier to find",
+        "author":"Patrick Rothfuss"
+    },
+    {
+        "id":"41",
+        "text":"Every woman that finally figured out her worth, has picked up her suitcases of pride and boarded a flight to freedom, which landed in the valley of change",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"42",
+        "text":"Don't leave a piece of jewelry at his house so you can go back and get it later; he may be with his real girlfriend",
+        "author":"Amy Sedaris"
+    },
+    {
+        "id":"43",
+        "text":"Seldom, very seldom, does complete truth belong to any human disclosure; seldom can it happen that something is not a little disguised or a little mistaken",
+        "author":"Jane Austen"
+    },
+    {
+        "id":"44",
+        "text":"There comes a time in your life when you have to choose to turn the page, write another book or simply close it",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"45",
+        "text":"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"46",
+        "text":"You’re just another story I can’t tell anymore",
+        "author":"Unknown"
+    },
+    {
+        "id":"47",
+        "text":"A fit, healthy body—that is the best fashion statement",
+        "author":"Jess C Scott"
+    },
+    {
+        "id":"48",
+        "text":"Moving on is easy. It's staying moved on that's trickier",
+        "author":"Katerina Stoykova Klemer"
+    },
+    {
+        "id":"49",
+        "text":"Sometimes it takes a heartbreak to shake us awake & help us see we are worth so much more than we're settling for",
+        "author":"Mandy Hale"
+    },
+    {
+        "id":"50",
+        "text":"How would your life be different if…You walked away from gossip and verbal defamation? Let today be the day…You speak only the good you know of other people and encourage others to do the same",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"51",
+        "text":"We have to recognise that there cannot be relationships unless there is commitment, unless there is loyalty, unless there is love, patience, persistence",
+        "author":"Cornel West"
+    },
+    {
+        "id":"52",
+        "text":"Assumptions are the termites of relationships",
+        "author":"Henry Winkler"
+    },
+    {
+        "id":"53",
+        "text":"When we face pain in relationships our first response is often to sever bonds rather than to maintain commitment",
+        "author":"bell hooks"
+    },
+    {
+        "id":"54",
+        "text":"You couldn't just pick and choose at will when someone depended on you, or loved you. It wasn't like a light switch, easy to turn on or off. If you were in, you were in. Out, you were out",
+        "author":"Sarah Dessen"
+    },
+    {
+        "id":"55",
+        "text":"I felt like an animal, and animals don’t know sin, do they?",
+        "author":"Jess C. Scott"
+    },
+    {
+        "id":"56",
+        "text":"If you need something from somebody always give that person a way to hand it to you",
+        "author":"Sue Monk Kidd"
+    },
+    {
+        "id":"57",
+        "text":"You can measure the happiness of a marriage by the number of scars that each partner carries on their tongues, earned from years of biting back angry words",
+        "author":"Elizabeth Gilbert"
+    },
+    {
+        "id":"58",
+        "text":"Mocking a woman is like drinking too much wine. It may be fun for a short time, but the hangover is hell",
+        "author":"Brandon Sanderson"
+    },
+    {
+        "id":"59",
+        "text":"When dealing with people, remember you are not dealing with creatures of logic, but with creatures bristling with prejudice and motivated by pride and vanity",
+        "author":"Dale Carnegie"
+    },
+    {
+        "id":"60",
+        "text":"This is what happened in love. One of you cried a lot and then both of you grew sarcastic",
+        "author":"Lorrie Moore"
+    },
+    {
+        "id":"61",
+        "text":"When you loved someone and had to let them go, there will always be that small part of yourself that whispers, What was it that you wanted and why didn't you fight for it?",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"62",
+        "text":"Do you know what it means to come home at night to a woman who'll give you a little love, a little affection, a little tenderness? It means you're in the wrong house, that's what it means",
+        "author":"Henny Youngman"
+    },
+    {
+        "id":"63",
+        "text":"Most everything you think you know about me is nothing more than memories",
+        "author":"Haruki Murakami"
+    },
+    {
+        "id":"64",
+        "text":"When you hold a grudge, you want someone else’s sorrow to reflect your level of hurt but the two rarely meet",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"65",
+        "text":"I define connection as the energy that exists between people when they feel seen, heard, and valued; when they can give and receive without judgment; and when they derive sustenance and strength from the relationship",
+        "author":"Brené Brown"
+    },
+    {
+        "id":"66",
+        "text":"It's probably a bad indicator of your lifestyle when you miss your ex-boyfriend because he's absolutely lethal",
+        "author":"Charlaine Harris"
+    },
+    {
+        "id":"67",
+        "text":"People die, I think, but your relationship with them doesn't. It continues and is ever-changing",
+        "author":"Jandy Nelson"
+    },
+    {
+        "id":"68",
+        "text":"The best relationships in our lives are the best not because they have been the happiest ones, they are that way because they have stayed strong through the most tormentful of storms",
+        "author":"Pandora Poikilos"
+    },
+    {
+        "id":"69",
+        "text":"A true gentleman is one that apologizes anyways, even though he has not offended a lady intentionally. He is in a class all of his own because he knows the value of a woman's heart",
+        "author":"Shannon Alder"
+    },
+    {
+        "id":"70",
+        "text":"Statistically speaking, there is a 65 percent chance that the love of your life is having an affair. Be very suspicious",
+        "author":"Scott Dikkers"
+    },
+    {
+        "id":"71",
+        "text":"Rejection is an opportunity for your selection",
+        "author":"Bernard Branson"
+    },
+    {
+        "id":"72",
+        "text":"Failed relationships can be described as so much wasted make-up",
+        "author":"Marian Keyes"
+    },
+    {
+        "id":"73",
+        "text":"When you struggle with your partner, you are struggling with yourself. Every fault you see in them touches a denied weakness in yourself",
+        "author":"Deepak Chopra"
+    },
+    {
+        "id":"74",
+        "text":"I want to be around people that do things. I don’t want to be around people anymore that judge or talk about what people do. I want to be around people that dream and support and do things",
+        "author":"Amy Poehler"
+    },
+    {
+        "id":"75",
+        "text":"Six hundred and forty fish later, the only thing I know is everything you love will die. The first time you meet someone special, you can count on them one day being dead and in the ground",
+        "author":"Chuck Palahniuk"
+    },
+    {
+        "id":"76",
+        "text":"Can officially confirm that the way to a man's heart these days is not through beauty, food, sex, or alluringness of character, but merely the ability to seem not very interested in him",
+        "author":"Helen Fielding"
+    },
+    {
+        "id":"77",
+        "text":"Love doesn't mean anything if you're not willing to make a commitment, and you have to think not only about what you want, but about what he wants. Not just now, but in the future",
+        "author":"Nicholas Sparks"
+    },
+    {
+        "id":"78",
+        "text":"You like every one; that is to say, you are indifferent to every one",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"79",
+        "text":"He loved her for almost everything she was & she decided that was enough to let him stay for a very long time",
+        "author":"Brian Andreas"
+    },
+    {
+        "id":"80",
+        "text":"A busy, vibrant, goal-oriented woman is so much more attractive than a woman who waits around for a man to validate her existence",
+        "author":"Mandy Hale"
+    },
+    {
+        "id":"81",
+        "text":"Unrequited love is the infinite curse of a lonely heart",
+        "author":"Christina Westover"
+    },
+    {
+        "id":"82",
+        "text":"Lonely people tend, rather, to be lonely because they decline to bear the psychic costs of being around other humans. They are allergic to people. People affect them too strongly",
+        "author":"David Foster Wallace"
+    },
+    {
+        "id":"83",
+        "text":"I have no right to say or do anything that diminishes a man in his own eyes. What matters is not what I think of him but what he thinks of himself. Hurting a man in his dignity is a crime",
+        "author":"Antoine de Saint-Exupéry"
+    },
+    {
+        "id":"84",
+        "text":"When what you hear and what you see don't match, trust your eyes",
+        "author":"Dale Renton"
+    },
+    {
+        "id":"85",
+        "text":"We ruined each other by being together. We destroyed each other’s dreams",
+        "author":"Kate Chisman"
+    },
+    {
+        "id":"86",
+        "text":"We all take different paths in life, but no matter where we go, we take a little of each other everyhwere",
+        "author":"Tim McGraw"
+    },
+    {
+        "id":"87",
+        "text":"Hope for love, pray for love, wish for love, dream for love…but don’t put your life on hold waiting for love",
+        "author":"Mandy Hale"
+    },
+    {
+        "id":"88",
+        "text":"If you're trapped in the dream of the Other, you're fucked",
+        "author":"Gilles Deleuze"
+    },
+    {
+        "id":"89",
+        "text":"When God knows you're ready for the responsibility of commitment, He'll reveal the right person under the right circumstances",
+        "author":"Joshua Harris"
+    },
+    {
+        "id":"90",
+        "text":"Don't worry about hurting me, if that's what you're afraid of. I want to get hurt. At least I´ll feel something for a change",
+        "author":"Katie Kacvinsky"
+    },
+    {
+        "id":"91",
+        "text":"We are not written for one instrument alone; I am not, neither are you",
+        "author":"André Aciman"
+    },
+    {
+        "id":"92",
+        "text":"One of the best times for figuring out who you are & what you really want out of life? Right after a break-up",
+        "author":"Mandy Hale"
+    },
+    {
+        "id":"93",
+        "text":"Intimacy is the capacity to be rather weird with someone - and finding that that's ok with them",
+        "author":"Alain de Botton"
+    },
+    {
+        "id":"94",
+        "text":"Trust is the glue of life. It's the most essential ingredient in effective communication. It's the foundational principle that holds all relationships",
+        "author":"Stephen R. Covey"
+    },
+    {
+        "id":"95",
+        "text":"Sometimes I get real lonely sleeping with you",
+        "author":"Haruki Murakami"
+    },
+    {
+        "id":"96",
+        "text":"Trust is the fruit of a relationship in which you know you are loved",
+        "author":"William P. Young"
+    },
+    {
+        "id":"97",
+        "text":"You know someone's right for you when the things they don't have to say are even more important than the things they do",
+        "author":"Jodi Picoult"
+    },
+    {
+        "id":"98",
+        "text":"The words ‘I Love You’ kill, and resurrect millions, in less than a second",
+        "author":"Aberjhani"
+    },
+    {
+        "id":"99",
+        "text":"My girlfriend is sad and quiet and keeps me up all night worrying about her",
+        "author":"Rainbow Rowell"
+    },
+    {
+        "id":"100",
+        "text":"I got my heart's desire, and there my troubles began",
+        "author":"Lev Grossman"
+    },
+    {
+        "id":"101",
+        "text":"You Can't Lose Something You Never Had",
+        "author":"Kate G. Hudson"
+    },
+    {
+        "id":"102",
+        "text":"My head’ll explode if I continue with this escapism",
+        "author":"Jess C Scott"
+    },
+    {
+        "id":"103",
+        "text":"I just...I just miss him. And I hate being so alone",
+        "author":"Suzanne Collins"
+    },
+    {
+        "id":"104",
+        "text":"That night when you kissed me, I left a poem in your mouth, and you can hear some of the lines every time you breathe out",
+        "author":"Andrea Gibson"
+    },
+    {
+        "id":"105",
+        "text":"If equal affection cannot be, Let the more loving one be me",
+        "author":"W.H. Auden"
+    },
+    {
+        "id":"106",
+        "text":"Submission is not about authority and it is not obedience; it is all about relationships of love and respect",
+        "author":"Wm. Paul Young"
+    },
+    {
+        "id":"107",
+        "text":"Wanting him to come back before anyone notices part of the world has not moved since he left",
+        "author":"Brian Andreas"
+    },
+    {
+        "id":"108",
+        "text":"Most men claim to desire driven, independent and confident women. Yet when confronted with such a creature reverence often evolves into resent. For just like women, men need to be needed",
+        "author":"Tiffany Madison"
+    },
+    {
+        "id":"109",
+        "text":"That's the power of literature, you know, it can act like little love letters between two people who can only explain their feelings by pointing at other people's",
+        "author":"Fredrik Backman"
+    },{
+        "id":"110",
+        "text":"It’s hard to communicate anything exactly and that’s why perfect relationships between people are difficult to find",
+        "author":"Gustave Flaubert"
+    },
+    {
+        "id":"111",
+        "text":"It's not your job to like me - it's mine",
+        "author":"Byron Katie"
+    },
+    {
+        "id":"112",
+        "text":"We know from daily life that we exist for other people first of all, for whose smiles and well-being our own happiness depends",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"113",
+        "text":"Have you ever noticed how parents can go from the most wonderful people in the world to totally embarrassing in three seconds?",
+        "author":"Rick Riordan"
+    },
+    {
+        "id":"114",
+        "text":"How could I be sleeping with this particular man.... Surely only true love could justify my lack of taste",
+        "author":"Margaret Atwood"
+    },
+    {
+        "id":"115",
+        "text":"I'm not crying because of you; you're not worth it. I'm crying because my delusion of who you were was shattered by the truth of who you are",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"116",
+        "text":"And now you are and I am and we're a mystery which will never happen again",
+        "author":"E.E. Cummings"
+    },
+    {
+        "id":"117",
+        "text":"Because isn’t that the point of every relationship: to be known by someone else, to be understood? He gets me. She gets me. Isn’t that the simple magic phrase?",
+        "author":"Gillian Flynn"
+    },
+    {
+        "id":"118",
+        "text":"You know that when I hate you, it is because I love you to a point of passion that unhinges my soul",
+        "author":"Julie de Lespinasse"
+    },
+    {
+        "id":"119",
+        "text":"I suppose that since most of our hurts come through relationships so will our healing, and I know that grace rarely makes sense for those looking in from the outside",
+        "author":"Wm. Paul Young"
+    },
+    {
+        "id":"120",
+        "text":"Physical love is unthinkable without violence",
+        "author":"Milan Kundera"
+    },
+    {
+        "id":"121",
+        "text":"I believe in love the verb, not the noun",
+        "author":"Greg Behrendt"
+    },
+    {
+        "id":"122",
+        "text":"Learn to deal with the fact that you are not a perfect person but you are a person that deserves respect and honesty",
+        "author":"Pandora Poikilos"
+    },
+    {
+        "id":"123",
+        "text":"A man is lucky if he is the first love of a woman. A woman is lucky if she is the last love of a man",
+        "author":"Charles Dickens"
+    },
+    {
+        "id":"124",
+        "text":"Love cannot live where there is no trust",
+        "author":"Edith Hamilton"
+    },
+    {
+        "id":"125",
+        "text":"Yes, it's a well-known fact about you: you're like death, you take everything",
+        "author":"Milan Kundera"
+    },
+    {
+        "id":"126",
+        "text":"I believe in the immeasurable power of love; that true love can endure any circumstance and reach across any distance",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"127",
+        "text":"There isn't time, so brief is life, for bickerings, apologies, heartburnings, callings to account. There is only time for loving, and but an instant, so to speak, for that",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"128",
+        "text":"It's just the most amazing thing to love a dog, isn't it? It makes our relationships with people seem as boring as a bowl of oatmeal",
+        "author":"John Grogan"
+    },
+    {
+        "id":"129",
+        "text":"But why, why, why can't people just say what they mean?",
+        "author":"Graeme Simsion"
+    },
+    {
+        "id":"130",
+        "text":"The quickest way to rectify that mistake (choosing the wrong person) is by learning from that, moving on, and choosing much more wisely in the future",
+        "author":"Greg Behrendt"
+    },
+    {
+        "id":"131",
+        "text":"What you want most you push away from you. You want more than you care to admit",
+        "author":"Tarjei Vesaas"
+    },
+    {
+        "id":"132",
+        "text":"Love without sacrifice is like theft",
+        "author":"Nassim Nicholas Taleb"
+    },
+    {
+        "id":"133",
+        "text":"Some people come into our lives and leave footprints on our hearts and we are never ever the same",
+        "author":"Flavia Weedn"
+    },
+    {
+        "id":"134",
+        "text":"Right now we are here, and nothing can mar our perfection, or steal the joy of this perfect moment",
+        "author":"Audrey Niffenegger"
+    },
+    {
+        "id":"135",
+        "text":"Making love to me is amazing. Wait, I meant: making love, to me, is amazing. The absence of two little commas nearly transformed me into a sex god",
+        "author":"Dark Jar Tin Zoo"
+    },
+    {
+        "id":"136",
+        "text":"If you spend your life sparing people’s feelings and feeding their vanity, you get so you can’t distinguish what should be respected in them",
+        "author":"F. Scott Fitzgerald"
+    },
+    {
+        "id":"137",
+        "text":"Death is the easy part, the hard part is living and knowing you could be so much more then you’re willing to be",
+        "author":"Robert m drake"
+    },
+    {
+        "id":"138",
+        "text":"If a man can possess a woman sexually -really possess- he won't need to control her ideas, her opinions, her clothes, her friends, even her other lovers",
+        "author":"Toni Bentley"
+    },
+    {
+        "id":"139",
+        "text":"Siblings: children of the same parents, each of whom is perfectly normal until they get together",
+        "author":"Sam Levenson"
+    },{
+        "id":"140",
+        "text":"Caring about someone isn't complicated. It isn't easy. But it isn't complicated, either. Kinda like lifting the engine block out of a car",
+        "author":"Jim Butcher"
+    },
+    {
+        "id":"141",
+        "text":"Why don’t we break up? I guess I stay with her because she stays with me. And that’s not an easy thing to do",
+        "author":"John Green"
+    },
+    {
+        "id":"142",
+        "text":"We met each other when we were young, before we knew enough about disappointment, and once we did we found we reminded each other of it",
+        "author":"Nicole Krauss"
+    },
+    {
+        "id":"143",
+        "text":"She preferred imaginary heroes to real ones, because when tired of them, the former could be shut up in the tin kitchen till called for, and the latter were less manageable",
+        "author":"Louisa May Alcott"
+    },
+    {
+        "id":"144",
+        "text":"Don't let a thief into your house three times. The first time was enough. The second time was a chance. The third time means you're stupid",
+        "author":"C. JoyBell C"
+    },
+    {
+        "id":"145",
+        "text":"I make love with a focus and intensity that most people reserve for sleep",
+        "author":"Dark Jar Tin Zoo"
+    },
+    {
+        "id":"146",
+        "text":"My love is pizza shaped. Won’t you have a slice? It’s circular, so there’s enough to go around",
+        "author":"Dora J. Arod"
+    },
+    {
+        "id":"147",
+        "text":"Being single doesn't mean you're weak, it means that you're strong enough to wait for the right person",
+        "author":"Niall Horan"
+    },
+    {
+        "id":"148",
+        "text":"But it is impossible to go through life without trust; that is to be imprisoned in the worst cell of all, oneself",
+        "author":"Graham Greene"
+    },
+    {
+        "id":"149",
+        "text":"Everything you want in life is a relationship away",
+        "author":"Idowu Koyenikan"
+    },
+    {
+        "id":"150",
+        "text":"Love lasts about seven years. That's how long it takes for the cells of the body to totally replace themselves",
+        "author":"Francois Sagan"
+    }
+]

@@ -1,0 +1,750 @@
+[
+    {
+        "id":"1",
+        "text":"Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present",
+        "author":"Bill Keane"
+    },
+    {
+        "id":"2",
+        "text":"Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Listen to the never haves, then listen close to me... Anything can happen, child. Anything can be",
+        "author":"Shel Silverstein"
+    },
+    {
+        "id":"3",
+        "text":"You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one",
+        "author":"John Lennon"
+    },
+    {
+        "id":"4",
+        "text":"When we love, we always strive to become better than we are. When we strive to become better than we are, everything around us becomes better too",
+        "author":"Paulo Coelho"
+    },
+    {
+        "id":"5",
+        "text":"Hold fast to dreams, For if dreams die Life is a broken-winged bird, That cannot fly",
+        "author":"Langston Hughes"
+    },
+    {
+        "id":"6",
+        "text":"I like the night. Without the dark, we'd never see the stars",
+        "author":"Stephenie Meyer"
+    },
+    {
+        "id":"7",
+        "text":"Hope is the thing with feathers That perches in the soul And sings the tune without the words And never stops at all",
+        "author":"Emily Dickinson"
+    },
+    {
+        "id":"8",
+        "text":"They say a person needs just three things to be truly happy in this world: someone to love, something to do, and something to hope for",
+        "author":"Tom Bodett"
+    },
+    {
+        "id":"9",
+        "text":"The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater",
+        "author":"J.R.R. Tolkien"
+    },
+    {
+        "id":"10",
+        "text":"You cannot swim for new horizons until you have courage to lose sight of the shore",
+        "author":"William Faulkner"
+    },
+    {
+        "id":"11",
+        "text":"Life's under no obligation to give us what we expect",
+        "author":"Margaret Mitchell"
+    },
+    {
+        "id":"12",
+        "text":"But I know, somehow, that only when it is dark enough can you see the stars",
+        "author":"Martin Luther King, Jr"
+    },
+    {
+        "id":"13",
+        "text":"If pain must come, may it come quickly. Because I have a life to live, and I need to live it in the best way possible. If he has to make a choice, may he make it now. Then I will either wait for him or forget him",
+        "author":" Paulo Coelho"
+    },
+    {
+        "id":"14",
+        "text":"Blessed is he who expects nothing, for he shall never be disappointed",
+        "author":"Alexander Pope"
+    },
+    {
+        "id":"15",
+        "text":"The things you do for yourself are gone when you are gone, but the things you do for others remain as your legacy",
+        "author":"Kalu Ndukwe Kalu"
+    },
+    {
+        "id":"16",
+        "text":"Hope, Smiles from the threshold of the year to come, Whispering 'it will be happier",
+        "author":"Alfred Lord Tennyson"
+    },
+    {
+        "id":"17",
+        "text":"The very least you can do in your life is figure out what you hope for. And the most you can do is live inside that hope. Not admire it from a distance but live right in it, under its roof",
+        "author":"Barbara Kingsolver"
+    },
+    {
+        "id":"18",
+        "text":"Never lose hope. Storms make people stronger and never last forever",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"19",
+        "text":"Tears shed for another person are not a sign of weakness. They are a sign of a pure heart",
+        "author":"José N. Harris"
+    },
+    {
+        "id":"20",
+        "text":"Maybe everyone can live beyond what they're capable of",
+        "author":"Markus Zusak"
+    },
+    {
+        "id":"21",
+        "text":"You can cut all the flowers but you cannot keep Spring from coming",
+        "author":"Pablo Neruda"
+    },
+    {
+        "id":"22",
+        "text":"It's amazing how a little tomorrow can make up for a whole lot of yesterday",
+        "author":"John Guare"
+    },
+    {
+        "id":"23",
+        "text":"In a time of destruction, create something",
+        "author":"Maxine Hong Kingston"
+    },
+    {
+        "id":"24",
+        "text":"Strange as it may seem, I still hope for the best, even though the best, like an interesting piece of mail, so rarely arrives, and even when it does it can be lost so easily",
+        "author":"Lemony Snicket"
+    },
+    {
+        "id":"25",
+        "text":"I don't think of all the misery, but of the beauty that still remains",
+        "author":"Anne Frank"
+    },
+    {
+        "id":"26",
+        "text":"There is a crack in everything. That's how the light gets in",
+        "author":"Leonard Cohen"
+    },
+    {
+        "id":"27",
+        "text":"Do not spoil what you have by desiring what you have not; remember that what you now have was once among the things you only hoped for",
+        "author":"Epicurus"
+    },
+    {
+        "id":"28",
+        "text":"Hope is a waking dream",
+        "author":"Aristotle"
+    },
+    {
+        "id":"29",
+        "text":"We dream to give ourselves hope. To stop dreaming - well, that’s like saying you can never change your fate",
+        "author":"Amy Tan"
+    },
+    {
+        "id":"30",
+        "text":"Fairy tales do not tell children the dragons exist. Children already know that dragons exist. Fairy tales tell children the dragons can be killed",
+        "author":"G.K. Chesterton"
+    },
+    {
+        "id":"31",
+        "text":"This is where it all begins. Everything starts here, today",
+        "author":"David Nicholls"
+    },
+    {
+        "id":"32",
+        "text":"It is often in the darkest skies that we see the brightest stars",
+        "author":"Richard Evans"
+    },
+    {
+        "id":"33",
+        "text":"If you can love someone with your whole heart, even one person, then there's salvation in life. Even if you can't get together with that person",
+        "author":"Haruki Murakami"
+    },
+    {
+        "id":"34",
+        "text":"My life is a perfect graveyard of buried hopes",
+        "author":"L.M. Montgomery"
+    },
+    {
+        "id":"35",
+        "text":"Hope is a good breakfast, but it is a bad supper",
+        "author":"Francis Bacon"
+    },
+    {
+        "id":"36",
+        "text":"We are all the pieces of what we remember. We hold in ourselves the hopes and fears of those who love us. As long as there is love and memory, there is no true loss",
+        "author":"Cassandra Clare"
+    },
+    {
+        "id":"37",
+        "text":"When it was dark, you always carried the sun in your hand for me",
+        "author":"Sean O'Casey"
+    },
+    {
+        "id":"38",
+        "text":"Shoot for the moon, even if you fail, you'll land among the stars",
+        "author":"Cecelia Ahern"
+    },
+    {
+        "id":"39",
+        "text":"Remember, Hope is a good thing, maybe the best of things, and no good thing ever dies",
+        "author":"Stephen King"
+    },
+    {
+        "id":"40",
+        "text":"We need never be hopeless because we can never be irreperably broken",
+        "author":"John Green"
+    },
+    {
+        "id":"41",
+        "text":"ne lives in the hope of becoming a memory",
+        "author":"Antonio Porchia"
+    },
+    {
+        "id":"42",
+        "text":"The road that is built in hope is more pleasant to the traveler than the road built in despair, even though they both lead to the same destination",
+        "author":"Marion Zimmer Bradley"
+    },
+    {
+        "id":"43",
+        "text":"The first duty of a man is to think for himself",
+        "author":"Jose Marti"
+    },
+    {
+        "id":"44",
+        "text":"A baby is God's opinion that the world should go on",
+        "author":"Carl Sandburg"
+    },
+    {
+        "id":"45",
+        "text":"For like a shaft, clear and cold, the thought pierced him that in the end the Shadow was only a small and passing thing: there was light and high beauty for ever beyond its reach",
+        "author":"J.R.R. Tolkien"
+    },
+    {
+        "id":"46",
+        "text":"When you're at the end of your rope, tie a knot and hold on",
+        "author":"Theodore Roosevelt"
+    },
+    {
+        "id":"47",
+        "text":"Keep your best wishes, close to your heart and watch what happens",
+        "author":"Tony DeLiso"
+    },
+    {
+        "id":"48",
+        "text":"Books are finite, sexual encounters are finite, but the desire to read and to fuck is infinite; it surpasses our own deaths, our fears, our hopes for peace",
+        "author":"Roberto Bolano"
+    },
+    {
+        "id":"49",
+        "text":"The heart dies a slow death, shedding each hope like leaves until one day there are none. No hopes. Nothing remains",
+        "author":"Arthur Golden"
+    },
+    {
+        "id":"50",
+        "text":"Since I was young, I have always known this: Life damages us, every one. We can’t escape that damage. But now, I am also learning this: We can be mended. We mend each other",
+        "author":"Veronica Roth"
+    },
+    {
+        "id":"51",
+        "text":"To love means loving the unlovable. To forgive means pardoning the unpardonable. Faith means believing the unbelievable. Hope means hoping when everything seems hopeless",
+        "author":"G.K. Chesterton"
+    },
+    {
+        "id":"52",
+        "text":"I mean, at the end of the day, what the hell does it matter who I end up with if it can't be you?",
+        "author":"Tabitha Suzuma"
+    },
+    {
+        "id":"53",
+        "text":"The very existence of libraries affords the best evidence that we may yet have hope for the future of man",
+        "author":"T.S. Eliot"
+    },
+    {
+        "id":"54",
+        "text":"It is not despair, for despair is only for those who see the end beyond all doubt. We do not",
+        "author":"J.R.R. Tolkien"
+    },
+    {
+        "id":"55",
+        "text":"It's the children the world almost breaks who grow up to save it",
+        "author":"Frank Warren"
+    },
+    {
+        "id":"56",
+        "text":"To hear the phrase (our only hope) always makes one anxious, because it means that if the only hope doesn't work, there is nothing left",
+        "author":"Lemony Snicket"
+    },
+    {
+        "id":"57",
+        "text":"You do not need to know precisely what is happening, or exactly where it is all going. What you need is to recognize the possibilities and challenges offered by the present moment, and to embrace them with courage, faith and hope",
+        "author":"Thomas Merton"
+    },
+    {
+        "id":"58",
+        "text":"You may choose to look the other way but you can never say again that you did not know",
+        "author":"William Wilberforce"
+    },
+    {
+        "id":"59",
+        "text":"Walk on with hope in your heart, and you'll never walk alone",
+        "author":"Shah Rukh Khan"
+    },
+    {
+        "id":"60",
+        "text":"One child, one teacher, one book, one pen can change the world",
+        "author":"Malala Yousafzai"
+    },
+    {
+        "id":"61",
+        "text":"You show me a capitalist, and I'll show you a bloodsucker",
+        "author":"Malcom X"
+    },
+    {
+        "id":"62",
+        "text":"We need hope, or else we cannot endure",
+        "author":"Sarah J. Maas"
+    },
+    {
+        "id":"63",
+        "text":"How far would you go to keep the hope of love alive?",
+        "author":"Nicholas Sparks"
+    },
+    {
+        "id":"64",
+        "text":"Freedom in capitalist society always remains about the same as it was in ancient Greek republics: Freedom for slave owners",
+        "author":"Vladimir Lenin"
+    },
+    {
+        "id":"65",
+        "text":"There is nothing like a dream to create the future",
+        "author":"Victor Hugo"
+    },
+    {
+        "id":"66",
+        "text":"If you have a dream, don’t just sit there. Gather courage to believe that you can succeed and leave no stone unturned to make it a reality",
+        "author":"Dr Roopleen"
+    },
+    {
+        "id":"67",
+        "text":"I laugh because I must not cry, that is all, that is all",
+        "author":"Abraham Lincoln"
+    },
+    {
+        "id":"68",
+        "text":"But hoping, he said, is how the impossible can be possible after all",
+        "author":"Marissa Meyer"
+    },
+    {
+        "id":"69",
+        "text":"There was a moment in my life when I really wanted to kill myself. And there was one other moment when I was close to that. . . . But even in my most jaded times, I had some hope",
+        "author":"Gerard Way"
+    },
+    {
+        "id":"70",
+        "text":"I’m here not because I am supposed to be here, or because I’m trapped here, but because I’d rather be with you than anywhere else in the world",
+        "author":"Richard Bach"
+    },
+    {
+        "id":"71",
+        "text":"If we will be quiet and ready enough, we shall find compensation in every disappointment",
+        "author":"Henry David Thoreau"
+    },
+    {
+        "id":"72",
+        "text":"Hope, in reality, is the worst of all evils because it prolongs the torments of man",
+        "author":"Friedrich Nietzsche"
+    },
+    {
+        "id":"73",
+        "text":"Half of the American people have never read a newspaper. Half never voted for President. One hopes it is the same half",
+        "author":"Gore Vidal"
+    },
+    {
+        "id":"74",
+        "text":"You might think I lost all hope at that point. I did. And as a result I perked up and felt much better",
+        "author":"Yann Martel"
+    },
+    {
+        "id":"75",
+        "text":"e faithful in small things because it is in them that your strength lies",
+        "author":"Mother Teresa"
+    },
+    {
+        "id":"76",
+        "text":"If at first the idea is not absurd, then there is no hope for it",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"77",
+        "text":"It's the possibility that keeps me going, not the guarantee",
+        "author":"Nicholas Sparks"
+    },
+    {
+        "id":"78",
+        "text":"Look. I have a strategy. Why expect anything? If you don’t expect anything, you don’t get disappointed",
+        "author":"Patricia McCormick"
+    },
+    {
+        "id":"79",
+        "text":"Keep a little fire burning; however small, however hidden",
+        "author":"Cormac McCarthy"
+    },
+    {
+        "id":"80",
+        "text":"Plant seeds of happiness, hope, success, and love; it will all come back to you in abundance. This is the law of nature",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"81",
+        "text":"one resolution I have made, and try always to keep, is this: ‘To rise above little things",
+        "author":"John Burroughs"
+    },
+    {
+        "id":"82",
+        "text":"The Revolution introduced me to art, and in turn, art introduced me to the Revolution!",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"83",
+        "text":"At what point do you give up - decide enough is enough? There is only one answer really. Never",
+        "author":"Tabitha Suzuma"
+    },
+    {
+        "id":"84",
+        "text":"She was a beautiful dreamer. The kind of girl, who kept her head in the clouds, loved above the stars and left regret beneath the earth she walked on",
+        "author":"robert m drake"
+    },
+    {
+        "id":"85",
+        "text":"All of sudden, this shooting star went by, and all I could think was that they were listening to us somehow",
+        "author":"Nicholas Sparks"
+    },
+    {
+        "id":"86",
+        "text":"Yes We Can!",
+        "author":"Barack Obama"
+    },
+    {
+        "id":"87",
+        "text":"Hope is not about proving anything. It's about choosing to believe this one thing, that love is bigger than any grim, bleak shit anyone can throw at us",
+        "author":"Anne Lamott"
+    },
+    {
+        "id":"88",
+        "text":"Where there is no hope, it is incumbent on us to invent it",
+        "author":"Albert Camus"
+    },
+    {
+        "id":"89",
+        "text":"Ask yourself these three questions, Tatiana Metanova, and you will know who you are. Ask: What do believe in? What do you hope for? What do you love?",
+        "author":"Paullina Simons"
+    },
+    {
+        "id":"90",
+        "text":"Happiness is always there. You just have to choose to see it. There's no point dwelling in the dark and ignoring the light of the stars",
+        "author":"Carrie Hope Fletcher"
+    },
+    {
+        "id":"91",
+        "text":"The artist's job is not to succumb to despair but to find an antidote for the emptiness of existence",
+        "author":"Woody Allen"
+    },
+    {
+        "id":"92",
+        "text":"But you can build a future out of anything. A scrap, a flicker. The desire to go forward, slowly, one foot at a time. You can build an airy city out of ruins",
+        "author":"Lauren Oliver"
+    },
+    {
+        "id":"93",
+        "text":"If there's only one nation in the sky, shouldn't all passports be valid for it?",
+        "author":"Yann Martel"
+    },
+    {
+        "id":"94",
+        "text":"Rock bottom became the solid foundation on which I rebuilt my life",
+        "author":"J.K. Rowling"
+    },
+    {
+        "id":"95",
+        "text":"With every mistake, we must surely be learning",
+        "author":"George Harrison"
+    },
+    {
+        "id":"96",
+        "text":"The only way of knowing a person is to love them without hope",
+        "author":"Walter Benjamin"
+    },
+    {
+        "id":"97",
+        "text":"Everyone must dream. We dream to give ourselves hope. To stop dreaming - well, that's like saying you can never change your fate. Isn't that true?",
+        "author":"Amy Tan"
+    },
+    {
+        "id":"98",
+        "text":"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity",
+        "author":"Charles Haddon Spurgeon"
+    },
+    {
+        "id":"99",
+        "text":"Anything under God's control is never out of control",
+        "author":"Charles Swindoll"
+    },
+    {
+        "id":"100",
+        "text":"Then you must teach my daughter this same lesson. How to lose your innocence but not your hope. How to laugh forever",
+        "author":"Amy Tan"
+    },
+    {
+        "id":"101",
+        "text":"Sometimes good things fall apart, so better things can fall together",
+        "author":""
+    },
+    {
+        "id":"102",
+        "text":"I want to be the best version of myself for anyone who is going to someday walk into my life and need someone to love them beyond reason",
+        "author":"Jennifer Elisabeth"
+    },
+    {
+        "id":"103",
+        "text":"There is hope, even when your brain tells you there isn't",
+        "author":"John Green"
+    },
+    {
+        "id":"104",
+        "text":"A girl has to have a beautiful smile, Beautiful eyes and she should have a good sense of humor. She should be honest, loving and trustworthy",
+        "author":"Justin Bieber"
+    },
+    {
+        "id":"105",
+        "text":"There is a secret medicine given only to those who hurt so hard they can't hope",
+        "author":"Mawlana Jalal-al-Din Rumi"
+    },
+    {
+        "id":"106",
+        "text":"Hopes are like hair ornaments. Girls want to wear too many of them. When they become old women they look silly wearing even one",
+        "author":"Arthur Golden"
+    },
+    {
+        "id":"107",
+        "text":"To wish was to hope, and to hope was to expect",
+        "author":"Jane Austen"
+    },
+    {
+        "id":"108",
+        "text":"No, our science is no illusion. But an illusion it would be to suppose that what science cannot give us we can get elsewhere",
+        "author":"Sigmund Freud"
+    },
+    {
+        "id":"109",
+        "text":"May your choices reflect your hopes, not your fears",
+        "author":"Nelson Mandela"
+    },{
+        "id":"110",
+        "text":"It’s probably my job to tell you life isn’t fair, but I figure you already know that. So instead, I’ll tell you that hope is precious, and you’re right not to give up",
+        "author":"C.J. Redwine, Defiance"
+    },
+    {
+        "id":"111",
+        "text":"We promise according to our hopes and perform according to our fears",
+        "author":"François de La Rochefoucauld"
+    },
+    {
+        "id":"112",
+        "text":"Never lose faith in yourself, and never lose hope; remember, even when this world throws its worst and then turns its back, there is still always hope",
+        "author":"Pittacus Lore"
+    },
+    {
+        "id":"113",
+        "text":"Happiness is part of who we are. Joy is the feeling",
+        "author":"Tony DeLiso"
+    },
+    {
+        "id":"114",
+        "text":"Nikolai had been told that hope was dangerous, had been warned of it many times. But he’d never believed that. Hope was the wind that came from nowhere to fill your sails and carry you home",
+        "author":"Leigh Bardugo"
+    },
+    {
+        "id":"115",
+        "text":"What I want is so simple I almost can't say it: elementary kindness",
+        "author":"Barbara Kingsolver"
+    },
+    {
+        "id":"116",
+        "text":"She wondered that hope was so much harder then despair",
+        "author":"Patricia Briggs"
+    },
+    {
+        "id":"117",
+        "text":"If winter comes, can spring be far behind?",
+        "author":"Percy Bysshe Shelley"
+    },
+    {
+        "id":"118",
+        "text":"The only way we'll get freedom for ourselves is to identify ourselves with every oppressed people in the world. We are blood brothers to the people of Brazil, Venezuela, Haiti, Cuba -- yes Cuba too",
+        "author":"Malcolm X"
+    },
+    {
+        "id":"119",
+        "text":"Despair is typical of those who do not understand the causes of evil, see no way out, and are incapable of struggle",
+        "author":"Vladimir Lenin"
+    },
+    {
+        "id":"120",
+        "text":"People without hope not only don't write novels, but what is more to the point, they don't read them",
+        "author":"Flannery O'Connor"
+    },
+    {
+        "id":"121",
+        "text":"A man devoid of hope and conscious of being so has ceased to belong to the future",
+        "author":"Albert Camus"
+    },
+    {
+        "id":"122",
+        "text":"Civil government, so far as it is instituted for the security of property, is in reality instituted for the defense of the rich against the poor, or of those who have some property against those who have none at all",
+        "author":"Adam Smith"
+    },
+    {
+        "id":"123",
+        "text":"Me and you, we got more yesterday than anybody. We need some kind of tomorrow",
+        "author":"Toni Morrison, Beloved"
+    },
+    {
+        "id":"124",
+        "text":"Come friends, it's not too late to seek a newer world",
+        "author":"Alfred Lord Tennyson"
+    },
+    {
+        "id":"125",
+        "text":"In the unlikely story that is America, there has never been anything false about hope",
+        "author":"Barack Obama"
+    },
+    {
+        "id":"126",
+        "text":"Everything that is done in this world is done by hope",
+        "author":"Martin Luther"
+    },
+    {
+        "id":"127",
+        "text":"Even in the mud and scum of things, something always, always sings",
+        "author":"Ralph Waldo Emerson"
+    },
+    {
+        "id":"128",
+        "text":"Death is unstoppable. One must face it as a fact of life",
+        "author":"D. Aswini, Saffron"
+    },
+    {
+        "id":"129",
+        "text":"Sometimes to self-discover you must self-destruct",
+        "author":"robert m drake"
+    },
+    {
+        "id":"130",
+        "text":"The thing the sixties did was to show us the possibilities and the responsibility that we all had. It wasn't the answer. It just gave us a glimpse of the possibility",
+        "author":"John Lennon"
+    },
+    {
+        "id":"131",
+        "text":"Have you ever hoped for something? And held out for it against all the odds? Until everything you did was ridiculous?",
+        "author":"Ali Shaw"
+    },
+    {
+        "id":"132",
+        "text":"Farewell Hope, and with Hope farewell Fear",
+        "author":"John Milton"
+    },
+    {
+        "id":"133",
+        "text":"Hope costs nothing",
+        "author":"Colette"
+    },
+    {
+        "id":"134",
+        "text":"We yearned for the future. How did we learn it, that talent for insatiability?",
+        "author":"Margaret Atwood"
+    },
+    {
+        "id":"135",
+        "text":"In these times I don't, in a manner of speaking, know what I want; perhaps I don't want what I know and want what I don't know",
+        "author":"Marsilio Ficino"
+    },
+    {
+        "id":"136",
+        "text":"You can't eat hope,' the woman said. You can't eat it, but it sustains you,' the colonel replied",
+        "author":"Gabriel García Márquez"
+    },
+    {
+        "id":"137",
+        "text":"Rules for happiness: something to do, someone to love, something to hope for",
+        "author":"Immanuel Kant"
+    },
+    {
+        "id":"138",
+        "text":"I really don't even know you, and yet, in my life, you are forever entangled; to my history, inextricably bound",
+        "author":"Sarah Ockler"
+    },
+    {
+        "id":"139",
+        "text":"But what we call our despair is often only the painful eagerness of unfed hope",
+        "author":"George Eliot"
+    },{
+        "id":"140",
+        "text":"We should ask God to increase our hope when it is small, awaken it when it is dormant, confirm it when it is wavering, strengthen it when it is weak, and raise it up when it is overthrown",
+        "author":"John Calvin"
+    },
+    {
+        "id":"141",
+        "text":"Tell me there is still good in the world. Tell me there is still hope for all of us",
+        "author":"Marie Lu"
+    },
+    {
+        "id":"142",
+        "text":"What hope is there? (I asked.) If even angels fall, what hope is there for the rest of us?",
+        "author":"Richelle Mead"
+    },
+    {
+        "id":"143",
+        "text":"Faith goes up the stairs that love has built and looks out the windows which hope has opened",
+        "author":"Charles H. Spurgeon"
+    },
+    {
+        "id":"144",
+        "text":"While there's life, there's hope",
+        "author":"Marcus Tullius Cicero"
+    },
+    {
+        "id":"145",
+        "text":"",
+        "author":""
+    },
+    {
+        "id":"146",
+        "text":"And books, they offer one hope -- that a whole universe might open up from between the covers, and falling into that universe, one is saved",
+        "author":"Anne Rice"
+    },
+    {
+        "id":"147",
+        "text":"The future is uncertain, but that can be a good thing",
+        "author":"Jennifer Niven"
+    },
+    {
+        "id":"148",
+        "text":"Jennifer Niven",
+        "author":"Rae Carson"
+    },
+    {
+        "id":"149",
+        "text":"You are enough to drive a saint to madness or a king to his knees",
+        "author":"Grace Willows"
+    },
+    {
+        "id":"150",
+        "text":"My hope still is to leave the world a bit better than when I got here",
+        "author":"Jim Henson"
+    }
+]

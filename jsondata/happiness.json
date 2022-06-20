@@ -1,0 +1,752 @@
+[
+    {
+        "id":"1",
+        "text":"For every minute you are angry you lose sixty seconds of happiness",
+        "author":"Ralph Waldo Emerson"
+    },
+    {
+        "id":"2",
+        "text":"Love is that condition in which the happiness of another person is essential to your own",
+        "author":"Robert A. Heinlein"
+    },
+    {
+        "id":"3",
+        "text":"Folks are usually about as happy as they make their minds up to be",
+        "author":"Abraham Lincoln"
+    },
+    {
+        "id":"4",
+        "text":"Time you enjoy wasting is not wasted time",
+        "author":"Marthe Troly-Curtin"
+    },
+    {
+        "id":"5",
+        "text":"It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace",
+        "author":"Chuck Palahniuk"
+    },
+    {
+        "id":"6",
+        "text":"Happiness in intelligent people is the rarest thing I know",
+        "author":"Ernest Hemingway"
+    },
+    {
+        "id":"7",
+        "text":"You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life",
+        "author":"Albert Camus"
+    },
+    {
+        "id":"8",
+        "text":"Happiness is when what you think, what you say, and what you do are in harmony",
+        "author":"Mahatma Gandhi"
+    },
+    {
+        "id":"9",
+        "text":"Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad",
+        "author":"Henry Wadsworth Longfellow"
+    },
+    {
+        "id":"10",
+        "text":"There's nothing like deep breaths after laughing that hard. Nothing in the world like a sore stomach for the right reasons",
+        "author":"Stephen Chbosky"
+    },
+    {
+        "id":"11",
+        "text":"Happiness is not something ready made. It comes from your own actions",
+        "author":"Dalai Lama XIV"
+    },
+    {
+        "id":"12",
+        "text":"Count your age by friends, not years. Count your life by smiles, not tears",
+        "author":"John Lennon"
+    },
+    {
+        "id":"13",
+        "text":"If more of us valued food and cheer and song above hoarded gold, it would be a merrier world",
+        "author":"J.R.R. Tolkien"
+    },
+    {
+        "id":"14",
+        "text":"Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"15",
+        "text":"They say a person needs just three things to be truly happy in this world: someone to love, something to do, and something to hope for",
+        "author":"Tom Bodett"
+    },
+    {
+        "id":"16",
+        "text":"Take responsibility of your own happiness, never put it in other people’s hands",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"17",
+        "text":"The most important thing is to enjoy your life—to be happy—it's all that matters",
+        "author":"Audrey Hepburn"
+    },
+    {
+        "id":"18",
+        "text":"Happiness is a warm puppy",
+        "author":"Charles M. Schulz"
+    },
+    {
+        "id":"19",
+        "text":"You cannot protect yourself from sadness without protecting yourself from happiness",
+        "author":"Jonathan Safran Foer"
+    },
+    {
+        "id":"20",
+        "text":"It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it",
+        "author":"Dale Carnegie"
+    },
+    {
+        "id":"21",
+        "text":"Don’t waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"22",
+        "text":"No medicine cures what happiness cannot",
+        "author":"Gabriel García Márquez"
+    },
+    {
+        "id":"23",
+        "text":"Happiness is having a large, loving, caring, close-knit family in another city",
+        "author":"George Burns"
+    },
+    {
+        "id":"24",
+        "text":"Let us be grateful to the people who make us happy; they are the charming gardeners who make our souls blossom",
+        "author":"Marcel Proust"
+    },
+    {
+        "id":"25",
+        "text":"If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"26",
+        "text":"The only way to find true happiness is to risk being completely cut open",
+        "author":"Chuck Palahniuk"
+    },
+    {
+        "id":"27",
+        "text":"I felt my lungs inflate with the onrush of scenery—air, mountains, trees, people. I thought, This is what it is to be happy",
+        "author":"Sylvia Plath"
+    },
+    {
+        "id":"28",
+        "text":"Of all forms of caution, caution in love is perhaps the most fatal to true happiness",
+        "author":"Bertrand Russell"
+    },
+    {
+        "id":"29",
+        "text":"You can't be happy unless you're unhappy sometimes",
+        "author":"Lauren Oliver"
+    },
+    {
+        "id":"30",
+        "text":"Sanity and happiness are an impossible combination",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"31",
+        "text":"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"32",
+        "text":"Success is getting what you want, happiness is wanting what you get",
+        "author":"W. P. Kinsella"
+    },
+    {
+        "id":"33",
+        "text":"It's been my experience that you can nearly always enjoy things if you make up your mind firmly that you will",
+        "author":"Lucy Maud Montgomery"
+    },
+    {
+        "id":"34",
+        "text":"Happiness [is] only real when shared",
+        "author":"Jon Krakauer"
+    },
+    {
+        "id":"35",
+        "text":"I've got nothing to do today but smile",
+        "author":"Simon and Garfunkel"
+    },
+    {
+        "id":"36",
+        "text":"It's like Tolstoy said. Happiness is an allegory, unhappiness a story",
+        "author":"Haruki Murakami"
+    },
+    {
+        "id":"37",
+        "text":"The worst part of success is trying to find someone who is happy for you",
+        "author":"Bette Midler"
+    },
+    {
+        "id":"38",
+        "text":"The happiness of your life depends upon the quality of your thoughts",
+        "author":"Marcus Aurelius"
+    },
+    {
+        "id":"39",
+        "text":"Learn to value yourself, which means: fight for your happiness",
+        "author":"Ayn Rand"
+    },
+    {
+        "id":"40",
+        "text":"Happiness is holding someone in your arms and knowing you hold the whole world",
+        "author":"Orhan Pamuk"
+    },
+    {
+        "id":"41",
+        "text":"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"42",
+        "text":"I must learn to be content with being happier than I deserve",
+        "author":"Jane Austen"
+    },
+    {
+        "id":"43",
+        "text":"please believe that things are good with me, and even when they're not, they will be soon enough. And i will always believe the same about you",
+        "author":"Stephen Chbosky"
+    },
+    {
+        "id":"44",
+        "text":"When the first baby laughed for the first time, its laugh broke into a thousand pieces, and they all went skipping about, and that was the beginning of fairies",
+        "author":"J.M. Barrie"
+    },
+    {
+        "id":"45",
+        "text":"I am not proud, but I am happy; and happiness blinds, I think, more than pride",
+        "author":"Alexandre Dumas"
+    },
+    {
+        "id":"46",
+        "text":"Man only likes to count his troubles; he doesn't calculate his happiness",
+        "author":"Fyodor Dostoevsky"
+    },
+    {
+        "id":"47",
+        "text":"The best way to cheer yourself is to try to cheer someone else up",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"48",
+        "text":"All happiness depends on courage and work",
+        "author":"Honoré de Balzac"
+    },
+    {
+        "id":"49",
+        "text":"The advantage of a bad memory is that one enjoys several times the same good things for the first time",
+        "author":"Friedrich Nietzsche"
+    },
+    {
+        "id":"50",
+        "text":"I'm happy. Which often looks like crazy",
+        "author":"David Henry Hwang"
+    },
+    {
+        "id":"51",
+        "text":"Let no one ever come to you without leaving better and happier. Be the living expression of God's kindness: kindness in your face, kindness in your eyes, kindness in your smile",
+        "author":"Mother Teresa"
+    },
+    {
+        "id":"52",
+        "text":"o we shall let the reader answer this question for himself: who is the happier man, he who has braved the storm of life and lived or he who has stayed securely on shore and merely existed",
+        "author":"Hunter S. Thompson"
+    },
+    {
+        "id":"53",
+        "text":"I think and think and think, I‘ve thought myself out of happiness one million times, but never once into it",
+        "author":"Jonathan Safran Foer"
+    },
+    {
+        "id":"54",
+        "text":"Happiness is not the absence of problems, it's the ability to deal with them",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"55",
+        "text":"I'd far rather be happy than right any day",
+        "author":"Douglas Adams"
+    },
+    {
+        "id":"56",
+        "text":"It was only a sunny smile, and little it cost in the giving, but like morning light it scattered the night and made the day worth living",
+        "author":"F. Scott Fitzgerald"
+    },
+    {
+        "id":"57",
+        "text":"And hand in hand, on the edge of the sand, They danced by the light of the moon",
+        "author":"Edward Lear"
+    },
+    {
+        "id":"58",
+        "text":"Happiness quite unshared can scarcely be called happiness; it has no taste",
+        "author":"Charlotte Bronte"
+    },
+    {
+        "id":"59",
+        "text":"One of the keys to happiness is a bad memory",
+        "author":"Rita Mae Brown"
+    },
+    {
+        "id":"60",
+        "text":"I felt once more how simple and frugal a thing is happiness: a glass of wine, a roast chestnut, a wretched little brazier, the sound of the sea. Nothing else",
+        "author":"Nikos Kazantzakis"
+    },
+    {
+        "id":"61",
+        "text":"I don’t know what’s worse: to not know what you are and be happy, or to become what you’ve always wanted to be, and feel alone",
+        "author":"Daniel Keyes"
+    },
+    {
+        "id":"62",
+        "text":"Happiness depends on your mindset and attitude",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"63",
+        "text":"I know that's what people say-- you'll get over it. I'd say it, too. But I know it's not true. Oh, youll be happy again, never fear. But you won't forget. Every time you fall in love it will be because something in the man reminds you of him",
+        "author":"Betty Smith"
+    },
+    {
+        "id":"64",
+        "text":"Happiness depends upon ourselves",
+        "author":"Aristotle"
+    },
+    {
+        "id":"65",
+        "text":"Sometimes life knocks you on your ass... get up, get up, get up!!! Happiness is not the absence of problems, it's the ability to deal with them",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"66",
+        "text":"Now and then it's good to pause in our pursuit of happiness and just be happy",
+        "author":"Guillaume Apollinaire"
+    },
+    {
+        "id":"67",
+        "text":"I am the happiest creature in the world. Perhaps other people have said so before, but not one with such justice. I am happier even than Jane; she only smiles, I laugh",
+        "author":"Jane Austen"
+    },
+    {
+        "id":"68",
+        "text":"With mirth and laughter let old wrinkles come",
+        "author":"William Shakespeare"
+    },
+    {
+        "id":"69",
+        "text":"Happiness makes up in height for what it lacks in length",
+        "author":"Robert Frost"
+    },
+    {
+        "id":"70",
+        "text":"There is nothing more rare, nor more beautiful, than a woman being unapologetically herself; comfortable in her perfect imperfection. To me, that is the true essence of beauty",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"71",
+        "text":"Happiness is the meaning and the purpose of life, the whole aim and end of human existence",
+        "author":"Aristotle"
+    },
+    {
+        "id":"72",
+        "text":"Happily ever after, or even just together ever after, is not cheesy,” Wren said. “It’s the noblest, like, the most courageous thing two people can shoot for",
+        "author":"Rainbow Rowell"
+    },
+    {
+        "id":"73",
+        "text":"The problem with people is they forget that most of the time it's the small things that count",
+        "author":"Jennifer Niven"
+    },
+    {
+        "id":"74",
+        "text":"Smile more. Smiling can make you and others happy",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"75",
+        "text":"We don’t even ask happiness, just a little less pain",
+        "author":"Charles Bukowski"
+    },
+    {
+        "id":"76",
+        "text":"There are two ways to get enough. One is to continue to accumulate more and more. The other is to desire less",
+        "author":"G.K. Chesterton"
+    },
+    {
+        "id":"77",
+        "text":"Those who are not looking for happiness are the most likely to find it, because those who are searching forget that the surest way to be happy is to seek happiness for others",
+        "author":"Martin Luther King Jr"
+    },
+    {
+        "id":"78",
+        "text":"Stop giving other people the power to control your happiness, your mind, and your life. If you don't take control of yourself and your own life, someone else is bound to try",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"79",
+        "text":"Happiness is an accident of nature, a beautiful and flawless aberration",
+        "author":"Pat Conroy"
+    },
+    {
+        "id":"80",
+        "text":"Whoever is happy will make others happy",
+        "author":"Anne Frank"
+    },
+    {
+        "id":"81",
+        "text":"I have a million things to talk to you about. All I want in this world is you. I want to see you and talk. I want the two of us to begin everything from the beginning",
+        "author":"Haruki Murakami"
+    },
+    {
+        "id":"82",
+        "text":"The secret of happiness is freedom, the secret of freedom is courage",
+        "author":"Carrie Jones"
+    },
+    {
+        "id":"83",
+        "text":"Laughter is poison to fear",
+        "author":"George R.R. Martin"
+    },
+    {
+        "id":"84",
+        "text":"I'm choosing happiness over suffering, I know I am. I'm making space for the unknown future to fill up my life with yet-to-come surprises",
+        "author":"Elizabeth Gilbert"
+    },
+    {
+        "id":"85",
+        "text":"Keep your best wishes, close to your heart and watch what happens",
+        "author":"Tony DeLiso"
+    },
+    {
+        "id":"86",
+        "text":"I will not try to convince you to love me, to respect me, to commit to me. I deserve better than that; I AM BETTER THAN THAT...Goodbye",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"87",
+        "text":"It is the very mark of the spirit of rebellion to crave for happiness in this life",
+        "author":"Henrik Ibsen"
+    },
+    {
+        "id":"88",
+        "text":"Happiness is not a possession to be prized, it is a quality of thought, a state of mind",
+        "author":"Daphne Du Maurier"
+    },
+    {
+        "id":"89",
+        "text":"Letting go gives us freedom, and freedom is the only condition for happiness. If, in our heart, we still cling to anything - anger, anxiety, or possessions - we cannot be free",
+        "author":"Thich Nhat Hanh"
+    },
+    {
+        "id":"90",
+        "text":"A mathematical formula for happiness:Reality divided by Expectations.There were two ways to be happy:improve your reality or lower your expectations",
+        "author":"Jodi Picoult"
+    },
+    {
+        "id":"91",
+        "text":"I think happiness is what makes you pretty. Period. Happy people are beautiful. They become like a mirror and they reflect that happiness",
+        "author":"Drew Barrymore"
+    },
+    {
+        "id":"92",
+        "text":"I have no faith in human perfectibility. I think that human exertion will have no appreciable effect upon humanity. Man is now only more active - not more happy - nor more wise, than he was 6000 years ago",
+        "author":"Edgar Allan Poe"
+    },
+    {
+        "id":"93",
+        "text":"Action may not always bring happiness, but there is no happiness without action",
+        "author":"William James"
+    },
+    {
+        "id":"94",
+        "text":"Happiness is not a goal...it's a by-product of a life well lived",
+        "author":"Eleanor Roosevelt"
+    },
+    {
+        "id":"95",
+        "text":"I, not events, have the power to make me happy or unhappy today. I can choose which it shall be. Yesterday is dead, tomorrow hasn't arrived yet. I have just one day, today, and I'm going to be happy in it",
+        "author":"Groucho Marx"
+    },
+    {
+        "id":"96",
+        "text":"Children are happy because they don't have a file in their minds called  All the Things That Could Go Wrong",
+        "author":"Marianne Williamson"
+    },
+    {
+        "id":"97",
+        "text":"The power of finding beauty in the humblest things makes home happy and life lovely",
+        "author":"Louisa May Alcott"
+    },
+    {
+        "id":"98",
+        "text":"Wealth consists not in having great possessions, but in having few wants",
+        "author":"Epictetus"
+    },
+    {
+        "id":"99",
+        "text":"People are unhappy when they get something too easily. You have to sweat--that's the only moral they know",
+        "author":"Dany Laferrière"
+    },
+    {
+        "id":"100",
+        "text":"With all its sham, drudgery, and broken dreams, it is still a beautiful world. Be cheerful. Strive to be happy",
+        "author":"Max Ehrmann"
+    },
+    {
+        "id":"101",
+        "text":"Very little is needed to make a happy life; it is all within yourself in your way of thinking",
+        "author":"Marcus Aurelius"
+    },
+    {
+        "id":"102",
+        "text":"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"103",
+        "text":"And I can't be running back and fourth forever between grief and high delight",
+        "author":"J.D. Salinger"
+    },
+    {
+        "id":"104",
+        "text":"A thing of beauty is a joy forever",
+        "author":"John Keats"
+    },
+    {
+        "id":"105",
+        "text":"There is no happiness like that of being loved by your fellow creatures, and feeling that your presence is an addition to their comfort",
+        "author":"Charlotte Brontë"
+    },
+    {
+        "id":"106",
+        "text":"Ah, what happiness it is to be with people who are all happy, to press hands, press cheeks, smile into eyes",
+        "author":"Katherine Mansfield"
+    },
+    {
+        "id":"107",
+        "text":"The greater part of our happiness or misery depends upon our dispositions, and not upon our circumstances",
+        "author":"Martha Washington"
+    },
+    {
+        "id":"108",
+        "text":"Let us dance in the sun, wearing wild flowers in our hair...",
+        "author":"susan polis schutz"
+    },
+    {
+        "id":"109",
+        "text":"I had rather hear my dog bark at a crow, than a man swear he loves me",
+        "author":"William Shakespeare"
+    },
+    {
+        "id":"110",
+        "text":"The pain I feel now is the happiness I had before. That's the deal",
+        "author":"C.S. Lewis"
+    },
+    {
+        "id":"111",
+        "text":"What can I do with my happiness? How can I keep it, conceal it, bury it where I may never lose it? I want to kneel as it falls over me like rain, gather it up with lace and silk, and press it over myself again",
+        "author":"Anais Nin"
+    },
+    {
+        "id":"112",
+        "text":"I heard a definition once: Happiness is health and a short memory! I wish I'd invented it, because it is very true",
+        "author":"Audrey Hepburn"
+    },
+    {
+        "id":"113",
+        "text":"Everyone wants to live on top of the mountain, but all the happiness and growth occurs while you're climbing it",
+        "author":"Andy Rooney"
+    },
+    {
+        "id":"114",
+        "text":"Don’t sacrifice yourself too much, because if you sacrifice too much there’s nothing else you can give and nobody will care for you",
+        "author":"Karl Lagerfeld"
+    },
+    {
+        "id":"115",
+        "text":"That's the difference between me and the rest of the world! Happiness isn't good enough for me! I demand euphoria!",
+        "author":"Bill Watterson"
+    },
+    {
+        "id":"116",
+        "text":"Happiness consists in frequent repetition of pleasure",
+        "author":"Arthur Schopenhauer"
+    },
+    {
+        "id":"117",
+        "text":"I don't think that there are any limits to how excellent we could make life seem",
+        "author":"Jonathan Safran Foer"
+    },
+    {
+        "id":"118",
+        "text":"I'm a kind of paranoiac in reverse. I suspect people of plotting to make me happy",
+        "author":"J.D. Salinger"
+    },
+    {
+        "id":"119",
+        "text":"If only we'd stop trying to be happy, we could have a pretty good time",
+        "author":"Edith Wharton"
+    },
+    {
+        "id":"120",
+        "text":"And therein lies the whole of man's plight. Human time does not turn in a circle; it runs ahead in a straight line. That is why man cannot be happy: happiness is the longing for repetition",
+        "author":"Milan Kundera"
+    },
+    {
+        "id":"121",
+        "text":"The only time you fail is when you fall down and stay down",
+        "author":"Stephen Richards"
+    },
+    {
+        "id":"122",
+        "text":"I've always thought people would find a lot more pleasure in their routines if they burst into song at significant moments",
+        "author":"John Barrowman"
+    },
+    {
+        "id":"123",
+        "text":"If you want others to be happy, practice compassion. If you want to be happy, practice compassion",
+        "author":"Dalai Lama XIV"
+    },
+    {
+        "id":"124",
+        "text":"Even if things don't unfold the way you expected, don't be disheartened or give up. One who continues to advance will win in the end",
+        "author":"Daisaku Ikeda"
+    },
+    {
+        "id":"125",
+        "text":"Life is not a PG feel-good movie. Real life often ends badly. Literature tries to document this reality, while showing us it is still possible for us to endure nobly",
+        "author":"Matthew Quick"
+    },
+    {
+        "id":"126",
+        "text":"The more you praise and celebrate your life, the more there is in life to celebrate",
+        "author":"Oprah Winfrey"
+    },
+    {
+        "id":"127",
+        "text":"My happiness is not the means to any end. It is the end. It is its own goal. It is its own purpose",
+        "author":"Ayn Rand"
+    },
+    {
+        "id":"128",
+        "text":"Happiness is a risk. If you’re not a little scared, then you’re not doing it right",
+        "author":"Sarah Addison Allen"
+    },
+    {
+        "id":"129",
+        "text":"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will",
+        "author":"Epictetus"
+    },
+    {
+        "id":"130",
+        "text":"You cannot be with someone just because you don’t want to hurt him. You have your own happiness to think about",
+        "author":"Melissa de la Cruz"
+    },
+    {
+        "id":"131",
+        "text":"All who joy would win - Must share it - Happiness was born a twin",
+        "author":"George Gordon Byron"
+    },
+    {
+        "id":"132",
+        "text":"Sometimes you break your heart in the right way, if you know what I mean",
+        "author":"Gregory David Roberts"
+    },
+    {
+        "id":"133",
+        "text":"We should always make time for the things we like. If we don't, we might forget how to be happy",
+        "author":"T.J. Klune"
+    },
+    {
+        "id":"134",
+        "text":"Be believing, be happy, don't get discouraged. Things will work out",
+        "author":"Gordon B. Hinckley"
+    },
+    {
+        "id":"135",
+        "text":"Success is getting what you want - Happiness is wanting what you get",
+        "author":"Dale Carnegie"
+    },
+    {
+        "id":"136",
+        "text":"My God, a moment of bliss. Why, isn't that enough for a whole lifetime?",
+        "author":"Fyodor Dostoevsky"
+    },
+    {
+        "id":"137",
+        "text":"I don't know what good it is to know so much and be smart as whips and all if it doesn't make you happy",
+        "author":"J.D. Salinger"
+    },
+    {
+        "id":"138",
+        "text":"Happy girls are the prettiest",
+        "author":"Audrey Hepburn"
+    },
+    {
+        "id":"139",
+        "text":"Happiness. Simple as a glass of chocolate or tortuous as the heart. Bitter. Sweet. Alive",
+        "author":"Joanne Harris"
+    },
+    {
+        "id":"140",
+        "text":"They've got no idea what happiness is, they don't know that without this love there is no happiness or unhappiness for us--there is no life",
+        "author":"Leo Tolstoy"
+    },
+    {
+        "id":"141",
+        "text":"There are as many styles of beauty as there are visions of happiness",
+        "author":"Stendhal"
+    },
+    {
+        "id":"142",
+        "text":"It is sometimes easier to be happy if you don't know everything",
+        "author":"Alexander McCall Smith"
+    },
+    {
+        "id":"143",
+        "text":"those who do not know how to see the precious things in life will never be happy",
+        "author":"Alex Flinn"
+    },
+    {
+        "id":"144",
+        "text":"One swallow does not make a summer, neither does one fine day; similarly one day or brief time of happiness does not make a person entirely happy",
+        "author":"Aristotle"
+    },
+    {
+        "id":"145",
+        "text":"Happiness is a perfume you cannot pour on others without getting some on yourself",
+        "author":"Ralph Waldo Emerson"
+    },
+    {
+        "id":"146",
+        "text":"You can't be brave if you've only had wonderful things happen to you",
+        "author":"Mary Tyler Moore"
+    },
+    {
+        "id":"147",
+        "text":"Woman is not made to be the admiration of all, but the happiness of one",
+        "author":"Edmund Burke"
+    },
+    {
+        "id":"148",
+        "text":"Happiness was but the occasional episode in a general drama of pain",
+        "author":"Thomas Hardy"
+    },
+    {
+        "id":"149",
+        "text":"Love is too precious to be ashamed of",
+        "author":"Laurell K. Hamilton"
+    },
+    {
+        "id":"150",
+        "text":"We're all golden sunflowers inside",
+        "author":"allen ginsberg"
+    }
+]
