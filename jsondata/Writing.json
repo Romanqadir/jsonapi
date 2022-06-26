@@ -1,0 +1,750 @@
+[
+    {
+        "id":"1",
+        "text":"If there's a book that you want to read, but it hasn't been written yet, then you must write it.",
+        "author":"Toni Morrison"
+    },
+    {
+        "id":"2",
+        "text":"There is nothing to writing. All you do is sit down at a typewriter and bleed.",
+        "author":"Ernest Hemingway"
+    },
+    {
+        "id":"3",
+        "text":"You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.",
+        "author":"Madeleine L'Engle"
+    },
+    {
+        "id":"4",
+        "text":"If you don't have time to read, you don't have the time (or the tools) to write. Simple as that.",
+        "author":"Stephen King"
+    },
+    {
+        "id":"5",
+        "text":"We write to taste life twice, in the moment and in retrospect.",
+        "author":" Anais Nin"
+    },
+    {
+        "id":"6",
+        "text":"You never have to change anything you got up in the middle of the night to write.",
+        "author":"Saul Bellow "
+    },
+    {
+        "id":"7",
+        "text":"No tears in the writer, no tears in the reader. No surprise in the writer, no surprise in the reader.",
+        "author":" Robert Frost"
+    },
+    {
+        "id":"8",
+        "text":"You must stay drunk on writing so reality cannot destroy you.",
+        "author":"Ray Bradbury"
+    },
+    {
+        "id":"9",
+        "text":"You should write because you love the shape of stories and sentences and the creation of different words on a page. Writing comes from reading, and reading is the finest teacher of how to write.",
+        "author":"Annie Proulx"
+    },
+    {
+        "id":"10",
+        "text":"Indeed, learning to write may be part of learning to read. For all I know, writing comes out of a superior devotion to reading.",
+        "author":"Eudora Welty"
+    },
+    {
+        "id":"11",
+        "text":"Read, read, read. Read everything—  trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it. Then write. If it's good, you'll find out. If it's not, throw it out of the window.",
+        "author":"William Faulkner"
+    },
+    {
+        "id":"12",
+        "text":"I kept always two books in my pocket: one to read, one to write in.",
+        "author":"Robert Louis Stevenson"
+    },
+    {
+        "id":"13",
+        "text":"The Six Golden Rules of Writing: Read, read, read, and write, write, write.",
+        "author":"Ernest Gaines"
+    },
+    {
+        "id":"14",
+        "text":"The greatest part of a writer’s time is spent in reading, in order to write; a man will turn over half a library to make one book.",
+        "author":"Samuel Johnson"
+    },
+    {
+        "id":"15",
+        "text":"Read a thousand books, and your words will flow like a river.",
+        "author":"Lisa See"
+    },
+    {
+        "id":"16",
+        "text":"Everybody walks past a thousand story ideas every day. The good writers are the ones who see five or six of them. Most people don’t see any.",
+        "author":"Orson Scott"
+    },
+    {
+        "id":"17",
+        "text":"Find a subject you care about and which you in your heart feel others should care about. It is this genuine caring, not your games with language, which will be the most compelling and seductive element in your style.",
+        "author":"Stephen King"
+    },
+    {
+        "id":"18",
+        "text":"Most writers regard the truth as their most valuable possession, and therefore are most economical in its use.",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"19",
+        "text":"When I sit down to write a book, I do not say to myself, ‘I am going to produce a work of art.’ I write it because there is some lie that I want to expose, some fact to which I want to draw attention, and my initial concern is to get a hearing.",
+        "author":"George Orwell"
+    },
+    {
+        "id":"20",
+        "text":"Write what disturbs you, what you fear, what you have not been willing to speak about. Be willing to be split open.",
+        "author":"Natalie Goldberg"
+    },
+    {
+        "id":"21",
+        "text":"How vain it is to sit down to write when you have not stood up to live.",
+        "author":"Henry David Thoreau"
+    },
+    {
+        "id":"22",
+        "text":"Write what should not be forgotten",
+        "author":"Isabel Allende"
+    },
+    {
+        "id":"23",
+        "text":"The story must strike a nerve in me. My heart should start pounding when I hear the first line in my head. I start trembling at the risk.",
+        "author":"Susan Sontag"
+    },
+    {
+        "id":"24",
+        "text":"Sometimes the ideas just come to me. Other times I have to sweat and almost bleed to make ideas come. It’s a mysterious process, but I hope I never find out exactly how it works. I like a mystery, as you may have noticed.",
+        "author":"J.K. Rowling"
+    },
+    {
+        "id":"25",
+        "text":"I’m very lucky in that I don’t understand the world yet. If I understood the world, it would be harder for me to write these books.",
+        "author":"Mo Willems"
+    },
+    {
+        "id":"26",
+        "text":"Ideas are cheap. It’s the execution that is all important.",
+        "author":"George R.R. Martin"
+    },
+    {
+        "id":"27",
+        "text":"If you wait for inspiration to write you’re not a writer, you’re a waiter.",
+        "author":"Dan Poynter"
+    },
+    {
+        "id":"28",
+        "text":"To gain your own voice, you have to forget about having it heard.",
+        "author":"Allen Ginsberg"
+    },
+    {
+        "id":"29",
+        "text":"One day I will find the right words, and they will be simple.",
+        "author":"Jack Kerouac"
+    },
+    {
+        "id":"30",
+        "text":"It is only by writing, not dreaming about it, that we develop our own style.",
+        "author":"P.D. James"
+    },
+    {
+        "id":"31",
+        "text":"Voice is not just the result of a single sentence or paragraph or page. It’s not even the sum total of a whole story. It’s all your work laid out across the table like the bones and fossils of an unidentified carcass.",
+        "author":"Chuck Wendig"
+    },
+    {
+        "id":"32",
+        "text":"If it sounds like writing, I rewrite it. Or, if proper usage gets in the way, it may have to go. I can't allow what we learned in English composition to disrupt the sound and rhythm of the narrative.”",
+        "author":"Elmore Leonard"
+    },
+    {
+        "id":"33",
+        "text":"Your writing voice is the deepest possible reflection of who you are. The job of your voice is not to seduce or flatter or make well-shaped sentences. In your voice, your readers should be able to hear the contents of your mind, your heart, your soul.",
+        "author":" Meg Rosoff"
+    },
+    {
+        "id":"34",
+        "text":"Everywhere I go, I’m asked if the universities stifle writers. My opinion is that they don’t stifle enough of them.",
+        "author":" Flannery O’Connor"
+    },
+    {
+        "id":"35",
+        "text":"Start writing, no matter what. The water does not flow until the faucet is turned on.",
+        "author":"Louis L’Amour"
+    },
+    {
+        "id":"36",
+        "text":"First, find out what your hero wants, then just follow him.",
+        "author":"Ray Bradbury"
+    },
+    {
+        "id":"37",
+        "text":"All you have to do is write one true sentence. Write the truest sentence that you know.",
+        "author":"Ernest Hemingway"
+    },
+    {
+        "id":"38",
+        "text":"Being a writer is a very peculiar sort of job: It’s always you versus a blank sheet of paper (or a blank screen) and quite often the blank piece of paper wins.",
+        "author":"Neil Gaiman"
+    },
+    {
+        "id":"39",
+        "text":"It’s none of their business that you have to learn to write. Let them think you were born that way.",
+        "author":"Ernest Hemingway"
+    },
+    {
+        "id":"40",
+        "text":"It doesn’t matter how many book ideas you have if you can’t finish writing your book.",
+        "author":"Joe Bunting"
+    },
+    {
+        "id":"41",
+        "text":"If I waited for perfection, I would never write a word.",
+        "author":"Margaret Atwood"
+    },
+    {
+        "id":"42",
+        "text":"I am not at all in a humor for writing; I must write on until I am.",
+        "author":"Jane Austen"
+    },
+    {
+        "id":"43",
+        "text":"Get it down. Take chances. It may be bad, but it's the only way you can do anything really good.",
+        "author":"William Faulkner"
+    },
+    {
+        "id":"44",
+        "text":"One thing that helps is to give myself permission to write badly. I tell myself that I’m going to do my five or 10 pages no matter what, and that I can always tear them up the following morning if I want. I’ll have lost nothing — writing and tearing up five pages would leave me no further behind than if I took the day off.",
+        "author":" Lawrence Block"
+    },
+    {
+        "id":"45",
+        "text":"Abandon the idea that you are ever going to finish. Lose track of the 400 pages and write just one page for each day, it helps. Then when it gets finished, you are always surprised",
+        "author":"John Steinbeck"
+    },
+    {
+        "id":"46",
+        "text":"“I don’t wait for moods. You accomplish nothing if you do that. Your mind must know it has got to get down to work.",
+        "author":"Pearl S. Buck"
+    },
+    {
+        "id":"47",
+        "text":"The first draft is just you telling yourself the story.",
+        "author":"Terry Pratchett"
+    },
+    {
+        "id":"48",
+        "text":"The first draft of everything is shit.",
+        "author":"Ernest Hemingway"
+    },
+    {
+        "id":"49",
+        "text":"There is no real ending. It’s just the place where you stop the story.",
+        "author":"Frank Herbert"
+    },
+    {
+        "id":"50",
+        "text":"I would advise any beginning writer to write the first drafts as if no one else will ever read them — without a thought about publication — and only in the last draft to consider how the work will look from the outside.",
+        "author":"Anne Tyler"
+    },
+    {
+        "id":"51",
+        "text":"Be willing to write really badly.",
+        "author":"Jennifer Egan"
+    },
+    {
+        "id":"52",
+        "text":"On first drafts: It is completely raw, the sort of thing I feel free to do with the door shut — it’s the story undressed, standing up in nothing but its socks and undershorts.",
+        "author":"Stephen King"
+    },
+    {
+        "id":"53",
+        "text":"Anyone who says writing is easy isn’t doing it right.",
+        "author":" Amy Joy"
+    },
+    {
+        "id":"54",
+        "text":"You fail only if you stop writing.",
+        "author":"Ray Bradbury"
+    },
+    {
+        "id":"55",
+        "text":"If my doctor told me I had only six minutes to live, I wouldn't brood. I'd type a little faster.",
+        "author":"Isaac Asimov"
+    },
+    {
+        "id":"56",
+        "text":"Just write every day of your life. Read intensely. Then see what happens. Most of my friends who are put on that diet have very pleasant careers.",
+        "author":"Ray Bradbury"
+    },
+    {
+        "id":"57",
+        "text":"You don’t start out writing good stuff. You start out writing crap and thinking it’s good stuff, and then gradually you get better at it. That’s why I say one of the most valuable traits is persistence.",
+        "author":" Octavia E. Butler"
+    },
+    {
+        "id":"58",
+        "text":"I believe myself that a good writer doesn’t really need to be told anything except to keep at it.",
+        "author": "Chinua Achebe"
+    },
+    {
+        "id":"59",
+        "text":"The secret to being a writer is that you have to write. It’s not enough to think about writing or to study literature or plan a future life as an author. You really have to lock yourself away, alone, and get to work.",
+        "author":"Augusten Burroughs"
+    },
+    {
+        "id":"60",
+        "text":"It is by sitting down to write every morning that one becomes a writer.",
+        "author":"Gerald Brenan"
+    },
+    {
+        "id":"61",
+        "text":"You just have to go on when it is worst and most helpless — there is only one thing to do with a novel and that is go straight on through to the end of the damn thing.",
+        "author":"Ernest Hemingway"
+    },
+    {
+        "id":"62",
+        "text":"The nearest I have to a rule is a Post-it on the wall in front of my desk saying ‘Faire et se taire’ from Flaubert. Which I translate for myself as ‘Shut up and get on with it.’",
+        "author":"Helen Simpson"
+    },
+    {
+        "id":"63",
+        "text":"“I’ve been writing since I was six. It is a compulsion, so I can’t really say where the desire came from; I’ve always had it. My breakthrough with the first book came through persistence, because a lot of publishers turned it down.",
+        "author":"J.K. Rowling"
+    },
+    {
+        "id":"64",
+        "text":"Any man who keeps working is not a failure. He may not be a great writer, but if he applies the old-fashioned virtues of hard, constant labor, he’ll eventually make some kind of career for himself as a writer.",
+        "author":"Ray Bradbury"
+    },
+    {
+        "id":"65",
+        "text":"It is worth mentioning, for future reference, that the creative power which bubbles so pleasantly in beginning a new book quiets down after a time, and one goes on more steadily. Doubts creep in. Then one becomes resigned. Determination not to give in, and the sense of an impending shape keep one at it more than anything.",
+        "author":"Virginia Woolf"
+    },
+    {
+        "id":"66",
+        "text":"A professional writer is an amateur who didn’t quit.",
+        "author":"Richard Bach"
+    },
+    {
+        "id":"67",
+        "text":"You can always edit a bad page. You can’t edit a blank page.",
+        "author":"Jodi Picoult"
+    },
+    {
+        "id":"68",
+        "text":"When your story is ready for a rewrite, cut it to the bone. Get rid of every ounce of excess fat. This is going to hurt; revising a story down to the bare essentials is always a little like murdering children, but it must be done.",
+        "author":"Stephen King"
+    },
+    {
+        "id":"69",
+        "text":"The best advice on writing was given to me by my first editor, Michael Korda, of Simon and Schuster, while writing my first book. 'Finish your first draft and then we'll talk,' he said. It took me a long time to realize how good the advice was. Even if you write it wrong, write and finish your first draft. Only then, when you have a flawed whole, do you know what you have to fix.",
+        "author":"Dominick Dunne"
+    },
+    {
+        "id":"70",
+        "text":"The main thing I try to do is write as clearly as I can. I rewrite a good deal to make it clear.",
+        "author":"E.B. White"
+    },
+    {
+        "id":"71",
+        "text":"You write to communicate to the hearts and minds of others what's burning inside you, and we edit to let the fire show through the smoke.",
+        "author":"Arthur Plotnik"
+    },
+    {
+        "id":"72",
+        "text":"It is perfectly okay to write garbage — as long as you edit brilliantly.",
+        "author":"C. J. Cherryh"
+    },
+    {
+        "id":"73",
+        "text":"So the writer who breeds more words than he needs, is making a chore for the reader who reads.",
+        "author":"Dr. Seuss"
+    },
+    {
+        "id":"74",
+        "text":"I would write a book, or a short story, at least three times — once to understand it, the second time to improve the prose, and a third to compel it to say what it still must say. Somewhere I put it this way: first drafts are for learning what one's fiction wants him to say. Revision works with that knowledge to enlarge and enhance an idea, to reform it. Revision is one of the exquisite pleasures of writing.",
+        "author":"Bernard Malamud"
+    },
+    {
+        "id":"75",
+        "text":"No passion in the world is equal to the passion to alter someone else's draft.",
+        "author":"H.G. Wells"
+    },
+    {
+        "id":"76",
+        "text":"A writer is a world trapped in a person.",
+        "author":"Victor Hugo"
+    },
+    {
+        "id":"77",
+        "text":"A writer is someone for whom writing is more difficult than it is for other people.",
+        "author":"Thomas Mann"
+    },
+    {
+        "id":"78",
+        "text":"People say, ‘What advice do you have for people who want to be writers?’ I say, they don’t really need advice, they know they want to be writers, and they’re gonna do it. Those people who know that they really want to do this and are cut out for it, they know it.",
+        "author":"R.L. Stine"
+    },
+    {
+        "id":"79",
+        "text":"As a writer, you should not judge, you should understand.",
+        "author":"Ernest Hemingway"
+    },
+    {
+        "id":"80",
+        "text":"Let me live, love, and say it well in good sentences.",
+        "author":"Sylvia Plath"
+    },
+    {
+        "id":"81",
+        "text":"I think all writing is a disease. You can’t stop it",
+        "author":"William Carlos Williams"
+    },
+    {
+        "id":"82",
+        "text":"Each writer is born with a repertory company in his head. Shakespeare has perhaps 20 players. I have 10 or so, and that’s a lot. As you get older, you become more skillful at casting them.",
+        "author":"Gore Vidal"
+    },
+    {
+        "id":"83",
+        "text":"For your born writer, nothing is so healing as the realization that he has come upon the right word.",
+        "author":"Catherine Drinker Bowen"
+    },
+    {
+        "id":"84",
+        "text":"The task of a writer consists of being able to make something out of an idea.",
+        "author":"Thomas Mann"
+    },
+    {
+        "id":"85",
+        "text":"Some editors are failed writers, but so are most writers.",
+        "author":"T.S. Eliot"
+    },
+    {
+        "id":"86",
+        "text":"Many people hear voices when no one is there. Some of them are called mad and are shut up in rooms where they stare at the walls all day. Others are called writers and they do pretty much the same thing.",
+        "author":"Margaret Chittenden"
+    },
+    {
+        "id":"87",
+        "text":"A writer never has a vacation. For a writer life consists of either writing or thinking about writing.",
+        "author":"Eugene Ionesco"
+    },
+    {
+        "id":"88",
+        "text":"Either write something worth reading or do something worth writing.",
+        "author":"Benjamin Franklin"
+    },
+    {
+        "id":"89",
+        "text":"A person is a fool to become a writer. His only compensation is absolute freedom. He has no master except his own soul, and that, I am sure, is why he does it.",
+        "author":"Roald Dahl"
+    },
+    {
+        "id":"90",
+        "text":"Writing is the only thing that, when I do it, I don’t feel I should be doing something else.",
+        "author":"Gloria Steinem"
+    },
+    {
+        "id":"91",
+        "text":"I can shake off everything as I write; my sorrows disappear, my courage is reborn.",
+        "author":"Anne Frank"
+    },
+    {
+        "id":"92",
+        "text":"The very reason I write is so that I might not sleepwalk through my entire life.",
+        "author":"Zadie Smith"
+    },
+    {
+        "id":"93",
+        "text":"The good writing of any age has always been the product of someone’s neurosis.",
+        "author":"William Styron"
+    },
+    {
+        "id":"94",
+        "text":"No matter what people tell you, words and ideas can change the world.",
+        "author":"Robin Williams"
+    },
+    {
+        "id":"95",
+        "text":"Words can be like X-rays if you use them properly — they'll go through anything. You read and you're pierced.",
+        "author":"Aldous Huxley"
+    },
+    {
+        "id":"96",
+        "text":"You can make anything by writing.",
+        "author":"C.S. Lewis"
+    },
+    {
+        "id":"97",
+        "text":"Writers live twice",
+        "author":"  Natalie Goldberg"
+    },
+    {
+        "id":"98",
+        "text":"History will be kind to me for I intend to write it.",
+        "author":"Churchill"
+    },
+    {
+        "id":"99",
+        "text":"Anybody can make history. Only a great man can write it.",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"100",
+        "text":"My own experience is that once a story has been written, one has to cross out the beginning and the end. It is there that we authors do most of our lying.",
+        "author":"Anton Chekhov"
+    },
+    {
+        "id":"101",
+        "text":"There are three rules for writing a novel. Unfortunately, no one knows what they are.",
+        "author":"Somerset Maugham"
+    },
+    {
+        "id":"102",
+        "text":"Any word you have to hunt for in a thesaurus is the wrong word. There are no exceptions to this rule.",
+        "author":"Stephen King"
+    },
+    {
+        "id":"103",
+        "text":"Substitute 'damn' every time you're inclined to write 'very;' your editor will delete it and the writing will be just as it should be.",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"104",
+        "text":"Find your best time of the day for writing and write. Don’t let anything else interfere. Afterwards it won’t matter to you that the kitchen is a mess.",
+        "author":"Esther Freud"
+    },
+    {
+        "id":"105",
+        "text":"Here is a lesson in creative writing. First rule: Do not use semicolons. [...] All they do is show you've been to college.",
+        "author":"Kurt Vonnegut"
+    },
+    {
+        "id":"106",
+        "text":"To produce a mighty book, you must choose a mighty theme.",
+        "author":"Herman Melville"
+    },
+    {
+        "id":"107",
+        "text":"Write drunk, edit sober.",
+        "author":"Ernest Hemingway"
+    },
+    {
+        "id":"108",
+        "text":"The difference between the almost right word and the right word is the difference between the lightning bug and the lightning.",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"109",
+        "text":"The main rule of writing is that if you do it with enough assurance and confidence, you’re allowed to do whatever you like. (That may be a rule for life as well as for writing. But it’s definitely true for writing.) So write your story as it needs to be written. Write it ­honestly, and tell it as best you can. I’m not sure that there are any other rules. Not ones that matter.",
+        "author":"Neil Gaiman"
+    },{
+        "id":"110",
+        "text":"Exercise the writing muscle every day, even if it is only a letter, notes, a title list, a character sketch, a journal entry. Writers are like dancers, like athletes. Without that exercise, the muscles seize up.",
+        "author":"Jane Yolen"
+    },
+    {
+        "id":"111",
+        "text":"Style means the right word. The rest matters little.",
+        "author":"Jules Renard"
+    },
+    {
+        "id":"112",
+        "text":"My aim in constructing sentences is to make the sentence utterly easy to understand, writing what I call transparent prose. I’ve failed dreadfully if you have to read a sentence twice to figure out what I meant.",
+        "author":"Ken Follett"
+    },
+    {
+        "id":"113",
+        "text":"You can’t let praise or criticism get to you. It’s a weakness to get caught up in either one.",
+        "author":"John Wooden"
+    },
+    {
+        "id":"114",
+        "text":"Rejection slips, or form letters, however tactfully phrased, are lacerations of the soul, if not quite inventions of the devil — but there is no way around them.",
+        "author":"Isaac Asimov"
+    },
+    {
+        "id":"115",
+        "text":"I love my rejection slips. They show me I try.",
+        "author":"Sylvia Plath"
+    },
+    {
+        "id":"116",
+        "text":"I would advise anyone who aspires to a writing career that before developing his talent, he would be wise to develop a thick hide.",
+        "author":"Harper Lee"
+    },
+    {
+        "id":"117",
+        "text":"I used to save all my rejection slips because I told myself, one day I’m going to autograph these and auction them. And then I lost the box.",
+        "author":"James Lee Burke"
+    },
+    {
+        "id":"118",
+        "text":"This manuscript of yours that has just come back from another editor is a precious package. Don’t consider it rejected. Consider that you’ve addressed it ‘to the editor who can appreciate my work’ and it has simply come back stamped ‘Not at this address’. Just keep looking for the right address.",
+        "author":"Barbara Kingsolver"
+    },
+    {
+        "id":"119",
+        "text":"Remember: when people tell you something’s wrong or doesn’t work for them, they are almost always right. When they tell you exactly what they think is wrong and how to fix it, they are almost always wrong.",
+        "author":"Neil Gaiman"
+    },
+    {
+        "id":"120",
+        "text":"The artist doesn’t have time to listen to the critics. The ones who want to be writers read the reviews, the ones who want to write don’t have the time to read reviews.",
+        "author":"William Faulkner"
+    },
+    {
+        "id":"121",
+        "text":"I think that you have to believe in your destiny; that you will succeed, you will meet a lot of rejection and it is not always a straight path, there will be detours — so enjoy the view.",
+        "author":"Michael York"
+    },
+    {
+        "id":"122",
+        "text":"I went for years not finishing anything. Because, of course, when you finish something you can be judged.",
+        "author":" Erica Jong"
+    },
+    {
+        "id":"123",
+        "text":"“I tell writers to keep reading, reading, reading. Read widely and deeply. And I tell them not to give up even after getting rejection letters. And only write what you love.",
+        "author":"Anita Diamant"
+    },
+    {
+        "id":"124",
+        "text":"I could write an entertaining novel about rejection slips, but I fear it would be overly long.",
+        "author":"Louise Brown"
+    },
+    {
+        "id":"125",
+        "text":"An absolutely necessary part of a writer’s equipment, almost as necessary as talent, is the ability to stand up under punishment, both the punishment the world hands out and the punishment he inflicts upon himself.",
+        "author":"Irwin Shaw"
+    },
+    {
+        "id":"126",
+        "text":"Failures are finger posts on the road to achievement.",
+        "author":"C. S. Lewis"
+    },
+    {
+        "id":"127",
+        "text":"Every secret of a writer’s soul, every experience of his life, every quality of his mind, is written large in his works.",
+        "author":"Virginia Woolf"
+    },
+    {
+        "id":"128",
+        "text":"If the book is true, it will find an audience that is meant to read it.",
+        "author":"Wally Lamb"
+    },
+    {
+        "id":"129",
+        "text":"A word after a word after a word is power.",
+        "author":"Margaret Atwood"
+    },
+    {
+        "id":"130",
+        "text":"If you want to change the world, pick up your pen and write.",
+        "author":"Martin Luther"
+    },
+    {
+        "id":"131",
+        "text":"The purpose of a writer is to keep civilization from destroying itself.",
+        "author":" Albert Camus"
+    },
+    {
+        "id":"132",
+        "text":"Good fiction’s job is to comfort the disturbed and disturb the comfortable.",
+        "author":"David Foster Wallace"
+    },
+    {
+        "id":"133",
+        "text":"After nourishment, shelter and companionship, stories are the thing we need most in the world.",
+        "author":"Philip Pullman"
+    },
+    {
+        "id":"134",
+        "text":"All stories have to at least try to explain some small portion of the meaning of life.",
+        "author":"Gene Weingarten"
+    },
+    {
+        "id":"135",
+        "text":"If a nation loses its storytellers, it loses its childhood.",
+        "author":"Peter Handke"
+    },
+    {
+        "id":"136",
+        "text":"If I had to give young writers advice, I would say don’t listen to writers talking about writing or themselves.",
+        "author":"Lillian Hellman"
+    },
+    {
+        "id":"137",
+        "text":"Don’t take anyone’s writing advice too seriously.",
+        "author":"Lev Grossman"
+    },
+    {
+        "id":"138",
+        "text":"There is no rule on how to write. Sometimes it comes easily and perfectly: sometimes it’s like drilling rock and then blasting it out with charges.",
+        "author":"Ernest Hemingway"
+    },
+    {
+        "id":"139",
+        "text":"And by the way, everything in life is writable about if you have the outgoing guts to do it, and the imagination to improvise. The worst enemy to creativity is self-doubt.",
+        "author":"Sylvia Plath"
+    },{
+        "id":"140",
+        "text":"The best time to plan a book is while you’re doing the dishes.",
+        "author":"Agatha Christie"
+    },
+    {
+        "id":"141",
+        "text":"I try to write a certain amount each day, five days a week. A rule sometimes broken is better than no rule.",
+        "author":"Herman Wouk"
+    },
+    {
+        "id":"142",
+        "text":"We will open the book. Its pages are blank. We are going to put words on them ourselves. The book is called Opportunity and its first chapter is New Year’s Day.",
+        "author":"Edith Lovejoy Pierce"
+    },
+    {
+        "id":"143",
+        "text":"There’s no better teacher for writing than reading… Get a library card. That’s the best investment.",
+        "author":"Alisa Valdes"
+    },
+    {
+        "id":"144",
+        "text":"A writer is a person for whom writing is more difficult than it is for other people.",
+        "author":"Thomas Mann"
+    },
+    {
+        "id":"145",
+        "text":"If you write one story, it may be bad; if you write a hundred, you have the odds in your favor.",
+        "author":"Edgar Rice Burroughs"
+    },
+    {
+        "id":"146",
+        "text":"If a story is not about the hearer, he will not listen. And here I make a rule – a great and interesting story is about everyone or it will not last.",
+        "author":"John Steinbeck"
+    },
+    {
+        "id":"147",
+        "text":"Words can be like X-rays if you use them properly – they’ll go through anything. You read and you’re pierced.",
+        "author":"Aldous Huxley"
+    },
+    {
+        "id":"148",
+        "text":"My first feeling was that there was no way to continue. Writing isn’t like math; in math, two plus two always equals four no matter what your mood is like. With writing, the way you feel changes everything.",
+        "author":"Stephenie Meyer"
+    },
+    {
+        "id":"149",
+        "text":"There is probably no hell for authors in the next world – they suffer so much from critics and publishers in this one.",
+        "author":"C.N. Bovee"
+    },
+    {
+        "id":"150",
+        "text":"Sometimes the ideas just come to me. Other times I have to sweat and almost bleed to make ideas come. It’s a mysterious process, but I hope I never find out exactly how it works. I like a mystery, as you may have noticed.",
+        "author":"J.K. Rowling"
+    }
+]
