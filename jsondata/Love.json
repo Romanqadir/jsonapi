@@ -1,0 +1,776 @@
+[
+    {
+        "id":"1",
+        "text":"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+        "author":"Lao Tzu"
+    },
+    {
+        "id":"2",
+        "text":"We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.",
+        "author":" Orson Welles"
+    },
+    {
+        "id":"3",
+        "text":"Let us always meet each other with smile, for the smile is the beginning of love.",
+        "author":" Mother Teresa"
+    },
+    {
+        "id":"4",
+        "text":"You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
+        "author":"Buddha"
+    },
+    {
+        "id":"5",
+        "text":"Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity.",
+        "author":" Henry Van Dyke"
+    },
+    {
+        "id":"6",
+        "text":"Love is composed of a single soul inhabiting two bodies.",
+        "author":"Aristotle"
+    },
+    {
+        "id":"7",
+        "text":"I feel that there is nothing more truly artistic than to love people.",
+        "author":" Vincent Van Gogh"
+    },
+    {
+        "id":"8",
+        "text":"Life without love is like a tree without blossoms or fruit.",
+        "author":"Khalil Gibran"
+    },
+    {
+        "id":"9",
+        "text":"True love is like ghosts, which everyone talks about and few have seen.",
+        "author":"Francois de La Rochefoucauld"
+    },
+    {
+        "id":"10",
+        "text":"Where there is love there is life.",
+        "author":" Mahatma Gandhi"
+    },
+    {
+        "id":"11",
+        "text":"You can't blame gravity for falling in love.",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"12",
+        "text":"Life is the flower for which love is the honey.",
+        "author":" Victor Hugo"
+    },
+    {
+        "id":"13",
+        "text":"Love does not consist in gazing at each other, but in looking outward together in the same direction.",
+        "author":"Antoine de Saint-Exupery"
+    },
+    {
+        "id":"14",
+        "text":"Love and compassion are necessities, not luxuries. Without them humanity cannot survive.",
+        "author":"Dalai Lama"
+    },
+    {
+        "id":"15",
+        "text":"Choose your love, Love your choice.",
+        "author":"Thomas S. Monson"
+    },
+    {
+        "id":"16",
+        "text":"Love is the only reality and it is not a mere sentiment. It is the ultimate truth that lies at the heart of creation.",
+        "author":"Rabindranath Tagore"
+    },
+    {
+        "id":"17",
+        "text":"Love is energy of life.",
+        "author":"Robert Browning"
+    },
+    {
+        "id":"18",
+        "text":"To love oneself is the beginning of a lifelong romance.",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"19",
+        "text":"To love and be loved is to feel the sun from both sides.",
+        "author":"David Viscott"
+    },
+    {
+        "id":"20",
+        "text":"For small creatures such as we the vastness is bearable only through love.",
+        "author":" Carl Sagan"
+    },
+    {
+        "id":"21",
+        "text":"Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.",
+        "author":"Lucille Ball"
+    },
+    {
+        "id":"22",
+        "text":"Love doesn't make the world go 'round. Love is what makes the ride worthwhile.",
+        "author":"Franklin P. Jones"
+    },
+    {
+        "id":"23",
+        "text":"True love is eternal, infinite, and always like itself. It is equal and pure, without violent demonstrations: it is seen with white hairs and is always young in the heart.",
+        "author":" Honore de Balzac"
+    },
+    {
+        "id":"24",
+        "text":"One does not fall in love; one grows into love, and love grows in him.",
+        "author":"Karl A. Menninger"
+    },
+    {
+        "id":"25",
+        "text":"Love is the flower you've got to let grow.",
+        "author":"John Lennon"
+    },
+    {
+        "id":"26",
+        "text":"True love cannot be found where it does not exist, nor can it be denied where it does.",
+        "author":" Torquato Tasso"
+    },
+    {
+        "id":"27",
+        "text":"What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.",
+        "author":"Helen Keller"
+    },
+    {
+        "id":"28",
+        "text":"Immature love says: 'I love you because I need you.' Mature love says 'I need you because I love you'.",
+        "author":" Erich Fromm"
+    },
+    {
+        "id":"29",
+        "text":"Love isn't something you find. Love is something that finds you.",
+        "author":"Loretta Young"
+    },
+    {
+        "id":"30",
+        "text":"Love is like war: easy to begin but very hard to stop.",
+        "author":"H. L. Mencken"
+    },
+    {
+        "id":"31",
+        "text":"Love is an act of endless forgiveness, a tender look which becomes a habit.",
+        "author":"Peter Ustinov"
+    },
+    {
+        "id":"32",
+        "text":"Love can be unselfish, in the sense of being benevolent and generous, without being selfless.",
+        "author":"Mortimer Adler"
+    },
+    {
+        "id":"33",
+        "text":"Love is an energy which exists of itself. It is its own value.",
+        "author":" Thornton Wilder"
+    },
+    {
+        "id":"34",
+        "text":"Faith makes all things possible... love makes all things easy. Dwight L. Moody",
+        "author":"Dwight L.M00dy"
+    },
+    {
+        "id":"35",
+        "text":"When love is at its best, one loves so much that he cannot forget.",
+        "author":"Helen Hunt Jackson"
+    },
+    {
+        "id":"36",
+        "text":"A flower cannot blossom without sunshine, and man cannot live without love.",
+        "author":" Max Mulle"
+    },
+    {
+        "id":"37",
+        "text":"Love has no age, no limit; and no death.",
+        "author":"John Galsworthy"
+    },
+    {
+        "id":"38",
+        "text":"Love is a canvas furnished by nature and embroidered by imagination.",
+        "author":"Voltaire"
+    },
+    {
+        "id":"39",
+        "text":"Love is an irresistible desire to be irresistibly desired.",
+        "author":"Robert Frost"
+    },
+    {
+        "id":"40",
+        "text":"We loved with a love that was more than love.",
+        "author":"Edgar Allan Po"
+    },
+    {
+        "id":"41",
+        "text":"To say 'I love you' one must first be able to say the 'I.'",
+        "author":" Ayn Rand"
+    },
+    {
+        "id":"42",
+        "text":"A kiss is a lovely trick designed by nature to stop speech when words become superfluous.",
+        "author":"Ingrid Bergman"
+    },
+    {
+        "id":"43",
+        "text":"Love can sometimes be magic. But magic can sometimes... just be an illusion.",
+        "author":" Javan"
+    },
+    {
+        "id":"44",
+        "text":"The best proof of love is trust.",
+        "author":"Joyce Brothers"
+    },
+    {
+        "id":"45",
+        "text":"Love is a friendship set to music.",
+        "author":"Joseph Campbell"
+    },
+    {
+        "id":"46",
+        "text":"Come live in my heart, and pay no rent.",
+        "author":"Samuel Lover"
+    },
+    {
+        "id":"47",
+        "text":"Love is always bestowed as a gift - freely, willingly and without expectation. We don't love to be loved; we love to love.",
+        "author":"Leo Buscaglia"
+    },
+    {
+        "id":"48",
+        "text":"When love is not madness, it is not love.",
+        "author":"Pedro Calderon de la Barca"
+    },
+    {
+        "id":"49",
+        "text":"We can only learn to love by loving.",
+        "author":" Iris Murdoch"
+    },
+    {
+        "id":"50",
+        "text":"One is loved because one is loved. No reason is needed for loving.",
+        "author":" Paulo Coelho"
+    },
+    {
+        "id":"51",
+        "text":"You can give without loving, but you can never love without giving.",
+        "author":" Robert Louis Stevenson"
+    },
+    {
+        "id":"52",
+        "text":"Don't forget to love yourself.",
+        "author":"Soren Kierkegaard"
+    },
+    {
+        "id":"53",
+        "text":"The way to love anything is to realize that it may be lost.",
+        "author":"Gilbert K. Chesterton"
+    },
+    {
+        "id":"54",
+        "text":"People protect what they love.",
+        "author":"Jacques Yves Cousteau"
+    },
+    {
+        "id":"55",
+        "text":"Love knows not distance; it hath no continent; its eyes are for the stars.",
+        "author":"Gilbert Parker"
+    },
+    {
+        "id":"56",
+        "text":"Don't threaten me with love, baby. Let's just go walking in the rain.",
+        "author":"Billie Holiday"
+    },
+    {
+        "id":"57",
+        "text":"Your words are my food, your breath my wine. You are everything to me.",
+        "author":"Sarah Bernhardt"
+    },
+    {
+        "id":"58",
+        "text":"Friendship often ends in love; but love in friendship - never.",
+        "author":" Charles Caleb Colton"
+    },
+    {
+        "id":"59",
+        "text":"Absence sharpens love, presence strengthens it.",
+        "author":"Thomas Fuller"
+    },
+    {
+        "id":"60",
+        "text":"A loving heart is the truest wisdom.",
+        "author":" Charles Dickens"
+    },
+    {
+        "id":"61",
+        "text":"I can live without money, but I cannot live without love.",
+        "author":"Judy Garland"
+    },
+    {
+        "id":"62",
+        "text":"Only do what your heart tells you.",
+        "author":" Princess Diana"
+    },
+    {
+        "id":"63",
+        "text":"Love you will find only where you may show yourself weak without provoking strength.",
+        "author":" Theodor W. Adorno"
+    },
+    {
+        "id":"64",
+        "text":"Love is a game that two can play and both win.",
+        "author":" Eva Gabor"
+    },
+    {
+        "id":"65",
+        "text":"We waste time looking for the perfect lover, instead of creating the perfect love.",
+        "author":" Tom Robbins"
+    },
+    {
+        "id":"66",
+        "text":"True love comes quietly, without banners or flashing lights. If you hear bells, get your ears checked.",
+        "author":"Erich Segal"
+    },
+    {
+        "id":"67",
+        "text":"Love is space and time measured by the heart.",
+        "author":"Marcel Proust"
+    },
+    {
+        "id":"68",
+        "text":"Love in its essence is spiritual fire.",
+        "author":" Lucius Annaeus Seneca"
+    },
+    {
+        "id":"69",
+        "text":"There is always something left to love. And if you ain't learned that, you ain't learned nothing.",
+        "author":" Lorraine Hansberry"
+    },
+    {
+        "id":"70",
+        "text":"A man is already halfway in love with any woman who listens to him.",
+        "author":" Brendan Behan"
+    },
+    {
+        "id":"71",
+        "text":"The fate of love is that it always seems too little or too much.",
+        "author":" Amelia Barr"
+    },
+    {
+        "id":"72",
+        "text":"The giving of love is an education in itself.",
+        "author":"Eleanor Roosevelt"
+    },
+    {
+        "id":"73",
+        "text":"The art of love is largely the art of persistence.",
+        "author":" Albert Ellis"
+    },
+    {
+        "id":"74",
+        "text":"In our life there is a single color, as on an artist's palette, which provides the meaning of life and art. It is the color of love.",
+        "author":"Marc Chagall"
+    },
+    {
+        "id":"75",
+        "text":"Love, having no geography, knows no boundaries.",
+        "author":"Truman Capote"
+    },
+    {
+        "id":"76",
+        "text":"A loving heart is the beginning of all knowledge.",
+        "author":"Thomas Carlyle"
+    },
+    {
+        "id":"77",
+        "text":"A part of kindness consists in loving people more than they deserve.",
+        "author":"Joseph Joubert"
+    },
+    {
+        "id":"78",
+        "text":"Love is never wrong.",
+        "author":" Melissa Etheridge"
+    },
+    {
+        "id":"79",
+        "text":"stolen kisses are always sweetest.",
+        "author":"Leigh Hunt"
+    },
+    {
+        "id":"80",
+        "text":"You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.",
+        "author":"Anatole France"
+    },
+    {
+        "id":"81",
+        "text":"Be of love a little more careful than of anything.",
+        "author":" e. e. cummings"
+    },
+    {
+        "id":"82",
+        "text":"In a full heart there is room for everything, and in an empty heart there is room for nothing.",
+        "author":"Antonio Porchia"
+    },
+    {
+        "id":"83",
+        "text":"To love is to admire with the heart; to admire is to love with the mind.",
+        "author":"Theophile Gautier"
+    },
+    {
+        "id":"84",
+        "text":"Love is being stupid together.",
+        "author":" Paul Valery"
+    },
+    {
+        "id":"85",
+        "text":"Love is not only something you feel, it is something you do.",
+        "author":"David Wilkerson"
+    },
+    {
+        "id":"86",
+        "text":"Whatever our souls are made of, his and mine are the same.",
+        "author":" Emily Bronte"
+    },
+    {
+        "id":"87",
+        "text":"It is sad not to love, but it is much sadder not to be able to love.",
+        "author":" Miguel de Unamuno"
+    },
+    {
+        "id":"88",
+        "text":"The love of liberty is the love of others; the love of power is the love of ourselves.",
+        "author":"William Hazlitt"
+    },
+    {
+        "id":"89",
+        "text":"If you can learn to love yourself and all the flaws, you can love other people so much better. And that makes you so happy.",
+        "author":"Kristin Chenoweth"
+    },
+    {
+        "id":"90",
+        "text":"The first duty of love is to listen.",
+        "author":"Paul Tillich"
+    },
+    {
+        "id":"91",
+        "text":"Love is the magician that pulls man out of his own hat.",
+        "author":" Ben Hecht"
+    },
+    {
+        "id":"92",
+        "text":"There is no person that love cannot heal; there is no soul that love cannot save.",
+        "author":" Carlos Santana"
+    },
+    {
+        "id":"93",
+        "text":"We are all born for love. It is the principle of existence, and its only end.",
+        "author":"Benjamin Disraeli"
+    },
+    {
+        "id":"94",
+        "text":"Love makes your soul crawl out from its hiding place.",
+        "author":"Zora Neale Hurston"
+    },
+    {
+        "id":"95",
+        "text":"To love abundantly is to live abundantly, and to love forever is to live forever.",
+        "author":" Henry Drummond"
+    },
+    {
+        "id":"96",
+        "text":"We love because it's the only true adventure.",
+        "author":"Nikki Giovanni"
+    },
+    {
+        "id":"97",
+        "text":"With our love, we could save the world.",
+        "author":" George Harrison"
+    },
+    {
+        "id":"98",
+        "text":"Self-love is the source of all our other loves.",
+        "author":"Pierre Corneille"
+    },
+    {
+        "id":"99",
+        "text":"Nobody has ever measured, not even poets, how much the heart can hold.",
+        "author":"Zelda Fitzgerald_"
+    },
+    {
+        "id":"100",
+        "text":"Love is what you've been through with somebody.",
+        "author":"James Thurber"
+    },
+    {
+        "id":"101",
+        "text":"ove is the ultimate expression of the will to live.",
+        "author":" Tom Wolfe"
+    },
+    {
+        "id":"102",
+        "text":"There's no bad consequence to loving fully, with all your heart. You always gain by giving love.",
+        "author":"Reese Witherspoon"
+    },
+    {
+        "id":"103",
+        "text":"Love is supreme and unconditional; like is nice but limited.",
+        "author":" Duke Ellington"
+    },
+    {
+        "id":"104",
+        "text":"Suffering passes, while love is eternal. That's a gift that you have received from God. Don't waste it.",
+        "author":"Laura Ingalls Wilder"
+    },
+    {
+        "id":"105",
+        "text":"Loving others always costs us something and requires effort. And you have to decide to do it on purpose. You can't wait for a feeling to motivate you.",
+        "author":"Joyce Meyer"
+    },
+    {
+        "id":"106",
+        "text":"I love that feeling of being in love, the effect of having butterflies when you wake up in the morning. That is special.",
+        "author":"Jennifer Aniston"
+    },
+    {
+        "id":"107",
+        "text":"The sweetest of all sounds is that of the voice of the woman we love.",
+        "author":"Jean de la Bruyere"
+    },
+    {
+        "id":"108",
+        "text":"Love is the hardest habit to break, and the most difficult to satisfy.",
+        "author":"Drew Barrymore"
+    },
+    {
+        "id":"109",
+        "text":"Love is a great beautifier.",
+        "author":" Louisa May Alcott"
+    },{
+        "id":"110",
+        "text":"The way to know life is to love many things.",
+        "author":"Vincent Van Gogh"
+    },
+    {
+        "id":"111",
+        "text":"Great thoughts come from the heart.",
+        "author":"Luc de Clapiers"
+    },
+    {
+        "id":"112",
+        "text":"There is no limit to the power of loving.",
+        "author":"John Morton"
+    },
+    {
+        "id":"113",
+        "text":"Love is the poetry of the senses.",
+        "author":"Honore de Balzac"
+    },
+    {
+        "id":"114",
+        "text":"Familiar acts are beautiful through love.",
+        "author":" Percy Bysshe Shelley"
+    },
+    {
+        "id":"115",
+        "text":"If it is your time, love will track you down like a cruise missile.",
+        "author":" Lynda Barry"
+    },
+    {
+        "id":"116",
+        "text":"People think love is an emotion. Love is good sense.",
+        "author":"Ken Kesey"
+    },
+    {
+        "id":"117",
+        "text":"If you wish to be loved, show more of your faults than your virtues.",
+        "author":" Edward G. Bulwer-Lytton"
+    },
+    {
+        "id":"118",
+        "text":"Love is the great miracle cure. Loving ourselves works miracles in our lives.",
+        "author":" Louise L. Hay"
+    },
+    {
+        "id":"119",
+        "text":"Sometimes it's a form of love just to talk to somebody that you have nothing in common with and still be fascinated by their presence.",
+        "author":"David Byrne"
+    },
+    {
+        "id":"120",
+        "text":"Love comes unseen; we only see it go.",
+        "author":"Henry Austin Dobson"
+    },
+    {
+        "id":"121",
+        "text":"Falling in love consists merely in uncorking the imagination and bottling the common sense.",
+        "author":"Helen Rowland"
+    },
+    {
+        "id":"122",
+        "text":"We may give without loving, but we cannot love without giving.",
+        "author":"Bernard Meltzer"
+    },
+    {
+        "id":"123",
+        "text":"For above all things Love means sweetness, and truth, and measure; yea, loyalty to the loved one and to your word. And because of this I dare not meddle with so high a matter.",
+        "author":"Marie de France"
+    },
+    {
+        "id":"124",
+        "text":"When you're in love you never really know whether your elation comes from the qualities of the one you love, or if it attributes them to her; whether the light which surrounds her like a halo comes from you, from her, or from the meeting of your sparks.",
+        "author":"Natalie Clifford Barney"
+    },
+    {
+        "id":"125",
+        "text":"We don't believe in rheumatism and true love until after the first attack.",
+        "author":"Marie von Ebner-Eschenbach"
+    },
+    {
+        "id":"126",
+        "text":"Love is a mutual self-giving which ends in self-recovery. Fulton J. Sheen
+        Read more at https://www.brainyquote.com/topics/love-quotes_4",
+        "author":""
+    },
+    {
+        "id":"127",
+        "text":"The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves.",
+        "author":" Victor Hugo"
+    },
+    {
+        "id":"128",
+        "text":"Our first and last love is self-love.",
+        "author":"Christian Nestell Bovee"
+    },
+    {
+        "id":"129",
+        "text":"The degree of loving is measured by the degree of giving.",
+        "author":" Edwin Louis Cole"
+    },
+    {
+        "id":"130",
+        "text":"At the touch of love everyone becomes a poet.",
+        "author":" Plato"
+    },
+    {
+        "id":"131",
+        "text":"Each moment of a happy lover's hour is worth an age of dull and common life.",
+        "author":"Aphra Behn"
+    },
+    {
+        "id":"132",
+        "text":"Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+        "author":" Mother Teresa"
+    },
+    {
+        "id":"133",
+        "text":"Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.",
+        "author":" Lao Tzu"
+    },
+    {
+        "id":"134",
+        "text":"We are born of love; Love is our mother.",
+        "author":"Rumi"
+    },
+    {
+        "id":"135",
+        "text":"Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.",
+        "author":"James Baldwin"
+    },
+    {
+        "id":"136",
+        "text":"Love is life. And if you miss love, you miss life.",
+        "author":"Leo Buscaglia"
+    },
+    {
+        "id":"137",
+        "text":"Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"138",
+        "text":"Love is... never asking for more than you are prepared to give.",
+        "author":" Kim Casali"
+    },
+    {
+        "id":"139",
+        "text":"If your heart is a volcano, how shall you expect flowers to bloom?",
+        "author":"Khalil Gibran"
+    },{
+        "id":"140",
+        "text":"Love is like a beautiful flower which I may not touch, but whose fragrance makes the garden a place of delight just the same.",
+        "author":"Helen Keller"
+    },
+    {
+        "id":"141",
+        "text":"It is difficult to know at what moment love begins; it is less difficult to know that it has begun.",
+        "author":" Henry Wadsworth Longfellow"
+    },
+    {
+        "id":"142",
+        "text":"Love is when the other person's happiness is more important than your own.",
+        "author":"H. Jackson Brown, Jr"
+    },
+    {
+        "id":"143",
+        "text":"Touch seems to be as essential as sunlight.",
+        "author":" Diane Ackerman"
+    },
+    {
+        "id":"144",
+        "text":"Love has reasons which reason cannot understand.",
+        "author":"Blaise Pascal"
+    },
+    {
+        "id":"145",
+        "text":"Love is the only gold.",
+        "author":"Alfred Lord Tennyson"
+    },
+    {
+        "id":"146",
+        "text":"A very small degree of hope is sufficient to cause the birth of love.",
+        "author":"Stendhal"
+    },
+    {
+        "id":"147",
+        "text":"If you want to be loved, be lovable.",
+        "author":"Ovid"
+    },
+    {
+        "id":"148",
+        "text":"Love is a springtime plant that perfumes everything with its hope, even the ruins to which it clings.",
+        "author":"Gustave Flaubert"
+    },
+    {
+        "id":"149",
+        "text":"Love is like a friendship caught on fire. In the beginning a flame, very pretty, often hot and fierce, but still only light and flickering. As love grows older, our hearts mature and our love becomes as coals, deep-burning and unquenchable.",
+        "author":"Burce Lee"
+    },
+    {
+        "id":"150",
+        "text":"We love life, not because we are used to living but because we are used to .",
+        "author":"Friedrich Nietzscheloving"
+    },
+    {
+        "id":"151",
+        "text":"Say what you will, 'tis better to be left than never to have been loved.",
+        "author":"William Congreve"
+    },
+    {
+        "id":"152",
+        "text":"The love we give away is the only love we keep.",
+        "author":"Elbert Hubbard"
+    },
+    {
+        "id":"153",
+        "text":"Love consists in this, that two solitudes protect and touch and greet each other.",
+        "author":" Rainer Maria Rilke"
+    },
+    {
+        "id":"154",
+        "text":"Love without conversation is impossible.",
+        "author":"Mortimer Adler"
+    },
+    {
+        "id":"155",
+        "text":"Love is, above all, the gift of oneself.",
+        "author":"Jean Anouilh"
+    }
+]

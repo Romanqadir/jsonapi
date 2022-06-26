@@ -1,0 +1,750 @@
+[
+    {
+        "id":"1",
+        "text":"Rivers know this: there is no hurry. We shall get there some day",
+        "author":"A.A. Milne"
+    },
+    {
+        "id":"2",
+        "text":"Trees that are slow to grow bear the best fruit",
+        "author":"Moliere"
+    },
+    {
+        "id":"3",
+        "text":"He that can have patience can have what he will",
+        "author":"Benjamin Franklin"
+    },
+    {
+        "id":"4",
+        "text":"Patience is a conquering virtue",
+        "author":"Geoffrey Chaucer"
+    },
+    {
+        "id":"5",
+        "text":"No, no! The adventures first, explanations take such a dreadful time",
+        "author":"Lewis Carroll"
+    },
+    {
+        "id":"6",
+        "text":"Patience is bitter, but its fruit is sweet",
+        "author":"Aristotle"
+    },
+    {
+        "id":"7",
+        "text":"The strongest of all warriors are these two — Time and Patience",
+        "author":"Leo Tolstoy"
+    },
+    {
+        "id":"8",
+        "text":"Make your ego porous. Will is of little importance, complaining is nothing, fame is nothing. Openness, patience, receptivity, solitude is everything",
+        "author":"Rainer Maria Rilke"
+    },
+    {
+        "id":"9",
+        "text":"Everybody going to be dead one day, just give them time",
+        "author":"Neil Gaiman"
+    },
+    {
+        "id":"10",
+        "text":"Persistence. Perfection. Patience. Power. Prioritize your passion. It keeps you sane",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"11",
+        "text":"Be worthy love, and love will come",
+        "author":"Louisa May Alcott"
+    },
+    {
+        "id":"12",
+        "text":"There's no advantage to hurrying through life",
+        "author":"Shikamaru Nara"
+    },
+    {
+        "id":"13",
+        "text":"I am extraordinarily patient, provided I get my own way in the end",
+        "author":"Margaret Thatcher"
+    },
+    {
+        "id":"14",
+        "text":"She was always waiting, it seemed to be her forte",
+        "author":"D.H. Lawrence"
+    },
+    {
+        "id":"15",
+        "text":"It is very strange that the years teach us patience - that the shorter our time, the greater our capacity for waiting",
+        "author":"Elizabeth Taylor"
+    },
+    {
+        "id":"16",
+        "text":"I will not deny but that the best apology against false accusers is silence and sufferance, and honest deeds set against dishonest words",
+        "author":"John Milton"
+    },
+    {
+        "id":"17",
+        "text":"Don’t let mental blocks control you. Set yourself free. Confront your fear and turn the mental blocks into building blocks",
+        "author":"Dr Roopleen"
+    },
+    {
+        "id":"18",
+        "text":"It is far better to endure patiently a smart which nobody feels but yourself, than to commit a hasty action whose evil consequences will extend to all connected with you",
+        "author":"Charlotte Brontë"
+    },
+    {
+        "id":"19",
+        "text":"Time has no meaning, Love will endure..",
+        "author":"Jude Deveraux"
+    },
+    {
+        "id":"20",
+        "text":"Knowing trees, I understand the meaning of patience. Knowing grass, I can appreciate persistence",
+        "author":"Hal Borland"
+    },
+    {
+        "id":"21",
+        "text":"Trying to understand is like straining through muddy water. Have the patience to wait! Be still and allow the mud to settle",
+        "author":"Lao Tzu"
+    },
+    {
+        "id":"22",
+        "text":"Patience, he thought. So much of this was patience - waiting, and thinking and doing things right. So much of all this, so much of all living was patience and thinking",
+        "author":"Gary Paulsen"
+    },
+    {
+        "id":"23",
+        "text":"A stumble may prevent a fall",
+        "author":"Thomas Fuller"
+    },
+    {
+        "id":"24",
+        "text":"Patience is the calm acceptance that things can happen in a different order than the one you have in mind",
+        "author":"David G. Allen"
+    },
+    {
+        "id":"25",
+        "text":"Patience ensures victory",
+        "author":"Hazrat Ali Ibn Abu-Talib A.S"
+    },
+    {
+        "id":"26",
+        "text":"Even a snail will eventually reach its destination",
+        "author":"Gail Tsukiyama"
+    },
+    {
+        "id":"27",
+        "text":"everything comes in time to him who knows how to wait . . . there is nothing stronger than these two: patience and time, they will do it all",
+        "author":"Leo Tolstoy"
+    },
+    {
+        "id":"28",
+        "text":"everything is ridiculous if one thinks of death",
+        "author":"Thomas Bernhard"
+    },
+    {
+        "id":"29",
+        "text":"The common man prays, 'I want a cookie right now!' And God responds, 'If you'd listen to what I say, tomorrow it will bring you 100 cookies",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"30",
+        "text":"We were planting seeds of change, the fruit of which we might never see. We had to be patient",
+        "author":"Michelle Obama"
+    },
+    {
+        "id":"31",
+        "text":"If you're serious about sanctification, you can expect to experience heart-wrenching moments that try your faith, your endurance, and your patience",
+        "author":"Sheri L. Dew"
+    },
+    {
+        "id":"32",
+        "text":"Toleration is the greatest gift of the mind; it requires the same effort of the brain that it takes to balance oneself on a bicycle",
+        "author":"Helen Keller"
+    },
+    {
+        "id":"33",
+        "text":"In the end we are always rewarded for our good will, our patience, fair-mindedness, and gentleness with what is strange",
+        "author":"Friedrich Nietzsche"
+    },
+    {
+        "id":"34",
+        "text":"The funny thing about the heart is a soft heart is a strong heart, and a hard heart is a weak heart",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"35",
+        "text":"And sure enough, even waiting will end...if you can just wait long enough",
+        "author":"William Faulkner"
+    },
+    {
+        "id":"36",
+        "text":"There is something good in all seeming failures. You are not to see that now. Time will reveal it. Be patient",
+        "author":"Swami Sivananda"
+    },
+    {
+        "id":"37",
+        "text":"He who can have patience can have what he will",
+        "author":"Benjamin Franklin"
+    },
+    {
+        "id":"38",
+        "text":"Wise men are not pacifists; they are merely less likely to jump up and retaliate against their antagonizers. They know that needless antagonizers are virtually already insecure enough",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"39",
+        "text":"Talent is a long patience, and originality an effort of will and intense observation",
+        "author":"Gustave Flaubert"
+    },
+    {
+        "id":"40",
+        "text":"Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time",
+        "author":"Jon Kabat-Zinn"
+    },
+    {
+        "id":"41",
+        "text":"I wait with silent passion for one gesture one glance from you",
+        "author":"Rumi"
+    },
+    {
+        "id":"42",
+        "text":"Patience is waiting. Not passively waiting. That is laziness. But to keep going when the going is hard and slow - that is patience. The two most powerful warriors are patience and time",
+        "author":"Leo Tolstoy"
+    },
+    {
+        "id":"43",
+        "text":"We love being mentally strong, but we hate situations that allow us to put our mental strength to good use",
+        "author":"Mokokoma Mokhonoana"
+    },
+    {
+        "id":"44",
+        "text":"Our patience will achieve more than our force",
+        "author":"Edmund Burke"
+    },
+    {
+        "id":"45",
+        "text":"Life it too short to deal with crazy people",
+        "author":"Karen E. Quinones Miller"
+    },
+    {
+        "id":"46",
+        "text":"Think of the patience God has had for you and let it resonate to others. If you want a more patient world, let patience be your motto",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"47",
+        "text":"All men are made one for another: either then teach them better or bear with them",
+        "author":"Marcus Aurelius"
+    },
+    {
+        "id":"48",
+        "text":"She lost her patience, a thing she was all too prone to misplacing",
+        "author":"Gail Carriger"
+    },
+    {
+        "id":"49",
+        "text":"Aura, I'm really patient, but I'm not a bloody saint",
+        "author":"Jeri Smith-Ready"
+    },
+    {
+        "id":"50",
+        "text":"Patience is not a virtue. It is an achievement",
+        "author":"Vera Nazarian"
+    },
+    {
+        "id":"51",
+        "text":"I look in the mirror through the eyes of the child that was me",
+        "author":"Judy Collins"
+    },
+    {
+        "id":"52",
+        "text":"Your least favorite virtue, or nominee for the most overrated one? Faith. Closely followed—in view of the overall shortage of time — by patience",
+        "author":"Christopher Hitchens"
+    },
+    {
+        "id":"53",
+        "text":"I'm inclined to reserve all judgments, a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores",
+        "author":"F. Scott Fitzgerald"
+    },
+    {
+        "id":"54",
+        "text":"Patience is the ability to idle your motor when you feel like stripping your gears",
+        "author":"Barbara Johnson"
+    },
+    {
+        "id":"55",
+        "text":"An alternative to love is not hate but patience",
+        "author":"Santosh Kalwar"
+    },
+    {
+        "id":"56",
+        "text":"A life is not a waste of time",
+        "author":"Nalini Singh"
+    },
+    {
+        "id":"57",
+        "text":"Maybe that's why life is so precious. No rewind or fast forward...just patience and faith",
+        "author":"Cristina Marrero"
+    },
+    {
+        "id":"58",
+        "text":"He means to succeed, and a man who has centuries before him can afford to wait and to go slow",
+        "author":"Bram Stoker"
+    },
+    {
+        "id":"59",
+        "text":"Patience is not passive waiting. Patience is active acceptance of the process required to attain your goals and dreams",
+        "author":"Ray A. Davis"
+    },
+    {
+        "id":"60",
+        "text":"You're trying to eat grass that isn't there. Why don't you give it a chance to grow?",
+        "author":"Richard Adams"
+    },
+    {
+        "id":"61",
+        "text":"All human errors are impatience, a premature breaking off of methodical procedure, an apparent fencing-in of what is apparently at issue",
+        "author":"Franz Kafka"
+    },
+    {
+        "id":"62",
+        "text":"What good has impatience ever brought? It has only served as the mother of mistakes and the father of irritation",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"63",
+        "text":"Well, we must wait for the future to show",
+        "author":"Virginia Woolf"
+    },
+    {
+        "id":"64",
+        "text":"God will bring the right person into your life at the right time. Always believe that! If they are not there, God isn't finished yet!",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"65",
+        "text":"Everything comes if a man will only wait",
+        "author":"Benjamin Disraeli"
+    },
+    {
+        "id":"66",
+        "text":"The enemy is the necessary condition for practicing patience",
+        "author":"Dalai Lama"
+    },
+    {
+        "id":"67",
+        "text":"There is something hugely civilised about allowing long pauses in a conversation. Very few people can stand that kind of silence",
+        "author":"James Robertson"
+    },
+    {
+        "id":"68",
+        "text":"God schedules a birthday, not man",
+        "author":"Robert A. Bradley"
+    },
+    {
+        "id":"69",
+        "text":"Patience is the direct antithesis of anger",
+        "author":"Allan Lokos"
+    },
+    {
+        "id":"70",
+        "text":"Patience is the essence of clicking great Photographs!",
+        "author":"Abhijeet Sawant"
+    },
+    {
+        "id":"71",
+        "text":"Nature never rushes, yet everything gets done",
+        "author":"Donald L. Hicks"
+    },
+    {
+        "id":"72",
+        "text":"We need patient people who are able to endure the toughest disciplines",
+        "author":"Samael Aun Weor"
+    },
+    {
+        "id":"73",
+        "text":"If you are irritated by every rub, how will your mirror be polished?",
+        "author":"Rumi"
+    },
+    {
+        "id":"74",
+        "text":"Perfect love is perfectly patient",
+        "author":"Neal A. Maxwell"
+    },
+    {
+        "id":"75",
+        "text":"The work that God does in us when we wait is usually more important than the thing for which we wait!",
+        "author":"Erwin W. Lutzer"
+    },
+    {
+        "id":"76",
+        "text":"So much of control is not authoritative action but mindful waiting",
+        "author":"Cameron Conaway"
+    },
+    {
+        "id":"77",
+        "text":"The greatest compassion is the prevention of human suffering through patience, alertness, courage and kindness",
+        "author":"Amit Ray"
+    },
+    {
+        "id":"78",
+        "text":"It will happen but it will take time",
+        "author":"John Bowlby"
+    },
+    {
+        "id":"79",
+        "text":"Patience is like ice cold water runing truth your veins, but our love will be immense",
+        "author":"Alejandro Perez"
+    },
+    {
+        "id":"80",
+        "text":"In business, three things are necessary: knowledge, temper, and time",
+        "author":"Owen Felltham"
+    },
+    {
+        "id":"81",
+        "text":"Some people can never understand that you have to wait, even for the best of things, until the right time comes",
+        "author":"Franklin D. Roosevelt"
+    },
+    {
+        "id":"82",
+        "text":"Regarding vengeance and arch-enemies, one must not only be timely but prideful, and pride exacts propriety",
+        "author":"Adam Levin"
+    },
+    {
+        "id":"83",
+        "text":"Common man's patience will bring him more happiness than common man's power",
+        "author":"Amit Kalantri"
+    },
+    {
+        "id":"84",
+        "text":"Speed will follow when the mechanism of the movements is more assured",
+        "author":"Rafael Sabatini"
+    },
+    {
+        "id":"85",
+        "text":"Wait long enough and people will surprise and impress you",
+        "author":"Randy Pausch"
+    },
+    {
+        "id":"86",
+        "text":"Waiting is a form of passive persistence",
+        "author":"Ogwo David Emenike"
+    },
+    {
+        "id":"87",
+        "text":"Tolerance is nothing more than patience with boundaries",
+        "author":"Shannon Alder"
+    },
+    {
+        "id":"88",
+        "text":"Don't try to rush things: for the cup to run over, it must first be filled",
+        "author":"Antonio Machado"
+    },
+    {
+        "id":"89",
+        "text":"So much in a revolution is nothing but waiting",
+        "author":"Sinclair Lewis"
+    },
+    {
+        "id":"90",
+        "text":"Because you don't learn anything unless you can find the patience to read. TV takes that away from you. It robs you from your mind",
+        "author":"Markus Zusak"
+    },
+    {
+        "id":"91",
+        "text":"Impatient men are generous ones. Or haven't you learned that by now?",
+        "author":"Megan Chance"
+    },
+    {
+        "id":"92",
+        "text":"The distance of a voice, is only a short time away from touch",
+        "author":"Anthony Liccione"
+    },
+    {
+        "id":"93",
+        "text":"ridicule is often harder to bear than self-denial",
+        "author":"Louisa May Alcott"
+    },
+    {
+        "id":"94",
+        "text":"Don't settle for anyone just to have a someone. Be patient. Have faith and wait for the right one",
+        "author":"Elizabeth Bourgeret"
+    },
+    {
+        "id":"95",
+        "text":"The woman gestured to a seat and put on a patient face. An impatient sort of patient face, like an impatient face dressing up as a patient one for Halloween",
+        "author":"Shannon Hale"
+    },
+    {
+        "id":"96",
+        "text":"Knowing trees, I came to realize, understand and appreciate the act of patience",
+        "author":"Ogwo David Emenike"
+    },
+    {
+        "id":"97",
+        "text":"I have patience in all things – as far as the antechamber",
+        "author":"Gustave Flaubert"
+    },
+    {
+        "id":"98",
+        "text":"We must accept the reality that the causes of impatience travel a two-way street",
+        "author":"Allan Lokos"
+    },
+    {
+        "id":"99",
+        "text":"Crushed again!",
+        "author":"W.S. Gilbert, Patience"
+    },
+    {
+        "id":"100",
+        "text":"She will never submit to any thing requiring industry and patience, and a subjection of the fancy to the understanding",
+        "author":"Jane Austen"
+    },
+    {
+        "id":"101",
+        "text":"What is a woman's greatest virtue? Patience",
+        "author":"India Edghill"
+    },
+    {
+        "id":"102",
+        "text":"There is no such a rule that patience leads to salvation! Patience can lead to salvation or it can lead to disaster. Every inaction or every action is open to all the possibilities!",
+        "author":"Mehmet Murat ildan"
+    },
+    {
+        "id":"103",
+        "text":"Above all, trust in the slow work of God",
+        "author":"Pierre Teilhard de Chardin"
+    },
+    {
+        "id":"104",
+        "text":"Have patience with all things. But, first of all with yourself",
+        "author":"Francis de Sales"
+    },
+    {
+        "id":"105",
+        "text":"It is important to be Intuitive at this time and allow the natural course to show you the way to the next step",
+        "author":"Auliq Ice"
+    },
+    {
+        "id":"106",
+        "text":"An eternity is any moment opened with patience",
+        "author":"Noah Benshea"
+    },
+    {
+        "id":"107",
+        "text":"She knew that she must sit quietly and patiently and, like her beloved butterflies, eventually he would come to rest",
+        "author":"Patricia O'Sullivan"
+    },
+    {
+        "id":"108",
+        "text":"You were patient, but I worried that your very patience tempted Kevin to try it",
+        "author":"Lionel Shriver"
+    },
+    {
+        "id":"109",
+        "text":"now i can get them teeth",
+        "author":"william faulkner"
+    },{
+        "id":"110",
+        "text":"Be (with) someone that promotes a healthy state of being: mind, body, and soul",
+        "author":"Kierra C.T. Banks"
+    },
+    {
+        "id":"111",
+        "text":"No rain can't get the rainbow",
+        "author":"ayumi hamasaki rainbow"
+    },
+    {
+        "id":"112",
+        "text":"She and Marie were Montreal girls, not trained to accompany heroes, or to hold out for dreams, but just to be patient",
+        "author":"Mavis Gallant"
+    },
+    {
+        "id":"113",
+        "text":"We were too greedy, grasping for immortality too soon. Perhaps if we had only been patient, content to wait, we would all have forever in the end",
+        "author":"Jessica Khoury"
+    },
+    {
+        "id":"114",
+        "text":"The ghazals are convincing, and patience is a powerful weapon…but the heart of a timid man will never win his lady",
+        "author":"Fábio Moon"
+    },
+    {
+        "id":"115",
+        "text":"Don't crave immediate results. Take the difficult route which puts your patience under fire and upgrades your lionheartedness",
+        "author":"Hiral Nagda"
+    },
+    {
+        "id":"116",
+        "text":"Patience is the parent of success",
+        "author":"Joe Abercrombie"
+    },
+    {
+        "id":"117",
+        "text":"He taught me that if you’ve got guts, you can do any damned thing, guts and patience. Impatience is a costly commodity, Pete",
+        "author":"Thomas Savage"
+    },
+    {
+        "id":"118",
+        "text":"Do not bite the hand that feeds you until it is no longer feeding you",
+        "author":"Steven Magee"
+    },
+    {
+        "id":"119",
+        "text":"There are devilish crimes have done with angelic patience",
+        "author":"Tamerlan Kuzgov"
+    },
+    {
+        "id":"120",
+        "text":"The limits of my patience are the limits of my world",
+        "author":"Marty Rubin"
+    },
+    {
+        "id":"121",
+        "text":"The limits of patience are the limits of my world",
+        "author":"Marty Rubin"
+    },
+    {
+        "id":"122",
+        "text":"Faith walks with patience",
+        "author":"Isaac A. Yowetu"
+    },
+    {
+        "id":"123",
+        "text":"Patience pains and pays",
+        "author":"Isaac A. Yowetu"
+    },
+    {
+        "id":"124",
+        "text":"Patience practice is the key to mastering any act",
+        "author":"Lailah Gifty Akita"
+    },
+    {
+        "id":"125",
+        "text":"What we need is a cup of understanding, a barrel of love, and an ocean of patience",
+        "author":"Francis de Sales"
+    },
+    {
+        "id":"126",
+        "text":"Patience was a virtue, but sometimes it was an excuse to stay on the easy path of conflict avoidance",
+        "author":"Karen Witemeyer"
+    },
+    {
+        "id":"127",
+        "text":"The sea is softer than your delicate hands, and yet it can alter the shape of hard stones",
+        "author":"Hans Christian Andersen"
+    },
+    {
+        "id":"128",
+        "text":"Those who are not patient enough to pursue greatness chase fame",
+        "author":"Mokokoma Mokhonoana"
+    },
+    {
+        "id":"129",
+        "text":"Patience yields focus",
+        "author":"Takashi Shirogane"
+    },
+    {
+        "id":"130",
+        "text":"Take it easy; success takes its own time to take shape. It can't be expedited by anxiety",
+        "author":"Sukant Ratnakar"
+    },
+    {
+        "id":"131",
+        "text":"He had learned that the cure for fate was patience",
+        "author":"Colum McCann"
+    },
+    {
+        "id":"132",
+        "text":"Consistency, Perseverance, Patience and Passion are the four pillars of success",
+        "author":"Anuj Jasani"
+    },
+    {
+        "id":"133",
+        "text":"The greatest winners were once losers",
+        "author":"Adrien Malcolm Pierre"
+    },
+    {
+        "id":"134",
+        "text":"Patience is a sign of progress",
+        "author":"Anuj Jasani"
+    },
+    {
+        "id":"135",
+        "text":"Patience isn't a virtue, it's a colossal waste of time",
+        "author":"C.A. Fitzroy"
+    },
+    {
+        "id":"136",
+        "text":"Some ideas are too big to take in once, and completely",
+        "author":"Katherine May"
+    },
+    {
+        "id":"137",
+        "text":"Patience perseverance is the act of prayer",
+        "author":"Lailah Gifty Akita"
+    },
+    {
+        "id":"138",
+        "text":"When patience is the only option, then journey should be joyful",
+        "author":"Santosh Kumar"
+    },
+    {
+        "id":"139",
+        "text":"The believers are calling with the impatience of Satan for the patience of God",
+        "author":"Tamerlan Kuzgov"
+    },{
+        "id":"140",
+        "text":"Grievances are a form of impatience. Griefs are a form of patience",
+        "author":"Robert Frost"
+    },
+    {
+        "id":"141",
+        "text":"Nothing is longer than a little while",
+        "author":"Maureen Johnson"
+    },
+    {
+        "id":"142",
+        "text":"If relationship turn frail, it's time for listening, not just patient hearing",
+        "author":"Garry James"
+    },
+    {
+        "id":"143",
+        "text":"Our journey towards our goals teaches us many lessons. Patience is one of those",
+        "author":"Purvi Raniga"
+    },
+    {
+        "id":"144",
+        "text":"When you're an investor, patience is everything",
+        "author":"Anuj Jasani"
+    },
+    {
+        "id":"145",
+        "text":"The sweetest of all virtues are found in rounded strength and warmth of heart. For what is a blessing, if not the ability to surface anywhere in the Cosmos, and, [if] not loved, atleast not hated free",
+        "author":"unknown"
+    },
+    {
+        "id":"146",
+        "text":"Don't be in hurry. Good things take time and requires a lot of patience. Whatever significant in life comes very silently. All you need is patience",
+        "author":"Srinivart"
+    },
+    {
+        "id":"147",
+        "text":"There is maturity in the deep silence. Therefore, try to continue meditating and mastering the Self",
+        "author":"Mwanandeke Kindembo"
+    },
+    {
+        "id":"148",
+        "text":"Change. Unlearning yourself is more important than knowing yourself",
+        "author":"Brenda Lozano"
+    },
+    {
+        "id":"149",
+        "text":"God’s generosity is nowhere better seen than in the gift of patience",
+        "author":"Toni Morrison"
+    },
+    {
+        "id":"150",
+        "text":"Patience is a great power and victory of the patient",
+        "author":"Ehsan Sehgal"
+    }
+]
