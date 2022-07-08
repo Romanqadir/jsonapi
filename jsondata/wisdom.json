@@ -1,0 +1,752 @@
+[
+    {
+        "id":"1",
+        "text":"The fool doth think he is wise, but the wise man knows himself to be a fool",
+        "author":"William Shakespeare"
+    },
+    {
+        "id":"2",
+        "text":"It is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it",
+        "author":"Maurice Switzer"
+    },
+    {
+        "id":"3",
+        "text":"Whenever you find yourself on the side of the majority, it is time to reform (or pause and reflect)",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"4",
+        "text":"When someone loves you, the way they talk about you is different. You feel safe and comfortable",
+        "author":"Jess C. Scott"
+    },
+    {
+        "id":"5",
+        "text":"Knowing yourself is the beginning of all wisdom",
+        "author":"Aristotle"
+    },
+    {
+        "id":"6",
+        "text":"The only true wisdom is in knowing you know nothing",
+        "author":"Socrates"
+    },
+    {
+        "id":"7",
+        "text":"The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom",
+        "author":"Isaac Asimov"
+    },
+    {
+        "id":"8",
+        "text":"Count your age by friends, not years. Count your life by smiles, not tears",
+        "author":"John Lennon"
+    },
+    {
+        "id":"9",
+        "text":"In a good bookroom you feel in some mysterious way that you are absorbing the wisdom contained in all the books through your skin, without even opening them",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"10",
+        "text":"May you live every day of your life",
+        "author":"Jonathan Swift"
+    },
+    {
+        "id":"11",
+        "text":"It is the mark of an educated mind to be able to entertain a thought without accepting it",
+        "author":"Aristotle"
+    },
+    {
+        "id":"12",
+        "text":"Never laugh at live dragons",
+        "author":"J.R.R. Tolkien"
+    },
+    {
+        "id":"13",
+        "text":"Any fool can know. The point is to understand",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"14",
+        "text":"The secret of life, though, is to fall seven times and to get up eight times",
+        "author":"Paulo Coelho"
+    },
+    {
+        "id":"15",
+        "text":"Think before you speak. Read before you think",
+        "author":"Fran Lebowitz"
+    },
+    {
+        "id":"16",
+        "text":"The best index to a person's character is how he treats people who can't do him any good, and how he treats people who can't fight back",
+        "author":"Abigail Van Buren"
+    },
+    {
+        "id":"17",
+        "text":"Never let your sense of morals prevent you from doing what is right",
+        "author":"Isaac Asimov"
+    },
+    {
+        "id":"18",
+        "text":"The unexamined life is not worth living",
+        "author":"Socrates"
+    },
+    {
+        "id":"19",
+        "text":"Turn your wounds into wisdom",
+        "author":"Oprah Winfrey"
+    },
+    {
+        "id":"20",
+        "text":"The simple things are also the most extraordinary things, and only the wise can see them",
+        "author":"Paulo Coelho"
+    },
+    {
+        "id":"21",
+        "text":"There are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man",
+        "author":"Patrick Rothfuss"
+    },
+    {
+        "id":"22",
+        "text":"It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to",
+        "author":"J.R.R. Tolkien"
+    },
+    {
+        "id":"23",
+        "text":"Angry people are not always wise",
+        "author":"Jane Austen"
+    },
+    {
+        "id":"24",
+        "text":"By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest",
+        "author":"Confucious"
+    },
+    {
+        "id":"25",
+        "text":"You do not write your life with words...You write it with actions. What you think is not important. It is only important what you do",
+        "author":"Patrick Ness"
+    },
+    {
+        "id":"26",
+        "text":"Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself",
+        "author":"Rumi"
+    },
+    {
+        "id":"27",
+        "text":"Let no man pull you so low as to hate him",
+        "author":"Martin Luther King Jr"
+    },
+    {
+        "id":"28",
+        "text":"It is amazing how complete is the delusion that beauty is goodness",
+        "author":"Leo Tolstoy"
+    },
+    {
+        "id":"29",
+        "text":"God will not look you over for medals, degrees or diplomas but for scars",
+        "author":"Elbert Hubbard"
+    },
+    {
+        "id":"30",
+        "text":"I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"31",
+        "text":"Learn to light a candle in the darkest moments of someone’s life. Be the light that helps others see; it is what gives life its deepest significance",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"32",
+        "text":"The man of knowledge must be able not only to love his enemies but also to hate his friends",
+        "author":"Friedrich Nietzsche"
+    },
+    {
+        "id":"33",
+        "text":"Follow your heart, listen to your inner voice, stop caring about what others think",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"34",
+        "text":"Trees are poems the earth writes upon the sky, We fell them down and turn them into paper, That we may record our emptiness",
+        "author":"Kahlil Gibran"
+    },
+    {
+        "id":"35",
+        "text":"The measure of intelligence is the ability to change",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"36",
+        "text":"You will do foolish things, but do them with enthusiasm",
+        "author":"Colette"
+    },
+    {
+        "id":"37",
+        "text":"It is not that I'm so smart. But I stay with the questions much longer",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"38",
+        "text":"Don't waste your time with explanations: people only hear what they want to hear",
+        "author":"Paulo Coelho"
+    },
+    {
+        "id":"39",
+        "text":"The only way to get through life is to laugh your way through it. You either have to laugh or cry. I prefer to laugh. Crying gives me a headache",
+        "author":"Marjorie Pay Hinckley"
+    },
+    {
+        "id":"40",
+        "text":"The past has no power over the present moment",
+        "author":"Eckhart Tolle"
+    },
+    {
+        "id":"41",
+        "text":"I'm not young enough to know everything",
+        "author":"J.M. Barrie"
+    },
+    {
+        "id":"42",
+        "text":"Failure is the condiment that gives success its flavor",
+        "author":"Truman Capote"
+    },
+    {
+        "id":"43",
+        "text":"Don't Gain The World & Lose Your Soul, Wisdom Is Better Than Silver Or Gold",
+        "author":"Bob Marley"
+    },
+    {
+        "id":"44",
+        "text":"Knowledge speaks, but wisdom listens",
+        "author":"Jimi Hendrix"
+    },
+    {
+        "id":"45",
+        "text":"You yourself, as much as anybody in the entire universe, deserve your love and affection",
+        "author":"Sharon Salzberg"
+    },
+    {
+        "id":"46",
+        "text":"We can know only that we know nothing. And that is the highest degree of human wisdom",
+        "author":"Leo Tolstoy"
+    },
+    {
+        "id":"47",
+        "text":"Even strength must bow to wisdom sometimes",
+        "author":"Rick Riordan"
+    },
+    {
+        "id":"48",
+        "text":"The mind once enlightened cannot again become dark",
+        "author":"Thomas Paine"
+    },
+    {
+        "id":"49",
+        "text":"Sell your cleverness and buy bewilderment",
+        "author":"Rumi"
+    },
+    {
+        "id":"50",
+        "text":"I’m not in this world to live up to your expectations and you’re not in this world to live up to mine",
+        "author":"Bruce Lee"
+    },
+    {
+        "id":"51",
+        "text":"The more I read, the more I acquire, the more certain I am that I know nothing",
+        "author":"Voltaire"
+    },
+    {
+        "id":"52",
+        "text":"He who knows all the answers has not been asked all the questions",
+        "author":"Confucius"
+    },
+    {
+        "id":"53",
+        "text":"We learn from failure, not from success!",
+        "author":"Bram Stoker"
+    },
+    {
+        "id":"54",
+        "text":"Do you not see how necessary a world of pains and troubles is to school an intelligence and make it a soul?",
+        "author":"John Keats"
+    },
+    {
+        "id":"55",
+        "text":"The desire to reach for the stars is ambitious. The desire to reach hearts is wise",
+        "author":"Maya Angelou"
+    },
+    {
+        "id":"56",
+        "text":"Music is ... A higher revelation than all Wisdom & Philosophy",
+        "author":"Ludwig van Beethoven"
+    },
+    {
+        "id":"57",
+        "text":"Never, never, never give in!Never, never, never give in!",
+        "author":"Winston S. Churchill"
+    },
+    {
+        "id":"58",
+        "text":"The older I grow, the more I distrust the familiar doctrine that age brings wisdom",
+        "author":"H.L. Mencken"
+    },
+    {
+        "id":"59",
+        "text":"Perhaps the rare and simple pleasure of being seen for what one is compensates for the misery of being it",
+        "author":"Margaret Drabble"
+    },
+    {
+        "id":"60",
+        "text":"We live in an age when unnecessary things are our only necessities",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"61",
+        "text":"All knowledge hurts",
+        "author":"Cassandra Clare"
+    },
+    {
+        "id":"62",
+        "text":"Wonder is the beginning of wisdom",
+        "author":"Socrates"
+    },
+    {
+        "id":"63",
+        "text":"Death is no more than passing from one room into another. But there's a difference for me, you know. Because in that other room I shall be able to see",
+        "author":"Helen Keller"
+    },
+    {
+        "id":"64",
+        "text":"Nowadays most people die of a sort of creeping common sense, and discover when it is too late that the only things one never regrets are one's mistakes",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"65",
+        "text":"I think I've discovered the secret of life -- you just hang around until you get used to it",
+        "author":"Charles Schultz"
+    },
+    {
+        "id":"66",
+        "text":"Half of seeming clever is keeping your mouth shut at the right times",
+        "author":"Patrick Rothfuss"
+    },
+    {
+        "id":"67",
+        "text":"Authority without wisdom is like a heavy axe without an edge, fitter to bruise than polish",
+        "author":"Anne Bradstreet"
+    },
+    {
+        "id":"68",
+        "text":"Life would be tragic if it weren't funny",
+        "author":"Stephen Hawking"
+    },
+    {
+        "id":"69",
+        "text":"It is unwise to be too sure of one's own wisdom. It is healthy to be reminded that the strongest might weaken and the wisest might err",
+        "author":"Mahatma Gandhi"
+    },
+    {
+        "id":"70",
+        "text":"Common sense in an uncommon degree is what the world calls wisdom",
+        "author":"Samuel Taylor Coleridge"
+    },
+    {
+        "id":"71",
+        "text":"Sometimes one likes foolish people for their folly, better than wise people for their wisdom",
+        "author":"Elizabeth Gaskell"
+    },
+    {
+        "id":"72",
+        "text":"Risks must be taken because the greatest hazard in life is to risk nothing",
+        "author":"Leo F. Buscaglia"
+    },
+    {
+        "id":"73",
+        "text":"Never complain, never explain. Resist the temptation to defend yourself or make excuses",
+        "author":"Brian Tracy"
+    },
+    {
+        "id":"74",
+        "text":"Honesty is the first chapter of the book wisdom",
+        "author":"Thomas Jefferson"
+    },
+    {
+        "id":"75",
+        "text":"The soul becomes dyed with the colour of its thoughts",
+        "author":"Marcus Aurelius"
+    },
+    {
+        "id":"76",
+        "text":"If we encounter a man of rare intellect, we should ask him what books he reads",
+        "author":"Ralph Waldo Emerson"
+    },
+    {
+        "id":"77",
+        "text":"Whenever I hear anyone arguing for slavery, I feel a strong impulse to see it tried on him personally",
+        "author":"Abraham Lincoln"
+    },
+    {
+        "id":"78",
+        "text":"Those sweet lips. My, oh my, I could kiss those lips all night long, Good things come to those who wait",
+        "author":"Jess C. Scott"
+    },
+    {
+        "id":"79",
+        "text":"Time is a game played beautifully by children",
+        "author":"Heraclitus"
+    },
+    {
+        "id":"80",
+        "text":"It is one thing to be clever and another to be wise",
+        "author":"George R.R. Martin"
+    },
+    {
+        "id":"81",
+        "text":"Sometimes, if you stand on the bottom rail of a bridge and lean over to watch the river slipping slowly away beneath you, you will suddenly know everything there is to be known",
+        "author":"A.A. Milne"
+    },
+    {
+        "id":"82",
+        "text":"The public have an insatiable curiosity to know everything, except what is worth knowing",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"83",
+        "text":"A wise man will make more opportunities than he finds",
+        "author":"Francis Bacon"
+    },
+    {
+        "id":"84",
+        "text":"Suffering is a gift. In it is hidden mercy",
+        "author":"Rumi"
+    },
+    {
+        "id":"85",
+        "text":"Having children makes you no more a parent than having a piano makes you a pianist",
+        "author":"Michael Levine"
+    },
+    {
+        "id":"86",
+        "text":"Man is a mystery. It needs to be unravelled, and if you spend your whole life unravelling it, don't say that you've wasted time. I am studying that mystery because I want to be a human being",
+        "author":"Fyodor Dostoevsky"
+    },
+    {
+        "id":"87",
+        "text":"The only man who never makes mistakes is the man who never does anything",
+        "author":"Theodore Roosevelt"
+    },
+    {
+        "id":"88",
+        "text":"The essence of being human is that one does not seek perfection",
+        "author":"George Orwell"
+    },
+    {
+        "id":"89",
+        "text":"Wisdom is not a product of schooling but of the lifelong attempt to acquire it",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"90",
+        "text":"As if you could kill time without injuring eternity",
+        "author":"Henry David Thoreau"
+    },
+    {
+        "id":"91",
+        "text":"I believe that what we become depends on what our fathers teach us at odd moments, when they aren't trying to teach us. We are formed by little scraps of wisdom",
+        "author":"Umberto Eco"
+    },
+    {
+        "id":"92",
+        "text":"People who know little are usually great talkers, while men who know much say little",
+        "author":"Jean Jacques Rousseau"
+    },
+    {
+        "id":"93",
+        "text":"A fit, healthy body—that is the best fashion statement",
+        "author":"Jess C Scott"
+    },
+    {
+        "id":"94",
+        "text":"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, What's in it for me?",
+        "author":"Brian Tracy"
+    },
+    {
+        "id":"95",
+        "text":"We must live together as brothers or perish together as fools",
+        "author":"Martin Luther King Jr"
+    },
+    {
+        "id":"96",
+        "text":"Guard well your thoughts when alone and your words when accompanied",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"97",
+        "text":"Don’t sacrifice yourself too much, because if you sacrifice too much there’s nothing else you can give and nobody will care for you",
+        "author":"Karl Lagerfeld"
+    },
+    {
+        "id":"98",
+        "text":"He that breaks a thing to find out what it is has left the path of wisdom",
+        "author":"J.R.R. Tolkien"
+    },
+    {
+        "id":"99",
+        "text":"our conscience is the measure of the honesty of your selfishness. Listen to it carefully",
+        "author":"Richard Bach"
+    },
+    {
+        "id":"100",
+        "text":"Wise? No, I simply learned to think",
+        "author":"hristopher Paolini"
+    },
+    {
+        "id":"101",
+        "text":"It takes a very long time to become young",
+        "author":"Pablo Picasso"
+    },
+    {
+        "id":"102",
+        "text":"People know what they do; frequently they know why they do what they do; but what they don't know is what what they do does",
+        "author":"Michel Foucault"
+    },
+    {
+        "id":"103",
+        "text":"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!",
+        "author":"Robert T. Kiyosaki"
+    },
+    {
+        "id":"104",
+        "text":"It is wise to direct your anger towards problems -- not people; to focus your energies on answers -- not excuses",
+        "author":"William Arthur Ward"
+    },
+    {
+        "id":"105",
+        "text":"I felt like an animal, and animals don’t know sin, do they?",
+        "author":"Jess C. Scott"
+    },
+    {
+        "id":"106",
+        "text":"The journey is what brings us happiness not the destination",
+        "author":"Dan Millman"
+    },
+    {
+        "id":"107",
+        "text":"The art of being wise is knowing what to overlook",
+        "author":"William James"
+    },
+    {
+        "id":"108",
+        "text":"A wise man gets more use from his enemies than a fool from his friends",
+        "author":"Baltasar Gracian"
+    },
+    {
+        "id":"109",
+        "text":"Into the darkness they go, the wise and the lovely",
+        "author":"Edna St"
+    },
+    {
+        "id":"110",
+        "text":"No, that is the great fallacy: the wisdom of old men. They do not grow wise. They grow careful",
+        "author":"Ernest Hemingway"
+    },
+    {
+        "id":"111",
+        "text":"The stupid neither forgive nor forget; the naive forgive and forget; the wise forgive but do not forget",
+        "author":"Thomas Szasz"
+    },
+    {
+        "id":"112",
+        "text":"A smart person knows how to talk. A wise person knows when to be silent",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"113",
+        "text":"No man is poor who has a Godly mother",
+        "author":"Abraham Lincoln"
+    },
+    {
+        "id":"114",
+        "text":"wisdom comes to us when it can no longer do any good",
+        "author":"Gabriel García Márquez"
+    },
+    {
+        "id":"115",
+        "text":"Hide not your talents, they for use were made, What's a sundial in the shade?",
+        "author":"Benjamin Franklin"
+    },
+    {
+        "id":"116",
+        "text":"But magic is neither good nor evil. It is a tool, like a knife. Is a knife evil? Only if the wielder is evil",
+        "author":"Rick Riordan"
+    },
+    {
+        "id":"117",
+        "text":"It's not enough to be nice in life. You've got to have nerve",
+        "author":"Georgia O'Keeffe"
+    },
+    {
+        "id":"118",
+        "text":"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise",
+        "author":"Dhammapada"
+    },
+    {
+        "id":"119",
+        "text":"Recognizing power in another does not diminish your own",
+        "author":"Joss Whedon"
+    },
+    {
+        "id":"120",
+        "text":"Never respond to an angry person with a fiery comeback, even if he deserves it...Don't allow his anger to become your anger",
+        "author":"Bohdi Sanders"
+    },
+    {
+        "id":"121",
+        "text":"Sometimes it's not enough to know what things mean, sometimes you have to know what things don't mean",
+        "author":"Bob Dylan"
+    },
+    {
+        "id":"122",
+        "text":"Wisely and slow; they stumble that run fast",
+        "author":"William Shakespeare"
+    },
+    {
+        "id":"123",
+        "text":"If opportunity doesn't knock, build a door",
+        "author":"Milton Berle"
+    },
+    {
+        "id":"124",
+        "text":"Knowledge comes, but wisdom lingers",
+        "author":"Alfred Lord Tennyson"
+    },
+    {
+        "id":"125",
+        "text":"If you have a dream, don’t just sit there. Gather courage to believe that you can succeed and leave no stone unturned to make it a reality",
+        "author":"Dr Roopleen"
+    },
+    {
+        "id":"126",
+        "text":"Take it moment by moment, and you will find that we are all, as I’ve said before, bugs in amber",
+        "author":"Kurt Vonnegut"
+    },
+    {
+        "id":"127",
+        "text":"Lost Time is never found again",
+        "author":"Benjamin Franklin"
+    },
+    {
+        "id":"128",
+        "text":"I have lived with several Zen masters -- all of them cats",
+        "author":"Eckhart Tolle"
+    },
+    {
+        "id":"129",
+        "text":"I used to think the worst thing in life is to end up all alone. It's not. The worst thing in life is to end up with people who make you feel all alone",
+        "author":"Robin Williams"
+    },
+    {
+        "id":"130",
+        "text":"Don’t only practice your art, but force your way into its secrets, for it and knowledge can raise men to the divine",
+        "author":"Ludwig van Beethoven"
+    },
+    {
+        "id":"131",
+        "text":"There is no escape—we pay for the violence of our ancestors",
+        "author":"Frank Herbert"
+    },
+    {
+        "id":"132",
+        "text":"It is strange how often a heart must be broken Before the years can make it wise",
+        "author":"Sara Teasdale"
+    },
+    {
+        "id":"133",
+        "text":"How can I be substantial if I do not cast a shadow? I must have a dark side also If I am to be whole",
+        "author":"C.G. Jung"
+    },
+    {
+        "id":"134",
+        "text":"In order to rise from its own ashes, a Phoenix first must burn",
+        "author":"Octavia Butler"
+    },
+    {
+        "id":"135",
+        "text":"You cannot teach a man anything, you can only help him find it within himself",
+        "author":"Galileo"
+    },
+    {
+        "id":"136",
+        "text":"We don't receive wisdom; we must discover it for ourselves after a journey that no one can take for us or spare us",
+        "author":"Marcel Proust"
+    },
+    {
+        "id":"137",
+        "text":"A great many people think they are thinking when they are merely rearranging their prejudices",
+        "author":"William James"
+    },
+    {
+        "id":"138",
+        "text":"Education is no substitute for intelligence",
+        "author":"Frank Herbert"
+    },
+    {
+        "id":"139",
+        "text":"Never forget that justice is what love looks like in public",
+        "author":"Cornel West"
+    },
+    {
+        "id":"140",
+        "text":"I can calculate the motion of heavenly bodies but not the madness of people",
+        "author":"Isaac Newton"
+    },
+    {
+        "id":"141",
+        "text":"You will not be punished for your anger; you will be punished by your anger",
+        "author":"Siddhārtha Gautama"
+    },
+    {
+        "id":"142",
+        "text":"Where wisdom reigns, there is no conflict between thinking and feeling",
+        "author":"Carl Gustav Jung"
+    },
+    {
+        "id":"143",
+        "text":"We should forgive our enemies, but not before they are hanged",
+        "author":"Heinrich Heine"
+    },
+    {
+        "id":"144",
+        "text":"Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains",
+        "author":"Steve Jobs"
+    },
+    {
+        "id":"145",
+        "text":"I think it's impossible to really understand somebody, what they want, what they believe, and not love them the way they love themselves",
+        "author":"Orson Scott Card"
+    },
+    {
+        "id":"146",
+        "text":"As a well spent day brings happy sleep, so life well used brings happy death",
+        "author":"Leonardo da Vinci"
+    },
+    {
+        "id":"147",
+        "text":"Prediction is very difficult, especially about the future",
+        "author":"Niels Bohr"
+    },
+    {
+        "id":"148",
+        "text":"Madame, all stories, if continued far enough, end in death, and he is no true-story teller who would keep that from you",
+        "author":"Hemingway"
+    },
+    {
+        "id":"149",
+        "text":"Re-examine all you have been told. Dismiss what insults your soul",
+        "author":"Walt Whitman"
+    },
+    {
+        "id":"150",
+        "text":"There is a wisdom of the head, and... there is a wisdom of the heart",
+        "author":"Charles Dickens"
+    }
+]

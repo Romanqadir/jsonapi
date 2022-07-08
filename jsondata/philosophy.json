@@ -1,0 +1,752 @@
+[
+    {
+        "id":"1",
+        "text":"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"2",
+        "text":"Be the change that you wish to see in the world",
+        "author":"Mahatma Gandhi"
+    },
+    {
+        "id":"3",
+        "text":"Without music, life would be a mistake",
+        "author":"Friedrich Nietzsche"
+    },
+    {
+        "id":"4",
+        "text":"Go to heaven for the climate and hell for the company",
+        "author":"Benjamin Franklin Wade"
+    },
+    {
+        "id":"5",
+        "text":"A day without laughter is a day wasted",
+        "author":"Nicolas Chamfort"
+    },
+    {
+        "id":"6",
+        "text":"Have you ever noticed how ‘What the hell’ is always the right decision to make?",
+        "author":"Terry Johnson"
+    },
+    {
+        "id":"7",
+        "text":"How wonderful it is that nobody need wait a single moment before starting to improve the world",
+        "author":"Anne Frank"
+    },
+    {
+        "id":"8",
+        "text":"Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has",
+        "author":"Margaret Mead"
+    },
+    {
+        "id":"9",
+        "text":"You talk when you cease to be at peace with your thoughts",
+        "author":"Kahlil Gibran"
+    },
+    {
+        "id":"10",
+        "text":"May you live every day of your life",
+        "author":"Jonathan Swift"
+    },
+    {
+        "id":"11",
+        "text":"Man is the only creature who refuses to be what he is",
+        "author":"Albert Camus"
+    },
+    {
+        "id":"12",
+        "text":"We have to dare to be ourselves, however frightening or strange that self may prove to be",
+        "author":"May Sarton"
+    },
+    {
+        "id":"13",
+        "text":"If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?",
+        "author":"Laurence J. Peter"
+    },
+    {
+        "id":"14",
+        "text":"There is nothing either good or bad, but thinking makes it so",
+        "author":"William Shakespear"
+    },
+    {
+        "id":"15",
+        "text":"It is hard enough to remember my opinions, without also remembering my reasons for them!",
+        "author":"Friedrich Nietzsche"
+    },
+    {
+        "id":"16",
+        "text":"Never let your sense of morals prevent you from doing what is right",
+        "author":"Isaac Asimov"
+    },
+    {
+        "id":"17",
+        "text":"You do not write your life with words...You write it with actions. What you think is not important. It is only important what you do",
+        "author":"Patrick Ness"
+    },
+    {
+        "id":"18",
+        "text":"Without deviation from the norm, progress is not possible",
+        "author":"Frank Zappa"
+    },
+    {
+        "id":"19",
+        "text":"Trust yourself. You know more than you think you do",
+        "author":"Benjamin Spock"
+    },
+    {
+        "id":"20",
+        "text":"Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric",
+        "author":"Bertrand Russell"
+    },
+    {
+        "id":"21",
+        "text":"Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
+        "author":"Dr. Seuss"
+    },
+    {
+        "id":"22",
+        "text":"The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"23",
+        "text":"There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest",
+        "author":"Elie Wiesel"
+    },
+    {
+        "id":"24",
+        "text":"A woman has to live her life, or live to repent not having lived it",
+        "author":"D.H. Lawrence"
+    },
+    {
+        "id":"25",
+        "text":"We are all atheists about most of the gods that humanity has ever believed in. Some of us just go one god further",
+        "author":"Richard Dawkins"
+    },
+    {
+        "id":"26",
+        "text":"I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life",
+        "author":"Fitzgerald F. Scott"
+    },
+    {
+        "id":"27",
+        "text":"You're not to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who does it or says it",
+        "author":"Malcolm X"
+    },
+    {
+        "id":"28",
+        "text":"When we are tired, we are attacked by ideas we conquered long ago",
+        "author":"Friedrich Nietzsche"
+    },
+    {
+        "id":"29",
+        "text":"If you ever find yourself in the wrong story, leave",
+        "author":"Mo Willems"
+    },
+    {
+        "id":"30",
+        "text":"Time is an illusion. Lunchtime doubly so",
+        "author":"Douglas Adams"
+    },
+    {
+        "id":"31",
+        "text":"The past has no power over the present moment",
+        "author":"Eckhart Tolle"
+    },
+    {
+        "id":"32",
+        "text":"The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man",
+        "author":"George Bernard Shaw"
+    },
+    {
+        "id":"33",
+        "text":"Maybe everyone can live beyond what they're capable of",
+        "author":"Markus Zusak"
+    },
+    {
+        "id":"34",
+        "text":"Let's think the unthinkable, let's do the undoable. Let us prepare to grapple with the ineffable itself, and see if we may not eff it after all",
+        "author":"Douglas Adams"
+    },
+    {
+        "id":"35",
+        "text":"I cannot teach anybody anything. I can only make them think",
+        "author":"Socrates"
+    },
+    {
+        "id":"36",
+        "text":"A truth that's told with bad intent Beats all the lies you can invent",
+        "author":"William Blake"
+    },
+    {
+        "id":"37",
+        "text":"Those who know do not speak. Those who speak do not know",
+        "author":"Lao Tsu"
+    },
+    {
+        "id":"38",
+        "text":"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light",
+        "author":"J.K.Rowling"
+    },
+    {
+        "id":"39",
+        "text":"We are addicted to our thoughts. We cannot change anything if we cannot change our thinking",
+        "author":"Santosh Kalwar"
+    },
+    {
+        "id":"40",
+        "text":"The price good men pay for indifference to public affairs is to be ruled by evil men",
+        "author":"Plato"
+    },
+    {
+        "id":"41",
+        "text":"You only live twice: Once when you are born And once when you look death in the face",
+        "author":"Ian Fleming"
+    },
+    {
+        "id":"42",
+        "text":"Heard melodies are sweet, but those unheard, are sweeter",
+        "author":"John Keats"
+    },
+    {
+        "id":"43",
+        "text":"For me, I am driven by two main philosophies: know more today about the world than I knew yesterday and lessen the suffering of others. You'd be surprised how far that gets you",
+        "author":"Neil deGrasse Tyson"
+    },
+    {
+        "id":"44",
+        "text":"A paranoid is someone who knows a little of what's going on",
+        "author":"William S. Burroughs"
+    },
+    {
+        "id":"45",
+        "text":"Science is not only compatible with spirituality; it is a profound source of spirituality",
+        "author":"Carl Sagan"
+    },
+    {
+        "id":"46",
+        "text":"Music is ... A higher revelation than all Wisdom & Philosophy",
+        "author":"Ludwig van Beethoven"
+    },
+    {
+        "id":"47",
+        "text":"The easy confidence with which I know another man's religion is folly teaches me to suspect that my own is also",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"48",
+        "text":"A concept is a brick. It can be used to build a courthouse of reason. Or it can be thrown through the window",
+        "author":"Gilles Deleuze"
+    },
+    {
+        "id":"49",
+        "text":"Do not train a child to learn by force or harshness; but direct them to it by what amuses their minds, so that you may be better able to discover with accuracy the peculiar bent of the genius of each",
+        "author":"Plato"
+    },
+    {
+        "id":"50",
+        "text":"If you win, you need not have to explain...If you lose, you should not be there to explain!",
+        "author":"Adolf Hitler"
+    },
+    {
+        "id":"51",
+        "text":"Grown-ups never understand anything by themselves, and it is tiresome for children to be always and forever explaining things to them",
+        "author":"Antoine de Saint-Exupéry"
+    },
+    {
+        "id":"52",
+        "text":"Morality is simply the attitude we adopt towards people we personally dislike",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"53",
+        "text":"Life is really simple, but we insist on making it complicated",
+        "author":"Confucius"
+    },
+    {
+        "id":"54",
+        "text":"Like all magnificent things, it's very simple",
+        "author":"Natalie Babbitt"
+    },
+    {
+        "id":"55",
+        "text":"It is not true that people stop pursuing dreams because they grow old, they grow old because they stop pursuing dreams",
+        "author":"Gabriel García Márquez"
+    },
+    {
+        "id":"56",
+        "text":"Well, I must endure the presence of a few caterpillars if I wish to become acquainted with the butterflies",
+        "author":"Antoine de Saint-Exupéry"
+    },
+    {
+        "id":"57",
+        "text":"A serious and good philosophical work could be written consisting entirely of jokes",
+        "author":"Ludwig Wittgenstein"
+    },
+    {
+        "id":"58",
+        "text":"I don’t know what’s worse: to not know what you are and be happy, or to become what you’ve always wanted to be, and feel alone",
+        "author":"Daniel Keyes"
+    },
+    {
+        "id":"59",
+        "text":"Let children read whatever they want and then talk about it with them. If parents and kids can talk together, we won't have as much censorship because we won't have as much fear",
+        "author":"Judy Blume"
+    },
+    {
+        "id":"60",
+        "text":"The important thing is not to stop questioning. Curiosity has its own reason for existing",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"61",
+        "text":"Sometimes I lie awake at night and I ask, Is life a multiple choice test or is it a true or false test? ...Then a voice comes to me out of the dark and says, We hate to tell you this but life is a thousand word essay",
+        "author":"Charles M. Schulz"
+    },
+    {
+        "id":"62",
+        "text":"Be kind, for everyone you meet is fighting a hard battle",
+        "author":"plato"
+    },
+    {
+        "id":"63",
+        "text":"I would believe only in a God that knows how to dance",
+        "author":" Friedrich Nietzsche"
+    },
+    {
+        "id":"64",
+        "text":"Man suffers only because he takes seriously what the gods made for fun",
+        "author":"Alan Wilson Watts"
+    },
+    {
+        "id":"65",
+        "text":"The true man wants two things: danger and play. For that reason he wants woman, as the most dangerous plaything",
+        "author":"Freidrich Neitzsche"
+    },
+    {
+        "id":"66",
+        "text":"The first duty of a man is to think for himself",
+        "author":"Jose Marti"
+    },
+    {
+        "id":"67",
+        "text":"The smallest minority on earth is the individual. Those who deny individual rights cannot claim to be defenders of minorities",
+        "author":"Ayn Rand"
+    },
+    {
+        "id":"68",
+        "text":"The day the power of love overrules the love of power, the world will know peace",
+        "author":"Mahatma Gandhi"
+    },
+    {
+        "id":"69",
+        "text":"If you're going to kick authority in the teeth, you might as well use two feet",
+        "author":"Keith Richards"
+    },
+    {
+        "id":"70",
+        "text":"It is an ironic habit of human beings to run faster when they have lost their way",
+        "author":"Rollo May"
+    },
+    {
+        "id":"71",
+        "text":"If anyone tells you that a certain person speaks ill of you, do not make excuses about what is said of you but answer, He was ignorant of my other faults, else he would not have mentioned these alone",
+        "author":"Epictetus"
+    },
+    {
+        "id":"72",
+        "text":"Time is a game played beautifully by children",
+        "author":"Heraclitus"
+    },
+    {
+        "id":"73",
+        "text":"I started my life with a single absolute: that the world was mine to shape in the image of my highest values and never to be given up to a lesser standard, no matter how long or hard the struggle",
+        "author":"Ayn Rand"
+    },
+    {
+        "id":"74",
+        "text":"Those who educate children well are more to be honored than they who produce them; for these only gave them life, those the art of living well",
+        "author":"Aristotle"
+    },
+    {
+        "id":"75",
+        "text":"Expect everything, I always say, and the unexpected never happens",
+        "author":"Norton Juster"
+    },
+    {
+        "id":"76",
+        "text":"Perhaps home is not a place but simply an irrevocable condition",
+        "author":"James Baldwin"
+    },
+    {
+        "id":"77",
+        "text":"I shall look at you out of the corner of my eye, and you will say nothing. Words are the source of misunderstandings",
+        "author":"Antoine de Saint-Exupéry"
+    },
+    {
+        "id":"78",
+        "text":"The philosophers have only interpreted the world, in various ways. The point, however, is to change it",
+        "author":"Karl Marx"
+    },
+    {
+        "id":"79",
+        "text":"The legitimate powers of government extend to such acts only as are injurious to others. It does me no injury for my neighbor to say there are twenty gods or no god. It neither picks my pocket nor breaks my leg",
+        "author":"Thomas Jefferson"
+    },
+    {
+        "id":"80",
+        "text":"One is not born, but rather becomes, a woman",
+        "author":"Simone de Beauvoir"
+    },
+    {
+        "id":"81",
+        "text":"Man is a mystery. It needs to be unravelled, and if you spend your whole life unravelling it, don't say that you've wasted time. I am studying that mystery because I want to be a human being",
+        "author":"Fyodor Dostoevsky"
+    },
+    {
+        "id":"82",
+        "text":"I would never die for my beliefs because I might be wrong",
+        "author":"Bertrand Russell"
+    },
+    {
+        "id":"83",
+        "text":"He suddenly recalled from Plato's Symposium: People were hermaphrodites until God split then in two, and now all the halves wander the world over seeking one another. Love is the longing for the half of ourselves we have lost",
+        "author":"Milan Kundera"
+    },
+    {
+        "id":"84",
+        "text":"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself",
+        "author":"Carl Sagan"
+    },
+    {
+        "id":"85",
+        "text":"No! Try not. Do, or do not. There is no try",
+        "author":"George Lucas"
+    },
+    {
+        "id":"86",
+        "text":"One of the penalties of refusing to participate in politics is that you end up being governed by your inferiors",
+        "author":"Plato"
+    },
+    {
+        "id":"87",
+        "text":"Don't explain your philosophy. Embody it",
+        "author":"Epictetus"
+    },
+    {
+        "id":"88",
+        "text":"The flame that burns Twice as bright burns half as long",
+        "author":"Lao Tzu"
+    },
+    {
+        "id":"89",
+        "text":"The best revenge is not to be like your enemy",
+        "author":"Marcus Aurelius"
+    },
+    {
+        "id":"90",
+        "text":"Non est ad astra mollis e terris via - There is no easy way from the earth to the stars",
+        "author":"Seneca"
+    },
+    {
+        "id":"91",
+        "text":"Things do not change; we change",
+        "author":"henry david thoreau"
+    },
+    {
+        "id":"92",
+        "text":"The eye sees only what the mind is prepared to comprehend",
+        "author":"Robertson Davies"
+    },
+    {
+        "id":"93",
+        "text":"I shiver, thinking how easy it is to be totally wrong about people-to see one tiny part of them and confuse it for the whole, to see the cause and think it's the effect or vice versa",
+        "author":"Lauren Oliver"
+    },
+    {
+        "id":"94",
+        "text":"belief is the death of intelligence",
+        "author":"Robert Anton Wilson"
+    },
+    {
+        "id":"95",
+        "text":"What you are is God's gift to you, what you become is your gift to God",
+        "author":"Hans Urs von Balthasar"
+    },
+    {
+        "id":"96",
+        "text":"Wisest is she who knows she does not know",
+        "author":"Jostein Gaarder"
+    },
+    {
+        "id":"97",
+        "text":"The most incomprehensible thing about the world is that it is at all comprehensible",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"98",
+        "text":"The first method for estimating the intelligence of a ruler is to look at the men he has around him",
+        "author":"Niccolò Machiavelli"
+    },
+    {
+        "id":"99",
+        "text":"People know what they do; frequently they know why they do what they do; but what they don't know is what what they do does",
+        "author":"Michel Foucault"
+    },
+    {
+        "id":"100",
+        "text":"Man is always prey to his truths. Once he has admitted them, he cannot free himself from them",
+        "author":"Albert Camus"
+    },
+    {
+        "id":"101",
+        "text":"You are an aperture through which the universe is looking at and exploring itself",
+        "author":"Alan Watts"
+    },
+    {
+        "id":"102",
+        "text":"You show me a capitalist, and I'll show you a bloodsucker",
+        "author":"Malcom X"
+    },
+    {
+        "id":"103",
+        "text":"Happiness consists in frequent repetition of pleasure",
+        "author":"Arthur Schopenhauer"
+    },
+    {
+        "id":"104",
+        "text":"The journey is what brings us happiness not the destination",
+        "author":"Dan Millman"
+    },
+    {
+        "id":"105",
+        "text":"Some people talk in their sleep. Lecturers talk while other people sleep",
+        "author":"Albert Camus"
+    },
+    {
+        "id":"106",
+        "text":"I don't deserve a soul, yet I still have one. I know because it hurts",
+        "author":"Douglas Coupland"
+    },
+    {
+        "id":"107",
+        "text":"The aim of art is to represent not the outward appearance of things, but their inward significance",
+        "author":"Aristotle"
+    },
+    {
+        "id":"108",
+        "text":"He died that day because his body had served its purpose. His soul had done what it came to do, learned what it came to learn, and then was free to leave",
+        "author":"Garth Stein"
+    },
+    {
+        "id":"109",
+        "text":"If it turns out that there is a God...the worst that you can say about him is that basically he's an underachiever",
+        "author":"Woody Allen"
+    },
+    {
+        "id":"110",
+        "text":"Know thyself? If I knew myself, I'd run away",
+        "author":"Johann Wolfgang von Goethe"
+    },
+    {
+        "id":"111",
+        "text":"Freedom in capitalist society always remains about the same as it was in ancient Greek republics: Freedom for slave owners",
+        "author":"Vladimir Lenin"
+    },
+    {
+        "id":"112",
+        "text":"I don't want to be a tree; I want to be its meaning",
+        "author":"Orhan Pamuk"
+    },
+    {
+        "id":"113",
+        "text":"On the whole human beings want to be good, but not too good, and not quite all the time",
+        "author":"George Orwell"
+    },
+    {
+        "id":"114",
+        "text":"I was never aware of any other option but to question everything",
+        "author":"Noam Chomsky"
+    },
+    {
+        "id":"115",
+        "text":"Learning does not make one learned: there are those who have knowledge and those who have understanding. The first requires memory and the second philosophy",
+        "author":"Alexandre Dumas"
+    },
+    {
+        "id":"116",
+        "text":"There are no ordinary moments",
+        "author":"Dan Millman"
+    },
+    {
+        "id":"117",
+        "text":"The only thing that makes life possible is permanent, intolerable uncertainty: not knowing what comes next",
+        "author":"Ursula K. Le Guin"
+    },
+    {
+        "id":"118",
+        "text":"Every strike brings me closer to the next home run",
+        "author":"Babe Ruth"
+    },
+    {
+        "id":"119",
+        "text":"I don't know why we are here, but I'm pretty sure that it is not in order to enjoy ourselves",
+        "author":"Ludwig Wittgenstein"
+    },
+    {
+        "id":"120",
+        "text":"The highest activity a human being can attain is learning for understanding, because to understand is to be free",
+        "author":"Baruch Spinoza"
+    },
+    {
+        "id":"121",
+        "text":"Take it moment by moment, and you will find that we are all, as I’ve said before, bugs in amber",
+        "author":"Kurt Vonnegut"
+    },
+    {
+        "id":"122",
+        "text":"Devotion to the truth is the hallmark of morality; there is no greater, nobler, more heroic form of devotion than the act of a man who assumes the responsibility of thinking",
+        "author":"Ayn Rand"
+    },
+    {
+        "id":"123",
+        "text":"The seed of suffering in you may be strong, but don't wait until you have no more suffering before allowing yourself to be happy",
+        "author":"Thich Nhat Hanh"
+    },
+    {
+        "id":"124",
+        "text":"The menu is not the meal",
+        "author":"Alan Watts"
+    },
+    {
+        "id":"125",
+        "text":"Don’t only practice your art, but force your way into its secrets, for it and knowledge can raise men to the divine",
+        "author":"Ludwig van Beethoven"
+    },
+    {
+        "id":"126",
+        "text":"If you place your head in a lion's mouth, then you cannot complain one day if he happens to bite it off",
+        "author":"Agatha Christie"
+    },
+    {
+        "id":"127",
+        "text":"We should forgive our enemies, but not before they are hanged",
+        "author":"Heinrich Heine"
+    },
+    {
+        "id":"128",
+        "text":"There is no escape—we pay for the violence of our ancestors",
+        "author":"Frank Herbert"
+    },
+    {
+        "id":"129",
+        "text":"All knowledge is worth having",
+        "author":"Jacqueline Carey"
+    },
+    {
+        "id":"130",
+        "text":"The most important reason for going from one place to another is to see what's in between, and they took great pleasure in doing just that",
+        "author":"Norton Juster"
+    },
+    {
+        "id":"131",
+        "text":"The thing about a spiral is, if you follow it inward, it never actually ends. It just keeps tightening, infinitely",
+        "author":"John Green"
+    },
+    {
+        "id":"132",
+        "text":"The evil that is in the world almost always comes from ignorance, and good intentions may do as much harm as malevolence if they lack understanding",
+        "author":"Albert Camus"
+    },
+    {
+        "id":"133",
+        "text":"A great many people think they are thinking when they are merely rearranging their prejudices",
+        "author":"William James"
+    },
+    {
+        "id":"134",
+        "text":"When a man learns to love, he must bear the risk of hatred",
+        "author":"Uchiha Madara"
+    },
+    {
+        "id":"135",
+        "text":"To teach how to live without certainty, and yet without being paralyzed by hesitation, is perhaps the chief thing that philosophy, in our age, can still do for those who study it",
+        "author":"Bertrand Russell"
+    },
+    {
+        "id":"136",
+        "text":"The end may justify the means as long as there is something that justifies the end",
+        "author":"Leon Trotsky"
+    },
+    {
+        "id":"137",
+        "text":"There ain't no such thing as a free lunch",
+        "author":"Pierre Dos Utt"
+    },
+    {
+        "id":"138",
+        "text":"This is my simple religion. There is no need for temples; no need for complicated philosophy. Our own brain, our own heart is our temple; the philosophy is kindness",
+        "author":"Dalai Lama"
+    },
+    {
+        "id":"139",
+        "text":"Take it easy, but take it",
+        "author":"Woody Guthrie"
+    },
+    {
+        "id":"140",
+        "text":"No single event can awaken within us a stranger whose existence we had never suspected. To live is to be slowly born",
+        "author":"Antoine de Saint-Exupéry"
+    },
+    {
+        "id":"141",
+        "text":"To write well, express yourself like the common people, but think like a wise man",
+        "author":"Aristotle"
+    },
+    {
+        "id":"142",
+        "text":"The most perfidious way of harming a cause consists of defending it deliberately with faulty arguments",
+        "author":"Friedrich Nietzsche"
+    },
+    {
+        "id":"143",
+        "text":"If you're trapped in the dream of the Other, you're fucked",
+        "author":"Gilles Deleuze"
+    },
+    {
+        "id":"144",
+        "text":"The Revolution introduced me to art, and in turn, art introduced me to the Revolution!",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"145",
+        "text":"Whereof one cannot speak, thereof one must be silent",
+        "author":"Ludwig Wittgenstein"
+    },
+    {
+        "id":"146",
+        "text":"Fair speech may hide a foul heart",
+        "author":"J.R.R. Tolkien"
+    },
+    {
+        "id":"147",
+        "text":"Contentment is natural wealth, luxury is artificial poverty",
+        "author":"Socrates"
+    },
+    {
+        "id":"148",
+        "text":"A cult is a religion with no political power",
+        "author":"Tom Wolfe"
+    },
+    {
+        "id":"149",
+        "text":"Stop feeling sorry for yourself and you will be happy",
+        "author":"Stephen Fry"
+    },
+    {
+        "id":"150",
+        "text":"Until an hour before the Devil fell, God thought him beautiful in Heaven",
+        "author":"Arthur Miller"
+    }
+]

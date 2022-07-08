@@ -1,0 +1,751 @@
+[
+    {
+        "id":"1",
+        "text":"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"2",
+        "text":"So many books, so little time",
+        "author":"Frank Zappa"
+    },
+    {
+        "id":"3",
+        "text":"You only live once, but if you do it right, once is enough",
+        "author":"Mae West"
+    },
+    {
+        "id":"4",
+        "text":"Insanity is doing the same thing, over and over again, but expecting different results",
+        "author":"Unknown"
+    },
+    {
+        "id":"5",
+        "text":"The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid",
+        "author":"Jane Austen"
+    },
+    {
+        "id":"6",
+        "text":"Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read",
+        "author":"Groucho Marx"
+    },
+    {
+        "id":"7",
+        "text":"A day without sunshine is like, you know, night",
+        "author":"Steve Martin"
+    },
+    {
+        "id":"8",
+        "text":"Never put off till tomorrow what may be done day after tomorrow just as well",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"9",
+        "text":"I love deadlines. I love the whooshing noise they make as they go by",
+        "author":"Douglas Adams"
+    },
+    {
+        "id":"10",
+        "text":"Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car",
+        "author":"Garrison Keillor"
+    },
+    {
+        "id":"11",
+        "text":"Women and cats will do as they please, and men and dogs should relax and get used to the idea",
+        "author":"Robert A. Heinlein"
+    },
+    {
+        "id":"12",
+        "text":"All you need is love. But a little chocolate now and then doesn't hurt",
+        "author":"Charles M. Schulz"
+    },
+    {
+        "id":"13",
+        "text":"Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye",
+        "author":"Jim Henson"
+    },
+    {
+        "id":"14",
+        "text":"I'm not afraid of death; I just don't want to be there when it happens",
+        "author":"Woody Allen"
+    },
+    {
+        "id":"15",
+        "text":"Whenever I feel the need to exercise, I lie down until it goes away",
+        "author":"Paul Terry"
+    },
+    {
+        "id":"16",
+        "text":"I find television very educating. Every time somebody turns on the set, I go into the other room and read a book",
+        "author":"Groucho Marx"
+    },
+    {
+        "id":"17",
+        "text":"Some people never go crazy. What truly horrible lives they must lead",
+        "author":"Charles Bukowski"
+    },
+    {
+        "id":"18",
+        "text":"The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it",
+        "author":"Terry Pratchett"
+    },
+    {
+        "id":"19",
+        "text":"Reality continues to ruin my life",
+        "author":"Bill Watterson"
+    },
+    {
+        "id":"20",
+        "text":"The reason I talk to myself is because I’m the only one whose answers I accept",
+        "author":"George Carlin"
+    },
+    {
+        "id":"21",
+        "text":"Go to heaven for the climate and hell for the company",
+        "author":"Benjamin Franklin Wade"
+    },
+    {
+        "id":"22",
+        "text":"I love mankind ... it's people I can't stand",
+        "author":"Charles M. Schulz"
+    },
+    {
+        "id":"23",
+        "text":"I am free of all prejudice. I hate everyone equally",
+        "author":"W.C. Fields"
+    },
+    {
+        "id":"24",
+        "text":"Remember, we're madly in love, so it's all right to kiss me anytime you feel like it",
+        "author":"Suzanne Collins"
+    },
+    {
+        "id":"25",
+        "text":"A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment",
+        "author":"Jane Austen"
+    },
+    {
+        "id":"26",
+        "text":"It’s no use going back to yesterday, because I was a different person then",
+        "author":"Lewis Carroll"
+    },
+    {
+        "id":"27",
+        "text":"Be nice to nerds. You may end up working for them. We all could",
+        "author":"Charles J. Sykes"
+    },
+    {
+        "id":"28",
+        "text":"Be careful about reading health books. Some fine day you'll die of a misprint",
+        "author":"Markus Herz"
+    },
+    {
+        "id":"29",
+        "text":"Have you ever noticed how ‘What the hell’ is always the right decision to make?",
+        "author":"Terry Johnson"
+    },
+    {
+        "id":"30",
+        "text":"Fate is like a strange, unpopular restaurant filled with odd little waiters who bring you things you never asked for and don't always like",
+        "author":"Lemony Snicket"
+    },
+    {
+        "id":"31",
+        "text":"Creativity is knowing how to hide your sources",
+        "author":"C.E.M. Joad"
+    },
+    {
+        "id":"32",
+        "text":"The statistics on sanity are that one out of every four people is suffering from a mental illness. Look at your 3 best friends. If they're ok, then it's you",
+        "author":"Rita Mae Brown"
+    },
+    {
+        "id":"33",
+        "text":"Give a man a fire and he's warm for a day, but set fire to him and he's warm for the rest of his life",
+        "author":"Terry Pratchett"
+    },
+    {
+        "id":"34",
+        "text":"All God does is watch us and kill us when we get boring. We must never, ever be boring",
+        "author":"Chuck Palahniuk"
+    },
+    {
+        "id":"35",
+        "text":"This life’s hard, but it’s harder if you’re stupid",
+        "author":"George V. Higgins"
+    },
+    {
+        "id":"36",
+        "text":"I refuse to answer that question on the grounds that I don't know the answer",
+        "author":"Douglas Adams"
+    },
+    {
+        "id":"37",
+        "text":"Never memorize something that you can look up",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"38",
+        "text":"He can run faster than Severus Snape confronted with shampoo",
+        "author":"J.K. Rowling"
+    },
+    {
+        "id":"39",
+        "text":"When you're in jail, a good friend will be trying to bail you out. A best friend will be in the cell next to you saying, 'Damn, that was fun",
+        "author":"Groucho Marx"
+    },
+    {
+        "id":"40",
+        "text":"When you are courting a nice girl an hour seems like a second. When you sit on a red-hot cinder a second seems like an hour. That's relativity",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"41",
+        "text":"There's a fine line between genius and insanity. I have erased this line",
+        "author":"Oscar Levant"
+    },
+    {
+        "id":"42",
+        "text":"Two wrongs don't make a right, but they make a good excuse",
+        "author":"Thomas Szasz"
+    },
+    {
+        "id":"43",
+        "text":"Substitute 'damn' every time you're inclined to write 'very;' your editor will delete it and the writing will be just as it should be",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"44",
+        "text":"It means 'Shadowhunters: Looking Better in Black Than the Widows of our Enemies Since 1234",
+        "author":"Cassandra Clare"
+    },
+    {
+        "id":"45",
+        "text":"Reader, suppose you were an idiot. And suppose you were a member of Congress. But I repeat myself",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"46",
+        "text":"Going to church doesn’t make you a Christian any more than going to a garage makes you an automobile",
+        "author":"Billy Sunday"
+    },
+    {
+        "id":"47",
+        "text":"I do not want people to be very agreeable, as it saves me the trouble of liking them a great deal",
+        "author":"Jane Austen"
+    },
+    {
+        "id":"48",
+        "text":"The planet is fine. The people are fucked",
+        "author":"George Carlin"
+    },
+    {
+        "id":"49",
+        "text":"If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?",
+        "author":"Laurence J. Peter"
+    },
+    {
+        "id":"50",
+        "text":"I like work: it fascinates me. I can sit and look at it for hours",
+        "author":"Jerome K. Jerome"
+    },
+    {
+        "id":"51",
+        "text":"There are two motives for reading a book; one, that you enjoy it; the other, that you can boast about it",
+        "author":"Bertrand Russell"
+    },
+    {
+        "id":"52",
+        "text":"It is hard enough to remember my opinions, without also remembering my reasons for them!",
+        "author":"Friedrich Nietzsche"
+    },
+    {
+        "id":"53",
+        "text":"I did not attend his funeral, but I sent a nice letter saying I approved of it",
+        "author":"Mark Twain"
+    },
+    {
+        "id":"54",
+        "text":"Where is human nature so weak as in the bookstore?",
+        "author":"Henry Ward Beecherr"
+    },
+    {
+        "id":"55",
+        "text":"If at first you don't succeed, try, try again. Then quit. No use being a damn fool about it",
+        "author":"W.C. Fields"
+    },
+    {
+        "id":"56",
+        "text":"Never let your sense of morals prevent you from doing what is right",
+        "author":"Isaac Asimov"
+    },
+    {
+        "id":"57",
+        "text":"I generally avoid temptation unless I can't resist it",
+        "author":"Mae West"
+    },
+    {
+        "id":"58",
+        "text":"I love to see a young girl go out and grab the world by the lapels. Life's a bitch. You've got to go out and kick ass",
+        "author":"maya angelou"
+    },
+    {
+        "id":"59",
+        "text":"Happiness is a warm puppy",
+        "author":"Charles M. Schulz"
+    },
+    {
+        "id":"60",
+        "text":"Fantasy is a necessary ingredient in living, it's a way of looking at life through the wrong end of a telescope",
+        "author":"Dr. Seuss"
+    },
+    {
+        "id":"61",
+        "text":"I don't know the question, but sex is definitely the answer",
+        "author":"Woody Allen"
+    },
+    {
+        "id":"62",
+        "text":"I have great faith in fools - self-confidence my friends will call it",
+        "author":"Edgar Allan Poe"
+    },
+    {
+        "id":"63",
+        "text":"I think God, in creating man, somewhat overestimated his ability",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"64",
+        "text":"Time flies like an arrow; fruit flies like a banana",
+        "author":"Anthony G. Oettinger"
+    },
+    {
+        "id":"65",
+        "text":"Deadlines just aren't real to me until I'm staring one in the face",
+        "author":"Rick Riordan"
+    },
+    {
+        "id":"66",
+        "text":"I never travel without my diary. One should always have something sensational to read in the train",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"67",
+        "text":"My tastes are simple: I am easily satisfied with the best",
+        "author":"Winston S. Churchill"
+    },
+    {
+        "id":"68",
+        "text":"Happiness is having a large, loving, caring, close-knit family in another city",
+        "author":"George Burns"
+    },
+    {
+        "id":"69",
+        "text":"There is nothing in the world so irresistibly contagious as laughter and good humor",
+        "author":"Charles Dickens"
+    },
+    {
+        "id":"70",
+        "text":"People say nothing is impossible, but I do nothing every day",
+        "author":"A.A. Milne"
+    },
+    {
+        "id":"71",
+        "text":"Some people have lives; some people have music",
+        "author":"John Green"
+    },
+    {
+        "id":"72",
+        "text":"Tell the truth, or someone will tell it for you",
+        "author":"Stephanie Klein"
+    },
+    {
+        "id":"73",
+        "text":"I suppose I'll have to add the force of gravity to my list of enemies",
+        "author":"Lemony Snicket"
+    },
+    {
+        "id":"74",
+        "text":"Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!",
+        "author":"Dr. Seuss"
+    },
+    {
+        "id":"75",
+        "text":"Right now I’m having amnesia and déjà vu at the same time. I think I’ve forgotten this before",
+        "author":"Steven Wright"
+    },
+    {
+        "id":"76",
+        "text":"History will be kind to me for I intend to write it",
+        "author":"Winston S. Churchill"
+    },
+    {
+        "id":"77",
+        "text":"Finally, from so little sleeping and so much reading, his brain dried up and he went completely out of his mind",
+        "author":"Miguel de Cervantes Saavedra"
+    },
+    {
+        "id":"78",
+        "text":"Fighting for peace is like screwing for virginity",
+        "author":"George Carlin"
+    },
+    {
+        "id":"79",
+        "text":"It is a great thing to start life with a small number of really good books which are your very own",
+        "author":"Arthur Conan Doyle"
+    },
+    {
+        "id":"80",
+        "text":"Say 'provoking' again. Your mouth looks provocative when you do",
+        "author":"Becca Fitzpatrick"
+    },
+    {
+        "id":"81",
+        "text":"Don't feel bad, I'm usually about to die",
+        "author":"Rick Riordan"
+    },
+    {
+        "id":"82",
+        "text":"If you ever find yourself in the wrong story, leave",
+        "author":"Mo Willems"
+    },
+    {
+        "id":"83",
+        "text":"I love you like a fat kid loves cake!",
+        "author":"Scott Adams"
+    },
+    {
+        "id":"84",
+        "text":"I'm sure the universe is full of intelligent life. It's just been too intelligent to come here",
+        "author":"Arthur C. Clarke"
+    },
+    {
+        "id":"85",
+        "text":"You here to finish me off, Sweetheart?",
+        "author":"Suzanne Collins"
+    },
+    {
+        "id":"86",
+        "text":"Have you ever noticed that anybody driving slower than you is an idiot, and anyone going faster than you is a maniac?",
+        "author":"George Carlin"
+    },
+    {
+        "id":"87",
+        "text":"The meek may inherit the earth, but at the moment it belongs to the conceited. Like me",
+        "author":"Cassandra Clare"
+    },
+    {
+        "id":"88",
+        "text":"It is forbidden to kill; therefore all murderers are punished unless they kill in large numbers and to the sound of trumpets",
+        "author":"Voltaire"
+    },
+    {
+        "id":"89",
+        "text":"Time is an illusion. Lunchtime doubly so",
+        "author":"Douglas Adams"
+    },
+    {
+        "id":"90",
+        "text":"Some people say, “Never let them see you cry.” I say, if you’re so mad you could just cry, then cry. It terrifies everyone",
+        "author":"Tina Fey"
+    },
+    {
+        "id":"91",
+        "text":"From the moment I picked up your book until I put it down, I was convulsed with laughter. Some day I intend reading it",
+        "author":"Groucho Marx"
+    },
+    {
+        "id":"92",
+        "text":"I'm tough, I'm ambitious, and I know exactly what I want. If that makes me a bitch, okay",
+        "author":"Madonna"
+    },
+    {
+        "id":"93",
+        "text":"The capacity for friendship is God's way of apologizing for our families",
+        "author":"Jay McInerney"
+    },
+    {
+        "id":"94",
+        "text":"Even if you are on the right track, you’ll get run over if you just sit there",
+        "author":"Will Rogers"
+    },
+    {
+        "id":"95",
+        "text":"Would it save you a lot of time if I just gave up and went mad now?",
+        "author":"Douglas Adams"
+    },
+    {
+        "id":"96",
+        "text":"Every now and then I like to do as I'm told, just to confuse people",
+        "author":"Tamora Pierce"
+    },
+    {
+        "id":"97",
+        "text":"Beauty is only skin deep, but ugly goes clean to the bone",
+        "author":"Dorothy Parker"
+    },
+    {
+        "id":"98",
+        "text":"Today was good. Today was fun. Tomorrow is another one",
+        "author":"Dr. Seuss"
+    },
+    {
+        "id":"99",
+        "text":"May the forces of evil become confused on the way to your house",
+        "author":"George Carlin"
+    },
+    {
+        "id":"100",
+        "text":"The worst part of success is trying to find someone who is happy for you",
+        "author":"Bette Midler"
+    },
+    {
+        "id":"101",
+        "text":"Yes, frosting. The final defense of the dying",
+        "author":"Suzanne Collins"
+    },
+    {
+        "id":"102",
+        "text":"Most books on witchcraft will tell you that witches work naked. This is because most books on witchcraft were written by men",
+        "author":"Neil Gaiman"
+    },
+    {
+        "id":"103",
+        "text":"There is only one thing in the world worse than being talked about, and that is not being talked about",
+        "author":"Oscar Wilde"
+    },
+    {
+        "id":"104",
+        "text":"Never underestimate the power of stupid people in large groups",
+        "author":"George Carlin"
+    },
+    {
+        "id":"105",
+        "text":"Confidence is ignorance. If you're feeling cocky, it's because there's something you don't know",
+        "author":"Eoin Colfer"
+    },
+    {
+        "id":"106",
+        "text":"Beautiful face. Beautiful body. Horrible attitude. It was the holy trinity of hot boys",
+        "author":"Jennifer L. Armentrout"
+    },
+    {
+        "id":"107",
+        "text":"What's the good of living if you don't try a few things?",
+        "author":"Charles M. Schulz"
+    },
+    {
+        "id":"108",
+        "text":"From there to here, from here to there, funny things are everywhere!",
+        "author":"Dr. Seuss"
+    },
+    {
+        "id":"109",
+        "text":"Because you can't argue with all the fools in the world. It's easier to let them have their way, then trick them when they're not paying attention",
+        "author":"Christopher Paolini"
+    },
+    {
+        "id":"110",
+        "text":"Love can change a person the way a parent can change a baby- awkwardly, and often with a great deal of mess",
+        "author":"Lemony Snicket"
+    },
+    {
+        "id":"111",
+        "text":"I wrote the story myself. It's about a girl who lost her reputation and never missed it",
+        "author":"Mae West"
+    },
+    {
+        "id":"112",
+        "text":"Forgive, O Lord, my little jokes on Thee And I'll forgive Thy great big one on me",
+        "author":"Robert Frost"
+    },
+    {
+        "id":"113",
+        "text":"Ask not what you can do for your country. Ask what’s for lunch",
+        "author":"Orson Welles"
+    },
+    {
+        "id":"114",
+        "text":"Animals are my friends and I don't eat my friends",
+        "author":"George Bernard Shaw"
+    },
+    {
+        "id":"115",
+        "text":"The longer and more carefully we look at a funny story, the sadder it becomes",
+        "author":"Nikolai V. Gogol"
+    },
+    {
+        "id":"116",
+        "text":"Black holes are where God divided by zero",
+        "author":"Albert Einstein"
+    },
+    {
+        "id":"117",
+        "text":"It's hard to enjoy practical jokes when your whole life feels like one",
+        "author":"Rick Riordan"
+    },
+    {
+        "id":"118",
+        "text":"Some people have a way with words, and other people...oh, uh, not have way",
+        "author":"Steve Martin"
+    },
+    {
+        "id":"119",
+        "text":"A smile is a curve that sets everything straight",
+        "author":"Phyllis Diller"
+    },
+    {
+        "id":"120",
+        "text":"My rapier wit hides my inner pain",
+        "author":"Cassandra Clare"
+    },
+    {
+        "id":"121",
+        "text":"I always arrive late at the office, but I make up for it by leaving early",
+        "author":"Charles Lamb"
+    },
+    {
+        "id":"122",
+        "text":"I'm killing time while I wait for life to shower me with meaning and happiness",
+        "author":"Bill Watterson"
+    },
+    {
+        "id":"123",
+        "text":"Maybe our girlfriends are our soulmates and guys are just people to have fun with",
+        "author":"Candace Bushnell"
+    },
+    {
+        "id":"124",
+        "text":"Of course motivation is not permanent. But then, neither is bathing; but it is something you should do on a regular basis",
+        "author":"Zig Ziglar"
+    },
+    {
+        "id":"125",
+        "text":"Humor is reason gone mad",
+        "author":"Groucho Marx"
+    },
+    {
+        "id":"126",
+        "text":"Five exclamation marks, the sure sign of an insane mind",
+        "author":"Terry Pratchett"
+    },
+    {
+        "id":"127",
+        "text":"I never forget a face, but in your case I'll be glad to make an exception",
+        "author":"Groucho Marx"
+    },
+    {
+        "id":"128",
+        "text":"Life doesn't imitate art, it imitates bad television",
+        "author":"Woody Allen"
+    },
+    {
+        "id":"129",
+        "text":"People, generally, suck",
+        "author":"Christopher Moore"
+    },
+    {
+        "id":"130",
+        "text":"If you try to fail, and succeed, which have you done?",
+        "author":"George Carlin"
+    },
+    {
+        "id":"131",
+        "text":"If my doctor told me I had only six minutes to live, I wouldn't brood. I'd type a little faster",
+        "author":"Isaac Asimov"
+    },
+    {
+        "id":"132",
+        "text":"See, the problem is that God gives men a brain and a penis, and only enough blood to run one at a time",
+        "author":"Robin Williams"
+    },
+    {
+        "id":"133",
+        "text":"I figured something out. The future is unpredictable",
+        "author":"John Green"
+    },
+    {
+        "id":"134",
+        "text":"If you love something set it free, but don't be surprised if it comes back with herpes",
+        "author":"Chuck Palahniuk"
+    },
+    {
+        "id":"135",
+        "text":"I know all those words, but that sentence makes no sense to me",
+        "author":"Matt Groening"
+    },
+    {
+        "id":"136",
+        "text":"It's like learning to ride a unicorn. You never forget",
+        "author":"Eoin Colfer"
+    },
+    {
+        "id":"137",
+        "text":"Puns are the highest form of literature",
+        "author":"Alfred Hitchcock"
+    },
+    {
+        "id":"138",
+        "text":"It takes a lot of time to be a genius. You have to sit around so much, doing nothing, really doing nothing",
+        "author":"Gertrude Stein"
+    },
+    {
+        "id":"139",
+        "text":"Write what you know. That should leave you with a lot of free time",
+        "author":"Howard Nemerov"
+    },{
+        "id":"140",
+        "text":"The secret of life is honesty and fair dealing. If you can fake that, you've got it made",
+        "author":"Groucho Marx"
+    },
+    {
+        "id":"141",
+        "text":"The last thing I ever wanted was to be alive when the three most powerful people on the whole planet would be named Bush, Dick and Colon",
+        "author":"Kurt Vonnegut"
+    },
+    {
+        "id":"142",
+        "text":"There is nothing like puking with somebody to make you into old friends",
+        "author":"Sylvia Plath"
+    },
+    {
+        "id":"143",
+        "text":"The older I grow, the more I distrust the familiar doctrine that age brings wisdom",
+        "author":"H.L. Mencken"
+    },
+    {
+        "id":"144",
+        "text":"Meow” means “woof” in cat",
+        "author":"George Carlin"
+    },
+    {
+        "id":"145",
+        "text":"They slipped briskly into an intimacy from which they never recovered",
+        "author":"F. Scott Fitzgerald"
+    },
+    {
+        "id":"146",
+        "text":"Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings",
+        "author":"Robert Benchley"
+    },
+    {
+        "id":"147",
+        "text":"That wasn't any act of God. That was an act of pure human fuckery.",
+        "author":"Stephen King"
+    },
+    {
+        "id":"148",
+        "text":"People have an annoying habit of remembering things they shouldn't",
+        "author":"Christopher Paolini"
+    },
+    {
+        "id":"149",
+        "text":"You live but once; you might as well be amusing",
+        "author":"Coco Chanel"
+    },
+    {
+        "id":"150",
+        "text":"In wine there is wisdom, in beer there is Freedom, in water there is bacteria",
+        "author":"Benjamin Franklin"
+    }
+]

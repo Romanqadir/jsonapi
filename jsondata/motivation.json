@@ -1,0 +1,752 @@
+[
+    {
+        "id":"1",
+        "text":"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"2",
+        "text":"It's not the load that breaks you down, it's the way you carry it",
+        "author":"Lou Holtz"
+    },
+    {
+        "id":"3",
+        "text":"When we are no longer able to change a situation, we are challenged to change ourselves",
+        "author":"Viktor E. Frankl"
+    },
+    {
+        "id":"4",
+        "text":"Do you want to know who you are? Don't ask. Act! Action will delineate and define you",
+        "author":"Thomas Jefferson"
+    },
+    {
+        "id":"5",
+        "text":"Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day",
+        "author":"Paulo Coelho"
+    },
+    {
+        "id":"6",
+        "text":"Of course motivation is not permanent. But then, neither is bathing; but it is something you should do on a regular basis",
+        "author":"Zig Ziglar"
+    },
+    {
+        "id":"7",
+        "text":"The way to get started is to quit talking and begin doing",
+        "author":"Walt Disney"
+    },
+    {
+        "id":"8",
+        "text":"The only thing standing between you and your goal is the bullshit story you keep telling yourself as to why you can't achieve it",
+        "author":"Jordan Belfort"
+    },
+    {
+        "id":"9",
+        "text":"When someone tells me no, it doesn't mean I can't do it, it simply means I can't do it with them",
+        "author":"Karen E. Quinones Miller"
+    },
+    {
+        "id":"10",
+        "text":"When all is said and done, more is said than done",
+        "author":"Lou Holtz"
+    },
+    {
+        "id":"11",
+        "text":"Get going. Move forward. Aim High. Plan a takeoff. Don't just sit on the runway and hope someone will come along and push the airplane. It simply won't happen. Change your attitude and gain some altitude. Believe me, you'll love it up here",
+        "author":"Donald Trump"
+    },
+    {
+        "id":"12",
+        "text":"Live your truth. Express your love. Share your enthusiasm. Take action towards your dreams. Walk your talk. Dance and sing to your music. Embrace your blessings. Make today worth remembering",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"13",
+        "text":"If you start by promising what you don't even have yet, you'll lose your desire to work towards getting it",
+        "author":"Paulo Coelho"
+    },
+    {
+        "id":"14",
+        "text":"If you have a dream, don’t just sit there. Gather courage to believe that you can succeed and leave no stone unturned to make it a reality",
+        "author":"Dr Roopleen"
+    },
+    {
+        "id":"15",
+        "text":"The individual who says it is not possible should move out of the way of those doing it",
+        "author":"Tricia Cunningham"
+    },
+    {
+        "id":"16",
+        "text":"When defeat comes, accept it as a signal that your plans are not sound, rebuild those plans, and set sail once more toward your coveted goal",
+        "author":"Napoleon Hill"
+    },
+    {
+        "id":"17",
+        "text":"And will you succeed? Yes indeed, yes indeed! Ninety-eight and three-quarters percent guaranteed!",
+        "author":"Dr. Suess"
+    },
+    {
+        "id":"18",
+        "text":"All great achievements require time",
+        "author":"Maya Angelou"
+    },
+    {
+        "id":"19",
+        "text":"It is not a daily increase, but a daily decrease. Hack away at the inessentials",
+        "author":"Bruce Lee"
+    },
+    {
+        "id":"20",
+        "text":"All men want, not something to do with, but something to do, or rather something to be",
+        "author":"Henry David Thoreau"
+    },
+    {
+        "id":"21",
+        "text":"You can't build a reputation on what you are going to do",
+        "author":"Henry Ford"
+    },
+    {
+        "id":"22",
+        "text":"Every day People straighten up the hair, why not the heart?",
+        "author":"che guevara"
+    },
+    {
+        "id":"23",
+        "text":"I cannot compromise my respect for your love. You can keep your love, I will keep my respect",
+        "author":"Amit Kalantri"
+    },
+    {
+        "id":"24",
+        "text":"In the name of the Pizza Lord. Charge!",
+        "author":"Jim Butcher"
+    },
+    {
+        "id":"25",
+        "text":"Find a purpose to serve, not a lifestyle to live",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"26",
+        "text":"The foolish man seeks happiness in the distance. The wise grows it under his feet",
+        "author":"James Oppenheim"
+    },
+    {
+        "id":"27",
+        "text":"Love is forgiving, accepting, moving on, embracing, and all encompassing. And if you’re not doing that for yourself, you cannot do that with anyone else",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"28",
+        "text":"Hope in the shadow of fear is the world's most powerful motivator",
+        "author":"Neal Shusterman"
+    },
+    {
+        "id":"29",
+        "text":"Focus on making yourself better, not on thinking that you are better",
+        "author":"Bohdi Sanders"
+    },
+    {
+        "id":"30",
+        "text":"To overcome fear is the quickest way to gain your self-confidence",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"31",
+        "text":"You are a divine being. You matter, you count. You come from realms of unimaginable power and light, and you will return to those realms",
+        "author":"Terence McKenna"
+    },
+    {
+        "id":"32",
+        "text":"When you're following your inner voice, doors tend to eventually open for you, even if they mostly slam at first",
+        "author":"Kelly Cutrone"
+    },
+    {
+        "id":"33",
+        "text":"Rise and rise again until lambs become lions",
+        "author":"Robin Hood"
+    },
+    {
+        "id":"34",
+        "text":"To progress in life, I don’t focus on how much I have done but on how much I have yet to do",
+        "author":"Idowu Koyenikan"
+    },
+    {
+        "id":"35",
+        "text":"But one of the worst results of being a slave and being forced to do things is that when there is no one to force you any more you find you have almost lost the power of forcing yourself",
+        "author":"C.S. Lewis"
+    },
+    {
+        "id":"36",
+        "text":"It's not that some people have willpower and some don't... It's that some people are ready to change and others are not",
+        "author":"James Gordon"
+    },
+    {
+        "id":"37",
+        "text":"Life always begins with one step outside of your comfort zone",
+        "author":"Allan Rufus"
+    },
+    {
+        "id":"38",
+        "text":"Many times in life, we are held back from achieving our goals because we do not commit ourselves wholeheartedly. With an escape route in mind, we hold ourselves back from giving our all",
+        "author":"idowu koyenikan"
+    },
+    {
+        "id":"39",
+        "text":"Face reality as it is, not as it was or as you wish it to be",
+        "author":"Jack Welch"
+    },
+    {
+        "id":"40",
+        "text":"Every challenge you face today makes you stronger tomorrow. The challenge of life is intended to make you better, not bitter",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"41",
+        "text":"You have the power to heal your life, and you need to know that. We think so often that we are helpless, but we're not. We always have the power of our minds…Claim and consciously use your power",
+        "author":"Louise L. Hay"
+    },
+    {
+        "id":"42",
+        "text":"The quality of a man's life is in direct proportion to his commitment to excellence, regardless of his chosen field of endeavor",
+        "author":"Vince Lombardi"
+    },
+    {
+        "id":"43",
+        "text":"Where did we ever get the crazy idea that in order to make children do better, first we have to make them feel worse? Think of the last time you felt humiliated or treated unfairly. Did you feel like cooperating or doing better?",
+        "author":"Jane Nelsen"
+    },
+    {
+        "id":"44",
+        "text":"Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it",
+        "author":"Lou Holtz"
+    },
+    {
+        "id":"45",
+        "text":"I said Somebody should do something about that. Then I realized I am somebody",
+        "author":"Lily Tomlin"
+    },
+    {
+        "id":"46",
+        "text":"I just want to be someone, to mean something to anyone…",
+        "author":"Charlotte Eriksson"
+    },
+    {
+        "id":"47",
+        "text":"Control Your Own Destiny or Someone Else Will",
+        "author":"Jack Welch"
+    },
+    {
+        "id":"48",
+        "text":"Edit your life frequently and ruthlessly. It's your masterpiece after all",
+        "author":"Nathan W. Morris"
+    },
+    {
+        "id":"49",
+        "text":"Our Age of Anxiety is, in great part, the result of trying to do today’s jobs with yesterday’s tools!",
+        "author":"Marshall McLuhan"
+    },
+    {
+        "id":"50",
+        "text":"The voice says, maybe you don't go to hell for the things you do. Maybe you go to hell for the things you don't do. The things you don't finish",
+        "author":"Chuck Palahniuk"
+    },
+    {
+        "id":"51",
+        "text":"Life's short. Live passionately",
+        "author":"Marc A. Pitman"
+    },
+    {
+        "id":"52",
+        "text":"If an apology is followed by an excuse or a reason, it means they are going to commit same mistake again they just apologized for",
+        "author":"Amit Kalantri"
+    },
+    {
+        "id":"53",
+        "text":"Desire is the key to motivation, but it’s determination and commitment to an unrelenting pursuit of your goal - a commitment to excellence - that will enable you to attain the success you seek",
+        "author":"Mario Andretti"
+    },
+    {
+        "id":"54",
+        "text":"Do it badly; do it slowly; do it fearfully; do it any way you have to, but do it",
+        "author":"Steve Chandler"
+    },
+    {
+        "id":"55",
+        "text":"A challenge only becomes an obstacle when you bow to it",
+        "author":"Ray A. Davis"
+    },
+    {
+        "id":"56",
+        "text":"You make mistakes, mistakes don't make you",
+        "author":"Maxwell Maltz"
+    },
+    {
+        "id":"57",
+        "text":"I am so grateful for my troubles. As I reflect back on my life, I have come to realize that my greatest triumphs have been born of my greatest troubles",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"58",
+        "text":"Writer’s block results from too much head. Cut off your head. Pegasus, poetry, was born of Medusa when her head was cut off. You have to be reckless when writing. Be as crazy as your conscience allows",
+        "author":"Joseph Campbell"
+    },
+    {
+        "id":"59",
+        "text":"Talent is a wonderful thing, but it won't carry a quitter",
+        "author":"Stephen King"
+    },
+    {
+        "id":"60",
+        "text":"When God takes out the trash, don't go digging back through it. Trust Him",
+        "author":"Amaka Imani Nkosazana"
+    },
+    {
+        "id":"61",
+        "text":"It has been my philosophy of life that difficulties vanish when faced boldly",
+        "author":"Isaac Asimov"
+    },
+    {
+        "id":"62",
+        "text":"Never run from the enemy, tackle them",
+        "author":"Victoria Addino"
+    },
+    {
+        "id":"63",
+        "text":"Follow your bliss and doors will open where there were no doors before",
+        "author":"Joseph Campbell"
+    },
+    {
+        "id":"64",
+        "text":"I found an inner strength to fight for myself. It was clear that nobody else would",
+        "author":"Tehmina Durrani"
+    },
+    {
+        "id":"65",
+        "text":"If we judge ourselves only by our aspirations and everyone else only their conduct we shall soon reach a very false conclusion",
+        "author":"Calvin Coolidge"
+    },
+    {
+        "id":"66",
+        "text":"Dear me, one day I'll make you proud",
+        "author":"Charlotte Eriksson"
+    },
+    {
+        "id":"67",
+        "text":"It is only in our darkest hours that we may discover the true strength of the brilliant light within ourselves that can never, ever, be dimmed",
+        "author":"Doe Zantamata"
+    },
+    {
+        "id":"68",
+        "text":"The truly terrible thing is that everybody has their reasons",
+        "author":"Jean Renoir"
+    },
+    {
+        "id":"69",
+        "text":"No one asks how to motivate a baby. A baby naturally explores everything it can get at, unless restraining forces have already been at work. And this tendency doesn't die out, it's wiped out",
+        "author":"B.F. Skinner"
+    },
+    {
+        "id":"70",
+        "text":"Do not sit still; start moving now. In the beginning, you may not go in the direction you want, but as long as you are moving, you are creating alternatives and possibilities",
+        "author":"Rodolfo Costa"
+    },
+    {
+        "id":"71",
+        "text":"I need to stop getting into situations where all my options are potentially bad",
+        "author":"Jack Campbell"
+    },
+    {
+        "id":"72",
+        "text":"You don't go walking into the proverbial lion's den lightly. You start with a good breakfast",
+        "author":"Jim Butcher"
+    },
+    {
+        "id":"73",
+        "text":"Curiosity is the engine of achievement",
+        "author":"Ken Robinson"
+    },
+    {
+        "id":"74",
+        "text":"Live Long and Prosper",
+        "author":"Leonard Nimoy"
+    },
+    {
+        "id":"75",
+        "text":"When you live your life by poor standards, you inflict damage on everyone who crosses your path, especially those you love",
+        "author":"Jordan Belfort"
+    },
+    {
+        "id":"76",
+        "text":"We see things not as they are, we see them as we are",
+        "author":"Morrie Camhi"
+    },
+    {
+        "id":"77",
+        "text":"No one wakes up in the morning and says, 'I want to gain 150 pounds and I will start right now!",
+        "author":"Tricia Cunningham"
+    },
+    {
+        "id":"78",
+        "text":"Stop searching the world for treasure, the real treasure is in yourself",
+        "author":"Pablo"
+    },
+    {
+        "id":"79",
+        "text":"Motivation is the fuel, necessary to keep the human engine running",
+        "author":"Zig Ziglar"
+    },
+    {
+        "id":"80",
+        "text":"Anything which is physically possible can always be made financially possible; money is a bugaboo of small minds",
+        "author":"Robert A. Heinlein"
+    },
+    {
+        "id":"81",
+        "text":"Intelligence is more important than strength, that is why earth is ruled by men and not by animals",
+        "author":"Amit Kalantri"
+    },
+    {
+        "id":"82",
+        "text":"We love being mentally strong, but we hate situations that allow us to put our mental strength to good use",
+        "author":"Mokokoma Mokhonoana"
+    },
+    {
+        "id":"83",
+        "text":"He had made himself believe that he was going to get well, which was really more than half the battle",
+        "author":"Frances Hodgson Burnett"
+    },
+    {
+        "id":"84",
+        "text":"Motivation comes from working on things we care about. It also comes from working with people we care about",
+        "author":"Sheryl Sandberg"
+    },
+    {
+        "id":"85",
+        "text":"Go as far as you can see and you will see further",
+        "author":"Zig Ziglar"
+    },
+    {
+        "id":"86",
+        "text":"Everyone has the fire, but the champions know when to ignite the spark",
+        "author":"Amit Ray"
+    },
+    {
+        "id":"87",
+        "text":"I put on the boots and kicked some monster ass",
+        "author":"Jim Butcher"
+    },
+    {
+        "id":"88",
+        "text":"While intent is the seed of manifestation, action is the water that nourishes the seed. Your actions must reflect your goals in order to achieve true success",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"89",
+        "text":"Focus on what you are and what you can rather than what others aren't & can't. You have to win; they don't necessarily have to lose for you!",
+        "author":"Alok Mishra"
+    },
+    {
+        "id":"90",
+        "text":"You touch some of the reasons for my going, not for my staying away",
+        "author":"Charles Dickens"
+    },
+    {
+        "id":"91",
+        "text":"I can’t think of anything more disheartening than living a life without a clear purpose",
+        "author":"Daniel Willey"
+    },
+    {
+        "id":"92",
+        "text":"Money is like gasoline during a road trip. You don’t want to run out of gas on your trip, but you’re not doing a tour of gas stations",
+        "author":"Tim O'Reilly"
+    },
+    {
+        "id":"93",
+        "text":"Keep creating: the world yearns to celebrate your next masterpiece",
+        "author":"Ken Poirot"
+    },
+    {
+        "id":"94",
+        "text":"Patience is the only way you can endure the gray periods",
+        "author":"Teri Hatcher"
+    },
+    {
+        "id":"95",
+        "text":"The war to preserve the privilege of mythmaking",
+        "author":"Marvin Bell"
+    },
+    {
+        "id":"96",
+        "text":"Kindness is universal. Sometimes being kind allows others to see the goodness in humanity through you. Always be kinder than necessary",
+        "author":"Germany Kent"
+    },
+    {
+        "id":"97",
+        "text":"We all grow tired eventually; it happens to everyone. Even the sun, at the close of the year, is no longer a morning person",
+        "author":"Joyce Rachelle"
+    },
+    {
+        "id":"98",
+        "text":"Be more than motivated, be more than driven, become literally obsessed to the point where people think you're fucking nuts",
+        "author":"David Goggins"
+    },
+    {
+        "id":"99",
+        "text":"The hardest part of any important task is getting started on it in the first place. Once you actually begin work on a valuable task, you seem to be naturally motivated to continue",
+        "author":"Brian Tracy"
+    },
+    {
+        "id":"100",
+        "text":"Motivation is when your dreams put on work clothes",
+        "author":"Benjamin Franklin"
+    },
+    {
+        "id":"101",
+        "text":"I felt like poisoning a monk",
+        "author":"Umberto Eco"
+    },
+    {
+        "id":"102",
+        "text":"Most people who decide to grow personally find their first mentors in the pages of books",
+        "author":"John C. Maxwell"
+    },
+    {
+        "id":"103",
+        "text":"If only we had the certainty in our strength that we do in our weaknesses and capacity for failure - oh how wonderful life would be",
+        "author":"Daniel Mangena"
+    },
+    {
+        "id":"104",
+        "text":"What makes the engine go? Desire, desire, desire",
+        "author":"Stanley Kunitz"
+    },
+    {
+        "id":"105",
+        "text":"Money is like gasoline during a road trip. You don’t want to run out of gas on your trip, but you’re not doing a tour of gas stations",
+        "author":"Tim O'Reilly"
+    },
+    {
+        "id":"106",
+        "text":"Success in life is not for those who run fast, but for those who keep running and always on the move",
+        "author":"Bangambiki Habyarimana"
+    },
+    {
+        "id":"107",
+        "text":"Get immersed in the beauty that surrounds you. No filters, edits, or adjustments. Experience the colors, sounds, textures and smells within your reach. Live",
+        "author":"C. Toni Graham"
+    },
+    {
+        "id":"108",
+        "text":"Live with Fulfillment, Serve with Passion so in this Lifetime you will have the ablility to Die with NO Regrets",
+        "author":"Randy Gonzales"
+    },
+    {
+        "id":"109",
+        "text":"Faithfulness in small things leads to faithfulness in great things, and never the other way around.",
+        "author":"Pastor Jerry L. Lewis"
+    },
+    {
+        "id":"110",
+        "text":"If you practice hard, you can win every battle",
+        "author":"Manny Pacquiao"
+    },
+    {
+        "id":"111",
+        "text":"A life fueled by passions is like riding on the back of a dragon",
+        "author":"Suzy Kassem"
+    },
+    {
+        "id":"112",
+        "text":"There is no tomorrow and there was no yesterday; if you truly want to accomplish your goals you must engulf yourself in today",
+        "author":"Noel DeJesus"
+    },
+    {
+        "id":"113",
+        "text":"If you're reading this, I hope God opens incredible doors for your life this year. Greatness is upon you. You must believe it though",
+        "author":"Germany Kent"
+    },
+    {
+        "id":"114",
+        "text":"Spend more time doing things that make you forget about the time",
+        "author":"Charlotte Eriksson"
+    },
+    {
+        "id":"115",
+        "text":"Fear of the LORD is the beginning of knowledge. Only Fools despise wisdom and discipline",
+        "author":"Eddie Johnson"
+    },
+    {
+        "id":"116",
+        "text":"Nothing is born into this world without labor",
+        "author":"Rob Liano"
+    },
+    {
+        "id":"117",
+        "text":"People who work in an environment where doing their best is recognized have a better chance of feeling good about their work",
+        "author":"Marilyn Suttle"
+    },
+    {
+        "id":"118",
+        "text":"When we pray we admit defeat",
+        "author":"Anthony Burgess"
+    },
+    {
+        "id":"119",
+        "text":"motivating people, forcing them to your will, gives you a cynical attitude toward humanity. It degrades everything it touches",
+        "author":"Frank Herbert"
+    },
+    {
+        "id":"120",
+        "text":"Tis in ourselves that we are thus or thus. Our bodies are our gardens to the which our wills are gardeners",
+        "author":"William Shakespeare"
+    },
+    {
+        "id":"121",
+        "text":"The heights charm us, but the steps do not; with the mountain in our view we love to walk the plains",
+        "author":"Johann Wolfgang von Goethe"
+    },
+    {
+        "id":"122",
+        "text":"A professional is one who does his best work when he feels the least like working",
+        "author":"Frank Lloyd Wright"
+    },
+    {
+        "id":"123",
+        "text":"Rejection is a challenge",
+        "author":"Veronica Purcell"
+    },
+    {
+        "id":"124",
+        "text":"If you don't write when you don't have time for it, you won't write when you do have time for it",
+        "author":"Katerina Stoykova Klemer"
+    },
+    {
+        "id":"125",
+        "text":"When you experience a negative circumstance or event, do not dwell on it. Be proactive — put your attention on what you need to do to bring the situation to a positive result",
+        "author":"Rodolfo Costa"
+    },
+    {
+        "id":"126",
+        "text":"Where there is life, there is hope",
+        "author":"Alyson Noel"
+    },
+    {
+        "id":"127",
+        "text":"We are motivated more by aversion to the unpleasant than by a will toward truth, freedom, or healing. We are constantly attempting to escape our life, to avoid rather than enter our pain we, and we wonder why it is so difficult to be fully alive",
+        "author":"Stephen Levine"
+    },
+    {
+        "id":"128",
+        "text":"but I have no mind for business and considered staying awake to be enough of an accomplishment",
+        "author":"David Sedaris"
+    },
+    {
+        "id":"129",
+        "text":"Act as if it was, and it will be",
+        "author":"Lailah Gifty Akita"
+    },
+    {
+        "id":"130",
+        "text":"I prefer to be on the side of losers, the misunderstood or lonely people rather than writing about the strong and powerful",
+        "author":"Núria Añó"
+    },
+    {
+        "id":"131",
+        "text":"Virtually everyone needs motivation of some sort, but when you are in love - that is motivation enough, it turns many into poets and painters, it spurs the creativity in you",
+        "author":"Bernard Kelvin Clive"
+    },
+    {
+        "id":"132",
+        "text":"If you can remember why you started, then you will know why you must continue",
+        "author":"Chris Burkmenn"
+    },
+    {
+        "id":"133",
+        "text":"If you want to be happy, you need to set your mind on happiness",
+        "author":"Ana Kostovska"
+    },
+    {
+        "id":"134",
+        "text":"Walk free from the long shadows cast by small people",
+        "author":"Fennel Hudson"
+    },
+    {
+        "id":"135",
+        "text":"No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way",
+        "author":"Kamal Ravikant"
+    },
+    {
+        "id":"136",
+        "text":"It’s possible to be flippant here, when Jihadists fly aircraft into buildings they shout God is Great, what do atheists shout when they do it?",
+        "author":"Martin Amis"
+    },
+    {
+        "id":"137",
+        "text":"There are people who are waiting to be motivated by you",
+        "author":"Neeraj Agnihotri"
+    },
+    {
+        "id":"138",
+        "text":"It still holds true that man is most uniquely human when he turns obstacles into opportunities",
+        "author":"Eric Hoffer"
+    },
+    {
+        "id":"139",
+        "text":"Sometimes we have to soak ourselves in the tears and fears of the past to water our future gardens",
+        "author":"Suzy Kassem"
+    },
+    {
+        "id":"140",
+        "text":"The greatest win is walking away and choosing not to engage in drama and toxic energy at all",
+        "author":"Lalah Delia"
+    },
+    {
+        "id":"141",
+        "text":"I have moments that aren't too bad, but there's always something I'm struggling with, or feeling guilty about. I just figured I needed to try harder, but I find it difficult to sustain that motivation",
+        "author":"William P. Young"
+    },
+    {
+        "id":"142",
+        "text":"I often lose motivation, but it's something I accept as normal",
+        "author":"Bill Rodgers"
+    },
+    {
+        "id":"143",
+        "text":"Recognize that throughout this beautiful day,you have an incredible amount of opportunities to move your life into the direction you want it to go",
+        "author":"Steve Maraboli"
+    },
+    {
+        "id":"144",
+        "text":"Cream always rises to the top...so do good leaders",
+        "author":"John Paul Warren"
+    },
+    {
+        "id":"145",
+        "text":"While others were dreaming about it - I was getting it done",
+        "author":"Nathan W. Morris"
+    },
+    {
+        "id":"146",
+        "text":"If I didn't have Lincoln's butt to stare at the whole time, motivation would be a lot harder to come by",
+        "author":"Jessica Shirvington"
+    },
+    {
+        "id":"147",
+        "text":"Believe in yourself. Under-confidence leads to a self-fulfilling prophecy that you are not good enough for your work",
+        "author":"Dr Roopleen"
+    },
+    {
+        "id":"148",
+        "text":"Every adversity brings new experiences and new lessons",
+        "author":"Lailah Gifty Akita"
+    },
+    {
+        "id":"149",
+        "text":"If there was a reason why he preferred the liberal tendency to the conservative one (also held to by many of his circle), it was not because he found the liberal tendency more sensible, but it more closely suited his manner of life",
+        "author":"Leo Tolstoy"
+    },
+    {
+        "id":"150",
+        "text":"Fear is a powerful stimulant",
+        "author":"Margaret Atwood"
+    }
+]

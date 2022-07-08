@@ -1,0 +1,750 @@
+[
+    {
+        "id":"1",
+        "text":"Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
+        "author":"Bernard M. Baruch"
+    },
+    {
+        "id":"2",
+        "text":"If ever there is tomorrow when we're not together...there is something you must always remember. You are braver than you believe, stronger than you seem, and smarter than you think. But the most important thing is, even if we're apart... I'll always be with you.",
+        "author":"Carter Crocker"
+    },
+    {
+        "id":"3",
+        "text":"You gain strength, courage and confidence by every experience in which you really stop to look fear in the face. You are able to say to yourself, 'I have lived through this horror. I can take the next thing that comes along.' You must do the thing you think you cannot do.",
+        "author":"Eleanor Roosevelt"
+    },
+    {
+        "id":"4",
+        "text":"You probably wouldn’t worry about what people think of you if you could know how seldom they do.",
+        "author":"Olin Miller"
+    },
+    {
+        "id":"5",
+        "text":"Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.",
+        "author":"Bertrand Russell"
+    },
+    {
+        "id":"6",
+        "text":"Remember that wherever your heart is, there you will find your treasure.",
+        "author":"Paulo Coelho"
+    },
+    {
+        "id":"7",
+        "text":"Confidence is ignorance. If you're feeling cocky, it's because there's something you don't know.",
+        "author":"Eoin Colfer"
+    },
+    {
+        "id":"8",
+        "text":"Man often becomes what he believes himself to be. If I keep on saying to myself that I cannot do a certain thing, it is possible that I may end by really becoming incapable of doing it. On the contrary, if I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.",
+        "author":"Mahatma Gandhi"
+    },
+    {
+        "id":"9",
+        "text":"Life has no remote....get up and change it yourself!",
+        "author":"Mark A.Cooper"
+    },
+    {
+        "id":"10",
+        "text":"Believe in your infinite potential. Your only limitations are those you set upon yourself.",
+        "author":"Roy T.Bennett"
+    },
+    {
+        "id":"11",
+        "text":"Accept who you are; and revel in it.",
+        "author":"Mitch Albom"
+    },
+    {
+        "id":"12",
+        "text":"No matter how old you are now. You are never too young or too old for success or going after what you want",
+        "author":"Pablo"
+    },
+    {
+        "id":"13",
+        "text":"When someone tells me 'no'it doesn't mean I can't do it, it simply means I can't do it with them.",
+        "author":"Karen E.Quinones Miller"
+    },
+    {
+        "id":"14",
+        "text":"Success is most often achieved by those who don't know that failure is inevitable.",
+        "author":"Coco Chanel"
+    },
+    {
+        "id":"15",
+        "text":"You have no responsibility to live up to what other people think you ought to accomplish. I have no responsibility to be like they expect me to be. It's their mistake, not my failing.",
+        "author":"Richard P.Feynman"
+    },
+    {
+        "id":"16",
+        "text":"A dame that knows the ropes isn't likely to get tied up.",
+        "author":"Mae West"
+    },
+    {
+        "id":"17",
+        "text":"We either make ourselves miserable, or we make ourselves strong. The amount of work is the same.",
+        "author":"Carlos Castaneda"
+    },
+    {
+        "id":"18",
+        "text":"A great man is always willing to be little.",
+        "author":"Ralph Waldo Emerson"
+    },
+    {
+        "id":"19",
+        "text":"When I was a child my mother said to me, 'If you become a soldier, you'll be a general. If you become a monk, you'll be the pope.' Instead I became a painter and wound up as Picasso",
+        "author":"Pablo Picasso"
+    },
+    {
+        "id":"20",
+        "text":"I learned this, at least, by my experiment; that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.",
+        "author":"Thoreau"
+    },
+    {
+        "id":"21",
+        "text":"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"22",
+        "text":"Every woman that finally figured out her worth, has picked up her suitcases of pride and boarded a flight to freedom, which landed in the valley of change.",
+        "author":"Never dull your shine for somebody else."
+    },
+    {
+        "id":"23",
+        "text":"I have often wondered how it is that every man loves himself more than all the rest of men, but yet sets less value on his own opinion of himself than on the opinion of others.",
+        "author":"Marcus Aurelius"
+    },
+    {
+        "id":"24",
+        "text":"I do not care so much what I am to others as I care what I am to myself.",
+        "author":"Michel de Montaigne"
+    },
+    {
+        "id":"25",
+        "text":"What could we accomplish if we knew we could not fail?",
+        "author":"Eleanor Roosevelt"
+    },
+    {
+        "id":"26",
+        "text":"One of the greatest regrets in life is being what others would want you to be, rather than being yourself.",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"27",
+        "text":"I am only one, but I am one. I cannot do everything, but I can do something. And because I cannot do everything, I will not refuse to do the something that I can do.",
+        "author":"Edward Everett Hale"
+    },
+    {
+        "id":"28",
+        "text":"There will always be someone willing to hurt you, put you down, gossip about you, belittle your accomplishments and judge your soul. It is a fact that we all must face. However, if you realize that God is a best friend that stands beside you when others cast stones you will never be afraid, never feel worthless and never feel alone.",
+        "author":"Shannon Alder"
+    },
+    {
+        "id":"29",
+        "text":"There’s a difference between confidence and arrogance.",
+        "author":"Leigh Bardugo"
+    },
+    {
+        "id":"30",
+        "text":"And no one will listen to us until we listen to ourselves.",
+        "author":"Marianne Williamson"
+    },
+    {
+        "id":"31",
+        "text":"I’ve come to the conclusion that people who wear headphones while they walk, are much happier, more confident, and more beautiful individuals than someone making the solitary drudge to work without acknowledging their own interests and power.",
+        "author":"Jason Mraz"
+    },
+    {
+        "id":"32",
+        "text":"Let others determine your worth and you're already lost, because no one wants people worth more than themselves.",
+        "author":"Peter V. Brett"
+    },
+    {
+        "id":"33",
+        "text":"No man has the right to dictate what other men should perceive, create or produce, but all should be encouraged to reveal themselves, their perceptions and emotions, and to build confidence in the creative spirit.",
+        "author":"Ansel Adams"
+    },
+    {
+        "id":"34",
+        "text":"I love the challenge of starting at zero every day and seeing how much I can accomplish.",
+        "author":"Martha Stewart"
+    },
+    {
+        "id":"35",
+        "text":"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy.",
+        "author":"Norman Vincent Peale"
+    },
+    {
+        "id":"36",
+        "text":"You have to grow from the inside out. None can teach you,none can make you spiritual.There is no other teacher but your own soul.",
+        "author":"Swami Vivekananda"
+    },
+    {
+        "id":"37",
+        "text":"When you give yourself permission to communicate what matters to you in every situation you will have peace despite rejection or disapproval. Putting a voice to your soul helps you to let go of the negative energy of fear and regret.",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"38",
+        "text":"It’s the fire in my eyes,And the flash of my teeth,The swing in my waist, And the joy in my feet. I’m a womanPhenomenally.",
+        "author":"Maya Angelou"
+    },
+    {
+        "id":"39",
+        "text":"The greater the artist, the greater the doubt. Perfect confidence is granted to the less talented as a consolation prize.",
+        "author":"Robert Hughes"
+    },
+    {
+        "id":"40",
+        "text":"You see, the point is that the strongest man in the world is he who stands most alone.",
+        "author":"Henrik Ibsen"
+    },
+    {
+        "id":"41",
+        "text":"There is nothing enlightened about shrinking so that other people won't feel insecure around you. We are all meant to shine, as children do.",
+        "author":"Marianne Williamson"
+    },
+    {
+        "id":"42",
+        "text":"Believe in yourself and there will come a day when others will have no choice but to believe with you.",
+        "author":"Cynthia Kersey"
+    },
+    {
+        "id":"43",
+        "text":"The only power that exists is inside ourselves.",
+        "author":"Anne Rice"
+    },
+    {
+        "id":"44",
+        "text":"Because of the self-confidence with which he had spoken, no one could tell whether what he said was very clever or very stupid.",
+        "author":"Leo Tolstoy"
+    },
+    {
+        "id":"45",
+        "text":"When they say the sky's the limit to me that's really true",
+        "author":"Michael Jackson"
+    },
+    {
+        "id":"46",
+        "text":"The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low, and achieving our mark.",
+        "author":"Michelangelo Buonarroti"
+    },
+    {
+        "id":"47",
+        "text":"Head up, heart open. To better days!",
+        "author":"T.F. Hodge"
+    },
+    {
+        "id":"48",
+        "text":"The better you feel about yourself, the less you feel the need to show off.",
+        "author":"Robert Hand"
+    },
+    {
+        "id":"49",
+        "text":"Being different is a revolving door in your life where secure people enter and insecure exit.",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"50",
+        "text":"Being brave enough to be alone frees you up to invite people into your life because you want them and not because you need them.",
+        "author":"Mandy Hale"
+    },
+    {
+        "id":"51",
+        "text":"Believe in your infinite potential. Your only limitations are those you set upon yourself.Believe in yourself, your abilities and your own potential. Never let self-doubt hold you captive. You are worthy of all that you dream of and hope for.",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"52",
+        "text":"Don't worry about who doesn't like you, who has more, or who's doing what.",
+        "author":"Erma Bombeck"
+    },
+    {
+        "id":"53",
+        "text":"Single” is an opportunity to live life on your own terms and not apologize",
+        "author":"Mandy Hale"
+    },
+    {
+        "id":"54",
+        "text":"I imagine that the intelligent people are the ones so intelligent that they don't even need or want to look 'intelligent' anymore.",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"55",
+        "text":"There is strange comfort in knowing that no matter what happens today, the Sun will rise again tomorrow.",
+        "author":"Aaron Lauritsen"
+    },
+    {
+        "id":"56",
+        "text":"Health is the greatest possession. Contentment is the greatest treasure. Confidence is the greatest friend.",
+        "author":"Lao Tzu"
+    },
+    {
+        "id":"57",
+        "text":"There can be no friendship without confidence, and no confidence without integrity.",
+        "author":"Samuel Johnson"
+    },
+    {
+        "id":"58",
+        "text":"You are the community now. Be a lamp for yourselves. Be your own refuge. Seek for no other. All things must pass. Strive on diligently. Don’t give up.",
+        "author":"Buddha"
+    },
+    {
+        "id":"59",
+        "text":"Believe it can be done. When you believe something can be done, really believe, your mind will find the ways to do it. Believing a solution paves the way to solution.",
+        "author":"David J. Schwartz"
+    },
+    {
+        "id":"60",
+        "text":"Dignity will only happen when you realize that having someone in your life doesn’t validate your worth.",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"61",
+        "text":"The best lightning rod for your protection is your own spine.",
+        "author":"Ralph Waldo Emerson"
+    },
+    {
+        "id":"62",
+        "text":"The struggles we endure today will be the ‘good old days’ we laugh about tomorrow.",
+        "author":"Aaron Lauritsen"
+    },
+    {
+        "id":"63",
+        "text":"Confidence in others' honesty is no light testimony of one's own integrity.",
+        "author":"michel de montaigne"
+    },
+    {
+        "id":"64",
+        "text":"Happiness and confidence are the prettiest things you can wear.",
+        "author":"Taylor Swift"
+    },
+    {
+        "id":"65",
+        "text":"You are not what others think you are. You are what God knows you are.",
+        "author":"Shannon Alder"
+    },
+    {
+        "id":"66",
+        "text":"No name-calling truly bites deep unless, in some dark part of us, we believe it. If we are confident enough then it is just noise.",
+        "author":"Laurell K. Hamilton"
+    },
+    {
+        "id":"67",
+        "text":"Confidence is knowing who you are and not changing it a bit because of someone’s version of reality is not your reality.",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"68",
+        "text":"The deep roots never doubt spring will come.",
+        "author":"Marty Rubin"
+    },
+    {
+        "id":"69",
+        "text":"If you're waiting until you feel talented enough to make it, you'll never make it.",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"70",
+        "text":"The way you think about yourself determines your reality. You are not being hurt by the way people think about you. Many of those people are a reflection of how you think about yourself.",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"71",
+        "text":"Always Remember to take your Vitamins: Take your Vitamin A for ACTION, Vitamin B for Belief, Vitamin C for Confidence ,Vitamin D for Discipline, Vitamin E for Enthusiasm!",
+        "author":"Pablo"
+    },
+    {
+        "id":"72",
+        "text":"Hard to feel confident when you’re surrounded by horse-sized wolves.",
+        "author":"Stephenie Meyer"
+    },
+    {
+        "id":"73",
+        "text":"Don’t be surprised by your greatness. Be surprised that no one expected it.",
+        "author":"Rebecca Maizel"
+    },
+    {
+        "id":"74",
+        "text":"Life can take so many twists and turns. You can’t ever count yourself out. Even if you’re really afraid at some point, you can’t think that there’s no room for you to grow and do something good with your life.",
+        "author":"Portia de Rossi"
+    },
+    {
+        "id":"75",
+        "text":"Walk amongst the natives by day, but in your heart be Superman.",
+        "author":"Gene Simmons"
+    },
+    {
+        "id":"76",
+        "text":"Beethoven said that it's better to hit the wrong note confidently, than hit the right note unconfidently. Never be afraid to be wrong or to embarrass yourself; we are all students in this life, and there is always something more to learn.",
+        "author":"Mike Norton"
+    },
+    {
+        "id":"77",
+        "text":"You are not an option, a choice or a soft place to land after a long battle. You were meant to be the one. If you can wrap yourself around the idea that you are something incredible, then you will stop excusing behavior that rapes your very soul. You were never meant to teach someone to love you. You were meant to be loved.",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"78",
+        "text":"A clear vision, backed by definite plans, gives you a tremendous feeling of confidence and personal power.",
+        "author":"Brian Tracy"
+    },
+    {
+        "id":"79",
+        "text":"When you lose your ego, you win. It really is that simple.",
+        "author":""
+    },
+    {
+        "id":"80",
+        "text":"Live life as though nobody is watching, and express yourself as though everyone is listening.",
+        "author":"Nelson Mandela"
+    },
+    {
+        "id":"81",
+        "text":"When you stop living your life based on what others think of you real life begins. At that moment, you will finally see the door of self acceptance opened.",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"82",
+        "text":"Confidence is like a dragon where, for every head cut off, two more heads grow back.",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"83",
+        "text":"You can't make yourself feel positive, but you can choose how to act, and if you choose right, it builds your confidence.",
+        "author":"Julien Smith"
+    },
+    {
+        "id":"84",
+        "text":"If you want to find the real competition, just look in the mirror. After awhile you'll see your rivals scrambling for second place.",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"85",
+        "text":"People who repeatedly attack your confidence and self-esteem are quite aware of your potential, even if you are not.",
+        "author":"Wayne Gerard Trotman"
+    },
+    {
+        "id":"86",
+        "text":"Life's trials will test you, and shape you, but don’t let them change who you are.",
+        "author":"Aaron Lauritsen"
+    },
+    {
+        "id":"87",
+        "text":"Confidence turns into pride only when you are in denial of your mistakes.",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"88",
+        "text":"Confidence is the prize given to the mediocre.",
+        "author":"Robert Hughes"
+    },
+    {
+        "id":"89",
+        "text":"While we revel in the passion of the ‘moment’ braving the whirlpool of time, a flow of vibrations may surprise us and reveal unsuspected power in our inner self, giving us muscle and confidenc.('Swim or Sink')",
+        "author":"Erik Pevernagie"
+    },
+    {
+        "id":"90",
+        "text":"My mind may be sober, but my confidence is high!",
+        "author":"Habeeb Akande"
+    },
+    {
+        "id":"91",
+        "text":"I wouldn't describe myself as lacking in confidence, but I would just say that - the ghosts you chase you never catch.",
+        "author":"John Malkovich"
+    },
+    {
+        "id":"92",
+        "text":"Once you embrace your value, talents and strengths, it neutralizes when others think less of you.",
+        "author":"Rob Liano"
+    },
+    {
+        "id":"93",
+        "text":"Your greatness is revealed not by the lights that shine upon you, but by the light that shines within you.",
+        "author":"Ray A. Davis"
+    },
+    {
+        "id":"94",
+        "text":"The moment you become friends with your inner Self, you realize that the failures or hindrances that you met earlier were caused more by your disconnected status with your inner Being.",
+        "author":"Stephen Richards"
+    },
+    {
+        "id":"95",
+        "text":"I think the best role models for women are people who are fruitfully and confidently themselves, who bring light into the world.",
+        "author":"Meryl Streep"
+    },
+    {
+        "id":"96",
+        "text":"Art and beauty have the unsuspected force of triggering mental power that gives people courage and confidence to steam ahead. Art and beauty bring to life unfulfilled hope, creative imagination, and bountiful goodwill.",
+        "author":"Erik Pevernagie"
+    },
+    {
+        "id":"97",
+        "text":"When you have to kill the same terrorist twice in one week, then there's either something wrong with your skills or something wrong with your world.And there's nothing wrong with my skills.",
+        "author":"Jonathan Maberry"
+    },
+    {
+        "id":"98",
+        "text":"Believe in yourself, your abilities and your own potential. Never let self-doubt hold you captive. You are worthy of all that you dream of and hope for.",
+        "author":"Roy Bennett"
+    },
+    {
+        "id":"99",
+        "text":"A balanced inner calmness radiates from a peaceful centre. It neither craves others' approval nor rejects others' presence. It neither pulls towards nor pushes away. It has a reverent attitude towards life and all its inhabitants.",
+        "author":"Donna Goddard"
+    },
+    {
+        "id":"100",
+        "text":"At some point, you just gotta forgive the past, your happiness hinges on it.",
+        "author":"Aaron Lauritsen"
+    },
+    {
+        "id":"101",
+        "text":"My message to you all is of hope, courage, and confidence.",
+        "author":"Quaid-e-Azam Mohammad Ali Jinnah"
+    },
+    {
+        "id":"102",
+        "text":"Don't overestimate everyone else and underestimate yourself.",
+        "author":"Tanya Burr"
+    },
+    {
+        "id":"103",
+        "text":"The way you see people is the way you treat them, and the way you treat them is what they become.",
+        "author":"Johann Wolfgang von Goethe"
+    },
+    {
+        "id":"104",
+        "text":"Explore, Experience, Then Push Beyond.",
+        "author":"Aaron Lauritsen"
+    },
+    {
+        "id":"105",
+        "text":"Almost everyone is overconfident--except the people who are depressed, and they tend to be realists.",
+        "author":"Joseph T. Hallinan"
+    },
+    {
+        "id":"106",
+        "text":"Those who trust us educate us.",
+        "author":"George Eliot"
+    },
+    {
+        "id":"107",
+        "text":"Be you, love you. All ways, always.",
+        "author":"Alexandra Elle"
+    },
+    {
+        "id":"108",
+        "text":"Remember, happiness doesn't depend upon who you are or what you have; it depends solely upon what you think. So start each day by thinking of all the things you have to be thankful for. Your future will depend very largely on the thoughts you think today. So think thoughts of hope and confidence and love and success.",
+        "author":"Dale Carnegie"
+    },
+    {
+        "id":"109",
+        "text":"If you doubt you can accomplish something, then you can't accomplish it. You have to have confidence in your ability, and then be tough enough to follow through.",
+        "author":"Rosalynn Carter"
+    },{
+        "id":"110",
+        "text":"You’ve got to be sure of yourself before You can ever win a prize.",
+        "author":"Napoleon Hill"
+    },
+    {
+        "id":"111",
+        "text":"He who has truth at his heart need never fear the want of persuasion on his tongue.",
+        "author":"John Ruskin"
+    },
+    {
+        "id":"112",
+        "text":"They may try to stop you by their words and deeds, but like air you will rise above it all. You are unstoppable.",
+        "author":"Bernard Kelvin Clive"
+    },
+    {
+        "id":"113",
+        "text":"The only real conflict you will ever have in your life won’t be with others, but with yourself.",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"114",
+        "text":"Accepting personal responsibility for your life frees you from outside influences – increases your self-esteem – boosts confidence in your ability to decisions – and ultimately leads to achieve success in life.",
+        "author":"Roy T. Bennett"
+    },
+    {
+        "id":"115",
+        "text":"The problem isn’t that I think so highly of myself. It is just that you think so little of yourself. Live life BIG, BOLD and OUT LOUD!",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"116",
+        "text":"Those who achieve the extraordinary are usually the most ordinary because they have nothing to prove to anybody. Be Humble.",
+        "author":"Aaron Lauritsen"
+    },
+    {
+        "id":"117",
+        "text":"Act as if it was, and it will be.",
+        "author":"Lailah Gifty Akita"
+    },
+    {
+        "id":"118",
+        "text":"Take care of your costume and your confidence will take care of itself.",
+        "author":"Amit Kalantri"
+    },
+    {
+        "id":"119",
+        "text":"If you don’t have confidence, you’ll always find a way not to win.",
+        "author":"Carl Lewis"
+    },
+    {
+        "id":"120",
+        "text":"“Learning to let go is not giving up! It is simply passing the burden to a better fighter, so you can fight another day. ",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"121",
+        "text":"A crisis creates the opportunity to dip deep into the reservoirs of our very being, to rise to levels of confidence, strength, and resolve that otherwise we didn't think we possessed.",
+        "author":"Jon M. Huntsman Sr"
+    },
+    {
+        "id":"122",
+        "text":"People admire my confidence, but they never see me when I'm alone. That's when I'm the most raw because I'm not trying to sell myself to anybody.",
+        "author":"J. Merridew"
+    },
+    {
+        "id":"123",
+        "text":"Rule 1: The actions of confidence come first; the feelings of confidence come later.",
+        "author":"Russ Harris"
+    },
+    {
+        "id":"124",
+        "text":"Saying just the right thing after a considerable, awkward pause is far less effective than saying the wrong thing with perfect timing. I'm telling you.",
+        "author":"Augusten Burroughs"
+    },
+    {
+        "id":"125",
+        "text":"Life is too short to be anything but happy. So kiss slowly. Love deeply. Forgive quickly. Take chances and never have regrets. Forget the past but remember what it taught you.",
+        "author":"Abhishek Shukla"
+    },
+    {
+        "id":"126",
+        "text":"Whenever you should doubt your self-worth, remember the lotus flower. Even though it plunges to life from beneath the mud, it does not allow the dirt that surrounds it to affect its growth or beauty.",
+        "author":"Suzy Kassem"
+    },
+    {
+        "id":"127",
+        "text":"Inaction breeds doubt and fear. Action breeds confidence and courage. If you want to conquer fear, do not sit home and think about it. Go out and get busy.",
+        "author":"Dale Carnegia"
+    },
+    {
+        "id":"128",
+        "text":"Self-confidence is contagious.",
+        "author":"Stephen Richards"
+    },
+    {
+        "id":"129",
+        "text":"Please do make your decisions in life and feel confident that they are right.However, if fate is involved, feel just as confident even if they aren’t.",
+        "author":"C. Elizabeth"
+    },
+    {
+        "id":"130",
+        "text":"The secret to your purpose is to find what you feel is important, and not pursue what others would think is important. When you think highly of yourself, me thinking highly of you will never be enough!",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"131",
+        "text":"Embrace being perfectly imperfect. Learn from your mistakes and forgive yourself, you’ll be happier.",
+        "author":"Roy Bennett"
+    },
+    {
+        "id":"132",
+        "text":"Once you feel nice about yourself, you have planted the first seed to develop self-confidence.",
+        "author":"Stephen Richards"
+    },
+    {
+        "id":"133",
+        "text":"Self respect, self worth and self love, all start with self. Stop looking outside of yourself for your value.",
+        "author":"Rob Liano"
+    },
+    {
+        "id":"134",
+        "text":"A winner is not someone who wins. It's someone who tries and isn't afraid to lose.",
+        "author":"Nusrat Sultana"
+    },
+    {
+        "id":"135",
+        "text":"There are two things essential if you want to enhance your Jedi self-confidence:  1/ belief that it is possible  2/ that self-help is the best help",
+        "author":"Stephen Richards"
+    },
+    {
+        "id":"136",
+        "text":"I wish you self-esteem so high – you're humble.",
+        "author":"Lalah Delia"
+    },
+    {
+        "id":"137",
+        "text":"Still the voices of your critics. Listen intently to your own voice, to the person who knows you best. Then answer these questions: Do you think you should move ahead? How will you feel if you quit pursuing this thing you want to do? And what does your best self advise? What you hear may change your life.",
+        "author":"Steve Goodier"
+    },
+    {
+        "id":"138",
+        "text":"You can perhaps, in a number of circumstances, tell yourself that you can't have more than you have until you do better than you're doing, but by all means steer clear of its reverse, the creed of defeat, in saying that you can't do better than you're doing until you can have more than you have.",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"139",
+        "text":"Jedi act with confidence, move with confidence, and breathe with confidence. Jedi possess a confident calmness in their looks, attitude and behaviour.",
+        "author":"Stephen Richards"
+    },{
+        "id":"140",
+        "text":"The secret to life is to have no fear. When you can let go of what others think about you, how something is going to turn out, or how your past will affect your future, then you are finally living life free.",
+        "author":"Shannon L. Alder"
+    },
+    {
+        "id":"141",
+        "text":"Role models are only of limited use. For no-one is as important, potentially powerful and as key in your life and world as you.",
+        "author":"Rasheed Ogunlaru"
+    },
+    {
+        "id":"142",
+        "text":"If life throws you a few bad notes or vibrations, don't let them interrupt or alter your song.",
+        "author":"Suzy Kassem"
+    },
+    {
+        "id":"143",
+        "text":"Do not undervalue what you are ultimately worth because you are at a momentary disadvantage.",
+        "author":"Sherry Thomas"
+    },
+    {
+        "id":"144",
+        "text":"Your mind can go ahead and imagine what it wants to imagine, but a true friend will always remain true, in spite of the false messages running through your mind.",
+        "author":"Michael Bassey Johnson"
+    },
+    {
+        "id":"145",
+        "text":"Ask yourself: what is it, that if I believed it down to my core, would change everything?",
+        "author":"Kamal Ravikant"
+    },
+    {
+        "id":"146",
+        "text":"Believe in your infinite potential. Your only limitations are those you set upon yourself.",
+        "author":"Roy Bennett"
+    },
+    {
+        "id":"147",
+        "text":"Act with purpose, courage, confidence, competence and intelligence until these qualities 'lock in' to your subconscious mind.",
+        "author":"Brian Tracy "
+    },
+    {
+        "id":"148",
+        "text":"If you want your prayers answered, get up off your knees and do something about them.",
+        "author":"Wally Lamb"
+    },
+    {
+        "id":"149",
+        "text":"Concentrate more on your achievements than your failures. Learn to take the failures as opportunities to rectify your errors.",
+        "author":"Stephen Richards"
+    },
+    {
+        "id":"150",
+        "text":"When you are truly stunning, gorgeous and beautiful, you won’t have to prove that to anyone visually.",
+        "author":"Alexandra Elle"
+    }
+    ]

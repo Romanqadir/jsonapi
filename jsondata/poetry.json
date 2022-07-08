@@ -1,0 +1,750 @@
+[
+    {
+        "id":"1",
+        "text":"I love you as certain dark things are to be loved, in secret, between the shadow and the soul",
+        "author":"Pablo Neruda"
+    },
+    {
+        "id":"2",
+        "text":"Only the very weak-minded refuse to be influenced by literature and poetry",
+        "author":"Cassandra Clare"
+    },
+    {
+        "id":"3",
+        "text":"Music expresses that which cannot be put into words and that which cannot remain silent",
+        "author":"Victor hugo"
+    },
+    {
+        "id":"4",
+        "text":"We love the things we love for what they are",
+        "author":"Robert Frost"
+    },
+    {
+        "id":"5",
+        "text":"You talk when you cease to be at peace with your thoughts",
+        "author":"Kahlil Gibran"
+    },
+    {
+        "id":"6",
+        "text":"Every heart sings a song, incomplete, until another heart whispers back. Those who wish to sing always find a song. At the touch of a lover, everyone becomes a poet",
+        "author":"Plato"
+    },
+    {
+        "id":"7",
+        "text":"Tell me, what is it you plan to do with your one wild and precious life?",
+        "author":"Mary Oliver"
+    },
+    {
+        "id":"8",
+        "text":"I have loved the stars too fondly to be fearful of the night",
+        "author":"Sarah Williams"
+    },
+    {
+        "id":"9",
+        "text":"Painting is poetry that is seen rather than felt, and poetry is painting that is felt rather than seen",
+        "author":"Leonardo da Vinci"
+    },
+    {
+        "id":"10",
+        "text":"Resist much, obey little",
+        "author":"Walt Whitman"
+    },
+    {
+        "id":"11",
+        "text":"Unbeing dead isn't being alive",
+        "author":"E. E. Cummings"
+    },
+    {
+        "id":"12",
+        "text":"A poem begins as a lump in the throat, a sense of wrong, a homesickness, a lovesickness",
+        "author":"Robert Frost"
+    },
+    {
+        "id":"13",
+        "text":"Poets have been mysteriously silent on the subject of cheese",
+        "author":"G.K. Chesterton"
+    },
+    {
+        "id":"14",
+        "text":"Trees are poems the earth writes upon the sky, We fell them down and turn them into paper, That we may record our emptiness",
+        "author":"Kahlil Gibran"
+    },
+    {
+        "id":"15",
+        "text":"One ought, every day at least, to hear a little song, read a good poem, see a fine picture, and, if it were possible, to speak a few reasonable words",
+        "author":"Johann Wolfgang von Goethe"
+    },
+    {
+        "id":"16",
+        "text":"I shut my eyes and all the world drops dead; I lift my eyes and all is born again",
+        "author":"Sylvia Plath"
+    },
+    {
+        "id":"17",
+        "text":"What is that you express in your eyes? It seems to me more than all the print I have read in my life",
+        "author":"Walt Whitman"
+    },
+    {
+        "id":"18",
+        "text":"Only those who will risk going too far can possibly find out how far one can go",
+        "author":"T.S. Eliot"
+    },
+    {
+        "id":"19",
+        "text":"Let our scars fall in love",
+        "author":"Galway Kinnell"
+    },
+    {
+        "id":"20",
+        "text":"This is the way the world ends Not with a bang but a whimper",
+        "author":"T.S. Eliot"
+    },
+    {
+        "id":"21",
+        "text":"Forgive, O Lord, my little jokes on Thee And I'll forgive Thy great big one on me",
+        "author":"Robert Frost"
+    },
+    {
+        "id":"22",
+        "text":"If I had my life to live over again, I would have made a rule to read some poetry and listen to some music at least once every week",
+        "author":"Charles Darwin"
+    },
+    {
+        "id":"23",
+        "text":"...and then, I have nature and art and poetry, and if that is not enough, what is enough?",
+        "author":"Vincent Willem van Gogh"
+    },
+    {
+        "id":"24",
+        "text":"Always be a poet, even in prose",
+        "author":"Charles Baudelaire"
+    },
+    {
+        "id":"25",
+        "text":"If you have the words, there's always a chance that you'll find the way",
+        "author":"Seamus Heaney"
+    },
+    {
+        "id":"26",
+        "text":"One should always be drunk. That's all that matters...But with what? With wine, with poetry, or with virtue, as you chose. But get drunk",
+        "author":"Charles Baudelaire"
+    },
+    {
+        "id":"27",
+        "text":"Poetry is what gets lost in translation",
+        "author":"Robert Frost"
+    },
+    {
+        "id":"28",
+        "text":"I like this place and could willingly waste my time in it",
+        "author":"William Shakespeare"
+    },
+    {
+        "id":"29",
+        "text":"Poetry is what happens when nothing else can",
+        "author":"Charles Bukowski"
+    },
+    {
+        "id":"30",
+        "text":"What a strange thing! to be alive beneath cherry blossoms",
+        "author":"Kobayashi Issa"
+    },
+    {
+        "id":"31",
+        "text":"You might as well ask an artist to explain his art, or ask a poet to explain his poem. It defeats the purpose. The meaning is only clear thorough the search",
+        "author":"Rick Riordan"
+    },
+    {
+        "id":"32",
+        "text":"I have drunken deep of joy, And I will taste no other wine tonight",
+        "author":"Percy Bysshe Shelley"
+    },
+    {
+        "id":"33",
+        "text":"There is not a particle of life which does not bear poetry within it",
+        "author":"Gustave Flaubert"
+    },
+    {
+        "id":"34",
+        "text":"Poetry might be defined as the clear expression of mixed feelings",
+        "author":"W.H. Auden"
+    },
+    {
+        "id":"35",
+        "text":"My turn shall also come: I sense the spreading of a wing",
+        "author":"Osip Mandelstam"
+    },
+    {
+        "id":"36",
+        "text":"Lovers alone wear sunlight",
+        "author":"E.E. Cummings"
+    },
+    {
+        "id":"37",
+        "text":"Break a vase, and the love that reassembles the fragments is stronger than that love which took its symmetry for granted when it was whole",
+        "author":"Derek Walcott"
+    },
+    {
+        "id":"38",
+        "text":"Poetry heals the wounds inflicted by reason",
+        "author":"Novalis"
+    },
+    {
+        "id":"39",
+        "text":"Once, poets were magicians. Poets were strong, stronger than warriors or kings — stronger than old hapless gods. And they will be strong once again",
+        "author":"Greg Bear"
+    },
+    {
+        "id":"40",
+        "text":"Love consists of this: two solitudes that meet, protect and greet each other",
+        "author":"Rainer Maria Rilke"
+    },
+    {
+        "id":"41",
+        "text":"I know you're tired but come, this is the way",
+        "author":"Jalalu'l-din Rumi"
+    },
+    {
+        "id":"42",
+        "text":"Poetry is eternal graffiti written in the heart of everyone",
+        "author":"Lawrence Ferlinghetti"
+    },
+    {
+        "id":"43",
+        "text":"Perhaps the truth depends on a walk around the lake",
+        "author":"Wallace Stevens"
+    },
+    {
+        "id":"44",
+        "text":"Anon, who wrote so many poems without signing them, was often a woman",
+        "author":"Virginia Woolf"
+    },
+    {
+        "id":"45",
+        "text":"Music is the universal language of mankin",
+        "author":"Henry Wadsworth Longfellow"
+    },
+    {
+        "id":"46",
+        "text":"Don't use the phone. People are never ready to answer it. Use poetry",
+        "author":"Jack Kerouac"
+    },
+    {
+        "id":"47",
+        "text":"Poetry is the shadow cast by our streetlight imaginations",
+        "author":"Lawrence Ferlinghetti"
+    },
+    {
+        "id":"48",
+        "text":"Those who are willing to be vulnerable move among mysteries",
+        "author":"Theodore Roethke"
+    },
+    {
+        "id":"49",
+        "text":"Love, the poet said, is woman's whole existence",
+        "author":"Virginia Woolf"
+    },
+    {
+        "id":"50",
+        "text":"All my heart is yours, sir: it belongs to you; and with you it would remain, were fate to exile the rest of me from your presence forever",
+        "author":"Charlotte Bronte"
+    },
+    {
+        "id":"51",
+        "text":"You give but little when you give of your possessions. It is when you give of yourself that you truly give",
+        "author":"Kahlil Gibran"
+    },
+    {
+        "id":"52",
+        "text":"Love is heavy and light, bright and dark, hot and cold, sick and healthy, asleep and awake- its everything except what it is!",
+        "author":"William Shakespeare"
+    },
+    {
+        "id":"53",
+        "text":"Given the choice between the experience of pain and nothing, I would choose pain",
+        "author":"William Faulkner"
+    },
+    {
+        "id":"54",
+        "text":"I don't care what you say to me. I care what you share with me",
+        "author":"Santosh Kalwar"
+    },
+    {
+        "id":"55",
+        "text":"The purpose of life is to be defeated by greater and greater things",
+        "author":"Rainer Maria Rilke"
+    },
+    {
+        "id":"56",
+        "text":"Closed in a room, my imagination becomes the universe, and the rest of the world is missing out",
+        "author":"Criss Jami"
+    },
+    {
+        "id":"57",
+        "text":"I turned silences and nights into words. What was unutterable, I wrote down. I made the whirling world stand still",
+        "author":"Arthur Rimbaud"
+    },
+    {
+        "id":"58",
+        "text":"I am no longer in love with her, that's certain, but maybe I love her. Love is so short, forgetting is so long",
+        "author":"Pablo Neruda"
+    },
+    {
+        "id":"59",
+        "text":"The poetry of the earth is never dead",
+        "author":"John Keats"
+    },
+    {
+        "id":"60",
+        "text":"The death of a beautiful woman is, unquestionably, the most poetical topic in the world",
+        "author":"Edgar Allan Poe"
+    },
+    {
+        "id":"61",
+        "text":"Poetry is just so emo. he said. Oh, the pain. The pain. It always rains. In my soul",
+        "author":"John Green"
+    },
+    {
+        "id":"62",
+        "text":"A good poem is a contribution to reality. The world is never the same once a good poem has been added to it. A good poem helps to change the shape of the universe, helps to extend everyone's knowledge of himself and the world around him",
+        "author":"Dylan Thomas"
+    },
+    {
+        "id":"63",
+        "text":"If your daily life seems poor, do not blame it; blame yourself, tell yourself that you are not poet enough to call forth its riches; for to the creator there is no poverty and no poor indifferent place",
+        "author":"Rainer Maria Rilke"
+    },
+    {
+        "id":"64",
+        "text":"To be a poet is a condition, not a profession",
+        "author":"Robert Frost"
+    },
+    {
+        "id":"65",
+        "text":"Poetry is just the evidence of life. If your life is burning well, poetry is just the ash",
+        "author":"Leonard Cohen"
+    },
+    {
+        "id":"66",
+        "text":"Love one another, but make not a bond of love: Let it rather be a moving sea between the shores of your souls",
+        "author":"Khalil Gibran"
+    },
+    {
+        "id":"67",
+        "text":"Genuine poetry can communicate before it is understood",
+        "author":"T.S. Eliot"
+    },
+    {
+        "id":"68",
+        "text":"may came home with a smooth round stone as small as a world and as large as alone",
+        "author":"E.E. Cummings"
+    },
+    {
+        "id":"69",
+        "text":"Peace is always beautiful",
+        "author":"Walt Whitman"
+    },
+    {
+        "id":"70",
+        "text":"Into the darkness they go, the wise and the lovely",
+        "author":"Edna St. Vincent Millay"
+    },
+    {
+        "id":"71",
+        "text":"Poetry, she thought, wasn't written to be analyzed; it was meant to inspire without reason, to touch without understanding",
+        "author":"Nicholas Sparks"
+    },
+    {
+        "id":"72",
+        "text":"We have calcium in our bones, iron in our veins, carbon in our souls, and nitrogen in our brains. 93 percent stardust, with souls made of flames, we are all just stars that have people names",
+        "author":"Nikita Gill"
+    },
+    {
+        "id":"73",
+        "text":"It was at that age that poetry came in search of me",
+        "author":"Pablo Neruda"
+    },
+    {
+        "id":"74",
+        "text":"With me poetry has not been a purpose, but a passion",
+        "author":"Edgar Allan Poe"
+    },
+    {
+        "id":"75",
+        "text":"If I can see pain in your eyes then share with me your tears. If I can see joy in your eyes then share with me your smile",
+        "author":"Santosh Kalwar"
+    },
+    {
+        "id":"76",
+        "text":"Always learn poems by heart. They have to become the marrow in your bones. Like fluoride in the water, they'll make your soul impervious to the world's soft decay",
+        "author":"Janet Fitch"
+    },
+    {
+        "id":"77",
+        "text":"Beauty is eternity gazing at itself in a mirror. But you are eternity and you are the mirror",
+        "author":"Kahlil Gibran"
+    },
+    {
+        "id":"78",
+        "text":"I lean to you, numb as a fossil. Tell me I'm here",
+        "author":"Sylvia Plath"
+    },
+    {
+        "id":"79",
+        "text":"You will always be the bread and the knife, not to mention the crystal goblet and—somehow—the wine",
+        "author":"Billy Collins"
+    },
+    {
+        "id":"80",
+        "text":"I discover myself on the verge of a usual mistake",
+        "author":"Walt Whitman"
+    },
+    {
+        "id":"81",
+        "text":"i carry your heart with me(i carry it in my heart)",
+        "author":"E.E. Cummings"
+    },
+    {
+        "id":"82",
+        "text":"It is strange how often a heart must be broken Before the years can make it wise",
+        "author":"Sara Teasdale"
+    },
+    {
+        "id":"83",
+        "text":"My imagination makes me human and makes me a fool; it gives me all the world and exiles me from it",
+        "author":"Ursula K. Le Guin"
+    },
+    {
+        "id":"84",
+        "text":"I must create a system, or be enslaved by another man's. I will not reason and compare: my business is to create",
+        "author":"William Blake"
+    },
+    {
+        "id":"85",
+        "text":"If you love me, Henry, you don’t love me in a way I understand",
+        "author":"Richard Siken"
+    },
+    {
+        "id":"86",
+        "text":"I would define, in brief, the poetry of words as the rhythmical creation of beauty",
+        "author":"Edgar Allan Poe"
+    },
+    {
+        "id":"87",
+        "text":"A poet is, before anything else, a person who is passionately in love with language",
+        "author":"W.H. Auden"
+    },
+    {
+        "id":"88",
+        "text":"I hunger for your sleek laugh and your hands the color of a furious harvest. I want to eat the sunbeams flaring in your beauty",
+        "author":"Pablo Neruda"
+    },
+    {
+        "id":"89",
+        "text":"What can be explained is not poetry",
+        "author":"W.B. Yeats"
+    },
+    {
+        "id":"90",
+        "text":"Beauty is truth, truth beauty,—that is all Ye know on earth, and all ye need to know",
+        "author":"John Keats"
+    },
+    {
+        "id":"91",
+        "text":"The words ‘I Love You’ kill, and resurrect millions, in less than a second",
+        "author":"Aberjhani"
+    },
+    {
+        "id":"92",
+        "text":"You are never too old to become younger!",
+        "author":"Mae West"
+    },
+    {
+        "id":"93",
+        "text":"That night when you kissed me, I left a poem in your mouth, and you can hear some of the lines every time you breathe out",
+        "author":"Andrea Gibson"
+    },
+    {
+        "id":"94",
+        "text":"You shall love your crooked neighbour, with your crooked heart",
+        "author":"Wystan Hugh Auden"
+    },
+    {
+        "id":"95",
+        "text":"Poetry is the rhythmical creation of beauty in words",
+        "author":"Edgar Allan Poe"
+    },
+    {
+        "id":"96",
+        "text":"It is always fatal to have music or poetry interrupted",
+        "author":"George Eliot"
+    },
+    {
+        "id":"97",
+        "text":"Heard melodies are sweet, but those unheard Are sweeter; therefore, ye soft pipes, play on",
+        "author":"John Keats"
+    },
+    {
+        "id":"98",
+        "text":"To elevate the soul, poetry is necessary",
+        "author":"Edgar Allan Poe"
+    },
+    {
+        "id":"99",
+        "text":"We ran as if to meet the moon",
+        "author":"Robert Frost"
+    },
+    {
+        "id":"100",
+        "text":"So dawn goes down today... Nothing gold can stay",
+        "author":"Robert Frost"
+    },
+    {
+        "id":"101",
+        "text":"Sometimes I sit alone under the stars and think of the galaxies inside my heart and truly wonder if anyone will ever want to make sense of all that I am",
+        "author":"Christopher Poindexter"
+    },
+    {
+        "id":"102",
+        "text":"Five minutes are enough to dream a whole life, that is how relative time is",
+        "author":"Mario Benedetti"
+    },
+    {
+        "id":"103",
+        "text":"Whereas story is processed in the mind in a straightforward manner, poetry bypasses rational thought and goes straight to the limbic system and lights it up like a brushfire. It's the crack cocaine of the literary world",
+        "author":"Jasper Fforde"
+    },
+    {
+        "id":"104",
+        "text":"I love you because no two snowflakes are alike, and it is possible, if you stand tippy-toe, to walk between the raindrops",
+        "author":"Nikki Giovanni"
+    },
+    {
+        "id":"105",
+        "text":"We are made of all those who have built and broken us",
+        "author":"Atticus Poetry"
+    },
+    {
+        "id":"106",
+        "text":"twice I have lived forever in a smile",
+        "author":"E.E. Cummings"
+    },
+    {
+        "id":"107",
+        "text":"Go wisely and slowly. Those who rush stumble and fall",
+        "author":"William Shakespeare"
+    },
+    {
+        "id":"108",
+        "text":"If you want me again look for me under your boot-soles",
+        "author":"Walt Whitman"
+    },
+    {
+        "id":"109",
+        "text":"Out of the quarrel with others we make rhetoric; out of the quarrel with ourselves we make poetry",
+        "author":"William Butler Yeats"
+    },{
+        "id":"110",
+        "text":"The glory of Christianity is to conquer by forgiveness",
+        "author":"William Blake"
+    },
+    {
+        "id":"111",
+        "text":"Oh phosphorescence. Now there’s a word to lift your hat to... To find that phosphorescence, that light within — is the genius behind poetry",
+        "author":"William Luce"
+    },
+    {
+        "id":"112",
+        "text":"Poetry is a life-cherishing force. For poems are not words, after all, but fires for the cold, ropes let down to the lost, something as necessary as bread in the pockets of the hungry",
+        "author":" Mary Oliver"
+    },
+    {
+        "id":"113",
+        "text":"One need not be a chamber to be haunted",
+        "author":"Emily Dickinson"
+    },
+    {
+        "id":"114",
+        "text":"For darkness restores what light cannot repair",
+        "author":"Joseph Brodsky"
+    },
+    {
+        "id":"115",
+        "text":"No’ might make them angry but it will make you free",
+        "author":"Nayyirah Waheed"
+    },
+    {
+        "id":"116",
+        "text":"Poetry = Anger x Imagination",
+        "author":"Sherman Alexie"
+    },
+    {
+        "id":"117",
+        "text":"I too am not a bit tamed, I too am untranslatable, I sound my barbaric yawp over the roofs of the world",
+        "author":"Walt Whitman"
+    },
+    {
+        "id":"118",
+        "text":"There's an old saying that applies to me: you can't lose a game if you don't play the game",
+        "author":"William Shakespeare"
+    },
+    {
+        "id":"119",
+        "text":"Listen, real poetry doesn't say anything; it just ticks off the possibilities. Opens all doors. You can walk through anyone that suits you",
+        "author":"Jim Morrison"
+    },
+    {
+        "id":"120",
+        "text":"She conquered her demons and wore her scars like wings",
+        "author":"Atticus Poetry"
+    },
+    {
+        "id":"121",
+        "text":"To hide feelings when you are near crying is the secret of dignity",
+        "author":"Dejan Stojanovic"
+    },
+    {
+        "id":"122",
+        "text":"Poetry is not a turning loose of emotion, but an escape from emotion; it is not the expression of personality but an escape from personality. But, of course, only those who have personality and emotion know what it means to want to escape from these",
+        "author":"T.S. Eliot"
+    },
+    {
+        "id":"123",
+        "text":"Every angel is terrifying",
+        "author":"Rainer Maria Rilke"
+    },
+    {
+        "id":"124",
+        "text":"Truth can never be told so as to be understood and not be believed",
+        "author":"William Blake"
+    },
+    {
+        "id":"125",
+        "text":"Every poem should remind the reader that they are going to die",
+        "author":"Edgar Allen Poe"
+    },
+    {
+        "id":"126",
+        "text":"Maybe you could be mine / or maybe we’ll be entwined / aimless in this sexless foreplay",
+        "author":"Jess C Scott"
+    },
+    {
+        "id":"127",
+        "text":"I live not in dreams but in contemplation of a reality that is perhaps the future",
+        "author":"Rainer Maria Rilke"
+    },
+    {
+        "id":"128",
+        "text":"To fall in love with someone's thoughts - the most intimate, splendid romance",
+        "author":"Sanober Khan"
+    },
+    {
+        "id":"129",
+        "text":"Here is the repeated image of the lover destroyed",
+        "author":"Richard Siken"
+    },
+    {
+        "id":"130",
+        "text":"Poems are a hotline to our hearts, and we forget this emotional power at our peril",
+        "author":"Andrew Motion"
+    },
+    {
+        "id":"131",
+        "text":"regret is mostly caused by not having done anything",
+        "author":"Charles Bukowski"
+    },
+    {
+        "id":"132",
+        "text":"Don't Worry Be Happy",
+        "author":"Meher Baba"
+    },
+    {
+        "id":"133",
+        "text":"Each star is a mirror reflecting the truth inside you",
+        "author":"Aberjhani"
+    },
+    {
+        "id":"134",
+        "text":"My heart is lost; the beasts have eaten it",
+        "author":"Charles Baudelaire"
+    },
+    {
+        "id":"135",
+        "text":"I am deliberate and afraid of nothing",
+        "author":"Audre Lorde"
+    },
+    {
+        "id":"136",
+        "text":"I hope to arrive at my death, late, in love, and a little drunk",
+        "author":"Atticus Poetry"
+    },
+    {
+        "id":"137",
+        "text":"I am the shore and the ocean, awaiting myself on both sides",
+        "author":"Dejan Stojanovic"
+    },
+    {
+        "id":"138",
+        "text":"You had this expression on your face, like you weren’t quite sure you were supposed to be on Earth",
+        "author":"Unknown"
+    },
+    {
+        "id":"139",
+        "text":"I often stood in front of the mirror alone, wondering how ugly a person could get",
+        "author":"Charles Bukowski"
+    },{
+        "id":"140",
+        "text":"By night, Love, tie your heart to mine, and the two together in their sleep will defeat the darkness",
+        "author":"Pablo Neruda"
+    },
+    {
+        "id":"141",
+        "text":"Sometimes to self-discover you must self-destruct",
+        "author":"Robert m drake"
+    },
+    {
+        "id":"142",
+        "text":"I dream of lost vocabularies that might express some of what we no longer can",
+        "author":"Jack Gilbert"
+    },
+    {
+        "id":"143",
+        "text":"It is beautiful to express love and even more beautiful to feel it",
+        "author":"Dejan Stojanovic"
+    },
+    {
+        "id":"144",
+        "text":"Whatever the imagination seizes as Beauty must be truth -whether it existed before or not",
+        "author":"John Keats"
+    },
+    {
+        "id":"145",
+        "text":"It was her chaos that made her beautiful",
+        "author":"Atticus Poetry"
+    },
+    {
+        "id":"146",
+        "text":"A poet is a man who manages, in a lifetime of standing out in thunderstorms, to be struck by lightning five or six times",
+        "author":"Randall Jarell"
+    },
+    {
+        "id":"147",
+        "text":"Was not writing poetry a secret transaction, a voice answering a voice?",
+        "author":"Virginia Woolf"
+    },
+    {
+        "id":"148",
+        "text":"Saints have no moderation, nor do poets, just exuberance",
+        "author":"Anne Sexton"
+    },
+    {
+        "id":"149",
+        "text":"I am the poet of the poor, because I was poor when I loved; since I could not give gifts, I gave words",
+        "author":"Ovid"
+    },
+    {
+        "id":"150",
+        "text":"Poetry: the best words in the best order",
+        "author":"Samuel Taylor Coleridge"
+    }
+]

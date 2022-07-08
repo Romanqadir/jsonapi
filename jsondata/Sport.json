@@ -1,0 +1,750 @@
+[
+{
+    "id":"1",
+    "text":"Every strike brings me closer to the next home run.",
+    "author":"Babe Ruth"
+},
+{
+    "id":"2",
+    "text":"Winning isn't everything--but wanting to win is.",
+    "author":"Vince Lombardi"
+},
+{
+    "id":"3",
+    "text":"The miracle isn't that I finished. The miracle is that I had the courage to start.",
+    "author":"John Bingham"
+},
+{
+    "id":"4",
+    "text":"The strength of the team is each individual member. The strength of each member is the team.",
+    "author":"Phil Jackson"
+},
+{
+    "id":"5",
+    "text":"The score never interested me, only the game.",
+    "author":"Mae West"
+},
+{
+    "id":"6",
+    "text":"I've never lost a game I just ran out of time.",
+    "author":"Michael Jordan"
+},
+{
+    "id":"7",
+    "text":"I feel the need to endanger myself every so often.",
+    "author":"Tim Daly"
+},
+{
+    "id":"8",
+    "text":"Have you noticed that whatever sport you're trying to learn, some earnest person is always telling you to keep your knees bent? ",
+    "author":"Dave Barry"
+},
+{
+    "id":"9",
+    "text":"Some seek the comfort of their therapist's office, other head to the corner pub and dive into a pint, but I chose running as my therapy.",
+    "author":"Dean Karnazes"
+},
+{
+    "id":"10",
+    "text":"Winning is a habit. Unfortunately so is losing.",
+    "author":"Vince Lombardi"
+},
+{
+    "id":"11",
+    "text":"I love the Olympics, because they enable people from all over the world to come together and,regardless of their political or cultural differences,accuse each other of cheating",
+    "author":"Dave Barry"
+},
+{
+    "id":"12",
+    "text":"Adversity causes some men to break; others to break records. ",
+    "author":"William Arthur Ward"
+},
+{
+    "id":"13",
+    "text":"A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be.",
+    "author":"Wayne Gretzky"
+},
+{
+    "id":"14",
+    "text":"Don't let them drag you down by rumors just go with what you believe in.",
+    "author":"Michael Jordan"
+},
+{
+    "id":"15",
+    "text":"football is like life - it requires perserverance, self-denial, hard work, sacrifice, dedication and respect for authority.",
+    "author":"vince lombardi"
+},
+{
+    "id":"16",
+    "text":"The thing about football - the important thing about football - is that it is not just about football.",
+    "author":"Terry Pratchett"
+},
+{
+    "id":"17",
+    "text":"They say that nobody is perfect. Then they tell you practice makes perfect. I wish they'd make up their minds.",
+    "author":"Wilt Chamberlain"
+},
+{
+    "id":"18",
+    "text":"Stay true to yourself and listen to your inner voice. It will lead you to your dream.",
+    "author":"James Ross"
+},
+{
+    "id":"19",
+    "text":"Build up your weaknesses until they become your strong points.",
+    "author":"Knute Rockne"
+},
+{
+    "id":"20",
+    "text":"Baseball players are smarter than football players. How often do you see a baseball team penalized for too many men on the field? ",
+    "author":"Jim Bouton"
+},
+{
+    "id":"21",
+    "text":"I'm the best there is, the best there was, and the best there ever will be.",
+    "author":"Bret Hart"
+},
+{
+    "id":"22",
+    "text":"The strong one doesn't win, the one that wins is strong.",
+    "author":"Franz beckenbauer"
+},
+{
+    "id":"23",
+    "text":"(Baseball) is a game with a lot of waiting in it; it is a game with increasingly heightened anticipation of increasingly limited action.",
+    "author":"John Irving"
+},
+{
+    "id":"24",
+    "text":"God made me fast. And when I run, I feel His pleasure. ",
+    "author":"Eric Liddell"
+},
+{
+    "id":"25",
+    "text":"Everything you need is already inside.",
+    "author":"William J. Bowerman"
+},
+{
+    "id":"26",
+    "text":"Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.",
+    "author":"Dan Gable"
+},
+{
+    "id":"27",
+    "text":"There are no environments where you're only going to win, because life just isn't like that.",
+    "author":"Bobby Orr"
+},
+{
+    "id":"28",
+    "text":"I realize im black, but id like to be viewed as a person, and that is everybodys wish.",
+    "author":"Michael Jordan"
+},
+{
+    "id":"29",
+    "text":"if you gone come in second, you're just the first loser!",
+    "author":"Tiger Woods"
+},
+{
+    "id":"30",
+    "text":"Don't look back. Something might be gaining on you.",
+    "author":"Satchel Paige"
+},
+{
+    "id":"31",
+    "text":"Do you know what my favorite part of the game is? The opportunity to play. ",
+    "author":"Mike Singletary"
+},
+{
+    "id":"32",
+    "text":"As athletes, we're used to reacting quickly. Here, it's 'come, stop, come, stop.' There's a lot of downtime. That's the toughest part of the day. ",
+    "author":"Michael Jordan"
+},
+{
+    "id":"33",
+    "text":"Football is an incredible game. Sometimes it's so incredible, it's unbelievable. ",
+    "author":"Tom Landry"
+},
+{
+    "id":"34",
+    "text":"a lot of football success is in the mind. you must believe you are the best and then make sure that you are.",
+    "author":"bill shankly"
+},
+{
+    "id":"35",
+    "text":"Swimming is simply moving meditation.",
+    "author":"Cesar Nikko Caharian"
+},
+{
+    "id":"36",
+    "text":"Baseball is the only field of endeavor where a man can succeed three times out of ten and be considered a good performer. ",
+    "author":"Ted Williams"
+},
+{
+    "id":"37",
+    "text":"here are only three sports: bullfighting, motor racing, and mountaineering; all the rest are merely games.",
+    "author":"Ernest Hemingway"
+},
+{
+    "id":"38",
+    "text":"Any game becomes important when you know and love the players.",
+    "author":"W.P. Kinsella"
+},
+{
+    "id":"39",
+    "text":"Other than sports, only war and catastrophe can create this sort of national unity.",
+    "author":"Simon Kuper"
+},
+{
+    "id":"40",
+    "text":"Baseball is a public trust. Players turn over, owners turn over and certain commissioners turn over. But baseball goes on.",
+    "author":"Peter Ueberroth"
+},
+{
+    "id":"41",
+    "text":"Basketball is like war in that offensive weapons are developed first, and it always takes a while for the defense to catch up. ",
+    "author":"Red Auerbach"
+},
+{
+    "id":"42",
+    "text":"ennis taught me to take chances, to take life as it comes. To hit every ball that comes to me no matter how hard it looks, to give it my best shot.",
+    "author":"Thisuri Wanniarachchi"
+},
+{
+    "id":"43",
+    "text":"Baseball is what we were. Football is what we have become.",
+    "author":"Mary McGrory"
+},
+{
+    "id":"44",
+    "text":"Fishing is much more than fish. It is the great occasion when we may return to the fine simplicity of our forefathers. ",
+    "author":"Herbert Hoover"
+},
+{
+    "id":"45",
+    "text":"You can learn a lot about business by watching sports. Some of the strategies you see being executed in a sports game can actually be translated into business terms and executed to achieve business success.",
+    "author":"Hendrith Vanlon Smith Jr"
+},
+{
+    "id":"46",
+    "text":"Play as big as you dream.",
+    "author":" Emma Kress"
+},
+{
+    "id":"47",
+    "text":"A good Athlete may not be a good Coach, likewise, a good Coach may not be a good Athlete.",
+    "author":"Dido Stargaze"
+},
+{
+    "id":"48",
+    "text":"When life throws you a curveball, hit out of the park.",
+    "author":"Shanka Jayasinha"
+},
+{
+    "id":"49",
+    "text":"RUN when you can, WALK if you have to, CRAWL if you must.JUST NEVER GIVE UP",
+    "author":"Dean Karnazes"
+},
+{
+    "id":"50",
+    "text":"I am in competition with my accomplishments.",
+    "author":"SeKeithia Johnson"
+},
+{
+    "id":"51",
+    "text":"No matter how good you get you can always get better, and that's the exciting part.",
+    "author":"Tiger Woods"
+},
+{
+    "id":"52",
+    "text":"Good coaches tell you where the fish are, great coaches teach you how to find them.",
+    "author":"Kobe Bryant"
+},
+{
+    "id":"53",
+    "text":"Scoring a goal is almost like kissing. The more you do it, the more you want. I wanted to keep scoring until it hurt.",
+    "author":"Yamile Saied Méndez"
+},
+{
+    "id":"54",
+    "text":"sports is like a meditation , timeless focused concentrated action. No manipulation..but pure focus, pure action.",
+    "author":"Ravindra Shukla"
+},
+{
+    "id":"55",
+    "text":"Winners never quit, and quitters never win.",
+    "author":"Tim Green"
+},
+{
+    "id":"56",
+    "text":"You will be exceptional only few times, but you can be excellent all the times.",
+    "author":"Amit Kalantri"
+},
+{
+    "id":"57",
+    "text":"Dance like you love to dance.",
+    "author":"Lailah Gifty Akita"
+},
+{
+    "id":"58",
+    "text":"It's when it's at it's toughest that you have to think like a winner.",
+    "author":"T Jay Taylor"
+},
+{
+    "id":"59",
+    "text":"Don't do things simply because you can do them. Have an extraordinary reason behind your actions; Let your heart guide you.",
+    "author":"Efrat Cybulkiewicz"
+},
+{
+    "id":"60",
+    "text":"Mindset is the most important factor for success in any sports.",
+    "author":"Abhishek Ratna"
+},
+{
+    "id":"61",
+    "text":"Running is a form of practiced stoicism. It means teaching your brain and body to be biochemically comfortable in a state of disrepair.",
+    "author":"Matthew Inman"
+},
+{
+    "id":"62",
+    "text":"Our weakness is our opponent’s strength.",
+    "author":"Mokokoma Mokhonoana"
+},
+{
+    "id":"63",
+    "text":"I love the suffering that goes into the sport, to become the best.",
+    "author":"Tj Eisenhart"
+},
+{
+    "id":"64",
+    "text":"My opinion is that a school with no playground isn't a school at all.",
+    "author":"Mohith Agadi"
+},
+{
+    "id":"65",
+    "text":"Sports creates complicated men, proud enough to refuse to admit their mistakes, but humble enough always to put their team first.",
+    "author":"Fredrik Backman"
+},
+{
+    "id":"66",
+    "text":"The only thing the sport gives us are moments.",
+    "author":"Fredrik Backman"
+},
+{
+    "id":"67",
+    "text":"You are not a dead man. This is no time pass. Do not just play. Play for Life. Treat this game as Game for Life.",
+    "author":"Pragya Tiwari"
+},
+{
+    "id":"68",
+    "text":"Train like you are the worst player, play like you are the best player.",
+    "author":"Amit Kalantri"
+},
+{
+    "id":"69",
+    "text":"The greatest skill the best athletes in the world possess is their ability to listen.",
+    "author":"Emma Chase"
+},
+{
+    "id":"70",
+    "text":"There is no 'i' in team. But there are two in motivation. ",
+    "author":"T. Jay Taylor"
+},
+{
+    "id":"71",
+    "text":"In football, a good coach will game plan against the opposing team based upon strengths and weaknesses, how they match up, and paying attention to details.A great coach will game plan against the opposing coach’s game plan.",
+    "author":"Khang Kijarro Nguyen"
+},
+{
+    "id":"72",
+    "text":"Sports leads the country to unity; politics leads the country to diversity.",
+    "author":"Amit Kalantri"
+},
+{
+    "id":"73",
+    "text":"The winner in sports does not only have physical abilities but unique mental abilities.",
+    "author":"Sunday Adelaja"
+},
+{
+    "id":"74",
+    "text":"In sports, it is not the strongest, who wins, but the most practical and skillful",
+    "author":"Sunday Adelaja"
+},
+{
+    "id":"75",
+    "text":"Sports teach us the value of facing yourself and others honestly. You can only grow if you let go of denial and embrace what is real and true.",
+    "author":"Corey Irwin"
+},
+{
+    "id":"76",
+    "text":"Success may require a lot of days. But progress only requires one.",
+    "author":"T. Jay Taylor"
+},
+{
+    "id":"77",
+    "text":"Like books, sports give people a sense of having lived other lives, of taking part in other people’s victories. And defeats. When sports are at their best, the spirit of the fan merges with the spirit of the athlete.",
+    "author":"Phil Knight"
+},
+{
+    "id":"78",
+    "text":"The team that keeps winning is not the most talented but the most hard-working.",
+    "author":"Zoltan Andrejkovics"
+},
+{
+    "id":"79",
+    "text":"It’s the Olympics. If you can’t get up to swim early in the morning, don’t go.",
+    "author":"Michael Phelps"
+},
+{
+    "id":"80",
+    "text":"Love of sports will always break your heart, but in doing so, it reminds us we have one.",
+    "author":"Stuart Stevens"
+},
+{
+    "id":"81",
+    "text":"If you can't support us when we lose or draw, don't support us when we win.",
+    "author":"Bill Shankly"
+},
+{
+    "id":"82",
+    "text":"Fight if you must, work hard, give your best but never quit in the face of difficulty.",
+    "author":"Sanchita Pandey"
+},
+{
+    "id":"83",
+    "text":"If you stop fighting for what you want, what you don't want will automatically take over",
+    "author":"Gordon Attard"
+},
+{
+    "id":"84",
+    "text":"We may encounter many defeats but we must not be defeated.",
+    "author":"Maya Angelou"
+},
+{
+    "id":"85",
+    "text":"Play to win but never fear to lose. Win or lose-either way you are a winner.",
+    "author":"Debasish Mridha"
+},
+{
+    "id":"86",
+    "text":"It's nice to be pushed, when you're being pushed in the right direction.",
+    "author":"Kent Allen"
+},
+{
+    "id":"87",
+    "text":"Early morning exercise will keep you active for the entire day.",
+    "author":"Lailah Gifty Akita"
+},
+{
+    "id":"88",
+    "text":"Remember, it's a long race and you can always outwork talent in the end.",
+    "author":"Matthew Quick"
+},
+{
+    "id":"89",
+    "text":"The more you practice the better you'll be, the harder you train the great in you they'll see.",
+    "author":"Alcurtis Turner"
+},
+{
+    "id":"90",
+    "text":"Getting more exercise isn’t only good for your waistline. It's a natural anti-depressant, that leaves you in a great mood.",
+    "author":"Auliq Ice"
+},
+{
+    "id":"91",
+    "text":"If you want to be the best, be the best, if you are not the best, pretend you are.",
+    "author":"Muhhamad Ali"
+},
+{
+    "id":"92",
+    "text":"Being strong is not how hard you hit but its as hard you can get hit and keep going that is how winning is done.",
+    "author":"Rocky"
+},
+{
+    "id":"93",
+    "text":"The idea here is simple, if you can dream it, it is possible.",
+    "author":"Ernest Riveras Tobia"
+},
+{
+    "id":"94",
+    "text":"A lost is a lost no matter if you loose by 1 point or 40 points it's still a lost.",
+    "author":"Alcurtis Turner"
+},
+{
+    "id":"95",
+    "text":"If you make lots of little changes to your lifestyle, you’ll need to make time to have some fun too, otherwise life can get a little boring.",
+    "author":"Auliq Ice"
+},
+{
+    "id":"96",
+    "text":"To be a professional you have to act like one as well.",
+    "author":"Alcurtis Turner"
+},
+{
+    "id":"97",
+    "text":"Being strong means that you are made of steel.",
+    "author":"Pēteris Bitāns"
+},
+{
+    "id":"98",
+    "text":"You settle for less, you get less.",
+    "author":"Brandi L. Bates"
+},
+{
+    "id":"99",
+    "text":"Be fair. Play hard.",
+    "author":"Dan Venezia"
+},
+{
+    "id":"100",
+    "text":"Train hard while others don't, so you can win while your opponents wont.",
+    "author":"Andre Bramble"
+},
+{
+    "id":"101",
+    "text":"Football is the poetry of a motion.",
+    "author":"Pubudu Lasal Dissanayake"
+},
+{
+    "id":"102",
+    "text":"Nobody will outwork, out-train or out-will me !",
+    "author":"Andre Bramble"
+},
+{
+    "id":"103",
+    "text":"The sad fact of life: Winners love the game. Losers don't.",
+    "author":"The Wombat"
+},
+{
+    "id":"104",
+    "text":"oliticians and sports coaches both need to be smart enough to master the game, but dumb enough to think it matters.",
+    "author":"David Mitchell"
+},
+{
+    "id":"105",
+    "text":"Think of yourself as an athlete. I guarantee you it will change the way you walk, the way you work, and the decisions you make about leadership, teamwork, and success.",
+    "author":"Mariah Burton Nelson"
+},
+{
+    "id":"106",
+    "text":"he only one who can tell you ‘you can’t win’ is you and you don’t have to listen.",
+    "author":"Jessica Ennis-Hill "
+},
+{
+    "id":"107",
+    "text":"I’d rather regret the risks that didn’t work out than the chances I didn’t take at all.",
+    "author":"Simone Biles"
+},
+{
+    "id":"108",
+    "text":"The only way to prove that you’re a good sport is to lose.",
+    "author":"Ernie Banks"
+},
+{
+    "id":"109",
+    "text":"An athlete cannot run with money in his pockets. He must run with hope in his heart and dreams in his head.",
+    "author":"Emil Zatopek"
+},{
+    "id":"110",
+    "text":"Somebody gives you an opportunity, say yes to it. So what if you fail? you won’t know if you fail or succeed unless you try.",
+    "author":"Ann Meyers"
+},
+{
+    "id":"111",
+    "text":"Make sure your worst enemy doesn’t live between your own two ears.",
+    "author":"Laird Hamilton"
+},
+{
+    "id":"112",
+    "text":"What makes something special is not just what you have to gain, but what you feel there is to lose.",
+    "author":"Andre Agassi"
+},
+{
+    "id":"113",
+    "text":"You win some, you lose some, and some get rained out, but you gotta suit up for them all.",
+    "author":"J. Askenberg"
+},
+{
+    "id":"114",
+    "text":"Always work hard, never give up, and fight until the end because it’s never really over until the whistle blows.",
+    "author":"Alex Morgan"
+},
+{
+    "id":"115",
+    "text":"You must not only have competitiveness but ability, regardless of the circumstance you face, to never quit.",
+    "author":"Abby Wambach"
+},
+{
+    "id":"116",
+    "text":"I always felt that my greatest asset was not my physical ability, it was my mental ability.",
+    "author":"Bruce Jenner"
+},
+{
+    "id":"117",
+    "text":"Sports serve society by providing vivid examples of excellence.",
+    "author":"George F. Will"
+},
+{
+    "id":"118",
+    "text":"You should never stay at the same level. Always push yourself to the next.",
+    "author":"Marnelli Dimzon"
+},
+{
+    "id":"119",
+    "text":"The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime.",
+    "author":"Babe Ruth"
+},
+{
+    "id":"120",
+    "text":"Every day is a new opportunity. You can build on yesterday's success or put its failures behind and start over again. That's the way life is, with a new game every day, and that's the way baseball is.",
+    "author":"Bob Feller"
+},
+{
+    "id":"121",
+    "text":"To find a man's true character, play golf with him.",
+    "author":"P. G. Wodehouse"
+},
+{
+    "id":"122",
+    "text":"Just be patient. Let the game come to you. Don't rush. Be quick, but don't hurry.",
+    "author":" Earl Monroe"
+},
+{
+    "id":"123",
+    "text":"If you watch a game, it's fun. If you play it, it's recreation. If you work at it, it's golf.",
+    "author":"Bob Hope"
+},
+{
+    "id":"124",
+    "text":"Finding good players is easy. Getting them to play as a team is another story.",
+    "author":"Casey Stengel"
+},
+{
+    "id":"125",
+    "text":"To me, it doesn't matter how good you are. Sport is all about playing and competing. Whatever you do in cricket and in sport, enjoy it, be positive and try to win.",
+    "author":"Ian Botham"
+},
+{
+    "id":"126",
+    "text":"Give me golf clubs, fresh air and a beautiful partner, and you can keep the clubs and the fresh air.",
+    "author":" Jack Benny"
+},
+{
+    "id":"127",
+    "text":"Life is about timing.",
+    "author":"Carl Lewis"
+},
+{
+    "id":"128",
+    "text":"Football is football and talent is talent. But the mindset of your team makes all the difference.",
+    "author":"Robert Griffin III"
+},
+{
+    "id":"129",
+    "text":"Show me a good loser, and I'll show you a loser.",
+    "author":"Vince Lombardi"
+},
+{
+    "id":"130",
+    "text":"I'm a competitive person and I love the challenge of mastering new things.",
+    "author":"Sasha Cohen"
+},
+{
+    "id":"131",
+    "text":"Sports are a microcosm of society.",
+    "author":"Billie Jean King"
+},
+{
+    "id":"132",
+    "text":"Olympism is the marriage of sport and culture.",
+    "author":"Juan Antonio Samaranch"
+},
+{
+    "id":"133",
+    "text":"There's three things men always talk about - women, sports, and cars.",
+    "author":"Mario Lopez"
+},
+{
+    "id":"134",
+    "text":"Sports are such a great teacher. I think of everything they've taught me: camaraderie, humility, how to resolve differences.",
+    "author":"Kobe Bryant"
+},
+{
+    "id":"135",
+    "text":"It takes hard work, dedication, discipline and a positive attitude to get to the top - in business or in sports.",
+    "author":"George Blanda"
+},
+{
+    "id":"136",
+    "text":"I couldn't find the sports car of my dreams, so I built it myself.",
+    "author":" Ferdinand Porsche"
+},
+{
+    "id":"137",
+    "text":"Commitment, belief and positive attitude are all important if you're going to be a success, whether you're in sports, in business or, as in my case, anthropology.",
+    "author":"Donald Johanson"
+},
+{
+    "id":"138",
+    "text":"There is a syndrome in sports called 'paralysis by analysis.'",
+    "author":"Arthur Ashe"
+},
+{
+    "id":"139",
+    "text":"Sports teaches us to be together and united.",
+    "author":" Neeraj Chopra"
+},{
+    "id":"140",
+    "text":"In sports and in business, the greatest leaders are those who make the best decisions in the most crucial of situations. They are the ones who focus their energy on turning tough decisions into winning decisions.",
+    "author":"Don Yaeger"
+},
+{
+    "id":"141",
+    "text":"Every child should have time for arts, music, sports, drama, robotics, school newspapers and the like, not to mention recess and play.",
+    "author":"Chris Gabrieli"
+},
+{
+    "id":"142",
+    "text":"Economics is about creating win-win situations. But in sports, someone loses.",
+    "author":"Stan Kroenke"
+},
+{
+    "id":"143",
+    "text":"Apart from education, you need good health, and for that, you need to play sports.",
+    "author":"Kapil Dev"
+},
+{
+    "id":"144",
+    "text":"I love sports because it takes me away from reality, and I tell people, 'No matter how bad your life is, if you are having problems at home, you are having problems at work, that's the beauty of sports.'",
+    "author":"Charles Barkley"
+},
+{
+    "id":"145",
+    "text":"Sports without music is just a game. Music makes it entertaining.",
+    "author":"Ice Cube"
+},
+{
+    "id":"146",
+    "text":"I think exercise tests us in so many ways, our skills, our hearts, our ability to bounce back after setbacks. This is the inner beauty of sports and competition, and it can serve us all well as adult athletes.",
+    "author":"Peggy Fleming"
+},
+{
+    "id":"147",
+    "text":"All sports must be treated on the basis of equality.",
+    "author":"Pierre de Coubertin"
+},
+{
+    "id":"148",
+    "text":"Sports is like a war without the killing.",
+    "author":"Ted Turner"
+},
+{
+    "id":"149",
+    "text":"Sports teaches you character, it teaches you to play by the rules, it teaches you to know what it feels like to win and lose-it teaches you about life.",
+    "author":"Billie Jean King"
+},
+{
+    "id":"150",
+    "text":"Sports is a metaphor for overcoming obstacles and achieving against great odds. Athletes, in times of difficulty, can be important role models.",
+    "author":"Bill Bradley"
+}
+]
