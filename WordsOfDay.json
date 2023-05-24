@@ -1,0 +1,37 @@
+[
+    {
+        "id":"1",
+        "word":"Abundant",
+        "definition":" Existing or available in large quantities; plentiful."
+    },
+    {
+        "id":"2",
+        "word":"Benevolent",
+        "definition":"Well-meaning and kind"
+    },
+    {
+        "id":"3",
+        "word":"Comprehend",
+        "definition":"To understand or grasp the meaning of something"
+    },
+    {
+        "id":"4",
+        "word":"Diligent",
+        "definition":"Showing careful and persistent effort or work"
+    },
+    {
+        "id":"5",
+        "word":"Eloquent",
+        "definition":"Fluent or persuasive in speaking or writing."
+    },
+    {
+        "id":"6",
+        "word":"Gratitude",
+        "definition":"The quality of being thankful or appreciative."
+    },
+    {
+        "id":"7",
+        "word":"Lucid",
+        "definition":"Clear and easily understandable; rational or sane"
+    }
+]
