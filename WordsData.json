@@ -1,0 +1,43 @@
+{
+"airportWords":
+  [
+    { "id": "1", "English": "Terminal", "Kurdish": "تێرمینال" },
+    { "id": "2", "English": "Passport Control", "Kurdish": "پشکنینی پاسپۆرت" },
+    { "id": "3", "English": "Flight", "Kurdish": "گەشت." },
+    { "id": "4", "English": "Airport", "Kurdish": "فرۆکەخانە" },
+    { "id": "5", "English": "Bag", "Kurdish": "جانتا" },
+    { "id": "6", "English": "Ticket", "Kurdish": "بلیت" },
+    { "id": "7", "English": "Plane", "Kurdish": "فرۆکە." },
+    { "id": "8", "English": "Airline", "Kurdish": "هێلی فرۆکە" },
+    { "id": "9", "English": "Gate", "Kurdish": "دەروازە" },
+    { "id": "10", "English": "Boarding Pass", "Kurdish": "پسوڵه‌ی چوونه‌ناو فڕۆکه‌" },
+    { "id": "11", "English": "Immigration", "Kurdish": "کۆچبەری." },
+    { "id": "12", "English": "Runway", "Kurdish": "ڕێرەوی فڕین" },
+    { "id": "13", "English": "Pilot", "Kurdish": "فرۆکەوان" },
+    { "id": "14", "English": "Arrival", "Kurdish": "گەیشتن" },
+    { "id": "15", "English": "Departure", "Kurdish": "ڕۆیشتن" },
+    { "id": "16", "English": "Baggage Cart", "Kurdish": "سەبەتەی جانتا" },
+    { "id": "17", "English": "Announcement", "Kurdish": "ڕاگەیاندن" },
+    { "id": "18", "English": "Security Check", "Kurdish": "پشکنینی ئاسایش" },
+    { "id": "19", "English": "Arrival Board", "Kurdish": "بۆردی گەیشتن" },
+    { "id": "20", "English": "Departure Board", "Kurdish": "بۆردی ڕۆیشتن" },
+    { "id": "21", "English": "Jet Bridge", "Kurdish": "پردی سواربوونی سەرنشینەکان " },
+    { "id": "22", "English": "Concourse", "Kurdish": "بەیەکگەیشتن" },
+    { "id": "23", "English": "Security Officer", "Kurdish": "ئەفسەری ئاسایش" },
+    { "id": "24", "English": "Aircraft Maintenance", "Kurdish": "چاکردنەوەی فرۆکە" },
+    { "id": "25", "English": "Control Tower", "Kurdish": "بورجی چاودێری." }
+],
+"hotelWords":[
+    { "id": "1", "English": "Hotel", "Kurdish": "هۆتێل" },
+    { "id": "2", "English": "Reservation", "Kurdish": "پارێزراو" },
+    { "id": "3", "English": "Room", "Kurdish": "اوتاق" },
+    { "id": "4", "English": "Lobby", "Kurdish": "قواڵا" },
+    { "id": "5", "English": "Reception", "Kurdish": "پەغەمبەر" },
+    { "id": "6", "English": "Checkout", "Kurdish": "دەرچوون" },
+    { "id": "7", "English": "Key", "Kurdish": "کلیل" },
+    { "id": "8", "English": "Suite", "Kurdish": "ئەوتای ناوخۆ" },
+    { "id": "9", "English": "Breakfast", "Kurdish": "ناوەڕاست" },
+    { "id": "10", "English": "Bellboy", "Kurdish": "کوری هۆتێل" }
+]
+
+}
