@@ -1,0 +1,8 @@
+{
+  "airportWords": [
+    { "english": "airway", "description": "to visit" }
+  ],
+  "hotelWords": [
+    { "english": "room", "description": "to remain visitor" }
+  ]
+}
