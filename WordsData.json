@@ -1,7 +1,7 @@
 {
 "airportWords":
   [
-    { "id": "1", "English": "Terminal", "Kurdish": "تێرمینال" },
+    { "id": "1", "English": "Terminal", "Kurdish": "تێرمینال","isMatched":false },
     { "id": "2", "English": "Passport Control", "Kurdish": "پشکنینی پاسپۆرت" },
     { "id": "3", "English": "Flight", "Kurdish": "گەشت." },
     { "id": "4", "English": "Airport", "Kurdish": "فرۆکەخانە" },
