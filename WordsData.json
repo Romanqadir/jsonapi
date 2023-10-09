@@ -36,6 +36,16 @@
     { "id": "7", "English": "Key", "Kurdish": "کلیل", "isMatched": false, "isDisabled": false },
       { "id": "8", "English": "Suite", "Kurdish": "ئەوتای ناوخۆ" , "isMatched": false, "isDisabled": false },
     { "id": "9", "English": "Breakfast", "Kurdish": "ناوەڕاست", "isMatched": false, "isDisabled": false  },
-    { "id": "10", "English": "Bellboy", "Kurdish": "کوری هۆتێل", "isMatched": false, "isDisabled": false  }
+    { "id": "10", "English": "Bellboy", "Kurdish": "کوری هۆتێل", "isMatched": false, "isDisabled": false  },
+     { "id": "11", "English": "Elevator", "Kurdish": "ئەسانسۆر", "isMatched": false, "isDisabled": false },
+    { "id": "12", "English": "Gym", "Kurdish": "گیم", "isMatched": false, "isDisabled": false },
+    { "id": "13", "English": "Pool", "Kurdish": "حوض", "isMatched": false, "isDisabled": false },
+    { "id": "14", "English": "Sauna", "Kurdish": "ساونا", "isMatched": false, "isDisabled": false },
+    { "id": "15", "English": "Restaurant", "Kurdish": "رەستۆران", "isMatched": false, "isDisabled": false },
+    { "id": "16", "English": "Parking", "Kurdish": "پارک", "isMatched": false, "isDisabled": false },
+    { "id": "17", "English": "Wi-Fi", "Kurdish": "وای فای", "isMatched": false, "isDisabled": false },
+    { "id": "18", "English": "Conference Room", "Kurdish": "اوتاقی کۆنفرانس", "isMatched": false, "isDisabled": false },
+    { "id": "19", "English": "Laundry", "Kurdish": "لاندری", "isMatched": false, "isDisabled": false },
+    { "id": "20", "English": "Bar", "Kurdish": "بار", "isMatched": false, "isDisabled": false }
   ]
 }
