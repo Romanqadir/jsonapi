@@ -1,7 +1,7 @@
 {
   "airportWords": [
-    { "id": "1", "English": "Terminal", "Kurdish": "تێرمینال", "isMatched": false, "isDisabled": false },
-    { "id": "2", "English": "Passport Control", "Kurdish": "پشکنینی پاسپۆرت", "isMatched": false, "isDisabled": false },
+    { "id": "1", "English": "Terminal", "Kurdish": "تێرمینال","question":"تێرمیناڵ", "isMatched": false, "isDisabled": false },
+    { "id": "2", "English": "Passport Control", "Kurdish": "پشکنینی پاسپۆرت","question":"Passport Control", "isMatched": false, "isDisabled": false },
     { "id": "3", "English": "Flight", "Kurdish": "گەشت.", "isMatched": false, "isDisabled": false },
     { "id": "4", "English": "Airport", "Kurdish": "فرۆکەخانە", "isMatched": false, "isDisabled": false },
     { "id": "5", "English": "Bag", "Kurdish": "جانتا", "isMatched": false, "isDisabled": false },
