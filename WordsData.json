@@ -3,7 +3,7 @@
     { "id": "1", "English": "Terminal", "Kurdish": "تێرمینال","question":"تێرمیناڵ","options": ["airport", "terminal", "pilot", "gate"],
       "correctOption": "terminal", "isMatched": false, "isDisabled": false },
     { "id": "2", "English": "Passport Control", "Kurdish": "پشکنینی پاسپۆرت","question":"Passport Control", "icon": "volume-medium",
-      "options": ["فرۆکەخانە", "گەشت", "فرۆکەوان", "دەروازە"],
+      "options": ["فرۆکەخانە", "پشکنینی پاسپۆرت", "فرۆکەوان", "دەروازە"],
       "correctOption": "پشکنینی پاسپۆرت", "isMatched": false, "isDisabled": false },
     { "id": "3", "English": "Flight", "Kurdish": "گەشت.", "isMatched": false, "isDisabled": false },
     { "id": "4", "English": "Airport", "Kurdish": "فرۆکەخانە", "isMatched": false, "isDisabled": false },
