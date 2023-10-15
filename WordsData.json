@@ -31,9 +31,13 @@
     { "id": "25", "English": "Control Tower", "Kurdish": "بورجی چاودێری.", "isMatched": false, "isDisabled": false }
   ],
   "hotelWords": [
-    { "id": "1", "English": "Hotel", "Kurdish": "ئوتێل", "isMatched": false, "isDisabled": false },
-    { "id": "2", "English": "Reservation", "Kurdish": "گرتنی شوێن", "isMatched": false, "isDisabled": false },
-    { "id": "3", "English": "Room", "Kurdish": "ژوور", "isMatched": false, "isDisabled": false },
+    { "id": "1", "English": "Hotel", "Kurdish": "ئوتێل", "isMatched": false,"question":"تێرمیناڵ","options": ["airport", "terminal", "pilot", "gate"],
+      "correctOption": "terminal", "isDisabled": false },
+    { "id": "2", "English": "Reservation", "Kurdish": "گرتنی شوێن","question":"Passport Control", "icon": "volume-medium",
+      "options": ["فرۆکەخانە", "پشکنینی پاسپۆرت", "فرۆکەوان", "دەروازە"],
+      "correctOption": "پشکنینی پاسپۆرت", "isMatched": false, "isDisabled": false },
+    { "id": "3", "English": "Room", "Kurdish": "ژوور","image":"https://holalearndata.files.wordpress.com/2023/10/img_6275.jpg?w=1024","options": ["airport", "terminal", "pilot", "gate"],
+      "correctOption": "gate", "isMatched": false, "isDisabled": false },
     { "id": "4", "English": "Lobby", "Kurdish": "هۆڵ", "isMatched": false, "isDisabled": false },
     { "id": "5", "English": "Reception", "Kurdish": "پرسگە", "isMatched": false, "isDisabled": false },
     { "id": "6", "English": "Checkout", "Kurdish": "پشکنین", "isMatched": false, "isDisabled": false },
