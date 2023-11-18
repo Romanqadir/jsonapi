@@ -1,7 +1,9 @@
 {
   "Travel":[
 { 
-  "airport":"https://cdn-icons-png.flaticon.com/128/3016/3016185.png"
+  "id":"1",
+  "image":"https://cdn-icons-png.flaticon.com/128/3016/3016185.png",
+  "text":"Airport"
 }
     
   ],
