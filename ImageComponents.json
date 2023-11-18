@@ -18,9 +18,21 @@
     
   ],
   "House":[
-{
-  "bedroom":"https://cdn-icons-png.flaticon.com/128/3016/3016185.png"
-}
+{ 
+  "id":"1",
+  "image":"https://cdn-icons-png.flaticon.com/128/9273/9273847.png",
+  "text":"Kitchen"
+},
+   { 
+  "id":"2",
+  "image":"https://cdn-icons-png.flaticon.com/128/8948/8948845.png",
+  "text":"Bedroom"
+} ,
+     { 
+  "id":"3",
+  "image":"https://cdn-icons-png.flaticon.com/128/5569/5569377.png",
+  "text":"Shower"
+} 
   ]
 
 }
