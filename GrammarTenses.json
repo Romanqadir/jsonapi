@@ -1,0 +1,58 @@
+{
+"PresentSimple":
+[
+{
+      "id":"1",
+      "english":"Once upon a time, in a colorful meadow, there were three kites named Blue, Red, and Green. Blue loved to soar high, Red danced with the wind, and Green glided gracefully.",
+      "kurdish":"       جارێک لە چۆڵەوانییەکی ڕەنگاوڕەنگدا سێ باڵندەی باڵندە هەبوون بە ناوەکانی شین و سوور و سەوز. شین زۆر حەزی لە بەرزبوونەوە بوو، سوور لەگەڵ با سەمای دەکرد و گرین بە ڕەوشتەوە دەخلیسکا."
+    },
+    {
+         "id":"2",
+      "english":"Every day, they flew together, laughing and playing in the sky. One sunny day, a strong gust of wind blew Red and Green away. Blue, feeling brave, darted through the clouds to find them.",
+      "kurdish":"       جارێک لە چۆڵەوانییەکی ڕەنگاوڕەنگدا سێ باڵندەی باڵندە هەبوون بە ناوەکانی شین و سوور و سەوز. شین زۆر حەزی لە بەرزبوونەوە بوو، سوور لەگەڵ با سەمای دەکرد و گرین بە ڕەوشتەوە دەخلیسکا."
+    },
+    {
+         "id":"3",
+      "english":"After a long search, Blue found them tangled in a tree. With teamwork and courage, they freed themselves and returned to the meadow.",
+      "kurdish":"       جارێک لە چۆڵەوانییەکی ڕەنگاوڕەنگدا سێ باڵندەی باڵندە هەبوون بە ناوەکانی شین و سوور و سەوز. شین زۆر حەزی لە بەرزبوونەوە بوو، سوور لەگەڵ با سەمای دەکرد و گرین بە ڕەوشتەوە دەخلیسکا."
+    },
+    {
+         "id":"4",
+      "english":"After a long search, Blue found them tangled in a tree. With teamwork and courage, they freed themselves and returned to the meadow.",
+      "kurdish":"       جارێک لە چۆڵەوانییەکی ڕەنگاوڕەنگدا سێ باڵندەی باڵندە هەبوون بە ناوەکانی شین و سوور و سەوز. شین زۆر حەزی لە بەرزبوونەوە بوو، سوور لەگەڵ با سەمای دەکرد و گرین بە ڕەوشتەوە دەخلیسکا."
+    },
+    {
+        "id":"5",
+      "english":"Every day, they flew together, laughing and playing in the sky. One sunny day, a strong gust of wind blew Red and Green away. Blue, feeling brave, darted through the clouds to find them.",
+      "kurdish":"       جارێک لە چۆڵەوانییەکی ڕەنگاوڕەنگدا سێ باڵندەی باڵندە هەبوون بە ناوەکانی شین و سوور و سەوز. شین زۆر حەزی لە بەرزبوونەوە بوو، سوور لەگەڵ با سەمای دەکرد و گرین بە ڕەوشتەوە دەخلیسکا."
+    }
+],
+      "PastSimple":
+[
+{
+      "id":"1",
+      "english":"Once upon a time, in a peaceful village, there lived a kind-hearted girl named Lily. She loved flowers, especially sunflowers. Every morning, Lily walked to the meadow, where golden sunflowers reached towards the sky. She believed they held magical powers.",
+      "kurdish":"سەردەمانێک لە گوندێکی ئارامدا کچێکی دڵسۆز بە ناوی لیلی دەژیا. ئەو کچە گوڵی خۆشدەویست، بە تایبەت گوڵەبەڕۆژە. هەموو بەیانیەک لیلی بەرەو چۆڵەوانی دەڕۆیشت، لەوێ گوڵەبەڕۆژەی زێڕین دەستیان بەرەو ئاسمان دەبرد. ئەو پێی وابوو کە ئەوان دەسەڵاتی سیحراوییان هەیە."
+    },
+    {
+         "id":"2",
+      "english":"One sunny day, while wandering in the meadow, Lily found a small, scared bird with a broken wing. She gently picked it up and decided to help it. Back at home, Lily made a cozy nest and cared for the bird daily. She fed it, sang to it, and talked to it in soft, sweet words.",
+      "kurdish":"ڕۆژێکی خۆرگیران، لەکاتی سەرگەردانی لە چۆڵەوانیدا، لیلی باڵندەیەکی بچووک و ترساوی دۆزیەوە کە باڵێکی شکاوە. بە نەرمی هەڵیگرت و بڕیاریدا یارمەتی بدات. لە ماڵەوە، لیلی هێلانەیەکی ئارام دروست کرد و ڕۆژانە چاودێری باڵندەکەی دەکرد. خواردنی پێدەدا و گۆرانی بۆ دەگوت و بە وشەی نەرم و شیرین قسەی لەگەڵ دەکرد."
+    },
+    {
+         "id":"3",
+      "english":"Days passed, and the bird's wing healed. Lily knew it was time to let her feathered friend fly free. She felt sad but also happy, knowing she had helped.",
+      "kurdish":"ڕۆژان تێپەڕی و باڵی باڵندەکە چاک بووەوە. لیلی دەیزانی کاتی ئەوە هاتووە هاوڕێ پەڕدارەکەی بە ئازادی بفڕێت. هەستی بە دڵتەنگی کرد بەڵام هەستی بە دڵخۆشی کرد، دەیزانی یارمەتی داوە."
+    },
+    {
+         "id":"4",
+      "english":"On the morning she released the bird, something wonderful happened. As the bird flew away, it circled above Lily, chirping joyfully. Suddenly, the sunflowers in the meadow started glowing brightly, more radiant than ever before. Lily felt a warm, magical feeling in her heart.",
+      "kurdish":"ئەو بەیانییەی باڵندەکەی ئازاد کرد، شتێکی نایاب ڕوویدا. لەگەڵ فڕینی باڵندەکە، بەسەر لیلیدا دەسوڕایەوە و بە خۆشییەوە چرپەی دەکرد. لەناکاو گوڵەبەڕۆژەی ناو چۆڵەوانییەکە بە گەشاوەیی دەستیان کرد بە درەوشاوەیی، لە جاران زیاتر درەوشاوەتر بوون. لیلی هەستی بە هەستێکی گەرم و ئەفسوناوی لە دڵیدا کرد."
+    },
+    {
+        "id":"5",
+      "english":"The villagers said it was Lily's kindness that made the sunflowers shine so brightly. From that day, the meadow became a magical place for everyone, reminding them of the power of kindness and love. And Lily, with her caring heart, was the happiest of all.",
+      "kurdish":"خەڵکی گوندەکە دەیانگوت ئەوە میهرەبانی لیلی بووە کە وایکردووە گوڵەبەڕۆژەکان ئەوەندە گەشاوە بدرەوشێنەوە. لەو ڕۆژەوە چۆڵەوانی بوو بە شوێنێکی ئەفسوناوی بۆ هەمووان، هێزی میهرەبانی و خۆشەویستییان بیردەخستەوە. وە لیلی بە دڵە خەمخۆرەکەیەوە لە هەموویان دڵخۆشترین بوو."
+    }
+]
+}
