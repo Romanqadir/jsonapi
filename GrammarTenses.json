@@ -3,14 +3,26 @@
         {
             "id": "1",
             "description": "يستخدم المضارع التام لوصف الموقف أو الحدث الذي حدث بالفعل ولكن له تداعيات فورية. يمكن استخدام المضارع التام في وصف التجارب والمواقف التي حدثت في الماضي ولكن لا يزال لها تأثير على الحاضر. نحن لا نستخدمها مع محددات الوقت.",
-            "structure": "Subject + helping verb (have/has) + verb (ed) + object."
+            "structure": "Subject + helping verb (have/has) + verb (ed) + object.",
+            "examples": [
+                "airport",
+                "terminal",
+                "pilot",
+                "gate"
+            ]
         }
     ],
     "PastSimple": [
         {
             "id": "1",
             "description": "يستخدم المضارع التام لوصف الموقف أو الحدث الذي حدث بالفعل ولكن له تداعيات فورية. يمكن استخدام المضارع التام في وصف التجارب والمواقف التي حدثت في الماضي ولكن لا يزال لها تأثير على الحاضر. نحن لا نستخدمها مع محددات الوقت.",
-            "structure": "Subject + helping verb (have/has) + verb (ed) + object."
+            "structure": "Subject + helping verb (have/has) + verb (ed) + object.",
+            "examples": [
+                "airport",
+                "terminal",
+                "pilot",
+                "gate"
+            ]
         }
     ]
 }
