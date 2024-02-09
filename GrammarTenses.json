@@ -20,8 +20,7 @@
             ],
             "question":"تێرمیناڵ","options": ["airport", "terminal", "pilot", "gate"],
       "correctOption": "terminal", "isMatched": false, "isDisabled": false
-              "question":"دەروازە","options": ["airport", "terminal", "pilot", "gate"],
-      "correctOption": "gate", "isMatched": false, "isDisabled": false
+        
         
         },
          
