@@ -17,7 +17,9 @@
                 "She has not finished her work yet.",
                 "I have seen that movie twice.",
                 "We have visited LA several times."
-            ]
+            ],
+            "question":"تێرمیناڵ","options": ["airport", "terminal", "pilot", "gate"],
+      "correctOption": "terminal", "isMatched": false, "isDisabled": false
             
         
         
