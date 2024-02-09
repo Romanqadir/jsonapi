@@ -25,7 +25,12 @@
         
         },
         {
+        
             "id": "2",
+              "description":"",
+            "structure":"",
+             "examples": [],
+            
                 "question":"تێرمیناڵ","options": ["airport", "terminal", "pilot", "gate"],
       "correctOption": "terminal", "isMatched": false, "isDisabled": false
         }
