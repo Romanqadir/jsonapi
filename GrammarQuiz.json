@@ -25,7 +25,51 @@
             "id": "4",
                 "question":"تێرمیناڵ","options": ["airport", "terminal", "pilot", "gate"],
       "correctOption": "terminal", "isMatched": false, "isDisabled": false
-        }
+        },
+        {
+  "id": "5",
+  "question": "He ___ (to go) to school by bus every day.",
+  "options": ["go", "goes", "going", "to go"],
+  "correctOption": "goes",
+  "isMatched": false,
+  "isDisabled": false
+},
+        {
+  "id": "6",
+  "question": "They ___ (not/to watch) TV in the morning.",
+  "options": ["not watches", "doesn't watch", "don't watch", "isn't watching"],
+  "correctOption": "don't watch",
+  "isMatched": false,
+  "isDisabled": false
+},
+        {
+  "id": "7",
+  "question": "___ you ___ (to like) coffee?",
+  "options": ["Do / likes", "Does / likes", "Do / like", "Are / liking"],
+  "correctOption": "Do / like",
+  "isMatched": false,
+  "isDisabled": false
+},
+
+{
+  "id": "8",
+  "question": "She ___ (to clean) her room ___ a week.",
+  "options": ["cleans / once", "clean / once", "cleans / one", "clean / one"],
+  "correctOption": "cleans / once",
+  "isMatched": false,
+  "isDisabled": false
+},
+        {
+  "id": "9",
+  "question": "My brother ___ (to have) breakfast at 7:00 AM.",
+  "options": ["have", "has", "having", "is having"],
+  "correctOption": "has",
+  "isMatched": false,
+  "isDisabled": false
+}
+
+
+
          
     ],
     "PaSimple": [
