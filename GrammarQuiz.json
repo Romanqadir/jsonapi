@@ -12,6 +12,19 @@
             "id": "2",
                 "question":"تێرمیناڵ","options": ["airport", "terminal", "pilot", "gate"],
       "correctOption": "terminal", "isMatched": false, "isDisabled": false
+        },
+            {
+            "id": "3",
+                "question":"تێرمیناڵ","options": ["airport", "terminal", "pilot", "gate"],
+      "correctOption": "terminal", "isMatched": false, "isDisabled": false
+        
+        
+        },
+        {
+        
+            "id": "4",
+                "question":"تێرمیناڵ","options": ["airport", "terminal", "pilot", "gate"],
+      "correctOption": "terminal", "isMatched": false, "isDisabled": false
         }
          
     ],
