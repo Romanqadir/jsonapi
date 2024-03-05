@@ -2,19 +2,19 @@
   "Beginner":[
 { 
   "id":"1",
-  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/story1.jpg?raw=true",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story1.jpg?raw=true",
   "english":"Three Kites",
  "kurdish":"سێ کۆلارە"
 },
    { 
   "id":"2",
-  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajuMqmcQrML0ykzSltZ84UhlxZjBdzIwMqv1UzMHfiwmcauG9xQ-pqFb4i-kYT6r_l_g&usqp=CAU",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story10.jpg?raw=true",
     "english":"Sunflower Magic",
  "kurdish":"سیحری گوڵەبەڕۆژە"
 } ,
      { 
   "id":"3",
-  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajuMqmcQrML0ykzSltZ84UhlxZjBdzIwMqv1UzMHfiwmcauG9xQ-pqFb4i-kYT6r_l_g&usqp=CAU",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story11.jpg?raw=true",
   "english":"Three Kites",
  "kurdish":"سێ کۆلارە"
 } 
@@ -23,7 +23,7 @@
   "Advanced":[
 { 
   "id":"1",
-  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajuMqmcQrML0ykzSltZ84UhlxZjBdzIwMqv1UzMHfiwmcauG9xQ-pqFb4i-kYT6r_l_g&usqp=CAU",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story12.jpg?raw=true",
   "english":"Three Kites",
  "kurdish":"سێ کۆلارە"
 },
