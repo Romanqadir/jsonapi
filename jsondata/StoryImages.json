@@ -29,13 +29,13 @@
 },
    { 
   "id":"2",
-  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajuMqmcQrML0ykzSltZ84UhlxZjBdzIwMqv1UzMHfiwmcauG9xQ-pqFb4i-kYT6r_l_g&usqp=CAU",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story2.jpg?raw=true",
   "english":"Three Kites",
  "kurdish":"سێ کۆلارە"
 } ,
      { 
   "id":"3",
-  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajuMqmcQrML0ykzSltZ84UhlxZjBdzIwMqv1UzMHfiwmcauG9xQ-pqFb4i-kYT6r_l_g&usqp=CAU",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story3.jpg?raw=true",
    "english":"Three Kites",
  "kurdish":"سێ کۆلارە"
 } 
@@ -43,19 +43,19 @@
 "Intermediate":[
 { 
   "id":"1",
-  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajuMqmcQrML0ykzSltZ84UhlxZjBdzIwMqv1UzMHfiwmcauG9xQ-pqFb4i-kYT6r_l_g&usqp=CAU",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story4.jpg?raw=true",
   "english":"Three Kites",
  "kurdish":"سێ کۆلارە"
 },
    { 
   "id":"2",
-  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajuMqmcQrML0ykzSltZ84UhlxZjBdzIwMqv1UzMHfiwmcauG9xQ-pqFb4i-kYT6r_l_g&usqp=CAU",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story5.jpg?raw=true",
   "english":"Three Kites",
  "kurdish":"سێ کۆلارە"
 } ,
      { 
   "id":"3",
-  "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajuMqmcQrML0ykzSltZ84UhlxZjBdzIwMqv1UzMHfiwmcauG9xQ-pqFb4i-kYT6r_l_g&usqp=CAU",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story6.jpg?raw=true",
    "english":"Three Kites",
  "kurdish":"سێ کۆلارە"
 } 
