@@ -2,36 +2,50 @@
     {
         "id":"1",
         "word":"Abundant",
-        "definition":" Existing or available in large quantities; plentiful."
+        "definition":" Existing or available in large quantities; plentiful.",
+        "kurdishWord":"گەورە",
+        "kurdishDefinition":"ژماەرەیەکی زۆر یان قەبارەیەکی گەورە"
     },
     {
         "id":"2",
         "word":"Benevolent",
-        "definition":"Well-meaning and kind"
+        "definition":"Well-meaning and kind",
+        "kurdishWord":"گەورە",
+        "kurdishDefinition":"ژماەرەیەکی زۆر یان قەبارەیەکی گەورە"
     },
     {
         "id":"3",
         "word":"Comprehend",
-        "definition":"To understand or grasp the meaning of something"
+        "definition":"To understand or grasp the meaning of something",
+        "kurdishWord":"گەورە",
+        "kurdishDefinition":"ژماەرەیەکی زۆر یان قەبارەیەکی گەورە"
     },
     {
         "id":"4",
         "word":"Diligent",
-        "definition":"Showing careful and persistent effort or work"
+        "definition":"Showing careful and persistent effort or work",
+        "kurdishWord":"گەورە",
+        "kurdishDefinition":"ژماەرەیەکی زۆر یان قەبارەیەکی گەورە"
     },
     {
         "id":"5",
         "word":"Eloquent",
-        "definition":"Fluent or persuasive in speaking or writing."
+        "definition":"Fluent or persuasive in speaking or writing.",
+        "kurdishWord":"گەورە",
+        "kurdishDefinition":"ژماەرەیەکی زۆر یان قەبارەیەکی گەورە"
     },
     {
         "id":"6",
         "word":"Gratitude",
-        "definition":"The quality of being thankful or appreciative."
+        "definition":"The quality of being thankful or appreciative.",
+        "kurdishWord":"گەورە",
+        "kurdishDefinition":"ژماەرەیەکی زۆر یان قەبارەیەکی گەورە"
     },
     {
         "id":"7",
         "word":"Lucid",
-        "definition":"Clear and easily understandable; rational or sane"
+        "definition":"Clear and easily understandable; rational or sane",
+        "kurdishWord":"گەورە",
+        "kurdishDefinition":"ژماەرەیەکی زۆر یان قەبارەیەکی گەورە"
     }
 ]
