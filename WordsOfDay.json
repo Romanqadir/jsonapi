@@ -3,22 +3,22 @@
         "id":"1",
         "word":"Abundant",
         "definition":" Existing or available in large quantities; plentiful.",
-        "kurdishWord":"گەورە",
-        "kurdishDefinition":"ژماەرەیەکی زۆر یان قەبارەیەکی گەورە"
+        "kurdishWord":"بێ شومار",
+        "kurdishDefinition":"شتێکی زۆر لەبەردەستدایە."
     },
     {
         "id":"2",
         "word":"Benevolent",
         "definition":"Well-meaning and kind",
-        "kurdishWord":"گەورە",
-        "kurdishDefinition":"ژماەرەیەکی زۆر یان قەبارەیەکی گەورە"
+        "kurdishWord":"خێرخوازی",
+        "kurdishDefinition":" مەبەستی باش و میهرەبان"
     },
     {
         "id":"3",
         "word":"Comprehend",
         "definition":"To understand or grasp the meaning of something",
-        "kurdishWord":"گەورە",
-        "kurdishDefinition":"ژماەرەیەکی زۆر یان قەبارەیەکی گەورە"
+        "kurdishWord":"تێگەیشتن",
+        "kurdishDefinition":"بۆ تێگەیشتن یان تێگەیشتن لە مانای شتێک"
     },
     {
         "id":"4",
@@ -31,21 +31,21 @@
         "id":"5",
         "word":"Eloquent",
         "definition":"Fluent or persuasive in speaking or writing.",
-        "kurdishWord":"گەورە",
-        "kurdishDefinition":"ژماەرەیەکی زۆر یان قەبارەیەکی گەورە"
+        "kurdishWord":"قسەخۆش",
+        "kurdishDefinition":"شارەزا یان قایلکەر لە قسەکردن یان نووسیندا"
     },
     {
         "id":"6",
         "word":"Gratitude",
         "definition":"The quality of being thankful or appreciative.",
-        "kurdishWord":"گەورە",
-        "kurdishDefinition":"ژماەرەیەکی زۆر یان قەبارەیەکی گەورە"
+        "kurdishWord":"سوپاسگوزاری",
+        "kurdishDefinition":"کوالیتی سوپاسگوزار بوون یان قەدرزانی"
     },
     {
         "id":"7",
         "word":"Lucid",
         "definition":"Clear and easily understandable; rational or sane",
-        "kurdishWord":"گەورە",
-        "kurdishDefinition":"ژماەرەیەکی زۆر یان قەبارەیەکی گەورە"
+        "kurdishWord":"ڕوونی",
+        "kurdishDefinition":"ڕوون و بە ئاسانی تێگەیشتن؛"
     }
 ]
