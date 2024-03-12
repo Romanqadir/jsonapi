@@ -17,6 +17,12 @@
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story11.jpg?raw=true",
   "english":"Three Kites",
  "kurdish":"سێ کۆلارە"
+} ,
+     { 
+  "id":"4",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story11.jpg?raw=true",
+  "english":"Three Kites",
+ "kurdish":"سێ کۆلارە"
 } 
     
   ],
@@ -38,6 +44,12 @@
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story3.jpg?raw=true",
    "english":"Three Kites",
  "kurdish":"سێ کۆلارە"
+} ,
+     { 
+  "id":"4",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story11.jpg?raw=true",
+  "english":"Three Kites",
+ "kurdish":"سێ کۆلارە"
 } 
   ],
 "Intermediate":[
@@ -57,6 +69,12 @@
   "id":"3",
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story6.jpg?raw=true",
    "english":"Three Kites",
+ "kurdish":"سێ کۆلارە"
+} ,
+   { 
+  "id":"4",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story11.jpg?raw=true",
+  "english":"Three Kites",
  "kurdish":"سێ کۆلارە"
 } 
   ]
