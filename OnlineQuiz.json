@@ -1,0 +1,157 @@
+
+{
+  "PrSimple": [
+    {
+      "id": "1",
+      "question": "تێرمیناڵ",
+      "options": ["airport", "terminal", "pilot", "gate"],
+      "correctOption": "terminal",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "2",
+      "question": "فڕۆکە",
+      "options": ["airport", "plane", "pilot", "flight"],
+      "correctOption": "plane",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "3",
+      "question": "دەروازە",
+      "options": ["airport", "terminal", "pilot", "gate"],
+      "correctOption": "gate",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "4",
+      "question": "فڕۆکەخانە",
+      "options": ["airport", "terminal", "pilot", "gate"],
+      "correctOption": "airport",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "5",
+      "question": "He ___ (to go) to school by bus every day.",
+      "options": ["go", "goes", "going", "to go"],
+      "correctOption": "goes",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "6",
+      "question": "They ___ (not/to watch) TV in the morning.",
+      "options": ["not watches", "doesn't watch", "don't watch", "isn't watching"],
+      "correctOption": "don't watch",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "7",
+      "question": "___ you ___ (to like) coffee?",
+      "options": ["Do / likes", "Does / likes", "Do / like", "Are / liking"],
+      "correctOption": "Do / like",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "8",
+      "question": "She ___ (to clean) her room ___ a week.",
+      "options": ["cleans / once", "clean / once", "cleans / one", "clean / one"],
+      "correctOption": "cleans / once",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "9",
+      "question": "My brother ___ (to have) breakfast at 7:00 AM.",
+      "options": ["have", "has", "having", "is having"],
+      "correctOption": "has",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "10",
+      "question": "Water ___ (to freeze) at 0°C.",
+      "options": ["freeze", "freezes", "is freezing", "are freezing"],
+      "correctOption": "freezes",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "11",
+      "question": "The Earth ___ (to orbit) the Sun.",
+      "options": ["orbit", "orbits", "is orbiting", "are orbiting"],
+      "correctOption": "orbits",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "12",
+      "question": "Cats ___ (not/to like) water.",
+      "options": ["doesn't like", "don't likes", "don't like", "isn't liking"],
+      "correctOption": "don't like",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "13",
+      "question": "A nurse ___ (to help) patients.",
+      "options": ["help", "helps", "helping", "is helping"],
+      "correctOption": "helps",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "14",
+      "question": "I ___ (to speak) three languages.",
+      "options": ["speak", "speaks", "speaking", "am speaking"],
+      "correctOption": "speak",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "15",
+      "question": "The sun ___ (to rise) in the east.",
+      "options": ["rise", "rises", "rising", "is rising"],
+      "correctOption": "rises",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "16",
+      "question": "Birds ___ (to fly) south in the winter.",
+      "options": ["fly", "flies", "flying", "are flying"],
+      "correctOption": "fly",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "17",
+      "question": "Babies ___ (to cry) when they are hungry.",
+      "options": ["cry", "cries", "crying", "are crying"],
+      "correctOption": "cry",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "18",
+      "question": "He ___ (to play) the guitar beautifully.",
+      "options": ["play", "plays", "playing", "is playing"],
+      "correctOption": "plays",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "19",
+      "question": "The store ___ (to open) at 9 AM.",
+      "options": ["open", "opens", "opening", "is opening"],
+      "correctOption": "opens",
+      "isMatched": false,
+      "isDisabled": false
+    }
+]
+}
