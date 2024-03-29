@@ -30,52 +30,52 @@
 { 
   "id":"1",
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story12.jpg?raw=true",
-  "english":"Three Kites",
- "kurdish":"سێ کۆلارە"
+  "english":"the power of now",
+ "kurdish":"هێزی ئێستا"
 },
    { 
   "id":"2",
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story2.jpg?raw=true",
-  "english":"Three Kites",
- "kurdish":"سێ کۆلارە"
+  "english":"following the right path",
+ "kurdish":"پەیڕەوکردنی ڕێگای ڕاست"
 } ,
      { 
   "id":"3",
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story3.jpg?raw=true",
-   "english":"Three Kites",
- "kurdish":"سێ کۆلارە"
+   "english":"whispers of the heart",
+ "kurdish":"چرپەی دڵ"
 } ,
      { 
   "id":"4",
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story8.jpg?raw=true",
-  "english":"Three Kites",
- "kurdish":"سێ کۆلارە"
+  "english":"mindfulness",
+ "kurdish":"وردبینی"
 } 
   ],
 "Intermediate":[
 { 
   "id":"1",
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story4.jpg?raw=true",
-  "english":"Three Kites",
- "kurdish":"سێ کۆلارە"
+  "english":"stop dreaming and start doing",
+ "kurdish":"واز لە خەون بینین بێنە و دەست بکە بە ئەنجامدانی"
 },
    { 
   "id":"2",
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story5.jpg?raw=true",
-  "english":"Three Kites",
- "kurdish":"سێ کۆلارە"
+  "english":"fairy tale",
+ "kurdish":"چیرۆکی خه‌یاڵی"
 } ,
      { 
   "id":"3",
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story6.jpg?raw=true",
-   "english":"Three Kites",
- "kurdish":"سێ کۆلارە"
+   "english":"dreamer",
+ "kurdish":"خەونبین"
 } ,
    { 
   "id":"4",
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story9.jpg?raw=true",
-  "english":"Three Kites",
- "kurdish":"سێ کۆلارە"
+  "english":"when we first met",
+ "kurdish":"کاتێک بۆ یەکەمجار یەکترمان ناسی"
 } 
   ]
 
