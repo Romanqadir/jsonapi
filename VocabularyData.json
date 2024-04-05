@@ -1,0 +1,105 @@
+{
+"Lesson1":[
+    {
+        "id":"1",
+        "word":"Abundant",
+        "definition":" Existing or available in large quantities; plentiful.",
+        "kurdishWord":"بێ شومار",
+        "kurdishDefinition":"شتێکی زۆر لەبەردەستدایە."
+    },
+    {
+        "id":"2",
+        "word":"Benevolent",
+        "definition":"Well-meaning and kind",
+        "kurdishWord":"خێرخوازی",
+        "kurdishDefinition":" مەبەستی باش و میهرەبان"
+    },
+    {
+        "id":"3",
+        "word":"Comprehend",
+        "definition":"To understand or grasp the meaning of something",
+        "kurdishWord":"تێگەیشتن",
+        "kurdishDefinition":"بۆ تێگەیشتن یان تێگەیشتن لە مانای شتێک"
+    },
+    {
+        "id":"4",
+        "word":"Diligent",
+        "definition":"Showing careful and persistent effort or work",
+        "kurdishWord":"تێکۆشەر",
+        "kurdishDefinition":"نیشاندانی هەوڵی ورد و بەردەوام"
+    },
+    {
+        "id":"5",
+        "word":"Eloquent",
+        "definition":"Fluent or persuasive in speaking or writing.",
+        "kurdishWord":"قسەخۆش",
+        "kurdishDefinition":"شارەزا یان قایلکەر لە قسەکردن یان نووسیندا"
+    },
+    {
+        "id":"6",
+        "word":"Gratitude",
+        "definition":"The quality of being thankful or appreciative.",
+        "kurdishWord":"سوپاسگوزاری",
+        "kurdishDefinition":"کوالیتی سوپاسگوزار بوون یان قەدرزانی"
+    },
+    {
+        "id":"7",
+        "word":"Lucid",
+        "definition":"Clear and easily understandable; rational or sane",
+        "kurdishWord":"ڕوونی",
+        "kurdishDefinition":"ڕوون و بە ئاسانی تێگەیشتن؛"
+    }
+],
+
+"Lesson2":[
+    {
+        "id":"1",
+        "word":"Abundant",
+        "definition":" Existing or available in large quantities; plentiful.",
+        "kurdishWord":"بێ شومار",
+        "kurdishDefinition":"شتێکی زۆر لەبەردەستدایە."
+    },
+    {
+        "id":"2",
+        "word":"Benevolent",
+        "definition":"Well-meaning and kind",
+        "kurdishWord":"خێرخوازی",
+        "kurdishDefinition":" مەبەستی باش و میهرەبان"
+    },
+    {
+        "id":"3",
+        "word":"Comprehend",
+        "definition":"To understand or grasp the meaning of something",
+        "kurdishWord":"تێگەیشتن",
+        "kurdishDefinition":"بۆ تێگەیشتن یان تێگەیشتن لە مانای شتێک"
+    },
+    {
+        "id":"4",
+        "word":"Diligent",
+        "definition":"Showing careful and persistent effort or work",
+        "kurdishWord":"تێکۆشەر",
+        "kurdishDefinition":"نیشاندانی هەوڵی ورد و بەردەوام"
+    },
+    {
+        "id":"5",
+        "word":"Eloquent",
+        "definition":"Fluent or persuasive in speaking or writing.",
+        "kurdishWord":"قسەخۆش",
+        "kurdishDefinition":"شارەزا یان قایلکەر لە قسەکردن یان نووسیندا"
+    },
+    {
+        "id":"6",
+        "word":"Gratitude",
+        "definition":"The quality of being thankful or appreciative.",
+        "kurdishWord":"سوپاسگوزاری",
+        "kurdishDefinition":"کوالیتی سوپاسگوزار بوون یان قەدرزانی"
+    },
+    {
+        "id":"7",
+        "word":"Lucid",
+        "definition":"Clear and easily understandable; rational or sane",
+        "kurdishWord":"ڕوونی",
+        "kurdishDefinition":"ڕوون و بە ئاسانی تێگەیشتن؛"
+    }
+]
+}
