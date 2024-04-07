@@ -12,6 +12,7 @@
         "id":"2",
         "word":"Sales Assistant",
         "definition":"someone who sells goods and serves customers in a store",
+        "image":"https://img.freepik.com/free-vector/flat-customer-support_23-2148892107.jpg?w=1060",
         "kurdishWord":"یاریدەدەری فرۆشتن",
         "kurdishDefinition":"کەسێک کە کاڵا بفرۆشێت و لە فرۆشگایەکدا خزمەت بە کڕیارەکان بکات"
     },
@@ -19,6 +20,7 @@
         "id":"3",
         "word":"Technician",
         "definition":"a worker with special skills, especially in science or engineering",
+        "image":"https://img.freepik.com/free-vector/flat-computer-engineering-concept_23-2148158173.jpg?w=1060",
         "kurdishWord":"تەکنیکار",
         "kurdishDefinition":"کرێکارێک کە کارامەیی تایبەتی هەبێت، بە تایبەت لە بواری زانست یان ئەندازیاریدا"
     },
@@ -26,6 +28,7 @@
         "id":"4",
         "word":"CEO",
         "definition":"chief excutive officer : the top position in a company",
+        "image":"https://img.freepik.com/free-vector/boss-man-concept-illustration_114360-19846.jpg?w=1060",
         "kurdishWord":"بەڕێوەبەری گشتی",
         "kurdishDefinition":"بەڕێوەبەری جێبەجێکار : پۆستی سەرەوە لە کۆمپانیایەکدا"
     },
@@ -33,6 +36,7 @@
         "id":"5",
         "word":"Eloquent",
         "definition":"Fluent or persuasive in speaking or writing.",
+        "image":"https://img.freepik.com/free-vector/astronaut-concept-illustration_114360-219.jpg?w=1060",
         "kurdishWord":"قسەخۆش",
         "kurdishDefinition":"شارەزا یان قایلکەر لە قسەکردن یان نووسیندا"
     },
@@ -40,6 +44,7 @@
         "id":"6",
         "word":"Personal Assistant",
         "definition":"PA: a secretary who works for one paticular person",
+        "image":"https://img.freepik.com/free-vector/flat-illustration-secretary-s-day-celebration_23-2150229811.jpg?w=1060",
         "kurdishWord":"یاریدەدەری کەسی",
         "kurdishDefinition":"سکرتێرێک کە بۆ کەسێکی دیاریکراو کاردەکات"
     }
