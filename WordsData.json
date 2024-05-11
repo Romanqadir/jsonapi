@@ -77,5 +77,122 @@
     { "id": "13", "English": "skateboard", "Kurdish": "تەختەخلیسکێنە", "isMatched": false, "isDisabled": false },
     { "id": "14", "English": "Helicopter", "Kurdish": "هێلیکۆپتەر", "isMatched": false, "isDisabled": false },
     { "id": "15", "English": "ship", "Kurdish": "کەشتی", "isMatched": false, "isDisabled": false }
-]
+],
+   "accommodation": [
+    {
+      "id": "1",
+      "English": "reception",
+      "Kurdish": "پرسگە",
+      "question": "پرسگە",
+      "options": ["hotel", "room", "reception", "bathroom"],
+      "correctOption": "reception",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "2",
+      "English": "room",
+      "Kurdish": "ژوور",
+      "question": "room",
+      "options": ["ژوور", "گەرماو", "پرسگە", "میوانخانە"],
+      "correctOption": "ژوور",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "3",
+      "English": "bed",
+      "Kurdish": "جێگا",
+      "image": "https://cdn-icons-png.flaticon.com/128/3305/3305970.png",
+      "options": ["hotel", "room", "bed", "bathroom"],
+      "correctOption": "bathroom",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "4",
+      "English": "bathroom",
+      "Kurdish": "گەرماو",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "5",
+      "English": "Hotel",
+      "Kurdish": "خواردن",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "6",
+      "English": "key",
+      "Kurdish": "کلیل",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "7",
+      "English": "Reservation",
+      "Kurdish": "گرتنی شوێن",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "8",
+      "English": "lobby",
+      "Kurdish": "ڕێرەو",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "9",
+      "English": "suite",
+      "Kurdish": "دەستە",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "10",
+      "English": "check-in",
+      "Kurdish": "تۆمارکردن",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "11",
+      "English": "check-out",
+      "Kurdish": "وتار",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "12",
+      "English": "bellhop",
+      "Kurdish": "بەردەستی میوانخانە",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "13",
+      "English": "maid",
+      "Kurdish": "کچە کارەکەر",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "14",
+      "English": "pillow",
+      "Kurdish": "سەرین",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "15",
+      "English": "blanket",
+      "Kurdish": "پێخەف",
+      "isMatched": false,
+      "isDisabled": false
+    }
+  ]
+
 }
