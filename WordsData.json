@@ -58,24 +58,24 @@
   ],
   
 "transportation": [
-    { "id": "1", "English": "Car", "Kurdish": "ماشین", "question": "ماشین", "options": ["car", "bus", "train", "plane"],
+    { "id": "1", "English": "Car", "Kurdish": "ئوتومبێل", "question": "ئوتومبێل", "options": ["car", "bus", "train", "plane"],
     "correctOption": "car", "isMatched": false, "isDisabled": false },
-    { "id": "2", "English": "Bus", "Kurdish": "ئۆتۆبوس","question":"Bus", "icon": "volume-medium",
+    { "id": "2", "English": "Bus", "Kurdish": "پاس","question":"Bus", "icon": "volume-medium",
     "options": ["کەشتی", "پاس", "فرۆکە", "پایسکل"],
     "correctOption": "پاس", "isMatched": false, "isDisabled": false },
-    { "id": "3", "English": "Train", "Kurdish": "ترێن", "image":"https://holalearndata.files.wordpress.com/2023/10/img_6275.jpg?w=1024","options": ["airport", "terminal", "pilot", "gate"],
+    { "id": "3", "English": "Train", "Kurdish": "شەمەندەفەر", "image":"https://www.flaticon.com/free-icon/shipping_9402120#","options": ["ئوتومبێل", "شەمەندەفەر", "فرۆکە", "پاسکیل"],
     "correctOption": "gate", "isMatched": false, "isDisabled": false },
     { "id": "4", "English": "Plane", "Kurdish": "فرۆکە", "isMatched": false, "isDisabled": false },
-    { "id": "5", "English": "Bike", "Kurdish": "دوچرخە", "isMatched": false, "isDisabled": false },
+    { "id": "5", "English": "Bike", "Kurdish": "چەرخە", "isMatched": false, "isDisabled": false },
     { "id": "6", "English": "Taxi", "Kurdish": "تاکسی", "isMatched": false, "isDisabled": false },
-    { "id": "7", "English": "Boat", "Kurdish": "قەرقەف", "isMatched": false, "isDisabled": false },
-    { "id": "8", "English": "Subway", "Kurdish": "مەترو", "isMatched": false, "isDisabled": false },
-    { "id": "9", "English": "Motorcycle", "Kurdish": "مۆتۆسایکل", "isMatched": false, "isDisabled": false },
+    { "id": "7", "English": "Boat", "Kurdish": "بەلەم", "isMatched": false, "isDisabled": false },
+    { "id": "8", "English": "Subway", "Kurdish": "میترۆ", "isMatched": false, "isDisabled": false },
+    { "id": "9", "English": "Motorcycle", "Kurdish": "ماتۆرسکیل", "isMatched": false, "isDisabled": false },
     { "id": "10", "English": "Bicycle", "Kurdish": "پایسکل", "isMatched": false, "isDisabled": false },
-    { "id": "11", "English": "Scooter", "Kurdish": "سکوتەر", "isMatched": false, "isDisabled": false },
-    { "id": "12", "English": "Truck", "Kurdish": "تراک", "isMatched": false, "isDisabled": false },
-    { "id": "13", "English": "Van", "Kurdish": "وەن", "isMatched": false, "isDisabled": false },
+    { "id": "11", "English": "Scooter", "Kurdish": "سکۆتەر", "isMatched": false, "isDisabled": false },
+    { "id": "12", "English": "Truck", "Kurdish": "بارهەڵگر", "isMatched": false, "isDisabled": false },
+    { "id": "13", "English": "skateboard", "Kurdish": "تەختەخلیسکێنە", "isMatched": false, "isDisabled": false },
     { "id": "14", "English": "Helicopter", "Kurdish": "هێلیکۆپتەر", "isMatched": false, "isDisabled": false },
-    { "id": "15", "English": "Ferry", "Kurdish": "ئیستران", "isMatched": false, "isDisabled": false }
+    { "id": "15", "English": "ship", "Kurdish": "کەشتی", "isMatched": false, "isDisabled": false }
 ]
 }
