@@ -71,7 +71,7 @@
     { "id": "7", "English": "Boat", "Kurdish": "قەرقەف", "isMatched": false, "isDisabled": false },
     { "id": "8", "English": "Subway", "Kurdish": "مەترو", "isMatched": false, "isDisabled": false },
     { "id": "9", "English": "Motorcycle", "Kurdish": "مۆتۆسایکل", "isMatched": false, "isDisabled": false },
-    { "id": "10", "English": "Bicycle", "Kurdish": "دوچرخە", "isMatched": false, "isDisabled": false },
+    { "id": "10", "English": "Bicycle", "Kurdish": "پایسکل", "isMatched": false, "isDisabled": false },
     { "id": "11", "English": "Scooter", "Kurdish": "سکوتەر", "isMatched": false, "isDisabled": false },
     { "id": "12", "English": "Truck", "Kurdish": "تراک", "isMatched": false, "isDisabled": false },
     { "id": "13", "English": "Van", "Kurdish": "وەن", "isMatched": false, "isDisabled": false },
