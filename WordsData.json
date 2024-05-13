@@ -429,9 +429,124 @@
       "isMatched": false,
       "isDisabled": false
     }
-  ]
-
+  ],
    
+"items": [
+    {
+      "id": "1",
+      "English": "desk",
+      "Kurdish": "مێز",
+      "question": "ڕاستە",
+      "options": ["chalk", "ruler", "eraser", "marker"],
+      "correctOption": "ruler",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "2",
+      "English": "chair",
+      "Kurdish": "کورسی",
+      "question": "chalk",
+      "options": ["تەختەڕەش", "نیشاندەر", "مقەست", "تەباشیر"],
+      "correctOption": "تەباشیر",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "3",
+      "English": "blackboard",
+      "Kurdish": "تەختەڕەش",
+      "image": "https://cdn-icons-png.flaticon.com/128/737/737802.png",
+      "options": ["eraser", "ruler", "chair", "glue"],
+      "correctOption": "bathroom",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "4",
+      "English": "whiteboard",
+      "Kurdish": "تەباشیر",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "5",
+      "English": "chalk",
+      "Kurdish": "تەباشیر",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "6",
+      "English": "marker",
+      "Kurdish": "نیشاندەر",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "7",
+      "English": "book",
+      "Kurdish": "کتێب",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "8",
+      "English": "notebook",
+      "Kurdish": "دەفتەر",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "9",
+      "English": "pen",
+      "Kurdish": "پێنووس",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "10",
+      "English": "calculator",
+      "Kurdish": "بژمێر",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "11",
+      "English": "eraser",
+      "Kurdish": "تەختەسڕ",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "12",
+      "English": "ruler",
+      "Kurdish": "ڕاستە",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "13",
+      "English": "scissors",
+      "Kurdish": "مقەست",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "14",
+      "English": "glue",
+      "Kurdish": "کەتیرە",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "15",
+      "English": "backpack",
+      "Kurdish": "جانتا",
+      "isMatched": false,
+      "isDisabled": false
+    }
+  ]
 
 
 
