@@ -312,7 +312,127 @@
       "isMatched": false,
       "isDisabled": false
     }
+  ],
+  
+  "School": [
+    {
+      "id": "1",
+      "English": "math",
+      "Kurdish": "بیرکاری",
+      "question": "مێژوو",
+      "options": ["history", "economic", "physic", "science"],
+      "correctOption": "history",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "2",
+      "English": "science",
+      "Kurdish": "زانست",
+      "question": "literature",
+      "options": ["زمان", "بەرگریزانی", "ئەدەب", "هونەر"],
+      "correctOption": "ئەدەب",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "3",
+      "English": "history",
+      "Kurdish": "مێژوو",
+      "image": "https://cdn-icons-png.flaticon.com/128/2970/2970785.png",
+      "options": ["language", "chemistry", "art", "economics"],
+      "correctOption": "art",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "4",
+      "English": "language",
+      "Kurdish": "زمان",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "5",
+      "English": "art",
+      "Kurdish": "هونەر",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "6",
+      "English": "music",
+      "Kurdish": "مووزیک",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "7",
+      "English": "physical education",
+      "Kurdish": "پەروەردەی وەرزش",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "8",
+      "English": "geography",
+      "Kurdish": "جوگرافیا",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "9",
+      "English": "computer",
+      "Kurdish": "کۆمپیوتەر",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "10",
+      "English": "literature",
+      "Kurdish": "ئەدەب",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "11",
+      "English": "chemistry",
+      "Kurdish": "کیمیا",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "12",
+      "English": "biology",
+      "Kurdish": "زیندەوەرزانی",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "13",
+      "English": "physics",
+      "Kurdish": "فیزیا",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "14",
+      "English": "economics",
+      "Kurdish": "ئابوری",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "15",
+      "English": "immunology",
+      "Kurdish": "بەرگریزانی",
+      "isMatched": false,
+      "isDisabled": false
+    }
   ]
+
+   
+
 
 
 }
