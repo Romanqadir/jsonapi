@@ -458,14 +458,14 @@
       "Kurdish": "تەختەڕەش",
       "image": "https://cdn-icons-png.flaticon.com/128/737/737802.png",
       "options": ["eraser", "ruler", "chair", "glue"],
-      "correctOption": "bathroom",
+      "correctOption": "glue",
       "isMatched": false,
       "isDisabled": false
     },
     {
       "id": "4",
-      "English": "whiteboard",
-      "Kurdish": "تەباشیر",
+      "English": "paper",
+      "Kurdish": "کاغەز",
       "isMatched": false,
       "isDisabled": false
     },
