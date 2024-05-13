@@ -193,6 +193,124 @@
       "isMatched": false,
       "isDisabled": false
     }
+  ],
+  
+"documents": [
+    {
+      "id": "1",
+      "English": "passport",
+      "Kurdish": "گەشتنامە",
+      "question": "ناسنامە",
+      "options": ["passport", "visa", "ticket", "ID Card"],
+      "correctOption": "ID Card",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "2",
+      "English": "visa",
+      "Kurdish": "ڤیزە",
+      "question": "insurance",
+      "options": ["بلیت", "بیمە", "ڕێپێدان", "گەشتنامە"],
+      "correctOption": "بیمە",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "3",
+      "English": "ID card",
+      "Kurdish": "ناسنامە",
+      "image": "https://cdn-icons-png.freepik.com/256/8983/8983163.png?ga=GA1.1.865323815.1697063865&semt=ais_hybrid",
+      "options": ["Credit Card", "ID Card", "Ticket", "Voucher"],
+      "correctOption": "Credit Card",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "4",
+      "English": "ticket",
+      "Kurdish": "بلیت",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "5",
+      "English": "boarding pass",
+      "Kurdish": "پسولەی چونە ناو فرۆکە",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "6",
+      "English": "insurance",
+      "Kurdish": "بیمە",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "7",
+      "English": "reservation",
+      "Kurdish": "گرتنی شوێن",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "8",
+      "English": "permit",
+      "Kurdish": "ڕێپێدان",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "9",
+      "English": "receipt",
+      "Kurdish": "پسولە",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "10",
+      "English": "itinerary",
+      "Kurdish": "بەرنامی گەشتەکە",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "11",
+      "English": "voucher",
+      "Kurdish": "سەنەد",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "12",
+      "English": "license",
+      "Kurdish": "مۆڵەت",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "13",
+      "English": "credit card",
+      "Kurdish": "کارتی بانکی",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "14",
+      "English": "currency",
+      "Kurdish": "دراو",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "15",
+      "English": "cash",
+      "Kurdish": "پارەی نەختی",
+      "isMatched": false,
+      "isDisabled": false
+    }
   ]
+
 
 }
