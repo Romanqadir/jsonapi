@@ -314,7 +314,7 @@
     }
   ],
   
-  "School": [
+  "subjects": [
     {
       "id": "1",
       "English": "math",
