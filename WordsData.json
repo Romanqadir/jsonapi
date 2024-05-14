@@ -548,7 +548,125 @@
       "isMatched": false,
       "isDisabled": false
     }
+  ],
+  
+  "activities": [
+    {
+      "id": "1",
+      "English": "learn",
+      "Kurdish": "فێربون",
+      "question": "چارەسەر",
+      "options": ["research", "write", "solve", "review"],
+      "correctOption": "solve",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "2",
+      "English": "study",
+      "Kurdish": "خوێندن",
+      "question": "practice",
+      "options": ["ڕاهێنان", "نوسین", "پێشکەشکردن", "توێژینەوە"],
+      "correctOption": "ڕاهێنان",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "3",
+      "English": "read",
+      "Kurdish": "خوێندنەوە",
+      "image": "https://img.freepik.com/free-vector/business-vision-concept-illustration_114360-7210.jpg?t=st=1715728937~exp=1715732537~hmac=58d2302cb9f3c1e4afb3844b82c0bd20250654235a4257bf919fc9ecebf316a2&w=1060",
+      "options": ["read", "practive", "discover", "test"],
+      "correctOption": "discover",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "4",
+      "English": "write",
+      "Kurdish": "نوسین",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "5",
+      "English": "listen",
+      "Kurdish": "گوێگرتن",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "6",
+      "English": "speak",
+      "Kurdish": "قسەکردن",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "7",
+      "English": "solve",
+      "Kurdish": "چارەسەر",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "8",
+      "English": "research",
+      "Kurdish": "توێژینەوە",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "9",
+      "English": "Discover",
+      "Kurdish": "دۆزینەوە",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "10",
+      "English": "presentation",
+      "Kurdish": "پێشکەشکردن",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "11",
+      "English": "practice",
+      "Kurdish": "ڕاهێنان",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "12",
+      "English": "review",
+      "Kurdish": "پێداچونەوە",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "13",
+      "English": "test",
+      "Kurdish": "تاقیکردنەوە",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "14",
+      "English": "homework",
+      "Kurdish": "ئەرکی ماڵەوە",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "15",
+      "English": "Develop",
+      "Kurdish": "پەرەپێدان",
+      "isMatched": false,
+      "isDisabled": false
+    }
   ]
+
 
 
 
