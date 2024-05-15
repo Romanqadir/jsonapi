@@ -19,7 +19,35 @@
   "id":"4",
   "image":"https://cdn-icons-png.flaticon.com/128/3187/3187927.png",
   "text":"documents"
+} ,
+         { 
+  "id":"5",
+  "image":"https://cdn-icons-png.flaticon.com/512/5388/5388800.png",
+  "text":"Emergencies"
+} ,
+         { 
+  "id":"6",
+  "image":"https://cdn-icons-png.flaticon.com/512/3845/3845731.png",
+  "text":"Weather"
+} ,
+      { 
+  "id":"7",
+  "image":"https://cdn-icons-png.flaticon.com/512/2784/2784459.png",
+  "text":"Time"
+} ,
+         { 
+  "id":"8",
+  "image":"https://cdn-icons-png.flaticon.com/512/2515/2515263.png",
+  "text":"Foods"
+} ,
+         { 
+  "id":"9",
+  "image":"https://cdn-icons-png.flaticon.com/512/2667/2667339.png",
+  "text":"Attraction"
 } 
+     
+
+    
     
   ],
   "School":[
