@@ -665,7 +665,125 @@
       "isMatched": false,
       "isDisabled": false
     }
+  ],
+  
+"navigation": [
+    {
+      "id": "1",
+      "English": "map",
+      "Kurdish": "نەخشە",
+      "question": "قیبلەنما",
+      "options": ["direction", "GPS", "compass", "sign"],
+      "correctOption": "compass",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "2",
+      "English": "directions",
+      "Kurdish": "ئاراستەکان",
+      "question": "landmark",
+      "options": ["ڕێگا", "سنورنما", "ئاراستەکان", "نەخشە"],
+      "correctOption": "سنورنما",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "3",
+      "English": "sign",
+      "Kurdish": "نیشانە",
+      "image": "https://img.freepik.com/free-vector/woman-looking-map-local-tourism-concept_23-2148589669.jpg?t=st=1715735582~exp=1715739182~hmac=d3d935ea57d804a2da3b087ee494bbe0a694592a61b4a4aad61a788e261337c9&w=1060",
+      "options": ["direction", "map", "route", "intersection"],
+      "correctOption": "bathroom",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "4",
+      "English": "street",
+      "Kurdish": "شەقام",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "5",
+      "English": "road",
+      "Kurdish": "ڕێگا",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "6",
+      "English": "intersection",
+      "Kurdish": "یەکتربڕ",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "7",
+      "English": "traffic light",
+      "Kurdish": "ڕناکی هاتوچۆ",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "8",
+      "English": "GPS",
+      "Kurdish": "شوێن پێهەڵگر",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "9",
+      "English": "compass",
+      "Kurdish": "قیبلەنما",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "10",
+      "English": "guidebook",
+      "Kurdish": "کتێبی ڕێنمایی",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "11",
+      "English": "landmark",
+      "Kurdish": "سنورنما",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "12",
+      "English": "tourist information",
+      "Kurdish": "زانیاری گەشتیاری",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "13",
+      "English": "route",
+      "Kurdish": "ڕێرەو",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "14",
+      "English": "destination",
+      "Kurdish": "ئامانج",
+      "isMatched": false,
+      "isDisabled": false
+    },
+    {
+      "id": "15",
+      "English": "KM",
+      "Kurdish": "كیلۆ مەتر",
+      "isMatched": false,
+      "isDisabled": false
+    }
   ]
+
 
 
 
