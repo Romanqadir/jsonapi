@@ -694,7 +694,7 @@
       "Kurdish": "نیشانە",
       "image": "https://img.freepik.com/free-vector/woman-looking-map-local-tourism-concept_23-2148589669.jpg?t=st=1715735582~exp=1715739182~hmac=d3d935ea57d804a2da3b087ee494bbe0a694592a61b4a4aad61a788e261337c9&w=1060",
       "options": ["direction", "map", "route", "intersection"],
-      "correctOption": "bathroom",
+      "correctOption": "map",
       "isMatched": false,
       "isDisabled": false
     },
