@@ -65,6 +65,36 @@
   "id":"3",
   "image":"https://cdn-icons-png.flaticon.com/512/5388/5388800.png",
   "text":"activities"
+} ,
+    { 
+  "id":"4",
+  "image":"https://cdn-icons-png.flaticon.com/512/7829/7829198.png",
+  "text":"People"
+},
+   { 
+  "id":"5",
+  "image":"https://cdn-icons-png.flaticon.com/512/12109/12109171.png",
+  "text":"Location"
+} ,
+     { 
+  "id":"6",
+  "image":"https://cdn-icons-png.flaticon.com/512/1207/1207222.png",
+  "text":"Materials"
+},
+        { 
+  "id":"7",
+  "image":"https://cdn-icons-png.flaticon.com/512/9732/9732828.png",
+  "text":"Evaluation"
+},
+   { 
+  "id":"8",
+  "image":"https://cdn-icons-png.flaticon.com/512/3269/3269019.png",
+  "text":"Events"
+} ,
+     { 
+  "id":"9",
+  "image":"https://cdn-icons-png.flaticon.com/512/4143/4143089.png",
+  "text":"Feelings"
 } 
   ]
 
