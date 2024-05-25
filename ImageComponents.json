@@ -148,6 +148,58 @@
   "image":"https://cdn-icons-png.flaticon.com/512/2966/2966486.png",
   "text":"Healthcare"
 } 
+  ],
+   "Jobs":[
+{ 
+  "id":"1",
+  "image":"https://cdn-icons-png.flaticon.com/512/11231/11231532.png",
+  "text":"Professions"
+},
+   { 
+  "id":"2",
+  "image":"https://cdn-icons-png.flaticon.com/512/4052/4052262.png",
+  "text":"Workplace"
+} ,
+     { 
+  "id":"3",
+  "image":"https://cdn-icons-png.flaticon.com/512/4052/4052262.png",
+  "text":"Tools"
+} ,
+    { 
+  "id":"4",
+  "image":"https://cdn-icons-png.flaticon.com/512/1632/1632670.png",
+  "text":"Task"
+},
+   { 
+  "id":"5",
+  "image":"https://cdn-icons-png.flaticon.com/512/9166/9166953.png",
+  "text":"Skills"
+} ,
+     { 
+  "id":"6",
+  "image":"https://cdn-icons-png.flaticon.com/512/5258/5258164.png",
+  "text":"Uniforms"
+},
+        { 
+  "id":"7",
+  "image":"https://cdn-icons-png.flaticon.com/512/3264/3264753.png",
+  "text":"Work Hours"
+},
+   { 
+  "id":"8",
+  "image":"https://cdn-icons-png.flaticon.com/512/8983/8983163.png",
+  "text":"Payment"
+} ,
+     { 
+  "id":"9",
+  "image":"https://cdn-icons-png.flaticon.com/512/4319/4319219.png",
+  "text":"Job Search"
+} ,
+      { 
+  "id":"10",
+  "image":"https://cdn-icons-png.flaticon.com/512/476/476863.png",
+  "text":"Relations"
+} 
   ]
 
 }
