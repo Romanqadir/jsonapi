@@ -96,6 +96,58 @@
   "image":"https://cdn-icons-png.flaticon.com/512/4143/4143089.png",
   "text":"Feelings"
 } 
+  ],
+   "Hospital":[
+{ 
+  "id":"1",
+  "image":"https://cdn-icons-png.flaticon.com/512/881/881760.png",
+  "text":"Staff"
+},
+   { 
+  "id":"2",
+  "image":"https://cdn-icons-png.flaticon.com/512/3088/3088058.png",
+  "text":"Facilities"
+} ,
+     { 
+  "id":"3",
+  "image":"https://cdn-icons-png.flaticon.com/512/9732/9732613.png",
+  "text":"Equipments"
+} ,
+    { 
+  "id":"4",
+  "image":"https://cdn-icons-png.flaticon.com/512/5154/5154953.png",
+  "text":"Conditions"
+},
+   { 
+  "id":"5",
+  "image":"https://cdn-icons-png.flaticon.com/512/1546/1546140.png",
+  "text":"Medications"
+} ,
+     { 
+  "id":"6",
+  "image":"https://cdn-icons-png.flaticon.com/512/12370/12370103.png",
+  "text":"Treatment"
+},
+        { 
+  "id":"7",
+  "image":"https://cdn-icons-png.flaticon.com/512/5527/5527996.png",
+  "text":"Diagnose"
+},
+   { 
+  "id":"8",
+  "image":"https://cdn-icons-png.flaticon.com/512/3470/3470366.png",
+  "text":"Symptoms"
+} ,
+     { 
+  "id":"9",
+  "image":"https://cdn-icons-png.flaticon.com/512/2785/2785693.png",
+  "text":"Emergency"
+} ,
+      { 
+  "id":"10",
+  "image":"https://cdn-icons-png.flaticon.com/512/2966/2966486.png",
+  "text":"Healthcare"
+} 
   ]
 
 }
