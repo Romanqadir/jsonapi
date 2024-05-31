@@ -69,9 +69,9 @@
 "Intermediate":[
 { 
   "id":"1",
-  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story4.jpg?raw=true",
-  "english":"stop dreaming and start doing",
- "kurdish":"واز لە خەون بینین بێنە و دەست بکە بە ئەنجامدانی"
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/stories/soul.jpg?raw=true",
+  "english":"Soul",
+ "kurdish":"ڕۆح"
 },
    { 
   "id":"2",
@@ -90,6 +90,12 @@
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story9.jpg?raw=true",
   "english":"when we first met",
  "kurdish":"کاتێک بۆ یەکەمجار یەکترمان ناسی"
+} ,
+    { 
+  "id":"5",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/stories/sword.jpg?raw=true",
+  "english":"Sword",
+ "kurdish":"شمشێر"
 } 
   ]
 
