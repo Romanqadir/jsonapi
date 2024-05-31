@@ -23,7 +23,21 @@
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/stories/eagle.jpg?raw=true",
   "english":"Eagle",
  "kurdish":"هەڵۆ"
+} ,
+      { 
+  "id":"5",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/stories/science.jpg?raw=true",
+  "english":"Science",
+ "kurdish":"زانست"
+} ,
+      { 
+  "id":"6",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/stories/silence.jpg?raw=true",
+  "english":"silence",
+ "kurdish":"بێدەنگی"
 } 
+    
+    
     
   ],
   "Advanced":[
