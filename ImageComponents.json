@@ -2,17 +2,17 @@
   "Travel":[
 { 
   "id":"1",
-  "image":"https://cdn-icons-png.flaticon.com/128/995/995297.png",
+  "image":"https://cdn-icons-png.flaticon.com/512/609/609361.png",
   "text":"transportation"
 },
    { 
   "id":"2",
-  "image":"https://cdn-icons-png.flaticon.com/128/2946/2946766.png",
+  "image":"https://cdn-icons-png.flaticon.com/512/11943/11943994.png",
   "text":"accommodation"
 } ,
      { 
   "id":"3",
-  "image":"https://cdn-icons-png.flaticon.com/128/1673/1673213.png",
+  "image":"https://cdn-icons-png.flaticon.com/512/3437/3437195.png",
   "text":"navigation"
 } ,
       { 
@@ -53,12 +53,12 @@
   "School":[
 { 
   "id":"1",
-  "image":"https://cdn-icons-png.flaticon.com/128/4430/4430487.png",
+  "image":"https://cdn-icons-png.flaticon.com/512/3389/3389081.png",
   "text":"subjects"
 },
    { 
   "id":"2",
-  "image":"https://cdn-icons-png.flaticon.com/128/6806/6806028.png",
+  "image":"https://cdn-icons-png.flaticon.com/512/11631/11631072.png",
   "text":"items"
 } ,
      { 
