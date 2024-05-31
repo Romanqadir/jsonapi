@@ -12,11 +12,11 @@
     "english":"Sunflower Magic",
  "kurdish":"سیحری گوڵەبەڕۆژە"
 } ,
-     { 
+           { 
   "id":"3",
-  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/stories/alone.jpg?raw=true",
-  "english":"Alone",
- "kurdish":"بەتەنهایی"
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/stories/treasure.jpg?raw=true",
+  "english":"Treasure",
+ "kurdish":"گەنجینە"
 } ,
      { 
   "id":"4",
@@ -35,8 +35,13 @@
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/stories/silence.jpg?raw=true",
   "english":"silence",
  "kurdish":"بێدەنگی"
+} ,
+  { 
+  "id":"7",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/stories/alone.jpg?raw=true",
+  "english":"Alone",
+ "kurdish":"بەتەنهایی"
 } 
-    
     
     
   ],
@@ -49,21 +54,33 @@
 },
    { 
   "id":"2",
-  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story2.jpg?raw=true",
-  "english":"following the right path",
- "kurdish":"پەیڕەوکردنی ڕێگای ڕاست"
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/stories/thecity.jpg?raw=true",
+  "english":"The City",
+ "kurdish":"شارەکە"
 } ,
      { 
   "id":"3",
-  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story3.jpg?raw=true",
-   "english":"whispers of the heart",
- "kurdish":"چرپەی دڵ"
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/stories/theheart.jpg?raw=true",
+   "english":"The heart",
+ "kurdish":"دڵ"
 } ,
      { 
   "id":"4",
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/story8.jpg?raw=true",
   "english":"mindfulness",
  "kurdish":"وردبینی"
+} ,
+        { 
+  "id":"5",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/stories/thejourney.jpg?raw=true",
+  "english":"The Journey",
+ "kurdish":"گەشتەکە"
+} ,
+        { 
+  "id":"6",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/stories/thread.jpg?raw=true",
+  "english":"Thread",
+ "kurdish":"دەزوو"
 } 
   ],
 "Intermediate":[
@@ -96,6 +113,12 @@
   "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/stories/sword.jpg?raw=true",
   "english":"Sword",
  "kurdish":"شمشێر"
+} ,
+      { 
+  "id":"6",
+  "image":"https://github.com/Romanqadir/jsonapi/blob/gh-pages/storyimages/stories/time.jpg?raw=true",
+  "english":"Time",
+ "kurdish":"کات"
 } 
   ]
 
