@@ -1,165 +1,166 @@
 {
-    "TheLost":
-    [
-    {
-          "id":"1",
-          "english":"In a small town surrounded by towering mountains, there lived a young woman named Lily who loved to explore the outdoors. One sunny Saturday morning, she decided to go on a hike alone. She packed some snacks, water, and a map, then set off into the wilderness.",
-          "kurdish":"لە شارۆچکەیەکی بچووکدا کە بە شاخەکانی بەرز دەورە دراوە، ژنێکی گەنج بە ناوی لیلی دەژیا کە زۆر حەزی لە گەڕان بوو بۆ دەرەوە. بەیانییەکی شەممەی خۆرەتاو، بڕیاریدا بە تەنیا بچێتە بۆ گەشتێک. هەندێک خواردنی کەم و ئاو و نەخشەیەکی کۆکردەوە، پاشان بەرەو بیابانەکە ڕۆیشت."
-        },
-        {
-             "id":"2",
-          "english":"As Lily wandered along the forest trails, marveling at the beauty of nature, she took a wrong turn. The path she followed grew narrower and more overgrown until she couldn't see the main trail anymore. Panic crept into her heart as she realized she was lost.",
-          "kurdish":"لە کاتێکدا لیلی بە درێژایی ڕێڕەوی دارستانەکاندا دەسوڕایەوە و سەرسام بوو بە جوانی سروشت، ڕێرەوێکی هەڵەی گرتەبەر. ئەو ڕێگایەی کە پێیدا دەڕۆیشت تەسکتر و درێژتر دەبووەوە تا ئیتر نەیدەتوانی ڕێڕەوی سەرەکی بدۆزێتەوە. ترس و دڵەڕاوکێ هاتە ناو دڵیەوە کاتێک زانی کە ون بووە."
-        },
-        {
-             "id":"3",
-          "english":"Meanwhile, back in town, Lily's family grew worried when she didn't return home by nightfall. They alerted the local authorities, who organized a search party to find her.",
-          "kurdish":"لەم نێوەندەدا، لە شارۆچکەکەدا، خێزانی لیلی نیگەران بوون کاتێک لیلی تا شەو نەگەڕایەوە ماڵەوە. بەرپرسانی ناوچەکەیان ئاگادار کردەوە و ئەوانیش هەڵمەتێکی گەڕانیان ڕێکخست بۆ دۆزینەوەی ئەو کچە."
-        },
-        {
-             "id":"4",
-          "english":"As the sun began to set, Lily stumbled upon a small clearing. Exhausted and afraid, she sat down on a fallen log and hugged her knees to her chest. Tears welled up in her eyes as she wondered if she would ever make it back home.",
-          "kurdish":"کاتێک خۆر دەستی کرد بە ئاوابوون، لیلی بە کۆسپەوە کەوتە سەر شوێنێکی پاک و خاوێنی بچووک. بە ماندووبوون و ترسەوە لەسەر دارێکی کەوتوو دانیشت و ئەژنۆکانی بە سنگیەوە لە باوەش گرتبوو. فرمێسک لە چاوەکانیدا ڕژا کاتێک نیگەرانی ئەوەبوو ئایا هەرگیز دەتوانێت بگەڕێتەوە ماڵ"
-        },
-        {
-            "id":"5",
-          "english":"Just when Lily thought all hope was lost, she heard voices in the distance. The search party had found her! They rushed to her side, wrapping her in blankets and comforting words. Lily felt a surge of relief knowing she wasn't alone anymore.",
-          "kurdish":"هەر لەو کاتەی کە لیلی پێی وابوو هەموو هیوایەک لەدەستچووە، لە دوورەوە گوێی لە چەند دەنگێک بوو. دەستەی گەڕانەکە ئەویان دۆزیەوە! بە خێرایی هاتنە لای و بە بەتانی گەرم دایانپۆشی. بە میهرەبانی قسەیان لەگەڵ کرد، وایان لێکرد هەست بە باشتر بوون بکات.. لیلی هەستی بە  ئاسوودەیی کرد کە دەیزانی ئیتر تەنیا نییە."
-        },
-        {
-            "id":"6",
-          "english":"The search team helped Lily find her way back home. She hugged her family tight, happy to be back with them. After that, Lily made sure to follow the trails when hiking, so she wouldn't get lost again. She didn't want to feel scared like that anymore.",
-          "kurdish":"تیمی گەڕانەکە یارمەتی لیلییان دا ڕێگەی گەڕانەوەی بۆ ماڵەوە بدۆزێتەوە. خێزانەکەی بە توندی لە باوەش گرت، دڵخۆش بوو کە لەگەڵیان گەڕاوەتەوە. دوای ئەوە لیلی دڵنیا بوو لەوەی لەکاتی گەشتکردن بە پێدا شوێن ڕێڕەوەکان بکەوێت، بۆ ئەوەی جارێکی تر ون نەبێتەوە. ئیتر نەیدەویست هەست بەو ترسە بکاتەوە."
-        }
-    ],
-          "SunflowerMagic":
-    [
-    {
-          "id":"1",
-          "english":"Once upon a time, in a peaceful village, there lived a kind-hearted girl named Lily. She loved flowers, especially sunflowers. Every morning, Lily walked to the meadow, where golden sunflowers reached towards the sky. She believed they held magical powers.",
-          "kurdish":"سەردەمانێک لە گوندێکی ئارامدا کچێکی دڵسۆز بە ناوی لیلی دەژیا. ئەو کچە گوڵی خۆشدەویست، بە تایبەت گوڵەبەڕۆژە. هەموو بەیانیەک لیلی بەرەو چۆڵەوانی دەڕۆیشت، لەوێ گوڵەبەڕۆژەی زێڕین دەستیان بەرەو ئاسمان دەبرد. ئەو پێی وابوو کە ئەوان دەسەڵاتی سیحراوییان هەیە."
-        },
-        {
-             "id":"2",
-          "english":"One sunny day, while wandering in the meadow, Lily found a small, scared bird with a broken wing. She gently picked it up and decided to help it. Back at home, Lily made a cozy nest and cared for the bird daily. She fed it, sang to it, and talked to it in soft, sweet words.",
-          "kurdish":"ڕۆژێکی خۆرگیران، لەکاتی سەرگەردانی لە چۆڵەوانیدا، لیلی باڵندەیەکی بچووک و ترساوی دۆزیەوە کە باڵێکی شکاوە. بە نەرمی هەڵیگرت و بڕیاریدا یارمەتی بدات. لە ماڵەوە، لیلی هێلانەیەکی ئارام دروست کرد و ڕۆژانە چاودێری باڵندەکەی دەکرد. خواردنی پێدەدا و گۆرانی بۆ دەگوت و بە وشەی نەرم و شیرین قسەی لەگەڵ دەکرد."
-        },
-        {
-             "id":"3",
-          "english":"Days passed, and the bird's wing healed. Lily knew it was time to let her feathered friend fly free. She felt sad but also happy, knowing she had helped.",
-          "kurdish":"ڕۆژان تێپەڕی و باڵی باڵندەکە چاک بووەوە. لیلی دەیزانی کاتی ئەوە هاتووە هاوڕێ پەڕدارەکەی بە ئازادی بفڕێت. هەستی بە دڵتەنگی کرد بەڵام هەستی بە دڵخۆشی کرد، دەیزانی یارمەتی داوە."
-        },
-        {
-             "id":"4",
-          "english":"On the morning she released the bird, something wonderful happened. As the bird flew away, it circled above Lily, chirping joyfully. Suddenly, the sunflowers in the meadow started glowing brightly, more radiant than ever before. Lily felt a warm, magical feeling in her heart.",
-          "kurdish":"ئەو بەیانییەی باڵندەکەی ئازاد کرد، شتێکی نایاب ڕوویدا. لەگەڵ فڕینی باڵندەکە، بەسەر لیلیدا دەسوڕایەوە و بە خۆشییەوە چرپەی دەکرد. لەناکاو گوڵەبەڕۆژەی ناو چۆڵەوانییەکە بە گەشاوەیی دەستیان کرد بە درەوشاوەیی، لە جاران زیاتر درەوشاوەتر بوون. لیلی هەستی بە هەستێکی گەرم و ئەفسوناوی لە دڵیدا کرد."
-        },
-        {
-            "id":"5",
-          "english":"The villagers said it was Lily's kindness that made the sunflowers shine so brightly. From that day, the meadow became a magical place for everyone, reminding them of the power of kindness and love. And Lily, with her caring heart, was the happiest of all.",
-          "kurdish":"خەڵکی گوندەکە دەیانگوت ئەوە میهرەبانی لیلی بووە کە وایکردووە گوڵەبەڕۆژەکان ئەوەندە گەشاوە بدرەوشێنەوە. لەو ڕۆژەوە چۆڵەوانی بوو بە شوێنێکی ئەفسوناوی بۆ هەمووان، هێزی میهرەبانی و خۆشەویستییان بیردەخستەوە. وە لیلی بە دڵە خەمخۆرەکەیەوە لە هەموویان دڵخۆشترین بوو."
-        }
-    ],
-           "Treasure":
-    [
-    {
+  "TheLost":
+  [
+  {
         "id":"1",
-        "english":"Once upon a time, there was a young boy named Tom. Tom loved adventures. One day, he found an old map in his attic. The map showed the way to a hidden treasure.",
-        "kurdish":"جارێک کوڕێکی گەنج هەبوو بە ناوی تۆم. تۆم زۆر حەزی لە سەرکەشی بوو. ڕۆژێک لە ژێرزەمینەکەیدا نەخشەیەکی کۆنی دۆزیەوە. نەخشەکە ڕێگای گەنجینەیەکی شاراوەی نیشان دەدا"
-  },
+        "english":"In a small town surrounded by towering mountains, there lived a young woman named Lily who loved to explore the outdoors. One sunny Saturday morning, she decided to go on a hike alone. She packed some snacks, water, and a map, then set off into the wilderness.",
+        "kurdish":"لە شارۆچکەیەکی بچووکدا کە بە شاخەکانی بەرز دەورە دراوە، ژنێکی گەنج بە ناوی لیلی دەژیا کە زۆر حەزی لە گەڕان بوو بۆ دەرەوە. بەیانییەکی شەممەی خۆرەتاو، بڕیاریدا بە تەنیا بچێتە بۆ گەشتێک. هەندێک خواردنی کەم و ئاو و نەخشەیەکی کۆکردەوە، پاشان بەرەو بیابانەکە ڕۆیشت."
+      },
       {
            "id":"2",
-        "english":"Tom was very excited. He packed some food, a flashlight, and a small shovel. He started his journey early in the morning.",
-        "kurdish":"تۆم زۆر پەرۆش بوو هەندێک خواردن و چرایەکی دەستی و خاکەنازێکی بچووکی کۆکردەوە. بەیانی زوو دەستی بە گەشتەکەی کرد"
+        "english":"As Lily wandered along the forest trails, marveling at the beauty of nature, she took a wrong turn. The path she followed grew narrower and more overgrown until she couldn't see the main trail anymore. Panic crept into her heart as she realized she was lost.",
+        "kurdish":"لە کاتێکدا لیلی بە درێژایی ڕێڕەوی دارستانەکاندا دەسوڕایەوە و سەرسام بوو بە جوانی سروشت، ڕێرەوێکی هەڵەی گرتەبەر. ئەو ڕێگایەی کە پێیدا دەڕۆیشت تەسکتر و درێژتر دەبووەوە تا ئیتر نەیدەتوانی ڕێڕەوی سەرەکی بدۆزێتەوە. ترس و دڵەڕاوکێ هاتە ناو دڵیەوە کاتێک زانی کە ون بووە."
       },
       {
            "id":"3",
-        "english":"After a long walk, Tom found a big rock with an X marked on it. He knew this was the spot. He took out his shovel and started digging.",
-        "kurdish":"دوای ڕۆیشتنێکی زۆر تۆم بەردێکی گەورەی دۆزیەوە کە هێمایەکی  لەسەر بوو  دەیزانی ئەمە نیشانەکەیە. خاکەنازەکەی دەرهێنا و دەستی کرد بە هەڵکەندن"
+        "english":"Meanwhile, back in town, Lily's family grew worried when she didn't return home by nightfall. They alerted the local authorities, who organized a search party to find her.",
+        "kurdish":"لەم نێوەندەدا، لە شارۆچکەکەدا، خێزانی لیلی نیگەران بوون کاتێک لیلی تا شەو نەگەڕایەوە ماڵەوە. بەرپرسانی ناوچەکەیان ئاگادار کردەوە و ئەوانیش هەڵمەتێکی گەڕانیان ڕێکخست بۆ دۆزینەوەی ئەو کچە."
       },
       {
            "id":"4",
-        "english":"After digging for a while, Tom found a small box. He opened the box and saw shiny gold coins and beautiful jewels. Tom was very happy.",
-        "kurdish":"دوای ماوەیەک لە هەڵکەندن  ، تۆم سندوقێکی بچووکی دۆزیەوە. سندوقەکەی کردەوە و دراوی زێڕی بریقەدار و گەوهەرە جوانەکانی بینی. تۆم زۆر دڵخۆش بوو."
+        "english":"As the sun began to set, Lily stumbled upon a small clearing. Exhausted and afraid, she sat down on a fallen log and hugged her knees to her chest. Tears welled up in her eyes as she wondered if she would ever make it back home.",
+        "kurdish":"کاتێک خۆر دەستی کرد بە ئاوابوون، لیلی بە کۆسپەوە کەوتە سەر شوێنێکی پاک و خاوێنی بچووک. بە ماندووبوون و ترسەوە لەسەر دارێکی کەوتوو دانیشت و ئەژنۆکانی بە سنگیەوە لە باوەش گرتبوو. فرمێسک لە چاوەکانیدا ڕژا کاتێک نیگەرانی ئەوەبوو ئایا هەرگیز دەتوانێت بگەڕێتەوە ماڵ"
       },
       {
           "id":"5",
-        "english":"Tom took the treasure and went back home. He showed the treasure to his parents. They were very proud of him",
-        "kurdish":"تۆم گەنجینەکەی برد و گەڕایەوە ماڵەوە.گەنجینەکەی پیشانی دایک و باوکی دا. زۆر شانازییان پێوە دەکرد"
+        "english":"Just when Lily thought all hope was lost, she heard voices in the distance. The search party had found her! They rushed to her side, wrapping her in blankets and comforting words. Lily felt a surge of relief knowing she wasn't alone anymore.",
+        "kurdish":"هەر لەو کاتەی کە لیلی پێی وابوو هەموو هیوایەک لەدەستچووە، لە دوورەوە گوێی لە چەند دەنگێک بوو. دەستەی گەڕانەکە ئەویان دۆزیەوە! بە خێرایی هاتنە لای و بە بەتانی گەرم دایانپۆشی. بە میهرەبانی قسەیان لەگەڵ کرد، وایان لێکرد هەست بە باشتر بوون بکات.. لیلی هەستی بە  ئاسوودەیی کرد کە دەیزانی ئیتر تەنیا نییە."
       },
-        {
+      {
           "id":"6",
-        "english":"Tom learned that** being brave and following his dreams can lead to great rewards. From that day on, Tom always kept the treasure box as a reminder of his adventure, He continued to explore**, always looking for new adventures and treasures.",
-        "kurdish":"تۆم فێربوو کە ئازا بوون و شوێنکەوتنی خەونەکانی دەتوانێت پاداشتی گەورەی لێبکەوێتەوە. لەو ڕۆژەوە تۆم هەمیشە سندوقی گەنجینەکانی وەک بیرهێنانەوەی سەرکەشیەکەی دەهێشتەوە. بەردەوام بوو لە گەڕان، هەمیشە بەدوای سەرکەشی  و گەنجینەی نوێدا دەگەڕا"
+        "english":"The search team helped Lily find her way back home. She hugged her family tight, happy to be back with them. After that, Lily made sure to follow the trails when hiking, so she wouldn't get lost again. She didn't want to feel scared like that anymore.",
+        "kurdish":"تیمی گەڕانەکە یارمەتی لیلییان دا ڕێگەی گەڕانەوەی بۆ ماڵەوە بدۆزێتەوە. خێزانەکەی بە توندی لە باوەش گرت، دڵخۆش بوو کە لەگەڵیان گەڕاوەتەوە. دوای ئەوە لیلی دڵنیا بوو لەوەی لەکاتی گەشتکردن بە پێدا شوێن ڕێڕەوەکان بکەوێت، بۆ ئەوەی جارێکی تر ون نەبێتەوە. ئیتر نەیدەویست هەست بەو ترسە بکاتەوە."
       }
-  
-    ],
-     "Eagle":
-    [
-    {
+  ],
+        "SunflowerMagic":
+  [
+  {
         "id":"1",
-        "english":"Once upon a time there was a brave eagle named Eddie. Eddie lived in a tall tree on a big mountain. Every day, Eddie flew high in the sky, looking for food.",
-        "kurdish":"سەردەمانێک هەڵۆیەکی ئازا هەبوو بە ناوی ئێدی. ئیدی لەسەر دارێکی بەرزدا لەسەر شاخێکی گەورە دەژیا. ئیدی هەموو ڕۆژێک بە بەرزایی ئاسمان دەفڕی و بەدوای خواردندا دەگەڕا"
-  },
+        "english":"Once upon a time, in a peaceful village, there lived a kind-hearted girl named Lily. She loved flowers, especially sunflowers. Every morning, Lily walked to the meadow, where golden sunflowers reached towards the sky. She believed they held magical powers.",
+        "kurdish":"سەردەمانێک لە گوندێکی ئارامدا کچێکی دڵسۆز بە ناوی لیلی دەژیا. ئەو کچە گوڵی خۆشدەویست، بە تایبەت گوڵەبەڕۆژە. هەموو بەیانیەک لیلی بەرەو چۆڵەوانی دەڕۆیشت، لەوێ گوڵەبەڕۆژەی زێڕین دەستیان بەرەو ئاسمان دەبرد. ئەو پێی وابوو کە ئەوان دەسەڵاتی سیحراوییان هەیە."
+      },
       {
            "id":"2",
-        "english":"One sunny morning Eddie saw a little rabbit in a field. He flew down quickly and caught the rabbit. Eddie was very happy because he had found a big meal",
-        "kurdish":"بەیانییەکی خۆرەتاو ئێدی لە کێڵگەیەکدا کەروێشکێکی بچووکی بینی. خێرا فڕی بۆ خوارەوە و کەروێشکەکەی گرت. ئیدی زۆر دڵخۆش بوو چونکە ژەمێکی گەورەی دۆزیبووەوە"
+        "english":"One sunny day, while wandering in the meadow, Lily found a small, scared bird with a broken wing. She gently picked it up and decided to help it. Back at home, Lily made a cozy nest and cared for the bird daily. She fed it, sang to it, and talked to it in soft, sweet words.",
+        "kurdish":"ڕۆژێکی خۆرگیران، لەکاتی سەرگەردانی لە چۆڵەوانیدا، لیلی باڵندەیەکی بچووک و ترساوی دۆزیەوە کە باڵێکی شکاوە. بە نەرمی هەڵیگرت و بڕیاریدا یارمەتی بدات. لە ماڵەوە، لیلی هێلانەیەکی ئارام دروست کرد و ڕۆژانە چاودێری باڵندەکەی دەکرد. خواردنی پێدەدا و گۆرانی بۆ دەگوت و بە وشەی نەرم و شیرین قسەی لەگەڵ دەکرد."
       },
       {
            "id":"3",
-        "english":"Eddie was not only brave but he was also kind. He had a friend, a small bird named Bella. Bella was very small and could not find food easily. Eddie always shared his food with Bella",
-        "kurdish":"ئیدی نەک هەر ئازا بوو بەڵکو میهرەبانیش بوو. هاوڕێیەکی هەبوو، باڵندەیەکی بچووک بوو بە ناوی بێلا. بێلا زۆر بچووک بوو و بە ئاسانی خواردنی نەدەدۆزیەوە. ئیدی هەمیشە خواردنەکانی لەگەڵ بێلا دابەش دەکرد"
+        "english":"Days passed, and the bird's wing healed. Lily knew it was time to let her feathered friend fly free. She felt sad but also happy, knowing she had helped.",
+        "kurdish":"ڕۆژان تێپەڕی و باڵی باڵندەکە چاک بووەوە. لیلی دەیزانی کاتی ئەوە هاتووە هاوڕێ پەڕدارەکەی بە ئازادی بفڕێت. هەستی بە دڵتەنگی کرد بەڵام هەستی بە دڵخۆشی کرد، دەیزانی یارمەتی داوە."
       },
       {
            "id":"4",
-        "english":"One day a strong storm came. The wind was very strong, and it started to rain heavily. Eddie and Bella took shelter in their tree. They were scared, but they stayed close together.",
-        "kurdish":"ڕۆژێک زریانێکی گەورە هات. با زۆر بەهێز بوو، بارانێکی زۆر دەستی پێکرد. ئیدی و بێلا لەناو دارەکەیاندا خۆیان شاردەوە و ترسابون، بەڵام لە نزیک یەکتر مانەوە."
+        "english":"On the morning she released the bird, something wonderful happened. As the bird flew away, it circled above Lily, chirping joyfully. Suddenly, the sunflowers in the meadow started glowing brightly, more radiant than ever before. Lily felt a warm, magical feeling in her heart.",
+        "kurdish":"ئەو بەیانییەی باڵندەکەی ئازاد کرد، شتێکی نایاب ڕوویدا. لەگەڵ فڕینی باڵندەکە، بەسەر لیلیدا دەسوڕایەوە و بە خۆشییەوە چرپەی دەکرد. لەناکاو گوڵەبەڕۆژەی ناو چۆڵەوانییەکە بە گەشاوەیی دەستیان کرد بە درەوشاوەیی، لە جاران زیاتر درەوشاوەتر بوون. لیلی هەستی بە هەستێکی گەرم و ئەفسوناوی لە دڵیدا کرد."
       },
       {
           "id":"5",
-        "english":"After the storm Eddie and Bella saw a rainbow in the sky. It was beautiful. They were happy the storm was over",
-        "kurdish":"دوای زریانەکە ئیدی و بێلا پەلکەزێرینەیەکی جوانیان لە ئاسمان بینی.  دڵخۆش بوون کە زریانەکە کۆتایی هات"
-      },
-        {
-          "id":"6",
-        "english":"From that day on Eddie and Bella continued to help each other. Eddie learned that being brave and kind made him a great eagle. Bella was grateful for her friend Eddie.They lived happily together flying in the sky and enjoying their friendship.",
-        "kurdish":"لەو ڕۆژەوە ئیدی و بێلا بەردەوام بوون لە یارمەتیدانی یەکتر. ئیدی فێربوو کە ئازا و میهرەبان بوون وای لێکردووە ببێتە هەڵۆیەکی گەورە. بێلا سوپاسگوزار بوو بۆ هاوڕێکەی ئیدی. بە خۆشی پێکەوە دەژیان و لە ئاسماندا دەفڕین و چێژیان لە هاوڕێیەتییەکەیان دەبینی"
+        "english":"The villagers said it was Lily's kindness that made the sunflowers shine so brightly. From that day, the meadow became a magical place for everyone, reminding them of the power of kindness and love. And Lily, with her caring heart, was the happiest of all.",
+        "kurdish":"خەڵکی گوندەکە دەیانگوت ئەوە میهرەبانی لیلی بووە کە وایکردووە گوڵەبەڕۆژەکان ئەوەندە گەشاوە بدرەوشێنەوە. لەو ڕۆژەوە چۆڵەوانی بوو بە شوێنێکی ئەفسوناوی بۆ هەمووان، هێزی میهرەبانی و خۆشەویستییان بیردەخستەوە. وە لیلی بە دڵە خەمخۆرەکەیەوە لە هەموویان دڵخۆشترین بوو."
       }
-  
-    ],
-     "Science":
-    [
+  ],
+         "Treasure":
+  [
+  {
+      "id":"1",
+      "english":"Once upon a time, there was a young boy named Tom. Tom loved adventures. One day, he found an old map in his attic. The map showed the way to a hidden treasure.",
+      "kurdish":"جارێک کوڕێکی گەنج هەبوو بە ناوی تۆم. تۆم زۆر حەزی لە سەرکەشی بوو. ڕۆژێک لە ژێرزەمینەکەیدا نەخشەیەکی کۆنی دۆزیەوە. نەخشەکە ڕێگای گەنجینەیەکی شاراوەی نیشان دەدا"
+},
     {
-        "id":"1",
-        "english":"Sam loved science. One day at school, his teacher, Ms. Lee, announced a science fair. Every student had to create an experiment",
-        "kurdish":"سام زانستی خۆشدەویست. ڕۆژێک لە قوتابخانە مامۆستاکەی خاتوو لی پێشانگای زانستی ڕاگەیاند. هەموو خوێندکارێک دەبوو تاقیکردنەوەیەک دروست بکات"
-  },
+         "id":"2",
+      "english":"Tom was very excited. He packed some food, a flashlight, and a small shovel. He started his journey early in the morning.",
+      "kurdish":"تۆم زۆر پەرۆش بوو هەندێک خواردن و چرایەکی دەستی و خاکەنازێکی بچووکی کۆکردەوە. بەیانی زوو دەستی بە گەشتەکەی کرد"
+    },
+    {
+         "id":"3",
+      "english":"After a long walk, Tom found a big rock with an X marked on it. He knew this was the spot. He took out his shovel and started digging.",
+      "kurdish":"دوای ڕۆیشتنێکی زۆر تۆم بەردێکی گەورەی دۆزیەوە کە هێمایەکی  لەسەر بوو  دەیزانی ئەمە نیشانەکەیە. خاکەنازەکەی دەرهێنا و دەستی کرد بە هەڵکەندن"
+    },
+    {
+         "id":"4",
+      "english":"After digging for a while, Tom found a small box. He opened the box and saw shiny gold coins and beautiful jewels. Tom was very happy.",
+      "kurdish":"دوای ماوەیەک لە هەڵکەندن  ، تۆم سندوقێکی بچووکی دۆزیەوە. سندوقەکەی کردەوە و دراوی زێڕی بریقەدار و گەوهەرە جوانەکانی بینی. تۆم زۆر دڵخۆش بوو."
+    },
+    {
+        "id":"5",
+      "english":"Tom took the treasure and went back home. He showed the treasure to his parents. They were very proud of him",
+      "kurdish":"تۆم گەنجینەکەی برد و گەڕایەوە ماڵەوە.گەنجینەکەی پیشانی دایک و باوکی دا. زۆر شانازییان پێوە دەکرد"
+    },
       {
-           "id":"2",
-        "english":"am decided to grow a plant using different kinds of water. He used three pots, three seeds, and three types of water: tap water, rainwater, and saltwater",
-        "kurdish":"سام بڕیاریدا ڕووەکێک بە بەکارهێنانی جۆرە جیاوازەکانی ئاو گەشە بکات. سێ مەنجەڵ و سێ تۆو و سێ جۆر ئاوی بەکارهێنا: ئاوی شلەتێن، ئاوی باران و ئاوی خوێ."
-      },
-      {
-           "id":"3",
-        "english":"Sam carefully planted each seed in a pot. He labeled the pots: Tap Water, Rainwater, and Saltwater. Every day, he gave each plant the same amount of water.",
-        "kurdish":"سام بە وریاییەوە هەر تۆوێکی لەناو مەنجەڵێکدا چاند. ئەو مەنجەڵانە نیشانەکرد بە : ئاوی شلەمەنی، ئاوی باران و ئاوی سوێر . هەموو ڕۆژێک، هەر ڕووەکێک هەمان بڕی ئاوی پێدەدا"."
-      },
-      {
-           "id":"4",
-        "english":"After a week, Sam noticed that the plant with rainwater was growing the fastest. The plant with tap water was also growing, but slower. The plant with saltwater was not growing at all",
-        "kurdish":"دوای هەفتەیەک سام تێبینی کرد کە ئەو ڕووەکە ئاوی باراناوی تێدایە خێراترین گەشە دەکات. ئەو ڕووەکەش کە ئاوی شلەمەنی هەبوو گەشە دەکات، بەڵام خاوتر. ئەو ڕووەکە کە ئاوی سوێری تێدابوو بە هیچ شێوەیەک گەشەی نەدەکرد"
-      {
-          "id":"5",
-        "english":"Sam took pictures of his plants and made a chart. He showed how each plant grew over time. On the day of the science fair, Sam explained his experiment to the judges.",
-        "kurdish":"سام وێنەی ڕووەکەکانی گرت و هێڵکارییەکی دروست کرد. نیشانیدا کە هەر ڕووەکێک بە تێپەڕبوونی کات چۆن گەشە دەکات. لە ڕۆژی پێشانگای زانستدا سام تاقیکردنەوەکەی بۆ دادوەرەکان ڕوون کردەوە"
-      },
-        {
-          "id":"6",
-        "english":"The judges were very impressed. They said Sam did a great job. Sam learned that plants grow best with clean water. He was very proud of his experiment and happy to share his findings with others.",
-        "kurdish":"دادوەرەکان زۆر سەرسام بوون. گوتیان سام کاری زۆر باشی کردووە. سام فێری ئەوە بوو کە ڕووەکەکان بە ئاوی پاک بە باشترین شێوە گەشە دەکەن. زۆر شانازی بە تاقیکردنەوەکەیەوە دەکرد و دڵخۆش بوو کە دۆزینەوەکانی لەگەڵ کەسانی دیکەدا باس بکات"
-      }
-  
-    ]
+        "id":"6",
+      "english":"Tom learned that** being brave and following his dreams can lead to great rewards. From that day on, Tom always kept the treasure box as a reminder of his adventure, He continued to explore**, always looking for new adventures and treasures.",
+      "kurdish":"تۆم فێربوو کە ئازا بوون و شوێنکەوتنی خەونەکانی دەتوانێت پاداشتی گەورەی لێبکەوێتەوە. لەو ڕۆژەوە تۆم هەمیشە سندوقی گەنجینەکانی وەک بیرهێنانەوەی سەرکەشیەکەی دەهێشتەوە. بەردەوام بوو لە گەڕان، هەمیشە بەدوای سەرکەشی  و گەنجینەی نوێدا دەگەڕا"
     }
-    
+
+  ],
+   "Eagle":
+  [
+  {
+      "id":"1",
+      "english":"Once upon a time there was a brave eagle named Eddie. Eddie lived in a tall tree on a big mountain. Every day, Eddie flew high in the sky, looking for food.",
+      "kurdish":"سەردەمانێک هەڵۆیەکی ئازا هەبوو بە ناوی ئێدی. ئیدی لەسەر دارێکی بەرزدا لەسەر شاخێکی گەورە دەژیا. ئیدی هەموو ڕۆژێک بە بەرزایی ئاسمان دەفڕی و بەدوای خواردندا دەگەڕا"
+},
+    {
+         "id":"2",
+      "english":"One sunny morning Eddie saw a little rabbit in a field. He flew down quickly and caught the rabbit. Eddie was very happy because he had found a big meal",
+      "kurdish":"بەیانییەکی خۆرەتاو ئێدی لە کێڵگەیەکدا کەروێشکێکی بچووکی بینی. خێرا فڕی بۆ خوارەوە و کەروێشکەکەی گرت. ئیدی زۆر دڵخۆش بوو چونکە ژەمێکی گەورەی دۆزیبووەوە"
+    },
+    {
+         "id":"3",
+      "english":"Eddie was not only brave but he was also kind. He had a friend, a small bird named Bella. Bella was very small and could not find food easily. Eddie always shared his food with Bella",
+      "kurdish":"ئیدی نەک هەر ئازا بوو بەڵکو میهرەبانیش بوو. هاوڕێیەکی هەبوو، باڵندەیەکی بچووک بوو بە ناوی بێلا. بێلا زۆر بچووک بوو و بە ئاسانی خواردنی نەدەدۆزیەوە. ئیدی هەمیشە خواردنەکانی لەگەڵ بێلا دابەش دەکرد"
+    },
+    {
+         "id":"4",
+      "english":"One day a strong storm came. The wind was very strong, and it started to rain heavily. Eddie and Bella took shelter in their tree. They were scared, but they stayed close together.",
+      "kurdish":"ڕۆژێک زریانێکی گەورە هات. با زۆر بەهێز بوو، بارانێکی زۆر دەستی پێکرد. ئیدی و بێلا لەناو دارەکەیاندا خۆیان شاردەوە و ترسابون، بەڵام لە نزیک یەکتر مانەوە."
+    },
+    {
+        "id":"5",
+      "english":"After the storm Eddie and Bella saw a rainbow in the sky. It was beautiful. They were happy the storm was over",
+      "kurdish":"دوای زریانەکە ئیدی و بێلا پەلکەزێرینەیەکی جوانیان لە ئاسمان بینی.  دڵخۆش بوون کە زریانەکە کۆتایی هات"
+    },
+      {
+        "id":"6",
+      "english":"From that day on Eddie and Bella continued to help each other. Eddie learned that being brave and kind made him a great eagle. Bella was grateful for her friend Eddie.They lived happily together flying in the sky and enjoying their friendship.",
+      "kurdish":"لەو ڕۆژەوە ئیدی و بێلا بەردەوام بوون لە یارمەتیدانی یەکتر. ئیدی فێربوو کە ئازا و میهرەبان بوون وای لێکردووە ببێتە هەڵۆیەکی گەورە. بێلا سوپاسگوزار بوو بۆ هاوڕێکەی ئیدی. بە خۆشی پێکەوە دەژیان و لە ئاسماندا دەفڕین و چێژیان لە هاوڕێیەتییەکەیان دەبینی"
+    }
+
+  ],
+   "Science":
+  [
+  {
+      "id":"1",
+      "english":"Sam loved science. One day at school, his teacher, Ms. Lee, announced a science fair. Every student had to create an experiment",
+      "kurdish":"سام زانستی خۆشدەویست. ڕۆژێک لە قوتابخانە مامۆستاکەی خاتوو لی پێشانگای زانستی ڕاگەیاند. هەموو خوێندکارێک دەبوو تاقیکردنەوەیەک دروست بکات"
+},
+    {
+         "id":"2",
+      "english":"am decided to grow a plant using different kinds of water. He used three pots, three seeds, and three types of water: tap water, rainwater, and saltwater",
+      "kurdish":"سام بڕیاریدا ڕووەکێک بە بەکارهێنانی جۆرە جیاوازەکانی ئاو گەشە بکات. سێ مەنجەڵ و سێ تۆو و سێ جۆر ئاوی بەکارهێنا: ئاوی شلەتێن، ئاوی باران و ئاوی خوێ."
+    },
+    {
+         "id":"3",
+      "english":"Sam carefully planted each seed in a pot. He labeled the pots: Tap Water, Rainwater, and Saltwater. Every day, he gave each plant the same amount of water.",
+      "kurdish":"سام بە وریاییەوە هەر تۆوێکی لەناو مەنجەڵێکدا چاند. ئەو مەنجەڵانە نیشانەکرد بە : ئاوی شلەمەنی، ئاوی باران و ئاوی سوێر . هەموو ڕۆژێک، هەر ڕووەکێک هەمان بڕی ئاوی پێدەدا"
+    },
+    {
+         "id":"4",
+      "english":"After a week, Sam noticed that the plant with rainwater was growing the fastest. The plant with tap water was also growing, but slower. The plant with saltwater was not growing at all",
+      "kurdish":"دوای هەفتەیەک سام تێبینی کرد کە ئەو ڕووەکە ئاوی باراناوی تێدایە خێراترین گەشە دەکات. ئەو ڕووەکەش کە ئاوی شلەمەنی هەبوو گەشە دەکات، بەڵام خاوتر. ئەو ڕووەکە کە ئاوی سوێری تێدابوو بە هیچ شێوەیەک گەشەی نەدەکرد"
+    },
+    {
+        "id":"5",
+      "english":"Sam took pictures of his plants and made a chart. He showed how each plant grew over time. On the day of the science fair, Sam explained his experiment to the judges.",
+      "kurdish":"سام وێنەی ڕووەکەکانی گرت و هێڵکارییەکی دروست کرد. نیشانیدا کە هەر ڕووەکێک بە تێپەڕبوونی کات چۆن گەشە دەکات. لە ڕۆژی پێشانگای زانستدا سام تاقیکردنەوەکەی بۆ دادوەرەکان ڕوون کردەوە"
+    },
+      {
+        "id":"6",
+      "english":"The judges were very impressed. They said Sam did a great job. Sam learned that plants grow best with clean water. He was very proud of his experiment and happy to share his findings with others.",
+      "kurdish":"دادوەرەکان زۆر سەرسام بوون. گوتیان سام کاری زۆر باشی کردووە. سام فێری ئەوە بوو کە ڕووەکەکان بە ئاوی پاک بە باشترین شێوە گەشە دەکەن. زۆر شانازی بە تاقیکردنەوەکەیەوە دەکرد و دڵخۆش بوو کە دۆزینەوەکانی لەگەڵ کەسانی دیکەدا باس بکات"
+    }
+
+  ]
+  }
+  
