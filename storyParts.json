@@ -127,6 +127,39 @@
         "kurdish":"لەو ڕۆژەوە ئیدی و بێلا بەردەوام بوون لە یارمەتیدانی یەکتر. ئیدی فێربوو کە ئازا و میهرەبان بوون وای لێکردووە ببێتە هەڵۆیەکی گەورە. بێلا سوپاسگوزار بوو بۆ هاوڕێکەی ئیدی. بە خۆشی پێکەوە دەژیان و لە ئاسماندا دەفڕین و چێژیان لە هاوڕێیەتییەکەیان دەبینی"
       }
   
+    ],
+     "Science":
+    [
+    {
+        "id":"1",
+        "english":"Sam loved science. One day at school, his teacher, Ms. Lee, announced a science fair. Every student had to create an experiment",
+        "kurdish":"سام زانستی خۆشدەویست. ڕۆژێک لە قوتابخانە مامۆستاکەی خاتوو لی پێشانگای زانستی ڕاگەیاند. هەموو خوێندکارێک دەبوو تاقیکردنەوەیەک دروست بکات"
+  },
+      {
+           "id":"2",
+        "english":"am decided to grow a plant using different kinds of water. He used three pots, three seeds, and three types of water: tap water, rainwater, and saltwater",
+        "kurdish":"سام بڕیاریدا ڕووەکێک بە بەکارهێنانی جۆرە جیاوازەکانی ئاو گەشە بکات. سێ مەنجەڵ و سێ تۆو و سێ جۆر ئاوی بەکارهێنا: ئاوی شلەتێن، ئاوی باران و ئاوی خوێ."
+      },
+      {
+           "id":"3",
+        "english":"Sam carefully planted each seed in a pot. He labeled the pots: Tap Water, Rainwater, and Saltwater. Every day, he gave each plant the same amount of water.",
+        "kurdish":"سام بە وریاییەوە هەر تۆوێکی لەناو مەنجەڵێکدا چاند. ئەو مەنجەڵانە نیشانەکرد بە : ئاوی شلەمەنی، ئاوی باران و ئاوی سوێر . هەموو ڕۆژێک، هەر ڕووەکێک هەمان بڕی ئاوی پێدەدا"."
+      },
+      {
+           "id":"4",
+        "english":"After a week, Sam noticed that the plant with rainwater was growing the fastest. The plant with tap water was also growing, but slower. The plant with saltwater was not growing at all",
+        "kurdish":"دوای هەفتەیەک سام تێبینی کرد کە ئەو ڕووەکە ئاوی باراناوی تێدایە خێراترین گەشە دەکات. ئەو ڕووەکەش کە ئاوی شلەمەنی هەبوو گەشە دەکات، بەڵام خاوتر. ئەو ڕووەکە کە ئاوی سوێری تێدابوو بە هیچ شێوەیەک گەشەی نەدەکرد"
+      {
+          "id":"5",
+        "english":"Sam took pictures of his plants and made a chart. He showed how each plant grew over time. On the day of the science fair, Sam explained his experiment to the judges.",
+        "kurdish":"سام وێنەی ڕووەکەکانی گرت و هێڵکارییەکی دروست کرد. نیشانیدا کە هەر ڕووەکێک بە تێپەڕبوونی کات چۆن گەشە دەکات. لە ڕۆژی پێشانگای زانستدا سام تاقیکردنەوەکەی بۆ دادوەرەکان ڕوون کردەوە"
+      },
+        {
+          "id":"6",
+        "english":"The judges were very impressed. They said Sam did a great job. Sam learned that plants grow best with clean water. He was very proud of his experiment and happy to share his findings with others.",
+        "kurdish":"دادوەرەکان زۆر سەرسام بوون. گوتیان سام کاری زۆر باشی کردووە. سام فێری ئەوە بوو کە ڕووەکەکان بە ئاوی پاک بە باشترین شێوە گەشە دەکەن. زۆر شانازی بە تاقیکردنەوەکەیەوە دەکرد و دڵخۆش بوو کە دۆزینەوەکانی لەگەڵ کەسانی دیکەدا باس بکات"
+      }
+  
     ]
     }
     
