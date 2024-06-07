@@ -59,6 +59,37 @@
           "english":"The villagers said it was Lily's kindness that made the sunflowers shine so brightly. From that day, the meadow became a magical place for everyone, reminding them of the power of kindness and love. And Lily, with her caring heart, was the happiest of all.",
           "kurdish":"خەڵکی گوندەکە دەیانگوت ئەوە میهرەبانی لیلی بووە کە وایکردووە گوڵەبەڕۆژەکان ئەوەندە گەشاوە بدرەوشێنەوە. لەو ڕۆژەوە چۆڵەوانی بوو بە شوێنێکی ئەفسوناوی بۆ هەمووان، هێزی میهرەبانی و خۆشەویستییان بیردەخستەوە. وە لیلی بە دڵە خەمخۆرەکەیەوە لە هەموویان دڵخۆشترین بوو."
         }
+    ],
+           "Treasure":
+    [
+    {
+          "id":"1",
+          "english":"Once upon a time, there was a young boy named Tom. Tom loved adventures. One day, he found an old map in his attic. The map showed the way to a hidden treasure.",
+          "kurdish":"جارێک کوڕێکی گەنج هەبوو بە ناوی تۆم. تۆم زۆر حەزی لە سەرکەشی بوو. ڕۆژێک لە ژێرزەمینەکەیدا نەخشەیەکی کۆنی دۆزیەوە. نەخشەکە ڕێگای گەنجینەیەکی شاراوەی نیشان دەدا"
+             "id":"2",
+          "english":"Tom was very excited. He packed some food, a flashlight, and a small shovel. He started his journey early in the morning.",
+          "kurdish":"ڕۆژێکی خۆرگیران، لەکاتی سەرگەردانی لە چۆڵەوانیدا، لیلی باڵندەیەکی بچووک و ترساوی دۆزیەوە کە باڵێکی شکاوە. بە نەرمی هەڵیگرت و بڕیاریدا یارمەتی بدات. لە ماڵەوە، لیلی هێلانەیەکی ئارام دروست کرد و ڕۆژانە چاودێری باڵندەکەی دەکرد. خواردنی پێدەدا و گۆرانی بۆ دەگوت و بە وشەی نەرم و شیرین قسەی لەگەڵ دەکرد."
+        },
+        {
+             "id":"3",
+          "english":"After a long walk, Tom found a big rock with an X marked on it. He knew this was the spot. He took out his shovel and started digging.",
+          "kurdish":"ڕۆژان تێپەڕی و باڵی باڵندەکە چاک بووەوە. لیلی دەیزانی کاتی ئەوە هاتووە هاوڕێ پەڕدارەکەی بە ئازادی بفڕێت. هەستی بە دڵتەنگی کرد بەڵام هەستی بە دڵخۆشی کرد، دەیزانی یارمەتی داوە."
+        },
+        {
+             "id":"4",
+          "english":"After digging for a while, Tom found a small box. He opened the box and saw shiny gold coins and beautiful jewels. Tom was very happy.",
+          "kurdish":"ئەو بەیانییەی باڵندەکەی ئازاد کرد، شتێکی نایاب ڕوویدا. لەگەڵ فڕینی باڵندەکە، بەسەر لیلیدا دەسوڕایەوە و بە خۆشییەوە چرپەی دەکرد. لەناکاو گوڵەبەڕۆژەی ناو چۆڵەوانییەکە بە گەشاوەیی دەستیان کرد بە درەوشاوەیی، لە جاران زیاتر درەوشاوەتر بوون. لیلی هەستی بە هەستێکی گەرم و ئەفسوناوی لە دڵیدا کرد."
+        },
+        {
+            "id":"5",
+          "english":"Tom took the treasure and went back home. He showed the treasure to his parents. They were very proud of him",
+          "kurdish":"خەڵکی گوندەکە دەیانگوت ئەوە میهرەبانی لیلی بووە کە وایکردووە گوڵەبەڕۆژەکان ئەوەندە گەشاوە بدرەوشێنەوە. لەو ڕۆژەوە چۆڵەوانی بوو بە شوێنێکی ئەفسوناوی بۆ هەمووان، هێزی میهرەبانی و خۆشەویستییان بیردەخستەوە. وە لیلی بە دڵە خەمخۆرەکەیەوە لە هەموویان دڵخۆشترین بوو."
+        },
+          {
+            "id":"6",
+          "english":"Tom learned that** being brave and following his dreams can lead to great rewards. From that day on, Tom always kept the treasure box as a reminder of his adventure, He continued to explore**, always looking for new adventures and treasures.",
+          "kurdish":"خەڵکی گوندەکە دەیانگوت ئەوە میهرەبانی لیلی بووە کە وایکردووە گوڵەبەڕۆژەکان ئەوەندە گەشاوە بدرەوشێنەوە. لەو ڕۆژەوە چۆڵەوانی بوو بە شوێنێکی ئەفسوناوی بۆ هەمووان، هێزی میهرەبانی و خۆشەویستییان بیردەخستەوە. وە لیلی بە دڵە خەمخۆرەکەیەوە لە هەموویان دڵخۆشترین بوو."
+        }
     ]
     }
     
