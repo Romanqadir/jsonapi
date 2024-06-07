@@ -93,6 +93,40 @@
         "kurdish":"تۆم فێربوو کە ئازا بوون و شوێنکەوتنی خەونەکانی دەتوانێت پاداشتی گەورەی لێبکەوێتەوە. لەو ڕۆژەوە تۆم هەمیشە سندوقی گەنجینەکانی وەک بیرهێنانەوەی سەرکەشیەکەی دەهێشتەوە. بەردەوام بوو لە گەڕان، هەمیشە بەدوای سەرکەشی  و گەنجینەی نوێدا دەگەڕا"
       }
   
+    ],
+     "Eagle":
+    [
+    {
+        "id":"1",
+        "english":"Once upon a time there was a brave eagle named Eddie. Eddie lived in a tall tree on a big mountain. Every day, Eddie flew high in the sky, looking for food.",
+        "kurdish":"سەردەمانێک هەڵۆیەکی ئازا هەبوو بە ناوی ئێدی. ئیدی لەسەر دارێکی بەرزدا لەسەر شاخێکی گەورە دەژیا. ئیدی هەموو ڕۆژێک بە بەرزایی ئاسمان دەفڕی و بەدوای خواردندا دەگەڕا"
+  },
+      {
+           "id":"2",
+        "english":"One sunny morning Eddie saw a little rabbit in a field. He flew down quickly and caught the rabbit. Eddie was very happy because he had found a big meal",
+        "kurdish":"بەیانییەکی خۆرەتاو ئێدی لە کێڵگەیەکدا کەروێشکێکی بچووکی بینی. خێرا فڕی بۆ خوارەوە و کەروێشکەکەی گرت. ئیدی زۆر دڵخۆش بوو چونکە ژەمێکی گەورەی دۆزیبووەوە"
+      },
+      {
+           "id":"3",
+        "english":"Eddie was not only brave but he was also kind. He had a friend, a small bird named Bella. Bella was very small and could not find food easily. Eddie always shared his food with Bella",
+        "kurdish":"ئیدی نەک هەر ئازا بوو بەڵکو میهرەبانیش بوو. هاوڕێیەکی هەبوو، باڵندەیەکی بچووک بوو بە ناوی بێلا. بێلا زۆر بچووک بوو و بە ئاسانی خواردنی نەدەدۆزیەوە. ئیدی هەمیشە خواردنەکانی لەگەڵ بێلا دابەش دەکرد"
+      },
+      {
+           "id":"4",
+        "english":"One day a strong storm came. The wind was very strong, and it started to rain heavily. Eddie and Bella took shelter in their tree. They were scared, but they stayed close together.",
+        "kurdish":"ڕۆژێک زریانێکی گەورە هات. با زۆر بەهێز بوو، بارانێکی زۆر دەستی پێکرد. ئیدی و بێلا لەناو دارەکەیاندا خۆیان شاردەوە و ترسابون، بەڵام لە نزیک یەکتر مانەوە."
+      },
+      {
+          "id":"5",
+        "english":"After the storm Eddie and Bella saw a rainbow in the sky. It was beautiful. They were happy the storm was over",
+        "kurdish":"دوای زریانەکە ئیدی و بێلا پەلکەزێرینەیەکی جوانیان لە ئاسمان بینی.  دڵخۆش بوون کە زریانەکە کۆتایی هات"
+      },
+        {
+          "id":"6",
+        "english":"From that day on Eddie and Bella continued to help each other. Eddie learned that being brave and kind made him a great eagle. Bella was grateful for her friend Eddie.They lived happily together flying in the sky and enjoying their friendship.",
+        "kurdish":"لەو ڕۆژەوە ئیدی و بێلا بەردەوام بوون لە یارمەتیدانی یەکتر. ئیدی فێربوو کە ئازا و میهرەبان بوون وای لێکردووە ببێتە هەڵۆیەکی گەورە. بێلا سوپاسگوزار بوو بۆ هاوڕێکەی ئیدی. بە خۆشی پێکەوە دەژیان و لە ئاسماندا دەفڕین و چێژیان لە هاوڕێیەتییەکەیان دەبینی"
+      }
+  
     ]
     }
     
