@@ -161,6 +161,40 @@
       "kurdish":"دادوەرەکان زۆر سەرسام بوون. گوتیان سام کاری زۆر باشی کردووە. سام فێری ئەوە بوو کە ڕووەکەکان بە ئاوی پاک بە باشترین شێوە گەشە دەکەن. زۆر شانازی بە تاقیکردنەوەکەیەوە دەکرد و دڵخۆش بوو کە دۆزینەوەکانی لەگەڵ کەسانی دیکەدا باس بکات"
     }
 
+  ],
+   "Silence":
+  [
+  {
+      "id":"1",
+      "english":"Emma lived in a busy city. There was always noise around her. Cars honked, people talked loudly, and music played everywhere. Emma often felt tired because of all the noise",
+      "kurdish":"ئیما لە شارێکی قەرەباڵغدا دەژیا. هەمیشە لە دەوروبەریدا ژاوەژاو هەبوو. ئۆتۆمبێلەکان هۆڕنیان لێدەدا، خەڵک بە دەنگی بەرز قسەیان دەکرد و لە هەموو شوێنێک مۆسیقا دەژەنرا. ئیما زۆرجار هەستی بە ماندوێتی دەکرد بەهۆی ئەو هەموو ژاوەژاوە"
+},
+    {
+         "id":"2",
+      "english":"One weekend, Emma's family decided to visit a small village in the mountains. Emma was excited for the trip. When they arrived, she noticed something very different. The village was very quiet",
+      "kurdish":"کۆتایی هەفتەیەک، خێزانی ئیما بڕیاریان دا سەردانی گوندێکی بچووکی شاخ بکەن. ئیما زۆر بە پەرۆش بوو بۆ ئەو گەشتە. کاتێک گەیشتن، سەرنجی شتێکی زۆر جیاوازی دا. گوندەکە زۆر بێدەنگ بوو"
+    },
+    {
+         "id":"3",
+      "english":"At first, the silence felt strange to Emma. She was used to the city's noise. But soon, she started to enjoy it. She could hear the birds singing and the wind blowing through the trees",
+      "kurdish":"سەرەتا بێدەنگییەکە هەستێکی نامۆبو بۆ ئیما. ئەو کچە بە ژاوەژاوی شارەکە ڕاهاتبوو. بەڵام زۆری نەخایاند، دەستی کرد بە چێژوەرگرتن لێی. گوێی لە گۆرانی باڵندەکان بوو و با بەناو دارەکاندا تێدەپەڕی "
+    },
+    {
+         "id":"4",
+      "english":"Emma and her family took long walks in the village. They visited a calm lake and saw fish swimming quietly. Emma loved sitting by the lake and listening to the gentle sounds of nature.",
+      "kurdish":"ئیما و خێزانەکەی پیاسەیەکی دوور و درێژیان لە گوندەکەدا ئەنجامدا. سەردانی دەریاچەیەکی ئارامیان کرد و بینیان ماسی بە هێمنی مەلە دەکات. ئیما زۆر حەزی لە دانیشتن بوو لە لای دەریاچەکە و گوێگرتن لە دەنگە نەرمەکانی سروشت."
+    },
+    {
+        "id":"5",
+      "english":"In the evening, Emma's family sat together and watched the stars. The sky was clear, and there were so many stars. Emma felt peaceful and happy in the quiet village.",
+      "kurdish":"ئێوارە خێزانەکەی ئیما پێکەوە دانیشتن و سەیری ئەستێرەکانیان دەکرد. ئاسمان ڕوون بوو، ئەستێرەش ئەوەندە زۆر بوون. ئیما هەستی بە ئارامی و خۆشی دەکرد لە گوندە بێدەنگەکەدا"
+    },
+      {
+        "id":"6",
+      "english":"When it was time to go back to the city, Emma felt sad to leave the silence behind. But she learned that sometimes, being quiet and listening to the world around you can be very relaxing and special.",
+      "kurdish":"کاتێک کاتی گەڕانەوە بوو بۆ شار، ئیما هەستی بە دڵتەنگی کرد کە بێدەنگییەکەی بەجێهێشت. بەڵام فێری ئەوە بوو کە هەندێک جار، بێدەنگ بوون و گوێگرتن لە جیهانی دەوروبەرت دەتوانێت زۆر ئارام و تایبەت بێت"
+    }
+
   ]
   }
   
