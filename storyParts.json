@@ -195,6 +195,50 @@
       "kurdish":"کاتێک کاتی گەڕانەوە بوو بۆ شار، ئیما هەستی بە دڵتەنگی کرد کە بێدەنگییەکەی بەجێهێشت. بەڵام فێری ئەوە بوو کە هەندێک جار، بێدەنگ بوون و گوێگرتن لە جیهانی دەوروبەرت دەتوانێت زۆر ئارام و تایبەت بێت"
     }
 
+  ],
+   "Alone":
+  [
+  {
+      "id":"1",
+      "english":"Mr. Brown was a quiet man. He lived alone in a small house. One evening, he decided to take a walk on the street. It was a peaceful night with a clear sky and shining stars.",
+      "kurdish":"کاک براون پیاوێکی بێدەنگ بوو. لە ماڵێکی بچووکدا بە تەنیا دەژیا. ئێوارەیەک، بڕیاریدا پیاسەیەک بەسەر شەقامەکەدا بکات. شەوێکی ئارام بوو بە ئاسمانێکی ڕوون و ئەستێرەی درەوشاوە"
+},
+    {
+         "id":"2",
+      "english":"As Mr. Brown walked, he noticed the empty streets. There were no cars and no people. The only sound he heard was his own footsteps. He enjoyed the calm and quiet.",
+      "kurdish":"کاک براون لەکاتی ڕۆیشتن، سەرنجی شەقامە چۆڵەکانی دا. نە ئۆتۆمبێل و نە خەڵک. تاکە دەنگێک کە بیستبووی هەنگاوەکانی خۆی بوو. چێژی لە ئارامی و بێدەنگی وەرگرت."
+    },
+    {
+         "id":"3",
+      "english":"Mr. Brown walked past a park. He saw the swings and slides, but there were no children playing. He thought about how the park would be full of laughter during the day. ",
+      "kurdish":"کاک براون بە پارکێکدا تێپەڕی. جۆلانەو و خلیسکانەکانی بینی، بەڵام هیچ منداڵێک یاری نەدەکرد. بیری لەوە دەکردەوە کە چۆن پارکەکە لە ڕۆژدا پڕ دەبێت لە پێکەنین"
+    },
+    {
+         "id":"4",
+      "english":"He continued his walk and saw the bakery. It was closed for the night, but he could still smell the delicious bread from the day. He smiled, thinking about buying fresh bread in the morning.",
+      "kurdish":"درێژەی بە پیاسەکەی دا و نانەواخانەیەکی بینی. بە شەو داخرابوو، بەڵام هێشتا بۆنی نانە بەتامەکەی دەکرد کە بەڕۆژ کرابویەوە. زەردەخەنەی کرد، بیری لە کڕینی نانێکی تازە لە بەیانیدا دەکردەوە"
+    },
+    {
+        "id":"5",
+      "english":"Mr. Brown then walked by the library. He loved books and often spent time there reading. The library lights were off, and it looked peaceful in the moonlight.",
+      "kurdish":"پاشان کاک براون بەلای کتێبخانەکەدا ڕۆیشت. کتێبی زۆر خۆشدەویست و زۆرجار لەوێ کاتەکانی بە خوێندنەوە بەسەر دەبرد. گڵۆپی کتێبخانەکە کوژابوەوەو و لە ژێر تیشکی مانگدا ئارام دەردەکەوت"
+    },
+      {
+        "id":"6",
+      "english":"As he walked, Mr. Brown felt a gentle breeze. It made him feel happy and relaxed. He liked the feeling of being alone with his thoughts.",
+      "kurdish":"لەکاتی ڕۆشتنیدا کاک براون هەستی بە بایەکی نەرم کرد. وای لێکرد هەست بە دڵخۆشی و ئارامی بکات. حەزی لە تەنیایی بوو لەگەڵ بیرکردنەوەکانیدا."
+    },
+      {
+        "id":"7",
+      "english":"After a long walk, Mr. Brown returned home. He made a cup of tea and sat by the window. He looked out at the quiet street and felt thankful for the calm evening.",
+      "kurdish":"دوای پیاسەیەکی زۆر، کاک براون گەڕایەوە ماڵەوە. کوپێک چای دروست کرد و لە تەنیشت پەنجەرەکەوە دانیشت. سەیری دەرەوەی شەقامی بێدەنگی کرد و هەستی بە سوپاسگوزاری کرد بۆ ئەو ئێوارە ئارامە"
+    },
+     {
+        "id":"8",
+      "english":"Mr. Brown learned that sometimes, walking alone can be very peaceful and enjoyable. It gave him time to think and appreciate the little things around him.",
+      "kurdish":"کاک براون فێربوو کە هەندێک جار، ڕۆیشتن بە تەنیا دەتوانێت زۆر ئارام و چێژبەخش بێت. کاتی پێدەبەخشی تا بیربکاتەوە و قەدری شتە بچووکەکانی دەوروبەری بزانێت"
+    }
+
   ]
   }
   
