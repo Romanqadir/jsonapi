@@ -489,7 +489,62 @@
       "english": "Elara's experience taught her that time, with all its mysteries and wonders, is one of the greatest gifts. It is not how much time we have, but how we choose to spend it that truly matters.",
       "kurdish": "ئەزموونی ئێلارا فێری کرد کە کات لەگەڵ هەموو نهێنی و سەرسوڕهێنەرەکانیدا یەکێکە لە دیارییە گەورەکان. بەڕاستی گرنگ ئەوە نییە کە چەند کاتمان هەیە، بەڵکو چۆن هەڵیدەبژێرین بۆ بەسەربردنی."
     }
+  ],
+  
+  "Sword": [
+    {
+      "id": "1",
+      "english": "In a small village nestled between rolling hills and dense forests, there lived a young boy named Leo. Leo was fascinated by tales of brave knights and epic battles. His favorite story was about the legendary sword, Excalibur, which was said to grant its wielder immense power and wisdom.",
+      "kurdish": "لە گوندێکی بچووکدا کە لە نێوان گردە چەقەڵەکان و دارستانە چڕەکاندا هەڵکەوتووە، کوڕێکی گەنج بە ناوی لیۆ دەژیا. لیۆ سەرسام بوو بە چیرۆکی شوڕشگێڕە ئازاکان و شەڕە ئیپیکیەکان. چیرۆکی دڵخوازەکەی دەربارەی شمشێری ئەفسانەیی بوو بە ناوی ئێکسکالیبور کە دەوترێت هێز و حیکمەتێکی بێئەندازە بە هەڵگرەکەی دەبەخشێت."
+    },
+    {
+      "id": "2",
+      "english": "One sunny afternoon, while exploring the edge of the forest, Leo stumbled upon a hidden cave. Curious and adventurous, he decided to venture inside. The cave was dimly lit, with walls covered in ancient carvings and symbols. As he moved deeper into the cave, he noticed a faint glow emanating from a stone pedestal in the center.",
+      "kurdish": "پاشنیوەڕۆیەکی خۆرگیران، لەکاتی گەڕان بە لێواری دارستانەکەدا، لیۆ تووشی ئەشکەوتێکی شاراوە بوو. بە کنجکاوی و سەرگەردانەوە بڕیاریدا خۆی بخاتە ژوورەوە. ئەشکەوتەکە ڕووناکییەکی کاڵ لە پایەیەکی بەردی ناوەڕاستەوە دەردەچوو."
+    },
+    {
+      "id": "3",
+      "english": "Approaching cautiously, Leo saw an ornate sword embedded in the stone. The sword’s hilt was adorned with precious gems, and its blade shimmered with a mysterious light. Leo couldn't believe his eyes. Could this be the legendary Excalibur?",
+      "kurdish": "لیۆ بە وریاییەوە نزیک بووەوە، شمشێرێکی ڕازاوەی بینی کە لەناو بەردەکەدا چەسپاوە. دەستی شمشێرەکە بە گەوهەرە بەنرخەکان ڕازاوەتەوە و تیغەکەی بە ڕووناکییەکی نهێنی دەدرەوشایەوە. لیۆ باوەڕی بە چاوەکانی نەدەکرد. ئایا دەکرێت ئەمە ئەفسانەیی ئێکسکالیبەر بێت؟"
+    },
+    {
+      "id": "4",
+      "english": "With a mixture of excitement and trepidation, Leo reached out and grasped the hilt. To his amazement, the sword slid out of the stone effortlessly. As he held the sword, a wave of energy surged through him, filling him with strength and clarity.",
+      "kurdish": "لیۆ بە تێکەڵەیەک لە وروژاندن و لەرزۆکەوە دەستی درێژ کرد و دەستی گرت. سەری سوڕما کە شمشێرەکە بەبێ ماندووبوون لە بەردەکە دەرچوو. لە کاتێک لیۆ دەستی گرتبوو، شەپۆلێکی وزە بەناودا هات و پڕ بوو لە هێز و ڕوونی."
+    },
+    {
+      "id": "5",
+      "english": "Just then, an old man appeared at the cave entrance. He introduced himself as Merlin, the ancient wizard. \"Congratulations, Leo,\" Merlin said with a smile. \"You have proven yourself worthy of Excalibur. But remember, with great power comes great responsibility.\"",
+      "kurdish": "هەر لەو کاتەدا پیرە پیاوێک لە دەرگای ئەشکەوتەکە دەرکەوت. خۆی بە مێرلین، جادووگەرە کۆنەکە ناساند. مێرلین بە پێکەنینەوە وتی: پیرۆزە لیۆ. \"تۆ خۆتت سەلماندووە کە شایەنی ئێکسکالیبرە. بەڵام لەبیرت بێت، لەگەڵ هێزێکی گەورەدا بەرپرسیارێتییەکی گەورەش دێتە ئاراوە."
+    },
+    {
+      "id": "6",
+      "english": "Leo listened intently as Merlin explained the true purpose of the sword. \"Excalibur is not just a weapon,\" Merlin said. \"It is a symbol of justice and wisdom. Use it to protect the innocent, to fight for what is right, and to seek knowledge.\"",
+      "kurdish": "لیۆ بە وردی گوێی لێ بوو کاتێک مێرلین ئامانجی ڕاستەقینەی شمشێرەکەی بۆ ڕوون دەکردەوە. مێرلین دەڵێت: \"ئێکسکالیبەر تەنها چەک نییە\". \"ئەمە هێمای دادپەروەری و حیکمەتە. بەکاریبهێنە بۆ پاراستنی بێتاوانەکان، بۆ شەڕکردن بۆ ئەوەی ڕاستە و بۆ گەڕان بەدوای زانستدا."
+    },
+    {
+      "id": "7",
+      "english": "Over the following months, Leo trained diligently with Merlin, learning the art of swordsmanship and the principles of leadership. He helped his village in countless ways, from defending it against bandits to mediating disputes among the villagers. Leo became known as a fair and courageous leader, always ready to lend a hand or offer wise counsel.",
+      "kurdish": "لە چەند مانگی دواتردا لیۆ بە پەرۆشەوە لەگەڵ مێرلین ڕاهێنانی کرد، فێری هونەری شمشێربازی و بنەماکانی سەرکردایەتی بوو. بە شێوازی بێشومار یارمەتی گوندەکەی دەدا، لە بەرگریکردن لە باندەکانەوە تا نێوەندگیری ناکۆکییەکانی نێوان خەڵکی گوندەکە. لیۆ وەک سەرکردەیەکی دادپەروەر و بوێر ناسرا، هەمیشە ئامادە بوو دەستێک بدات یان ئامۆژگاری ژیرانە پێشکەش بکات."
+    },
+    {
+      "id": "8",
+      "english": "One day, a neighboring kingdom faced a dire threat from a fearsome dragon. Leo knew it was his duty to help. Armed with Excalibur and guided by Merlin’s teachings, he set out on his quest. The journey was long and perilous, but Leo's determination never wavered.",
+      "kurdish": "ڕۆژێک شانشینییەکی دراوسێ ڕووبەڕووی هەڕەشەیەکی ترسناک بووەوە لەلایەن ئەژدیهایەکی ترسناکەوە. لیۆ دەیزانی کە ئەرکی خۆیەتی یارمەتی بدات. چەکدار بوو بە ئێکسکالیبور و بە ڕێنمایی فێرکارییەکانی مێرلین، دەستی کرد بە هەوڵەکانی. گەشتەکە درێژ و مەترسیدار بوو، بەڵام ئیرادەی لیۆ هەرگیز لەرزین نەبوو."
+    },
+    {
+      "id": "9",
+      "english": "When he finally confronted the dragon, Leo fought bravely. With Excalibur's power and his newfound skills, he managed to defeat the beast and bring peace to the kingdom. The people celebrated Leo as a hero, but he remained humble, always remembering Merlin's words about responsibility and justice.",
+      "kurdish": "کاتێک لە کۆتاییدا ڕووبەڕووی ئەژدیهاکە بووەوە، لیۆ ئازایانە شەڕی کرد. بە دەسەڵاتی ئێکسکالیبور و لێهاتووییە تازە دۆزراوەکانی، توانی دڕندەکە شکست بهێنێت و ئاشتی بۆ شانشینییەکە بهێنێت. خەڵک وەک پاڵەوانێک ئاهەنگی لیۆیان دەگێڕا، بەڵام ئەو بە خۆبەزلزانین مایەوە، هەمیشە قسەکانی مێرلین لەبارەی بەرپرسیارێتی و دادپەروەرییەوە لەبیر بوو."
+    },
+    {
+      "id": "10",
+      "english": "Leo returned to his village, where he continued to lead with wisdom and compassion. Excalibur remained a beacon of hope and a reminder of the virtues Leo upheld. Through his actions, Leo showed that true strength lies not in the sword itself, but in the heart and mind of its wielder.",
+      "kurdish": "لیۆ گەڕایەوە گوندەکەی خۆی، لەوێ بە حیکمەت و بەزەییەوە بەردەوام بوو لە سەرکردایەتیکردن. ئێکسکالیبور وەک چرایەکی هیوا و بیرهێنانەوەی ئەو فەزیلەتانە مایەوە کە لیۆ پشتگیری لێدەکرد. لیۆ لە ڕێگەی کردەوەکانیەوە نیشانیدا کە هێزی ڕاستەقینە لە خودی شمشێردا نییە، بەڵکو لە دڵ و مێشکی هەڵگرەکەیدایە."
+    }
   ]
+
+
 
 
 
