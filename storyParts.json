@@ -239,6 +239,41 @@
       "kurdish":"کاک براون فێربوو کە هەندێک جار، ڕۆیشتن بە تەنیا دەتوانێت زۆر ئارام و چێژبەخش بێت. کاتی پێدەبەخشی تا بیربکاتەوە و قەدری شتە بچووکەکانی دەوروبەری بزانێت"
     }
 
+  ],
+  
+  "Soul": [
+    {
+      "id": "1",
+      "english": "Ella often felt a deep connection to the sky. One evening, as the sun began to set, she decided to take a walk to her favorite spot on a hill nearby. The sky was painted with hues of orange, pink, and purple, creating a breathtaking view.",
+      "kurdish": "ئیلا زۆرجار هەستی بە پەیوەندییەکی قووڵ دەکرد بە ئاسمانەوە. ئێوارەیەک کە خۆر دەستی بە ئاوابوون کرد، بڕیاریدا پیاسەیەک بکات بۆ شوێنی دڵخوازەکەی لەسەر گردێکی نزیک. ئاسمان بە ڕەنگی پرتەقاڵی و پەمەیی و وەنەوشەیی ڕەنگکرابوو، دیمەنێکی هەناسەبڕکێی دروستکردبوو."
+    },
+    {
+      "id": "2",
+      "english": "Ella found a comfortable place to sit and gazed up at the vast expanse above her. She marveled at how the sky seemed to change every moment, reflecting the endless possibilities of life. As she watched the clouds drift lazily by, she felt a sense of calm wash over her.",
+      "kurdish": "ئیلا شوێنێکی ئارام بۆ دانیشتن دۆزیەوە و سەری بەرز کردەوە و سەیری ئەو فراوانییە فراوانەی سەرەوەی کرد. سەری سوڕما لەوەی کە چۆن وا دیار بوو ئاسمان لە هەموو ساتێکدا دەگۆڕێت، ڕەنگدانەوەی ئەگەرە بێکۆتاکانی ژیان بوو. لە کاتێکدا سەیری هەورەکانی دەکرد کە بە تەمبەڵی تێدەپەڕن، هەستی کرد هەستێکی ئارام بەسەریدا دەشۆرێت."
+    },
+    {
+      "id": "3",
+      "english": "Lost in her thoughts, Ella pondered the mysteries of the universe. She thought about the stars that would soon appear, tiny pinpricks of light in the darkening sky, each one a distant sun with its own story. The sky, she felt, was like a canvas, constantly evolving and full of wonder.",
+      "kurdish": "ئیلا لە بیرکردنەوەکانیدا ون بوو، بیری لە نهێنییەکانی گەردوون دەکردەوە. بیری لەو ئەستێرانە دەکردەوە کە بەم زووانە دەردەکەون، چەقۆی بچووکی ڕووناکی لە ئاسمانی تاریکبوودا، هەریەکەیان خۆرێکی دوور و چیرۆکی خۆیان هەبوو. ئاسمان، هەستی دەکرد، وەکو کانڤاسێکە، بەردەوام لە پەرەسەندندایە و پڕە لە سەرسوڕمان."
+    },
+    {
+      "id": "4",
+      "english": "Ella remembered a story her grandmother once told her about the soul and the sky. Her grandmother believed that every person’s soul was connected to the sky, and that looking at the sky was a way to connect with one's true self. Ella found comfort in this thought.",
+      "kurdish": "ئیلا چیرۆکێکی بیرکەوتەوە کە جارێک داپیرەی بۆی گێڕایەوە دەربارەی ڕۆح و ئاسمان. داپیرەی پێی وابوو کە ڕۆحی هەموو مرۆڤێک بە ئاسمانەوە بەستراوەتەوە و سەیرکردنی ئاسمان ڕێگەیەکە بۆ پەیوەندیکردن بە خودی ڕاستەقینەی مرۆڤەوە. ئیلا ئاسوودەیی لەم بیرکردنەوەدا دۆزیەوە."
+    },
+    {
+      "id": "5",
+      "english": "As twilight descended, the first stars began to twinkle. Ella felt a sense of peace and fulfillment. She realized that, just like the sky, her soul was vast and full of potential. She made a promise to herself to always stay curious and to explore the world around her with an open heart.",
+      "kurdish": "لەگەڵ دابەزینی خەواڵوویی، یەکەم ئەستێرەکان دەستیان کرد بە چرپە. ئیلا هەستی بە ئارامی و بەختەوەری دەکرد. ئەو تێگەیشت کە هەر وەک ئاسمان، ڕۆحی ئەویش فراوانە و پڕە لە توانا. بەڵێنی بە خۆی دا کە هەمیشە بە کنجکاوی بمێنێتەوە و بە دڵێکی کراوە جیهانی دەوروبەری بگەڕێت."
+    },
+    {
+      "id": "6",
+      "english": "When she finally stood up to leave, Ella felt lighter and more connected to the world. The sky, with its ever-changing beauty, had reminded her of the importance of looking beyond the immediate and appreciating the bigger picture.",
+      "kurdish": "کاتێک لە کۆتاییدا هەستا بۆ ئەوەی بڕوات، ئیلا هەستی بە سووکایەتی و پەیوەندی زیاتری بە جیهانەوە کرد. ئاسمان بە جوانییە هەمیشە گۆڕاوەکەیەوە، گرنگیی سەیرکردنی ئەودیوی دەستبەجێ و قەدرزانینی وێنە گەورەکەی بیرخستبووەوە."
+    }
   ]
+
+
   }
   
