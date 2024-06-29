@@ -272,7 +272,62 @@
       "english": "When she finally stood up to leave, Ella felt lighter and more connected to the world. The sky, with its ever-changing beauty, had reminded her of the importance of looking beyond the immediate and appreciating the bigger picture.",
       "kurdish": "کاتێک لە کۆتاییدا هەستا بۆ ئەوەی بڕوات، ئیلا هەستی بە سووکایەتی و پەیوەندی زیاتری بە جیهانەوە کرد. ئاسمان بە جوانییە هەمیشە گۆڕاوەکەیەوە، گرنگیی سەیرکردنی ئەودیوی دەستبەجێ و قەدرزانینی وێنە گەورەکەی بیرخستبووەوە."
     }
+  ],
+  
+  "FairyTale": [
+    {
+      "id": "1",
+      "english": "Luna was a young girl with wings like a butterfly. Every night, she would fly across the starry sky, exploring the magical world above. Her wings shimmered with iridescent colors, reflecting the light of the stars.",
+      "kurdish": "لونا کچێکی گەنج بوو، باڵەکانی وەک پەپوولە. هەموو شەوێک بەسەر ئاسمانی پڕ لە ئەستێرەدا دەفڕی و بە جیهانی ئەفسوناوی سەرەوەدا دەگەڕا. باڵەکانی بە ڕەنگی ڕەنگاوڕەنگ دەدرەوشایەوە و ڕووناکی ئەستێرەکانیان ڕەنگ دەدایەوە."
+    },
+    {
+      "id": "2",
+      "english": "One evening, as Luna soared through the cool night air, she noticed a particularly bright star. Intrigued, she decided to fly closer. As she approached, she realized it was not a star, but a sparkling fairy. The fairy's name was Celeste, and she welcomed Luna with a warm smile.",
+      "kurdish": "ئێوارەیەک، کاتێک لونا بە هەوای فێنک و فێنک و فێنکی شەودا هەڵدەفڕی، سەرنجی ئەستێرەیەکی تایبەتی گەشاوەی دا. بە سەرسامییەوە بڕیاریدا نزیکتر بفڕێت. لەگەڵ نزیکبوونەوەی تێگەیشت کە ئەستێرە نییە، بەڵکو پەرییەکی بریقەدارە. ناوی پەریەکە سێلێست بوو، بە زەردەخەنەیەکی گەرمەوە پێشوازی لە لونا کرد."
+    },
+    {
+      "id": "3",
+      "english": "\"Welcome, Luna,\" said Celeste. \"I've been waiting for you. Tonight, you will discover the secret of the stars.\"",
+      "kurdish": "سێلێست وتی: بەخێر بێیت لونا. \"من چاوەڕێی تۆ بووم. ئەمشەو، نهێنی ئەستێرەکان دەدۆزیتەوە.\""
+    },
+    {
+      "id": "4",
+      "english": "Luna followed Celeste through the sky, marveling at the beauty around her. The stars twinkled like diamonds, creating a breathtaking backdrop. They flew over shimmering lakes, dense forests, and majestic mountains, all bathed in the gentle glow of moonlight.",
+      "kurdish": "لونا بە ئاسماندا بەدوای سێلێستدا ڕۆیشت و سەرسام بوو بە جوانییەکانی دەوروبەری. ئەستێرەکان وەک ئەڵماس دەترسان و پاشبنەمایەکی هەناسەبڕکێیان دروست دەکرد. بەسەر دەریاچە درەوشاوەکان و دارستانە چڕەکان و شاخە مەزنەکاندا دەفڕین، هەموویان لە درەوشاوەیی نەرمی تیشکی مانگدا خۆیان دەشۆرد."
+    },
+    {
+      "id": "5",
+      "english": "Eventually, they arrived at a hidden glade in the forest, illuminated by a soft, ethereal light. In the center of the glade was a large, ancient tree with silver leaves that sparkled like stars. Celeste guided Luna to the tree and began to speak.",
+      "kurdish": "لە کۆتاییدا گەیشتنە شوێنێکی شاراوەی ناو دارستانەکە، کە بە ڕووناکییەکی نەرم و ئەسیری ڕووناک بووەوە. لە ناوەڕاستی گلادەکەدا دارێکی گەورە و کۆن هەبوو کە گەڵاکانی زیوین و وەک ئەستێرە دەدرەوشایەوە. سێلێست ڕێنمایی لونا کرد بۆ لای دارەکە و دەستی کرد بە قسەکردن."
+    },
+    {
+      "id": "6",
+      "english": "\"This tree holds the essence of all the stars,\" Celeste explained. \"Each leaf represents a wish made by someone who gazes at the night sky. The more genuine the wish, the brighter the leaf shines.\"",
+      "kurdish": "سێلێست ڕوونیکردەوە: ئەم دارە جەوهەری هەموو ئەستێرەکانی لەخۆگرتووە. \"هەر گەڵایەک نوێنەرایەتی ئاواتێک دەکات کە کەسێک کردوویەتی کە سەیری ئاسمانی شەو دەکات. تا ئاواتەکە ڕاستەقینەتر بێت، گەڵاکە گەشاوەتر دەبێت.\""
+    },
+    {
+      "id": "7",
+      "english": "Luna was captivated. She gently touched one of the glowing leaves and felt a surge of warmth and hope. She realized that her wings and ability to fly were a result of one of her own wishes. She had always dreamed of exploring the skies and discovering new worlds.",
+      "kurdish": "لونا دیل بوو. بە نەرمی دەستی لە یەکێک لە گەڵا درەوشاوەکاندا دا و هەستی بە گەرمی و هیوا کرد. تێگەیشت کە باڵ و توانای فڕینی لە ئەنجامی یەکێک لە خواستەکانی خۆیەتی. هەمیشە خەونی بە گەڕان بە ئاسمانەکان و دۆزینەوەی جیهانی نوێدا دەبینی."
+    },
+    {
+      "id": "8",
+      "english": "Celeste then shared the most important lesson: \"Remember, Luna, that your wishes have power. They can light up the darkest night and bring hope to those who need it. Use your gift wisely and continue to inspire others.\"",
+      "kurdish": "پاشان سێلێست گرنگترین وانەی باسکرد: \"لەبیرت بێت لونا، کە ئاواتەکانت هێزیان هەیە. دەتوانن تاریکترین شەو ڕووناک بکەنەوە و هیوا بۆ ئەو کەسانە بهێنن کە پێویستیان پێیەتی. دیارییەکەت بە ژیرانە بەکاربهێنە و بەردەوام بە لە ئیلهامبەخشین بە کەسانی دیکە\"."
+    },
+    {
+      "id": "9",
+      "english": "Feeling inspired and filled with newfound wisdom, Luna thanked Celeste and flew back home. She looked at the night sky with a renewed sense of wonder, knowing that each star held a story, a wish, and a piece of magic.",
+      "kurdish": "لونا بە هەستکردن بە ئیلهام و پڕ لە حیکمەتی تازە دۆزراو سوپاسی سێلێستی کرد و بە فڕۆکە گەڕایەوە ماڵەوە. بە هەستێکی نوێبوونەوەی سەرسوڕمانەوە سەیری ئاسمانی شەوی دەکرد، دەیزانی هەر ئەستێرەیەک چیرۆکێک و ئاواتێک و پارچەیەک سیحرێکی لە دەستدایە."
+    },
+    {
+      "id": "10",
+      "english": "From that night on, Luna made it her mission to help others believe in their dreams. She spread light and hope wherever she flew, her wings shimmering even brighter with each new wish she inspired.",
+      "kurdish": "لەو شەوەوە لونا یارمەتیدانی کەسانی دیکەی باوەڕ بە خەونەکانیان کردە ئەرکی خۆی. لە هەر شوێنێک کە فڕیبا، ڕووناکی و هیوای بڵاودەکردەوە، باڵەکانی لەگەڵ هەر ئاواتێکی نوێدا کە ئیلهامبەخش بوو، گەشاوەتر دەدرەوشایەوە."
+    }
   ]
+
+
 
 
   }
