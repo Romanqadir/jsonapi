@@ -374,6 +374,58 @@
       "english": "Maya realized that the lessons from her dream were true in her waking life. By nurturing her dreams with dedication and hope, she could turn them into reality. Her garden became a place of inspiration, reminding her that with belief and effort, anything was possible.",
       "kurdish": "مایا تێگەیشت کە وانەکانی خەونەکەی لە ژیانی بێداریدا ڕاستن. بە پەروەردەکردنی خەونەکانی بە خۆبەخشی و هیوا، دەیتوانی بیکاتە واقیع. باخچەکەی بوو بە شوێنێکی ئیلهامبەخش، بیری هێنایەوە کە بە باوەڕ و هەوڵدان، هەموو شتێک مومکینە."
     }
+  ],
+  "FirstMet": [
+    {
+      "id": "1",
+      "english": "Anna had always been a bit shy. She preferred reading books and painting over going to parties or social events. One summer, her family moved to a new town, and she had to start at a new school. Anna felt nervous about meeting new people and making friends.",
+      "kurdish": "ئانا هەمیشە کەمێک شەرمن بوو. خوێندنەوەی کتێب و نیگارکێشانی پێ باشتر بوو لە چوون بۆ ئاهەنگەکان یان بۆنە کۆمەڵایەتییەکان. هاوینێک خێزانەکەی ڕوویان لە شارۆچکەیەکی نوێ کرد و ناچار بوو لە قوتابخانەیەکی نوێ دەست پێ بکات. ئانا هەستی بە دەمارگیری دەکرد لە ناسینی کەسانی نوێ و دۆزینەوەی هاوڕێ."
+    },
+    {
+      "id": "2",
+      "english": "On her first day at the new school, Anna felt overwhelmed by all the unfamiliar faces. During lunch, she found a quiet spot under a tree in the schoolyard to eat alone. She opened her book, hoping to lose herself in its pages.",
+      "kurdish": "لە یەکەم ڕۆژی خوێندنی لە قوتابخانە نوێیەکەدا، ئانا هەستی بە زەبر و زەنگی کرد بەهۆی ئەو هەموو دەموچاوە نامۆیانە. لە کاتی نانخواردنی نیوەڕۆدا شوێنێکی ئارام لە ژێر دارێکدا لە حەوشەی قوتابخانەکەدا دۆزیەوە تا بە تەنیا بیخوات. کتێبەکەی کردەوە، بەو هیوایەی خۆی لە لاپەڕەکانیدا لەدەست بدات."
+    },
+    {
+      "id": "3",
+      "english": "Just as she started reading, a voice interrupted her. \"Hi, can I sit here?\" Anna looked up to see a girl with a friendly smile and bright blue eyes. \"I'm Lily,\" the girl said.",
+      "kurdish": "هەر کە دەستی بە خوێندنەوە کرد، دەنگێک قسەکانی بڕی. \"سڵاو، ئایا دەتوانم لێرە دابنیشێم؟\" ئانا سەری بەرز کردەوە و کچێکی بە زەردەخەنەیەکی دۆستانە و چاوی شین و گەشاوە بینی. کچەکە وتی: من لیلیم."
+    },
+    {
+      "id": "4",
+      "english": "\"Sure,\" Anna replied, feeling a bit shy but also grateful for the company. As they ate their lunch, Lily talked about the school, her favorite subjects, and her love for playing soccer. Anna listened quietly, slowly starting to feel more at ease.",
+      "kurdish": "ئانا وەڵامی دایەوە و وتی: \"دڵنیابە\", هەستی بە کەمێک شەرمن کرد بەڵام هەروەها سوپاسگوزاری کۆمپانیاکە بوو. لەکاتێکدا نانی نیوەڕۆیان دەخوارد، لیلی باسی قوتابخانەکە و بابەتەکانی دڵخواز و خۆشەویستی بۆ یاری تۆپی پێ دەکرد. ئانا بە هێمنی گوێی لێگرت، هێواش هێواش دەستی کرد بە هەستکردن بە ئاسوودەیی زیاتر."
+    },
+    {
+      "id": "5",
+      "english": "Over the next few weeks, Anna and Lily spent a lot of time together. They discovered they had many common interests, like a love for art and a passion for animals. Lily introduced Anna to her group of friends, and soon Anna found herself feeling more comfortable and included.",
+      "kurdish": "لە چەند هەفتەی داهاتوودا ئانا و لیلی کاتێکی زۆریان پێکەوە بەسەر برد. بۆیان دەرکەوت کە چەندین بەرژەوەندی هاوبەشیان هەیە، وەک خۆشەویستی بۆ هونەر و خولیای ئاژەڵ. لیلی ئانای بە کۆمەڵە هاوڕێکانی ناساند و زۆری نەخایاند ئانا خۆی بینی کە هەست بە ئاسوودەیی زیاتر دەکات و زیاتر لەخۆدەگرێت."
+    },
+    {
+      "id": "6",
+      "english": "One afternoon, as they walked home from school, Lily asked, \"Do you remember when we first met?\" Anna nodded with a smile. \"I was so nervous that day,\" she admitted.",
+      "kurdish": "پاشنیوەڕۆیەک کە لە قوتابخانە دەگەڕانەوە ماڵەوە، لیلی پرسی: \"بیرتە کەی بۆ یەکەمجار یەکترمان ناسی؟\" ئانا بە زەردەخەنەوە سەری لە سەری خۆی دانا. ئاماژەی بەوەشکردووە، \"ئەو ڕۆژە زۆر دەمارگیر بووم\"."
+    },
+    {
+      "id": "7",
+      "english": "\"I could tell,\" Lily said. \"But I knew you just needed a friend. I'm glad I decided to sit with you.\"",
+      "kurdish": "لیلی وتی: \"دەمتوانی بزانم.\" \"بەڵام دەمزانی تەنها پێویستت بە هاوڕێیەکە. خۆشحاڵم کە بڕیارمدا لەگەڵت دابنیشێم.\""
+    },
+    {
+      "id": "8",
+      "english": "Anna felt a warmth spread through her heart. She realized how important that moment was when they first met. It changed everything for her, turning a lonely and anxious start into a joyful and fulfilling experience.",
+      "kurdish": "ئانا هەستی کرد گەرمییەک بە دڵیدا بڵاوبووەوە. ئەو درکی بەوە کرد کە ئەو ساتە چەندە گرنگە کاتێک بۆ یەکەمجار یەکتریان بینی. هەموو شتێکی بۆ ئەو گۆڕی، دەستپێکردنێکی تەنیا و دڵەڕاوکێی کردە ئەزموونێکی خۆش و پڕ لە خۆشی."
+    },
+    {
+      "id": "9",
+      "english": "As the months went by, Anna continued to blossom in her new environment. She joined the art club, made more friends, and even started playing soccer with Lily. She was no longer the shy girl who sat alone under the tree.",
+      "kurdish": "لەگەڵ تێپەڕبوونی مانگەکاندا، ئانا لە ژینگە نوێیەکەیدا بەردەوام بوو لە گوڵکردن. پەیوەندی بە یانەی هونەریەوە کرد و هاوڕێی زیاتری بەدەستهێنا و تەنانەت لەگەڵ لیلی دەستی بە یاری تۆپی پێ کرد. ئیتر ئەو کچە شەرمنانە نەبوو کە بە تەنیا لە ژێر دارەکەدا دانیشتبوو."
+    },
+    {
+      "id": "10",
+      "english": "Looking back, Anna felt grateful for that first meeting with Lily. It taught her that sometimes, all it takes is one kind gesture to make a significant difference in someone's life. She promised herself that she would always try to be that person for others who needed a friend.",
+      "kurdish": "ئانا بە گەڕانەوە بۆ دواوە، هەستی بە سوپاسگوزاری کرد بۆ ئەو یەکەم دیدارەی لەگەڵ لیلی. فێری کرد کە هەندێک جار، تەنها یەک ئاماژەی میهرەبانانە پێویستە بۆ ئەوەی گۆڕانکارییەکی بەرچاو لە ژیانی کەسێکدا دروست بکات. بەڵێنی بە خۆی دا کە هەمیشە هەوڵ دەدات ئەو کەسە بێت بۆ ئەوانی تر کە پێویستیان بە هاوڕێیە."
+    }
   ]
 
 
