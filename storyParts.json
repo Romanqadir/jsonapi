@@ -325,7 +325,57 @@
       "english": "From that night on, Luna made it her mission to help others believe in their dreams. She spread light and hope wherever she flew, her wings shimmering even brighter with each new wish she inspired.",
       "kurdish": "لەو شەوەوە لونا یارمەتیدانی کەسانی دیکەی باوەڕ بە خەونەکانیان کردە ئەرکی خۆی. لە هەر شوێنێک کە فڕیبا، ڕووناکی و هیوای بڵاودەکردەوە، باڵەکانی لەگەڵ هەر ئاواتێکی نوێدا کە ئیلهامبەخش بوو، گەشاوەتر دەدرەوشایەوە."
     }
+  ],
+
+
+  "Dreamer": [
+    {
+      "id": "1",
+      "english": "Maya was a dreamer. She often imagined a world full of beauty and wonder. One night, she had a vivid dream about a magical garden filled with the most extraordinary flowers.",
+      "kurdish": "مایا خەونبین بوو. زۆرجار جیهانێکی پڕ لە جوانی و سەرسوڕمانی خەیاڵی دەکرد. شەوێک، خەونێکی زیندووی بینی سەبارەت بە باخچەیەکی ئەفسوناوی کە پڕ بوو لە نائاساییترین گوڵ."
+    },
+    {
+      "id": "2",
+      "english": "In her dream, Maya found herself standing at the entrance of this enchanting garden. The air was filled with the sweet scent of blooming flowers, and the colors were more vibrant than anything she had ever seen. Each flower seemed to glow with an inner light, and the garden stretched as far as the eye could see.",
+      "kurdish": "مایا لە خەونەکەیدا خۆی بینیەوە کە لە دەرگای ئەم باخچە سیحراوییە وەستاوە. هەوا پڕ بوو لە بۆنی شیرینی گوڵی گوڵ و ڕەنگەکان لە هەموو شتێک زیندووتر بوون کە تا ئێستا بینیبێتی. هەر گوڵێک وا دیار بوو بە ڕووناکییەکی ناوەوە دەدرەوشایەوە و باخچەکە تا ئەو شوێنەی چاو دەیبینی درێژ بووەوە."
+    },
+    {
+      "id": "3",
+      "english": "Maya walked along a winding path, marveling at the variety of flowers. There were roses with petals as soft as silk, tulips that sparkled like gems, and lilies that emitted a gentle, soothing glow. She felt a sense of peace and happiness as she explored the garden.",
+      "kurdish": "مایا بە ڕێگایەکی پێچاوپێچدا دەڕۆیشت و سەرسام بوو بە جۆراوجۆری گوڵەکان. گوڵەبەڕۆژە هەبوون کە گەڵاکانی وەک ئاوریشم نەرم بوون، لالەنگی کە وەک گەوهەر دەدرەوشایەوە و سوسن کە درەوشاوەیییەکی نەرم و ئارامکەرەوەی دەردەکرد. هەستی بە ئارامی و خۆشی دەکرد لەکاتی گەڕان بەناو باخچەکەدا."
+    },
+    {
+      "id": "4",
+      "english": "As Maya wandered deeper into the garden, she came across a flower unlike any other. It stood tall and proud, with petals that shimmered like the stars. Intrigued, Maya reached out to touch it. The moment her fingers brushed the petals, she was filled with a warm, comforting light.",
+      "kurdish": "کاتێک مایا قووڵتر دەچووە ناو باخچەکەوە، تووشی گوڵێک بوو کە جیاواز بوو لە گوڵێکی تر. بەرز و شانازی وەستابوو، گەڵای گەڵاکانی وەک ئەستێرەکان دەدرەوشایەوە. مایا بە سەرسامییەوە دەستی درێژ کرد بۆ ئەوەی دەستی لێ بدات. ئەو ساتەی پەنجەکانی گەڵاکانی فڵچەیان کرد، پڕ بوو لە ڕووناکییەکی گەرم و ئاسوودەیی."
+    },
+    {
+      "id": "5",
+      "english": "Suddenly, a gentle voice spoke to her. \"Welcome, Maya. I am the Guardian of Dreams,\" said a figure that appeared from the flower. \"This garden is a reflection of your dreams and hopes. Each flower represents a dream you have nurtured.\"",
+      "kurdish": "لەناکاو دەنگێکی نەرم و نیان قسەی لەگەڵ کرد. فیگەرێک کە لە گوڵەکەوە دەرکەوت وتی: \"بەخێر بێیت مایا. من پارێزەری خەونەکانم\". \"ئەم باخچە ڕەنگدانەوەی خەون و هیواکانتە. هەر گوڵێک نوێنەرایەتی خەونێک دەکات کە پەروەردەت کردووە.\""
+    },
+    {
+      "id": "6",
+      "english": "Maya listened in awe as the Guardian explained the significance of the garden. \"The flowers grow and flourish because of your belief and determination. They remind you that dreams can bloom into reality if you care for them.\"",
+      "kurdish": "مایا بە سەرسوڕمانەوە گوێی لێ بوو کاتێک گاردیەن گرنگی باخچەکەی بۆ ڕوون دەکردەوە. \"گوڵەکان بەهۆی باوەڕ و ئیرادەتەوە گەشە دەکەن و گەشە دەکەن. ئەوەت بیردەخەنەوە کە خەونەکان دەتوانن گوڵبکەن و ببنە واقیع ئەگەر گرنگییان پێبدەیت.\""
+    },
+    {
+      "id": "7",
+      "english": "Feeling inspired, Maya asked the Guardian how she could make her dreams come true. The Guardian smiled and said, \"Nurture your dreams with love and perseverance. Just like these flowers, your dreams need care and attention to grow. Believe in yourself, and you will see them blossom.\"",
+      "kurdish": "مایا هەستی بە ئیلهام وەرگرتن کرد و پرسیاری لە گاردیەن کرد کە چۆن دەتوانێت خەونەکانی بەدی بهێنێت. ڕۆژنامەی گاردیانی بەریتانی زەردەخەنەییەکەی کرد و وتی: \"بە خۆشەویستی و کۆڵنەدان خەونەکانت پەروەردە بکە. هەروەک ئەم گوڵانە، خەونەکانت پێویستیان بە چاودێری و گرنگیدان هەیە بۆ ئەوەی گەشە بکەن. باوەڕ بە خۆت بکە، دەبینیت گوڵ دەکات.\""
+    },
+    {
+      "id": "8",
+      "english": "When Maya woke up, she felt a renewed sense of purpose. She decided to start a real garden, planting flowers that symbolized her dreams. Each day, she tended to her garden with love and care, watching the flowers grow and flourish.",
+      "kurdish": "کاتێک مایا لە خەو هەڵسا، هەستی بە نوێبوونەوەی ئامانج کرد. بڕیاریدا باخچەیەکی ڕاستەقینە دەستپێبکات، گوڵی چاند کە هێمای خەونەکانی بوو. هەموو ڕۆژێک بە خۆشەویستی و خەمخۆرییەوە چاودێری باخچەکەی دەکرد و سەیری گەشەکردن و گەشەکردنی گوڵەکانی دەکرد."
+    },
+    {
+      "id": "9",
+      "english": "Maya realized that the lessons from her dream were true in her waking life. By nurturing her dreams with dedication and hope, she could turn them into reality. Her garden became a place of inspiration, reminding her that with belief and effort, anything was possible.",
+      "kurdish": "مایا تێگەیشت کە وانەکانی خەونەکەی لە ژیانی بێداریدا ڕاستن. بە پەروەردەکردنی خەونەکانی بە خۆبەخشی و هیوا، دەیتوانی بیکاتە واقیع. باخچەکەی بوو بە شوێنێکی ئیلهامبەخش، بیری هێنایەوە کە بە باوەڕ و هەوڵدان، هەموو شتێک مومکینە."
+    }
   ]
+
 
 
 
