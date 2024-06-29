@@ -426,7 +426,72 @@
       "english": "Looking back, Anna felt grateful for that first meeting with Lily. It taught her that sometimes, all it takes is one kind gesture to make a significant difference in someone's life. She promised herself that she would always try to be that person for others who needed a friend.",
       "kurdish": "ئانا بە گەڕانەوە بۆ دواوە، هەستی بە سوپاسگوزاری کرد بۆ ئەو یەکەم دیدارەی لەگەڵ لیلی. فێری کرد کە هەندێک جار، تەنها یەک ئاماژەی میهرەبانانە پێویستە بۆ ئەوەی گۆڕانکارییەکی بەرچاو لە ژیانی کەسێکدا دروست بکات. بەڵێنی بە خۆی دا کە هەمیشە هەوڵ دەدات ئەو کەسە بێت بۆ ئەوانی تر کە پێویستیان بە هاوڕێیە."
     }
+  ],
+  
+  "Time": [
+    {
+      "id": "1",
+      "english": "In a small, picturesque village, there lived a girl named Elara who was always curious about the concept of time. She often wondered why time seemed to fly when she was happy and drag when she was bored. One day, while exploring the attic of her house, she discovered an old, ornate clock covered in dust.",
+      "kurdish": "لە گوندێکی بچووک و وێنەکێشدا، کچێک بە ناوی ئێلارا دەژیا کە هەمیشە کنجکاو بوو لە چەمکی کات. زۆرجار پرسیاری ئەوەی لێدەکرد کە بۆچی کات کاتێک دڵخۆشە دەفڕێت و کاتێک بێزارە دەکێشێت. ڕۆژێک لە کاتی گەڕان بە ژێرزەمینەکەی ماڵەکەیدا، کاتژمێرێکی کۆن و ڕازاوەی دۆزیەوە کە بە تۆز و خۆڵ داپۆشرابوو."
+    },
+    {
+      "id": "2",
+      "english": "Intrigued, Elara wiped away the dust and found a peculiar inscription on the clock: 'Time reveals all secrets.' As she turned the clock’s hands, she suddenly felt a strange sensation and found herself transported to a different place.",
+      "kurdish": "ئیلارا بە سەرسامییەوە تۆزەکەی سڕییەوە و نووسراوێکی تایبەتی لەسەر کاتژمێرەکە دۆزیەوە: 'کات هەموو نهێنییەکان ئاشکرا دەکات.' لەکاتێکدا دەستەکانی کاتژمێرەکەی دەسوڕاند، لەناکاو هەستی بە هەستێکی سەیر کرد و خۆی بینی کە گواستراوەتەوە بۆ شوێنێکی جیاواز."
+    },
+    {
+      "id": "3",
+      "english": "Elara looked around and realized she was in a grand hall filled with clocks of all shapes and sizes. Each clock ticked in perfect harmony, creating a mesmerizing symphony of time. At the center of the hall stood a tall, wise-looking figure with a long, flowing beard. He introduced himself as Chronos, the Keeper of Time.",
+      "kurdish": "ئیلارا سەیری دەوروبەری کرد و تێگەیشت کە لە هۆڵێکی گەورەدایە کە پڕ بوو لە کاتژمێر بە هەموو شێوە و قەبارەیەک. هەر کاتژمێرێک بە هاوئاهەنگییەکی تەواوەوە تیک دەچوو، سەمفۆنیایەکی سەرسامکەری کات دروست دەکرد. لە ناوەڕاستی هۆڵەکەدا کەسایەتییەکی باڵابەرز و ژیر و ڕیشێکی درێژ و ڕژاو وەستابوو. خۆی بە کرۆنۆس، پارێزەری کات ناساند."
+    },
+    {
+      "id": "4",
+      "english": "\"Welcome, Elara,\" Chronos said with a gentle smile. \"You have been chosen to learn the secrets of time.\"",
+      "kurdish": "کرۆنۆس وەتی: بەخێر بێیت ئێلارا. \"تۆ بۆ فێربوونی نهێنییەکانی کات هەڵبژێردراویت."
+    },
+    {
+      "id": "5",
+      "english": "Elara was both excited and nervous. She had so many questions. \"Why does time seem to move differently depending on what we're doing?\" she asked.",
+      "kurdish": "ئیلارا هەم وروژا و هەم دەمارگیر بوو. ئەوەندە پرسیاری زۆری هەبوو. \"بۆچی پێدەچێت کات بە شێوەیەکی جیاواز بجوڵێت بەپێی ئەوەی ئێمە دەیکەین؟\" ئەو پرسیاری کرد."
+    },
+    {
+      "id": "6",
+      "english": "Chronos explained, \"Time is a constant, but our perception of it changes based on our experiences. When we are engaged and happy, time feels like it passes quickly. When we are bored or in discomfort, it seems to slow down.\"",
+      "kurdish": "کرۆنۆس ڕوونیکردەوە، \"کات کەرەزە، بەڵام پەرۆژێکەوە بەپەیوەندی لە پەیوەندی پەیوەندیمان دەگۆڕێت. کاتێک سەرقاڵین و دڵخۆش دەبین، کات هەست دەکەین بە خێرایی تێدەپەڕێت. کاتێک بێزار دەبین یان لە ناڕەحەتیداین، پێدەچێت خاوبێتەوە."
+    },
+    {
+      "id": "7",
+      "english": "Elara listened intently as Chronos continued, \"Time also teaches us important lessons. It helps us heal, grow, and gain wisdom. Every moment, whether joyful or painful, shapes who we are.\"",
+      "kurdish": "ئیلارا بە وردی گوێی لێگرت کاتێک کرۆنۆس بەردەوام بوو، \"کات هەمەرێک دەربارەیێکی تایبەتی دەدەە. ئەو بە یانەی خەمەکاندان، گۆڕانکاری بکات و حیکمەت پێدان. هەر ساتێک، چ خۆشی بێت یان بە ئازار، لە قاڵب دەدات کە ئێمە کێین."
+    },
+    {
+      "id": "8",
+      "english": "Over the next few days, Elara learned many things from Chronos. She discovered how time could be a healer, allowing wounds to mend and sorrows to fade. She also learned the importance of cherishing every moment, for once it passes, it can never be reclaimed.",
+      "kurdish": "لە چەند ڕۆژی دواتردا ئیلارا زۆر شتی لە کرۆنۆس فێربوو. ئەو بۆی دەرکەوت کە چۆن کات دەتوانێت چارەسەرکەر بێت، ڕێگە بدات برینەکان چاک ببنەوە و خەمەکان کاڵ ببنەوە. هەروەها فێری گرنگی گرنگیدان بە هەموو ساتێک بوو، چونکە کاتێک تێپەڕی، هەرگیز ناتوانرێت وەربگیرێتەوە."
+    },
+    {
+      "id": "9",
+      "english": "Chronos showed Elara a special hourglass filled with shimmering sand. \"This hourglass represents your life,\" he said. \"The sand flows steadily from the top to the bottom, symbolizing the passage of time. Each grain is a moment of your life, precious and unique.\"",
+      "kurdish": "کرۆنۆس کاتژمێرێکی شەمەندەفەری تایبەتی پیشانی ئێلارا دا کە پڕ بوو لە خۆڵێکی درەوشاوە. وتیشی: ئەم کاتژمێرە شەمەندەفەرە نوێنەرایەتی ژیانی تۆ دەکات. \"خۆڵەکە بە شێوەیەکی بەردەوام لە سەرەوە بۆ خوارەوە دەڕژێت، هێمای تێپەڕبوونی کاتە. هەر دانەوێڵەیەک ساتێکی ژیانتە، بەنرخ و ناوازەیەکی."
+    },
+    {
+      "id": "10",
+      "english": "Elara felt a newfound appreciation for time. She realized that while she couldn't control its passage, she could make the most of each moment. When it was time for her to return to her world, Chronos gave her the hourglass as a reminder of her journey.",
+      "kurdish": "ئیلارا هەستی بە قەدرزانییەکی تازە دۆزرایەوە بۆ کات. ئەو تێگەیشت کە لە کاتێکدا ناتوانێت کۆنتڕۆڵی تێپەڕبوونی بکات، بەڵام دەتوانێت زۆرترین سوود لە هەر ساتێک وەربگرێت. کاتێک کاتی گەڕانەوەی هات بۆ جیهانەکەی، کرۆنۆس کاتژمێری شەمەندەفەرەکەی پێدا وەک بیرهێنانەوەی گەشتەکەی."
+    },
+    {
+      "id": "11",
+      "english": "Back in her village, Elara saw life through different eyes. She spent more time with her family and friends, pursued her passions, and appreciated the beauty in everyday moments. The lessons from the Keeper of Time stayed with her, guiding her to live a meaningful and fulfilling life.",
+      "kurdish": "ئیلارا لە گوندەکەی خۆیدا ژیانی لە چاوی جیاوازەوە بینی. کاتێکی زیاتری لەگەڵ خێزان و هاوڕێکانی بەسەر دەبرد، بەدوای خولیاکانیدا دەگەڕا و جوانییەکانی لە ساتەکانی ڕۆژانەدا بەرز دەنرخاند. وانەکانی پارێزەری کات لەگەڵیدا مانەوە، ڕێنمایییان دەکرد بۆ ئەوەی ژیانێکی پڕمانا و پڕ لە خۆشی بژی."
+    },
+    {
+      "id": "12",
+      "english": "Elara's experience taught her that time, with all its mysteries and wonders, is one of the greatest gifts. It is not how much time we have, but how we choose to spend it that truly matters.",
+      "kurdish": "ئەزموونی ئێلارا فێری کرد کە کات لەگەڵ هەموو نهێنی و سەرسوڕهێنەرەکانیدا یەکێکە لە دیارییە گەورەکان. بەڕاستی گرنگ ئەوە نییە کە چەند کاتمان هەیە، بەڵکو چۆن هەڵیدەبژێرین بۆ بەسەربردنی."
+    }
   ]
+
+
 
 
 
