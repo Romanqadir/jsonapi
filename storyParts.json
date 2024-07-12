@@ -642,7 +642,45 @@
       "english": "As the sun dipped below the horizon and the city lights began to twinkle like stars in the night sky, Mia closed the book with a sense of contentment. She realized that the true beauty of the city lay not just in its towering buildings or bustling streets, but in the stories of the people who called it home – stories that wove together to create a tapestry of life, love, and endless possibility. And as she gazed up at the city skyline, Mia knew that her own story was just beginning, waiting to be written amidst the towering skyscrapers and bustling streets of her beloved city.",
       "kurdish": "کاتێک خۆر لە ژێر ئاسۆدا نوقم بوو و چراکانی شار وەک ئەستێرە لە ئاسمانی شەودا دەستیان کرد بە چرپە، میا بە هەستێکی ڕازیبوون کتێبەکەی داخست. ئەو تێگەیشت کە جوانی ڕاستەقینەی شارەکە تەنها لە بینا بەرزەکانی یان شەقامە قەرەباڵغەکانیدا نییە، بەڵکو لە چیرۆکی ئەو کەسانەدایە کە ناویان لێنابوو ماڵەوە – چیرۆکگەلێک کە پێکەوە تواوەتەوە بۆ دروستکردنی تابلۆیەکی ژیان و خۆشەویستی و ئەگەرێکی بێکۆتایی. وە کاتێک سەری بەرز کردەوە و سەیری ئاسمانی شارەکەی دەکرد، میا زانی کە چیرۆکەکەی خۆی تازە دەستی پێکردووە، چاوەڕێی ئەوە بوو لە نێوان ئاسمان ڕوتە بەرزەکان و شەقامە قەرەباڵغەکانی شارە خۆشەویستەکەیدا بنووسرێت."
     }
-  ]
+  ],
+  "TheHeart": [
+    {
+        "id": "1",
+        "english": "In a bustling laboratory nestled within the heart of the city, a team of brilliant scientists worked tirelessly to unravel the mysteries of the human heart. Led by Dr. Maya Johnson, a renowned cardiologist, the team was on the brink of a groundbreaking discovery that would revolutionize the field of medicine.",
+        "kurdish": "لە تاقیگەیەکی قەرەباڵغدا کە لەناو دڵی شارەکەدا هەڵکەوتبوو، تیمێک لە زانای درەوشاوە ماندوو نەناسانە کاریان دەکرد بۆ هەڵدانەوەی نهێنییەکانی دڵی مرۆڤ. تیمەکە بە سەرۆکایەتی دکتۆر مایا جۆنسۆن، پزیشکی بەناوبانگی دڵ، لە لێواری دۆزینەوەیەکی پێشکەوتوودا بوون کە شۆڕشێک لە بواری پزیشکیدا دەکات."
+    },
+    {
+        "id": "2",
+        "english": "Their research focused on developing a new type of artificial heart – a device that could mimic the intricate functions of the human heart with unparalleled precision. For years, scientists had struggled to create a truly effective artificial organ, but Dr. Johnson and her team were determined to succeed where others had failed.",
+        "kurdish": "توێژینەوەکانیان لەسەر پەرەپێدانی جۆرێکی نوێی دڵی دەستکرد بوو – ئامێرێک کە دەتوانێت بە وردبینییەکی بێهاوتای کارە ئاڵۆزەکانی دڵی مرۆڤ وەربگرێت. ساڵانێک بوو زاناکان خەباتیان دەکرد بۆ دروستکردنی ئەندامێکی دەستکردی بەڕاستی کارەبە، بەڵام دکتۆر جۆنسۆن و تیمەکەی بڕیاریان دابوو لەو شوێنانەی کە ئەوانی دیکە شکستیان هێنابێت سەرکەوتوو بن."
+    },
+    {
+        "id": "3",
+        "english": "Their breakthrough came in the form of a revolutionary material known as graphene – a single layer of carbon atoms arranged in a hexagonal lattice. Graphene possessed remarkable properties that made it ideal for constructing the intricate components of an artificial heart, including its ability to conduct electricity and withstand extreme conditions.",
+        "kurdish": "ئامێرەکانیان ئامادەبوون بۆ بەرزکردنی ماددەیەکی شۆڕگێڕانەدا بۆ گرافین – چینێک لە ئەتۆمەکانی کاربۆن کە لە تۆڕێکی شەشگۆشەدا ڕێکخراوە. گرافین خاوەنی تایبەتمەندییەکی سەرنجڕاکێش بوو کە وای لێکردبوو ببێتە شتێکی ئایدیاڵ بۆ دروستکردنی پێکهاتە ئاڵۆزەکانی دڵی دەستکرد، لەوانەش توانای گواستنەوەی کارەبە و بەرگەگرتنی بارودۆخە توندەکان."
+    },
+    {
+        "id": "4",
+        "english": "Using state-of-the-art 3D printing technology, the scientists began to design and manufacture the various parts of the artificial heart, carefully refining each component to ensure optimal performance. They integrated sensors and actuators into the device, allowing it to respond dynamically to changes in the body's physiology.",
+        "kurdish": "بە بەکارهێنانی تەکنەلۆژیای چاپی سێ ڕەهەندی، زاناکان دەستیان کرد بە دیزاینکردن و دروستکردنی بەشە جیاوازەکانی دڵی دەستکرد، بە وردی پاڵاوتنی هەر پێکهاتەیەک بۆ دڵنیابوون لە کارایی گونجاو. هەستەوەر و ئەکتوێتەرەکانیان لەناو ئامێرەکەدا هاتە یەکخست، ئەمەش ڕێگەی پێدا بە شێوەیەکی داینامیکی وەڵامی گۆڕانکارییەکانی فیزیۆلۆژیای جەستە بداتەوە."
+    },
+    {
+        "id": "5",
+        "english": "After months of meticulous testing and refinement, the first prototype of the artificial heart was ready for clinical trials. Dr. Johnson and her team carefully selected a group of patients suffering from severe heart disease to participate in the study, offering them a chance at new life with the groundbreaking device.",
+        "kurdish": "دوای چەند مانگێک لە تاقیکردنەوە و پاڵاوتنی ورد، یەکەم نموونەی دڵی دەستکرد ئامادە بوو بۆ تاقیکردنەوە کلینیکیەکان. دکتۆر جۆنسن و تیمەکەی بە وردی کۆمەڵێک نەخۆشیان هەڵبژارد کە بەدەست نەخۆشییە توندەکانی دڵەوە دەناڵێنن بۆ بەشداریکردن لە توێژینەوەکەدا، ئەمەش دەرفەتێکیان بۆ دابینکردنی ژیانێکی نوێ بەو ئامێرە پێشکەوتووە."
+    },
+    {
+        "id": "6",
+        "english": "As the trials progressed, the results were nothing short of miraculous. Patients who had once been bedridden and near death now found themselves with renewed vitality, their hearts beating strong and steady thanks to the revolutionary device developed by Dr. Johnson and her dedicated team.",
+        "kurdish": "کاتێکەیەک بەردەوامبوو، ئەنجامەکان زۆر جێگیربوون. بیمارەکان کە چوارەماڵبوو و بەشینی سەر مەرگی نوێ دۆزیانەوە بە باشترین خۆشی، دەنگەکانی دڵیان دەرکەوتنێکی زۆر و پێدەدەستێن لەوەی ئامێرە ڕێکخراوە دەستکرد بۆ دکتۆر جۆنسۆن و تیمەکەی پاشکەوتوویە."
+    },
+    {
+        "id": "7",
+        "english": "News of the successful trials spread like wildfire across the medical community, igniting hope for millions of patients worldwide. Dr. Johnson's pioneering work marked a new era in the treatment of heart disease, offering a glimpse into a future where artificial organs could save countless lives.",
+        "kurdish": "هەواڵەکانی تاقیکردنەوەی سەرکەوتوو دانانەوە وەک کە پاتەوانێکی تایبەتی لە لێگەڵ کۆمەڵەووەی زانکۆی پزیشکیەکە، پێشبینی هێشتاکانی ملیۆنەکانی بیمارانی جیهان. کارەکانی پێشەنگ دکتۆر جۆنسۆن وەک تەریتە بەرچاوەکردنێکی نوێ لە دروستکردنی نهێنیی دڵ، هەروەها لە دەرچوونێکی بۆ یەکێکی توانای ئەندامەکانی دەستکردی بتوانێت جیانەکانی بەشدار بکێت."
+    }
+]
+
 
 
 
