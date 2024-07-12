@@ -542,7 +542,69 @@
       "english": "Leo returned to his village, where he continued to lead with wisdom and compassion. Excalibur remained a beacon of hope and a reminder of the virtues Leo upheld. Through his actions, Leo showed that true strength lies not in the sword itself, but in the heart and mind of its wielder.",
       "kurdish": "لیۆ گەڕایەوە گوندەکەی خۆی، لەوێ بە حیکمەت و بەزەییەوە بەردەوام بوو لە سەرکردایەتیکردن. ئێکسکالیبور وەک چرایەکی هیوا و بیرهێنانەوەی ئەو فەزیلەتانە مایەوە کە لیۆ پشتگیری لێدەکرد. لیۆ لە ڕێگەی کردەوەکانیەوە نیشانیدا کە هێزی ڕاستەقینە لە خودی شمشێردا نییە، بەڵکو لە دڵ و مێشکی هەڵگرەکەیدایە."
     }
-  ]
+  ],
+   "ThePowerOfNow": [
+    {
+        "id": "1",
+        "english": "In a bustling city filled with noise and distractions, there lived a young man named Ethan who always found himself worrying about the past or fretting about the future. He felt like he was constantly chasing after something, never truly present in the moment.",
+        "kurdish": "لە شارێکی قەرەباڵغدا کە پڕ بوو لە ژاوەژاو و سەرقاڵکردن، گەنجێک بە ناوی ئیتان دەژیا کە هەمیشە خۆی دەبینی کە خەمی ڕابردوو بوو یان خەمی داهاتوو بوو. هەستی دەکرد بەردەوام بەدوای شتێکدا دەگەڕێت، هەرگیز بەڕاستی لەو ساتەدا ئامادە نییە."
+    },
+    {
+        "id": "2",
+        "english": "One day, while walking through a park, Ethan came across an old man sitting peacefully on a bench. The man had a serene expression on his face, as if he carried a profound sense of calm within him.",
+        "kurdish": "ڕۆژێک لە کاتی ڕۆیشتن بەناو پارکێکدا، ئیتان تووشی پیرە پیاوێک بوو کە بە ئارامی لەسەر کورسییەک دانیشتبوو. پیاوەکە دەربڕینێکی ئارام لە دەموچاویدا بوو، وەک ئەوەی هەستێکی قووڵی ئارامیی لەناو خۆیدا هەڵگرتبێت."
+    },
+    {
+        "id": "3",
+        "english": "Intrigued, Ethan approached the old man and asked, 'How do you stay so calm and peaceful amidst all the chaos of the world?'",
+        "kurdish": "ئیتان بە سەرسامییەوە لە پیرەمێردەکە نزیک بووەوە و پرسی: 'چۆن لەناو ئەو هەموو ئاژاوەی جیهاندا ئەوەندە ئارام و ئارام دەمێنیتەوە؟'"
+    },
+    {
+        "id": "4",
+        "english": "The old man smiled kindly and replied, 'It's because I've learned the power of now. The present moment is all we ever truly have.'",
+        "kurdish": "پیرەمێردەکە بە میهرەبانییەوە زەردەخەنەی کرد و وەڵامی دایەوە: 'ئەوە لەبەر ئەوەیە کە من فێری هێزی ئێستا بووم. ساتەوەختی ئێستا تەنها شتێکە کە بەڕاستی هەمانە.'"
+    },
+    {
+        "id": "5",
+        "english": "Ethan was puzzled. 'But what about the past and the future?' he asked.",
+        "kurdish": "ئیتان سەری سوڕما. 'بەڵام ئەی ڕابردوو و داهاتوو؟' ئەو پرسی."
+    },
+    {
+        "id": "6",
+        "english": "The old man gestured around them. 'Look at this park,' he said. 'Right now, we're surrounded by beauty – the vibrant colors of the flowers, the gentle rustle of the leaves, the warmth of the sun on our skin. This moment is perfect just as it is.'",
+        "kurdish": "پیرەمێردەکە ئاماژەی بە دەوروبەریان کرد. وتی: 'سەیری ئەم پارکە بکەن. لە ئێستادا، ئێمە بە جوانی دەورە دراوین - ڕەنگە زیندووەکانی گوڵەکان، زەقبوونەوەی نەرمی گەڵاکان، گەرمی خۆر لەسەر پێستمان. ئەم ساتە وەک خۆی تەواو و بێ کەموکوڕییە.'"
+    },
+    {
+        "id": "7",
+        "english": "Ethan looked around and realized that he had been missing out on the beauty of the present moment. He had been so preoccupied with his worries and regrets that he hadn't noticed the simple joys that surrounded him.",
+        "kurdish": "ئیتان سەیری دەوروبەری کرد و تێگەیشت کە جوانی ساتەوەختی ئێستای لەدەستداوە. ئەوەندە سەرقاڵی خەم و پەشیمانی خۆی بووبوو، سەرنجی ئەو خۆشییە سادانەی نەدابوو کە دەوریان داوە."
+    },
+    {
+        "id": "8",
+        "english": "The old man continued, 'The past is gone, and the future hasn't happened yet. All we have is this moment, right here, right now. When we learn to fully embrace the present, we free ourselves from the burdens of the past and the anxieties of the future.'",
+        "kurdish": "پیرەمێردەکە درێژەی بە قسەکانی دا و وتی: 'ڕابردوو نەماوە، داهاتووش هێشتا ڕووی نەداوە. هەموو شتێک کە هەمانە ئەم ساتەیە، هەر لێرە، هەر ئێستا. کاتێک فێر دەبین بە تەواوی ئێستا لە باوەش بگرین، خۆمان لە بارگرانییەکانی ئەو ڕابردوو و دڵەڕاوکێکانی داهاتوو.'"
+    },
+    {
+        "id": "9",
+        "english": "Ethan listened intently, feeling a sense of clarity wash over him. He realized that by focusing on the present moment, he could find peace and contentment in the midst of life's challenges.",
+        "kurdish": "ئیتان بە وردی گوێی لێ بوو، هەستی دەکرد هەستێکی ڕوونی بەسەریدا دەشۆرێت. ئەو تێگەیشت کە بە تەرکیزکردن لەسەر ساتەوەختی ئێستا دەتوانێت ئارامی و ڕازیبوون لە ناوەڕاستی تەحەددیاتی ژیاندا بدۆزێتەوە."
+    },
+    {
+        "id": "10",
+        "english": "From that day on, Ethan made a conscious effort to practice mindfulness and live in the moment. He started by taking short walks in the park, paying attention to the sights, sounds, and sensations around him. Gradually, he learned to let go of his worries and immerse himself fully in the present.",
+        "kurdish": "لەو ڕۆژەوە ئیتان هەوڵێکی هۆشیارانەی دا بۆ پراکتیزەکردنی وردبینی و ژیان لە ساتەوەختەکەدا. سەرەتا بە پیاسەیەکی کورت لە پارکەکەدا دەستی پێکرد، گرنگی بە دیمەن و دەنگ و هەستەکانی دەوروبەری دەدا. وردە وردە فێری ئەوە بوو کە واز لە نیگەرانییەکانی بهێنێت و خۆی بە تەواوی لە ئێستادا نوقم بکات."
+    },
+    {
+        "id": "11",
+        "english": "As time passed, Ethan noticed a profound shift in his outlook on life. He felt more relaxed, more joyful, and more connected to the world around him. The power of now had transformed him, allowing him to live each day with gratitude and appreciation.",
+        "kurdish": "لەگەڵ تێپەڕبوونی کاتدا، ئیتان سەرنجی گۆڕانکارییەکی قووڵی لە تێڕوانینی بۆ ژیاندا دا. زیاتر هەستی بە ئارامیی و خۆشی و زیاتر پەیوەندی بە جیهانی دەوروبەریەوە دەکرد. هێزی ئێستا گۆڕانکاری بەسەردا هاتبوو، ڕێگەی پێدابوو هەموو ڕۆژێک بە سوپاسگوزاری و پێزانینەوە بژی."
+    },
+    {
+        "id": "12",
+        "english": "Ethan continued to visit the old man in the park, grateful for the wisdom he had shared. Together, they sat on the bench, enjoying the simple pleasure of being present in each other's company.And in those moments, surrounded by the beauty of the present, Ethan understood the true power of now – to bring peace, to bring joy, and to bring meaning to every moment of life.",
+        "kurdish":"ئیتان بەردەوام بوو لە سەردانی پیرەمێردەکە لە پارکەکەدا، سوپاسگوزار بوو بۆ ئەو حیکمەتەی کە هاوبەشی کردبوو، پێکەوە لەسەر کورسییەکە دانیشتن و چێژیان لە چێژە سادەکانی ئامادەبوون لە کۆمەڵگەی یەکتردا دەبینی، لەو ساتانەی کە بە جوانییەکانی ئێستا دەورە دراوە، ئیتان تێگەیشت بۆ هێزی ڕاستەقینەی ئێستا - بۆ هێنانی ئاشتی، بۆ هێنانی خۆشی، و بۆ هێنانی مانا بۆ هەموو ساتەکانی ژیان."
+    }
+]
 
 
 
