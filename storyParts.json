@@ -745,6 +745,44 @@
             "english": "As the days turned into weeks, and the weeks into months, Ethan's journey took him to places he had never imagined – from bustling cities teeming with life to remote villages steeped in tradition. And with each new experience, he discovered a piece of himself he had never known before.",
             "kurdish": "لەگەڵ گۆڕانی ڕۆژەکان بۆ هەفتە، هەفتەکانیش بۆ مانگ، گەشتەکەی ئیتان بردییە ئەو شوێنانەی کە هەرگیز بە خەیاڵیدا نەهاتبوو – لە شارە قەرەباڵغەکانەوە کە پڕ بوون لە ژیان تا گوندە دوورەکان کە لە نەریتدا نوقم بوون. وە لەگەڵ هەر ئەزموونێکی نوێدا پارچەیەکی خۆی دۆزیەوە کە پێشتر نەیناسیبوو."
         }
+    ],
+  
+  "TheThread": [
+      {
+          "id": "1",
+          "english": "Once upon a time, in a world not unlike our own, there was a small town named Serenity. This town was known for its peaceful atmosphere and friendly inhabitants. However, beneath this tranquil facade, a secret was hidden.",
+          "kurdish": "سەردەمانێک لە جیهانێکدا کە جیاواز نەبوو لە جیهانەکەی خۆمان، شارۆچکەیەکی بچووک هەبوو بە ناوی سێرینیتی. ئەم شارۆچکەیە بە کەشێکی ئارام و دانیشتووانی دۆستانە ناسرابوو. بەڵام لە ژێر ئەم ڕووبەرە ئارامەدا، نهێنیەک شاراوە بوو."
+      },
+      {
+          "id": "2",
+          "english": "The town was home to a mysterious book, known only as \"The Thread\". This book was not ordinary; it was said to contain the secrets of the universe and the power to alter reality. The cover of the book was adorned with intricate designs, each thread intertwining with another, symbolizing the interconnectedness of all things.",
+          "kurdish": "شارۆچکەکە شوێنی کتێبێکی نهێنی بوو، کە تەنها بە \"تەڕەکە\" ناسرابوو. ئەم کتێبە ئاسایی نەبوو؛ دەوترێت نهێنییەکانی گەردوون و هێزی گۆڕینی واقیعی تێدایە. بەرگی کتێبەکە بە دیزاینی ئاڵۆز ڕازاوەتەوە، هەر تارێک لەگەڵ تارێکی تردا تێکەڵ بوو، هێمای پەیوەندیی هەموو شتەکان بوو."
+      },
+      {
+          "id": "3",
+          "english": "The book was kept in the town's library, guarded by the elderly librarian, Miss Agatha. She was the only one who knew the true power of the book and had dedicated her life to protecting it.",
+          "kurdish": "کتێبەکە لە کتێبخانەی شارۆچکەکەدا هەڵگیرابوو، لەلایەن کتێبخانەی بەساڵاچوو، شاجوان ئاگاتا، پاسەوانی دەکرا. ئەو تاکە کەس بوو کە هێزی ڕاستەقینەی کتێبەکە دەزانی و ژیانی خۆی بۆ پاراستنی تەرخان کردبوو."
+      },
+      {
+          "id": "4",
+          "english": "One day, a young girl named Lily moved to Serenity. Lily was a curious and adventurous girl, always seeking new knowledge. When she discovered the library, she was immediately drawn to \"The Thread\". Despite Miss Agatha's warnings, Lily couldn't resist the allure of the book.",
+          "kurdish": "ڕۆژێک کچێکی گەنج بە ناوی لیلی ڕووی لە سێرینیتی کرد. لیلی کچێکی کنجکاو و سەرگەردان بوو، هەمیشە بەدوای زانیاری نوێدا دەگەڕا. کاتێک کتێبخانەکەی دۆزیەوە، یەکسەر سەرنجی بۆ فیلمی \"The Thread\" ڕاکێشا. سەرەڕای هۆشدارییەکانی شاجوان ئاگاتا، لیلی نەیتوانی بەرەنگاری سەرنجڕاکێشیی کتێبەکە بێتەوە."
+      },
+      {
+          "id": "5",
+          "english": "As she opened the book, she was transported to a different world, a world where every thought and action could alter reality. She was overwhelmed but also fascinated. She realized that with this power, she could make the world a better place.",
+          "kurdish": "لەگەڵ کردنەوەی کتێبەکەدا، گواسترایەوە بۆ جیهانێکی جیاواز، جیهانێک کە هەموو بیرکردنەوە و کردارێک دەتوانێت واقیع بگۆڕێت. سەری سوڕمابوو بەڵام سەرسام بوو. ئەو تێگەیشت کە بەم هێزە دەتوانێت جیهان بکاتە شوێنێکی باشتر."
+      },
+      {
+          "id": "6",
+          "english": "However, she also understood the danger of such power. It could easily be misused, leading to chaos and destruction. So, Lily made a promise to use the power of \"The Thread\" wisely, to help others and maintain the balance of the universe.",
+          "kurdish": "بەڵام ئەو ژنە لە مەترسی ئەو جۆرە دەسەڵاتەش تێگەیشتبوو. بە ئاسانی دەتوانرا خراپ بەکاربهێنرێت و ببێتە هۆی ئاژاوە و وێرانکاری. بۆیە، لیلی بەڵێنی دا کە هێزی \"تەڕەکە\" بە شێوەکی ژیرانە بەکاربهێنێت، بۆ ئەوەی یارمەتی کەسانی دیکە بدات و هاوسەنگی گەردوون بپارێزێت."
+      },
+      {
+          "id": "7",
+          "english": "And so, Lily's adventure began, an adventure filled with challenges, discoveries, and the immense responsibility of wielding the power of \"The Thread\". Through this journey, she learned about the interconnectedness of all things and the importance of balance and harmony.",
+          "kurdish": "بەم شێوەیە، سەرگەرمییەکەی لیلی دەستی پێکرد، سەرگەرمییەک پڕ بوو لە تەحەدا و دۆزینەوە و بەرپرسیارێتی بێئەندازەی بەکارهێنانی هێزی "تەڕەکە". لە ڕێگەی ئەم گەشتەوە فێری پەیوەندی هەموو شتەکان و گرنگی هاوسەنگی و هاوسەنگی بوو."
+      }
     ]
 
 
