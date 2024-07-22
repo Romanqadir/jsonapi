@@ -3,9 +3,9 @@
   "PrSimple": [
     {
       "id": "1",
-      "question": "تێرمیناڵ",
+      "question": "دەروازە",
       "options": ["airport", "terminal", "pilot", "gate"],
-      "correctOption": "terminal",
+      "correctOption": "gate",
       "isMatched": false,
       "isDisabled": false
     },
@@ -19,17 +19,17 @@
     },
     {
       "id": "3",
-      "question": "دەروازە",
+      "question": "فرۆکەخانە",
       "options": ["airport", "terminal", "pilot", "gate"],
-      "correctOption": "gate",
+      "correctOption": "airport",
       "isMatched": false,
       "isDisabled": false
     },
     {
       "id": "4",
-      "question": "فڕۆکەخانە",
-      "options": ["airport", "terminal", "pilot", "gate"],
-      "correctOption": "airport",
+      "question": "ئەندازیار",
+       "options": ["soldier", "teacher", "engineer", "driver"],
+      "correctOption": "engineer",
       "isMatched": false,
       "isDisabled": false
     },
@@ -307,7 +307,7 @@
   },
   {
       "id": "40",
-      "question": "گاڵا",
+      "question": "گەڵا",
       "options": ["leaf", "branch", "flower", "root"],
       "correctOption": "leaf",
       "isMatched": false,
@@ -414,6 +414,166 @@
       "question": "کڵاو",
       "options": ["shirt", "jacket", "hat", "scarf"],
       "correctOption": "hat",
+      "isMatched": false,
+      "isDisabled": false
+  },
+    {
+      "id": "54",
+      "question": "ئاو",
+      "options": ["water", "milk", "juice", "tea"],
+      "correctOption": "water",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "55",
+      "question": "بژمێر",
+      "options": ["computer", "phone", "calculator", "printer"],
+      "correctOption": "calculator",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "56",
+      "question": "زەوی",
+      "options": ["moon", "planet", "sun", "earth"],
+      "correctOption": "earth",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "57",
+      "question": "مامۆستا",
+      "options": ["scientist", "engineer", "doctor", "teacher"],
+      "correctOption": "engineer",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "58",
+      "question": "ئاوێنە",
+      "options": ["mirror", "window", "door", "wall"],
+      "correctOption": "mirror",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "59",
+      "question": "پێڵاو",
+      "options": ["socks", "shoes", "sandals", "boots"],
+      "correctOption": "shoes",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "60",
+      "question": "پەنجەرە",
+      "options": ["door", "window", "roof", "floor"],
+      "correctOption": "window",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "61",
+      "question": "کورد",
+      "options": ["Iranian", "Iraqi", "Kurdish", "Turkish"],
+      "correctOption": "Kurdish",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "62",
+      "question": "چا",
+      "options": ["tea", "coffe", "water", "sand"],
+      "correctOption": "tea",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "63",
+      "question": "نەعل",
+      "options": ["boot", "sandal", "camp", "sock"],
+      "correctOption": "sandal",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "64",
+      "question": "نووسین",
+      "options": ["writing", "reading", "drawing", "painting"],
+      "correctOption": "writing",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "65",
+      "question": "بەردەوام بوون",
+      "options": ["start", "begin", "complete", "continue"],
+      "correctOption": "continue",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "66",
+      "question": "پەیوەندی",
+      "options": ["contact", "disconnect", "ignore", "remove"],
+      "correctOption": "contact",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "67",
+      "question": "پەرستار",
+      "options": ["doctor", "nurse", "soldier", "teacher"],
+      "correctOption": "nurse",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "68",
+      "question": "هێما",
+      "options": ["number", "letter", "symbol", "figure"],
+      "correctOption": "symbol",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "69",
+      "question": "تۆپی پێ",
+      "options": ["football", "basketball", "tennis", "cricket"],
+      "correctOption": "football",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "70",
+      "question": "شار",
+      "options": ["city", "village", "town", "country"],
+      "correctOption": "city",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "71",
+      "question": "پەردە",
+      "options": ["curtain", "window", "door", "wall"],
+      "correctOption": "curtain",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "72",
+      "question": "پشیلە",
+      "options": ["cat", "dog", "bird", "fish"],
+      "correctOption": "cat",
+      "isMatched": false,
+      "isDisabled": false
+  },
+  {
+      "id": "73",
+      "question": "باڵندە",
+      "options": ["dog", "cat", "bird", "fish"],
+      "correctOption": "bird",
       "isMatched": false,
       "isDisabled": false
   }
