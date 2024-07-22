@@ -152,6 +152,94 @@
       "correctOption": "opens",
       "isMatched": false,
       "isDisabled": false
+    },
+     {
+        "id": "20",
+        "question": "She ___ (to visit) her grandmother last weekend.",
+        "options": ["visit", "visits", "visited", "visiting"],
+        "correctOption": "visited",
+        "isMatched": false,
+        "isDisabled": false
+    },
+    {
+        "id": "21",
+        "question": "They ___ (to start) the project next month.",
+        "options": ["start", "starts", "starting", "will start"],
+        "correctOption": "will start",
+        "isMatched": false,
+        "isDisabled": false
+    },
+    {
+        "id": "22",
+        "question": "I ___ (to have) lunch with my friends every Friday.",
+        "options": ["have", "has", "having", "had"],
+        "correctOption": "have",
+        "isMatched": false,
+        "isDisabled": false
+    },
+    {
+        "id": "23",
+        "question": "They ___ (to be) studying for the exam right now.",
+        "options": ["are", "is", "was", "will be"],
+        "correctOption": "are",
+        "isMatched": false,
+        "isDisabled": false
+    },
+    {
+        "id": "24",
+        "question": "She ___ (to complete) her homework before dinner.",
+        "options": ["complete", "completed", "completing", "has completed"],
+        "correctOption": "has completed",
+        "isMatched": false,
+        "isDisabled": false
+    },
+    {
+        "id": "25",
+        "question": "They ___ (to walk) to the park yesterday.",
+        "options": ["walk", "walks", "walked", "walking"],
+        "correctOption": "walked",
+        "isMatched": false,
+        "isDisabled": false
+    },
+    {
+        "id": "26",
+        "question": "We ___ (to visit) a museum next week.",
+        "options": ["visit", "visits", "visited", "will visit"],
+        "correctOption": "will visit",
+        "isMatched": false,
+        "isDisabled": false
+    },
+    {
+        "id": "27",
+        "question": "He ___ (to read) a book at the moment.",
+        "options": ["reads", "read", "reading", "is reading"],
+        "correctOption": "is reading",
+        "isMatched": false,
+        "isDisabled": false
+    },
+    {
+        "id": "28",
+        "question": "They ___ (to know) each other for five years.",
+        "options": ["know", "knew", "knows", "have known"],
+        "correctOption": "have known",
+        "isMatched": false,
+        "isDisabled": false
+    },
+    {
+        "id": "29",
+        "question": "I ___ (to go) to the gym every morning.",
+        "options": ["go", "goes", "going", "went"],
+        "correctOption": "go",
+        "isMatched": false,
+        "isDisabled": false
+    },
+    {
+        "id": "30",
+        "question": "She ___ (to make) dinner right now.",
+        "options": ["make", "makes", "making", "is making"],
+        "correctOption": "is making",
+        "isMatched": false,
+        "isDisabled": false
     }
 ]
 }
