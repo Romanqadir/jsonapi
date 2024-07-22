@@ -1,0 +1,674 @@
+[
+  {
+    "Id": "1",
+    "Word": "agree",
+    "Example": "The food is very good in that restaurant. I agree with you.",
+    "Kurdish": "ڕازی بوون",
+    "KurdishExample": "خواردنی ئەو چێشتخانەیە زۆر باشە. هاوڕام لەگەڵت."
+  },
+  {
+    "Id": "2",
+    "Word": "arrive",
+    "Example": "They arrived at school at 7 am.",
+    "Kurdish": "گەیشتن",
+    "KurdishExample": "کاتژمێر ٧ی بەیانی گەیشتنە قوتابخانە."
+  },
+  {
+    "Id": "3",
+    "Word": "attack",
+    "Example": "The army will attack the enemy at dawn.",
+    "Kurdish": "هێرشکردن",
+    "KurdishExample": "سوپاكە لە بەیانیدا هێرش دەکاتە سەر دوژمن."
+  },
+  {
+    "Id": "4",
+    "Word": "bottom",
+    "Example": "The bottom of my shoe has a hole in it.",
+    "Kurdish": "بن، ژێر",
+    "KurdishExample": "بنی پێڵاوەکەم کونێکی تێدایە."
+  },
+  {
+    "Id": "5",
+    "Word": "clever",
+    "Example": "The clever boy thought of a good idea.",
+    "Kurdish": "زیرەک",
+    "KurdishExample": "کوڕە زیرەکەکە بیری لە بیرۆکەیەکی باش کردەوە."
+  },
+  {
+    "Id": "6",
+    "Word": "cruel",
+    "Example": "The cruel man yelled at his sister.",
+    "Kurdish": "دڵڕەق",
+    "KurdishExample": "پیاوە دڵڕەقەکە هاوارێکی بەسەر خوشکەکەیدا کرد."
+  },
+  {
+    "Id": "7",
+    "Word": "hide",
+    "Example": "The other children will hide while you count to 100.",
+    "Kurdish": "شاردنەوە",
+    "KurdishExample": "منداڵەکانی تر خۆیان دەشارنەوە لەکاتێکدا تۆ تا 100 دەژمێری."
+  },
+  {
+    "Id": "8",
+    "Word": "hunt",
+    "Example": "The men take their bows and arrows to hunt.",
+    "Kurdish": "ڕاوکردن",
+    "KurdishExample": "پیاوەکان کەوان و تیرەکانیان دەبەن بۆ ڕاوکردن."
+  },
+  {
+    "Id": "9",
+    "Word": "lot",
+    "Example": "There are a lot of apples in the basket.",
+    "Kurdish": "زۆر",
+    "KurdishExample": "سێوێکی زۆر لە سەبەتەکەدا هەیە."
+  },
+  {
+    "Id": "10",
+    "Word": "middle",
+    "Example": "She sat in the middle of the room.",
+    "Kurdish": "ناوەند",
+    "KurdishExample": "لە ناوەڕاستی ژوورەکەدا دانیشت."
+  },
+  {
+    "Id": "11",
+    "Word": "moment",
+    "Example": "I was only a few moments late for the meeting.",
+    "Kurdish": "سات",
+    "KurdishExample": "تەنها چەند ساتێک دواکەوتم لە کۆبوونەوەکە."
+  },
+  {
+    "Id": "12",
+    "Word": "pleased",
+    "Example": "She was pleased with the phone call she received.",
+    "Kurdish": "خۆشحال",
+    "KurdishExample": "ئەو بەو پەیوەندییە تەلەفۆنییەی کە وەریگرتبوو، دڵخۆش بوو."
+  },
+  {
+    "Id": "13",
+    "Word": "promise",
+    "Example": "He made a promise to help her whenever she needed it.",
+    "Kurdish": "پەیمان",
+    "KurdishExample": "بەڵێنی دا کە هەرکاتێک پێویستی پێی بوو یارمەتی بدات."
+  },
+  {
+    "Id": "14",
+    "Word": "reply",
+    "Example": "She asked him what time his meeting was. He replied, \"at three.\"",
+    "Kurdish": "وەڵام",
+    "KurdishExample": "پرسیاری لێکرد کە کۆبوونەوەکەت کاتژمێر چەندە. لە وەڵامدا وتی: \"لە کاتژمێر سێ\"."
+  },
+  {
+    "Id": "15",
+    "Word": "safe",
+    "Example": "Put on your seat belt in the car to be safe.",
+    "Kurdish": "سەلامەت",
+    "KurdishExample": "پشتێنی سەلامەتی لەناو ئۆتۆمبێلدا ببەستە بۆ ئەوەی سەلامەت بیت."
+  },
+  {
+    "Id": "16",
+    "Word": "trick",
+    "Example": "His card trick really surprised us.",
+    "Kurdish": "فێڵ",
+    "KurdishExample": "فێڵی کارتەکەی بەڕاستی سەرسامی کردین."
+  },
+  {
+    "Id": "17",
+    "Word": "well",
+    "Example": "The couple can dance quite well.",
+    "Kurdish": "باش",
+    "KurdishExample": "ئەو دوو هاوسەرە دەتوانن تاڕادەیەک باش سەما بکەن."
+  },
+  {
+    "Id": "18",
+    "Word": "adventure",
+    "Example": "She travelled the world in search of adventure.",
+    "Kurdish": "سەرکەشی",
+    "KurdishExample": "بەدوای سەركەشی بە جیهاندا دەگەڕا."
+  },
+  {
+    "Id": "19",
+    "Word": "approach",
+    "Example": "The boy approached his school.",
+    "Kurdish": "نزیک بوونەوە",
+    "KurdishExample": "کوڕەکە لە قوتابخانەکەی خۆی نزیک بووەوە."
+  },
+  {
+    "Id": "20",
+    "Word": "carefully",
+    "Example": "He listened carefully to the way people spoke.",
+    "Kurdish": "بە وریایی",
+    "KurdishExample": "بە وریایی گوێی لە شێوازی قسەکردنی خەڵک بوو."
+  },
+  {
+    "Id": "21",
+    "Word": "race",
+    "Example": "The race to reach the moon took many years.",
+    "Kurdish": "پێشبڕکێ",
+    "KurdishExample": "پێشبڕکێی گەیشتن بە مانگ ساڵانی زۆری خایاند."
+  },
+  {
+    "Id": "22",
+    "Word": "react",
+    "Example": "She didn't react when I said hello, which surprised me.",
+    "Kurdish": "کاردانەوە",
+    "KurdishExample": "کاتێک سڵاوم کرد کاردانەوەی نەبوو، ئەمەش سەرسامی کردم."
+  },
+  {
+    "Id": "23",
+    "Word": "realize",
+    "Example": "I didn't realize how much I missed my family until I saw them again.",
+    "Kurdish": "پێدەزانێ",
+    "KurdishExample": "درکم بەوە نەدەکرد کە چەندە بیری خێزانەکەم دەکەم تا جارێکی تر بیانبینمەوە."
+  },
+  {
+    "Id": "24",
+    "Word": "reach",
+    "Example": "Can you reach the book on the top shelf for me?",
+    "Kurdish": "گەیشتن",
+    "KurdishExample": "دەتوانی بۆ من بگەیتە ئەو کتێبەی لەسەر ڕەفەی سەرەوەیە؟"
+  },
+{
+  "Id": "25",
+  "Word": "receive",
+  "Example": "I was happy to receive a gift from my best friend.",
+  "Kurdish": "وەرگرتن",
+  "KurdishExample": "دڵخۆش بووم بە وەرگرتنی دیاری لە باشترین هاوڕێم."
+},
+{
+  "Id": "26",
+  "Word": "recognize",
+  "Example": "Even after many years, he could still recognize his childhood home.",
+  "Kurdish": "ناسینەوە",
+  "KurdishExample": "دوای چەندین ساڵ، هێشتا دەیتوانی خانوی منداڵی خۆی بناسێتەوە."
+},
+{
+  "Id": "27",
+  "Word": "relax",
+  "Example": "After a long day at work, I like to relax by watching TV.",
+  "Kurdish": "حەسانەوە",
+  "KurdishExample": "دوای ڕۆژێکی درێژ لە کارەکەم حەزم لە حەسانەوەیە بە سەیرکردنی تەلەفزیۆن."
+},
+{
+  "Id": "28",
+  "Word": "release",
+  "Example": "The zoo plans to release the animals back into the wild.",
+  "Kurdish": "ئازادکردن",
+  "KurdishExample": "باخچەی ئاژەڵان بەنیازن ئەو ئاژەڵانە ئازاد بکەنەوە بۆ ناو کێو"
+},
+{
+  "Id": "29",
+  "Word": "remain",
+  "Example": "Please remain seated until the plane comes to a complete stop.",
+  "Kurdish": "مانەوە",
+  "KurdishExample": "تکایە بە دانیشتن بمێننەوە تا فڕۆکەکە بە تەواوی دەوەستێت."
+},
+{
+  "Id": "30",
+  "Word": "remove",
+  "Example": "I need to remove this stain from my shirt.",
+  "Kurdish": "لابردن",
+  "KurdishExample": "پێویستە ئەم پەڵەیە لەسەر کراسەکەم لاببەم."
+},
+{
+  "Id": "31",
+  "Word": "reply",
+  "Example": "I always try to reply to my emails within 24 hours.",
+  "Kurdish": "وەڵام",
+  "KurdishExample": "هەمیشە هەوڵ دەدەم لە ماوەی 24 کاتژمێردا وەڵامی ئیمەیڵەکانم بدەمەوە."
+},
+{
+  "Id": "32",
+  "Word": "report",
+  "Example": "The journalist wrote a report about the local festival.",
+  "Kurdish": "ڕاپۆرت",
+  "KurdishExample": "ڕۆژنامەنووسەکە ڕاپۆرتێکی لەسەر فێستیڤاڵە ناوخۆییەکە نووسیوە."
+},
+{
+  "Id": "33",
+  "Word": "request",
+  "Example": "I would like to request a day off from work.",
+  "Kurdish": "داواکاری",
+  "KurdishExample": "حەز دەکەم لە کارەکەم داوای ڕۆژێک پشوو بکەم."
+},
+{
+  "Id": "34",
+  "Word": "require",
+  "Example": "How big a loan will you require?",
+  "Kurdish": "پێویست",
+  "KurdishExample":"قەرزێکی چەند گەورەت پێویستە؟"
+},
+{
+  "Id": "35",
+  "Word": "reside",
+  "Example": "My grandparents reside in a small village.",
+  "Kurdish": "نیشتەجێ",
+  "KurdishExample": "باپیرانم لە گوندێکی بچووک نیشتەجێن."
+},
+{
+  "Id": "36",
+  "Word": "respect",
+  "Example": "It's important to respect other people's opinions.",
+  "Kurdish": "ڕێزگرتن",
+  "KurdishExample": "گرنگە ڕێز لە بۆچوونی کەسانی تر بگیرێت."
+},
+{
+  "Id": "37",
+  "Word": "respond",
+  "Example": "How did she respond to the news?",
+  "Kurdish": "وەڵامدانەوە",
+  "KurdishExample": "چۆن وەڵامی هەواڵەکانی دایەوە؟"
+},
+{
+  "Id": "38",
+  "Word": "result",
+  "Example": "The result of the test will be announced tomorrow.",
+  "Kurdish": "ئەنجام",
+  "KurdishExample": "سبەی ئەنجامی پشکنینەکە ڕادەگەیەنرێت."
+},
+{
+  "Id": "39",
+  "Word": "return",
+  "Example": "Please return the book to the library when you're done.",
+  "Kurdish": "گەڕانەوە",
+  "KurdishExample": "تکایە کاتێک تەواو بوویت کتێبەکە بگەڕێنەرەوە بۆ کتێبخانە."
+},
+{
+  "Id": "40",
+  "Word": "reward",
+  "Example": "She received a reward for her hard work.",
+  "Kurdish": "خەڵات",
+  "KurdishExample": "پاداشتی ماندووبوونی وەرگرت."
+},
+  {
+    "Id": "41",
+    "Word": "appear",
+    "Example": "He suddenly appeared in the doorway.",
+    "Kurdish": "دەرکەوتن",
+    "KurdishExample": "لەناکاو لە دەرگاکە دەرکەوت."
+  },
+  {
+    "Id": "42",
+    "Word": "base",
+    "Example": "The base of the mountain is very wide.",
+    "Kurdish": "بنچینە",
+    "KurdishExample": "بنکەی شاخەکە زۆر پان و بەرینە."
+  },
+  {
+    "Id": "43",
+    "Word": "brain",
+    "Example": "The brain controls all the functions of the body.",
+    "Kurdish": "مێشک",
+    "KurdishExample": "مێشک کۆنتڕۆڵی سەرجەم کارەکانی لەش دەکات."
+  },
+  {
+    "Id": "44",
+    "Word": "career",
+    "Example": "She is pursuing a career in medicine.",
+    "Kurdish": "پیشە",
+    "KurdishExample": "ئەو کچە لە بواری پزیشکیدا بەدوای پیشەیەکدا دەگەڕێت."
+  },
+  {
+    "Id": "45",
+    "Word": "clerk",
+    "Example": "The clerk at the store was very helpful.",
+    "Kurdish": "کارمەند",
+    "KurdishExample": "کارمەندی فرۆشگاکە زۆر یارمەتیدەر بوو."
+  },
+  {
+    "Id": "46",
+    "Word": "effort",
+    "Example": "His effort to win the race was remarkable.",
+    "Kurdish": "هەوڵ",
+    "KurdishExample": "هەوڵەکانی بۆ بردنەوەی پێشبڕکێکە جێگەی سەرنج بوو."
+  },
+  {
+    "Id": "47",
+    "Word": "enter",
+    "Example": "Please enter through the main gate.",
+    "Kurdish": "چوونە ناو",
+    "KurdishExample": "تکایە لە دەروازەی سەرەکییەوە بچنە ژوورەوە."
+  },
+  {
+    "Id": "48",
+    "Word": "excellent",
+    "Example": "She received excellent grades in school.",
+    "Kurdish": "نایاب",
+    "KurdishExample": "لە قوتابخانە نمرەی نایابی وەرگرتبوو."
+  },
+  {
+    "Id": "49",
+    "Word": "hero",
+    "Example": "The firefighter was a hero for saving the child.",
+    "Kurdish": "پاڵەوان",
+    "KurdishExample": "ئاگرکوژێنەوەکە پاڵەوانێک بوو بۆ ڕزگارکردنی منداڵەکە."
+  },
+  {
+    "Id": "50",
+    "Word": "hurry",
+    "Example": "We need to hurry to catch the train.",
+    "Kurdish": "پەلەکردن",
+    "KurdishExample": "پێویستە پەلە بکەین بۆ گرتنی شەمەندەفەرەکە."
+  },
+  {
+    "Id": "51",
+    "Word": "inform",
+    "Example": "Please inform me about any changes in the schedule.",
+    "Kurdish": "ئاگادار کردنەوە",
+    "KurdishExample": "تکایە ئاگادارم بکەنەوە لە هەر گۆڕانکارییەک لە خشتەکەدا."
+  },
+  {
+    "Id": "52",
+    "Word": "later",
+    "Example": "I will call you later.",
+    "Kurdish": "دواتر",
+    "KurdishExample": "دواتر پەیوەندیت پێوە دەکەم."
+  },
+  {
+    "Id": "53",
+    "Word": "leave",
+    "Example": "She decided to leave the party early.",
+    "Kurdish": "جێهێشتن",
+    "KurdishExample": "بڕیاریدا زوو ئاهەنگەکە بەجێبهێڵێت."
+  },
+  {
+    "Id": "54",
+    "Word": "locate",
+    "Example": "Can you help me locate my keys?",
+    "Kurdish": "شوێن",
+    "KurdishExample": "دەتوانن یارمەتیم بدەن بۆ دۆزینەوەی شوێنی کلیلەکانم؟"
+  },
+  {
+    "Id": "55",
+    "Word": "nurse",
+    "Example": "The nurse took great care of the patients.",
+    "Kurdish": "پەرستار",
+    "KurdishExample": "پەرستارەكە زۆر گرنگی بە نەخۆشەکان دەدا."
+  },
+  {
+    "Id": "56",
+    "Word": "advice",
+    "Example": "She gave me useful advice for my project.",
+    "Kurdish": "ئامۆژگاری",
+    "KurdishExample": "ئەو پیشنیاریە فەرمی بوو بۆ پرۆژەکەی من."
+  },
+  {
+    "Id": "57",
+    "Word": "brief",
+    "Example": "The meeting was brief and to the point.",
+    "Kurdish": "کورت",
+    "KurdishExample": "کۆبوونەوەکە کورت و بە مەبەست بوو"
+  },
+  {
+    "Id": "58",
+    "Word": "calm",
+    "Example": "He tried to stay calm during the storm.",
+    "Kurdish": "ئارام",
+    "KurdishExample": "لە کاتی زریانەکەدا هەوڵیدا ئارام بێت."
+  },
+  {
+    "Id": "59",
+    "Word": "damage",
+    "Example": "The storm caused significant damage to the house.",
+    "Kurdish": "تێکشکان",
+    "KurdishExample": "زریانەکە زیانێکی بەرچاوی بە ماڵەکە گەیاند."
+  },
+  {
+    "Id": "60",
+    "Word": "easy",
+    "Example": "The task was easy to complete.",
+    "Kurdish": "ئاسان",
+    "KurdishExample": "ئەرکەکە ئاسان بوو بۆ تەواوکردن."
+  },
+  {
+    "Id": "61",
+    "Word": "fresh",
+    "Example": "She bought fresh vegetables from the market.",
+    "Kurdish": "تازە",
+    "KurdishExample": "سەوزەی تازەی لە بازاڕ کڕیوە."
+  },
+  {
+    "Id": "62",
+    "Word": "gently",
+    "Example": "Please handle the package gently.",
+    "Kurdish": "بە نەرمی",
+    "KurdishExample": "تکایە بە نەرمی مامەڵە لەگەڵ پاکەتەکەدا بکە."
+  },
+  {
+    "Id": "63",
+    "Word": "happy",
+    "Example": "She was very happy with her new job.",
+    "Kurdish": "خۆشحاڵ",
+    "KurdishExample": "زۆر دڵخۆش بوو بە کارە نوێیەکەی."
+  },
+  {
+    "Id": "64",
+    "Word": "improve",
+    "Example": "He wants to improve his English skills.",
+    "Kurdish": "باشترکردن",
+    "KurdishExample": "دەیەوێت توانای زمانی ئینگلیزی بەرەوپێش ببات."
+  },
+  {
+    "Id": "65",
+    "Word": "joke",
+    "Example": "He told a funny joke at the party.",
+    "Kurdish": "نوکتە",
+    "KurdishExample": "لە ئاهەنگەکەدا گاڵتەیەکی کۆمیدی گێڕایەوە."
+  },
+  {
+    "Id": "66",
+    "Word": "kitchen",
+    "Example": "The kitchen was clean and organized.",
+    "Kurdish": "چێشتخانە",
+    "KurdishExample": "چێشتخانەکە پاک و خاوێنی و ڕێک و پێک بوو."
+  },
+  {
+    "Id": "67",
+    "Word": "learn",
+    "Example": "She wants to learn how to cook.",
+    "Kurdish": "فێربوون",
+    "KurdishExample": "دەیەوێت فێری چێشت لێنان بێت."
+  },
+  {
+    "Id": "68",
+    "Word": "music",
+    "Example": "He enjoys listening to classical music.",
+    "Kurdish": "مۆسیقا",
+    "KurdishExample": "چێژ لە گوێگرتن لە مۆسیقای کلاسیک وەردەگرێت."
+  },
+  {
+    "Id": "69",
+    "Word": "natural",
+    "Example": "The park has beautiful natural scenery.",
+    "Kurdish": "سروشتی",
+    "KurdishExample": "پارکەکە دیمەنی سروشتی جوانی هەیە."
+  },
+  {
+    "Id": "70",
+    "Word": "open",
+    "Example": "The store is open from 9 to 5.",
+    "Kurdish": "کردنەوە",
+    "KurdishExample": "فرۆشگاکە لە کاتژمێر 9 بۆ 5 کراوە دەبێت."
+  },
+  {
+    "Id": "71",
+    "Word": "party",
+    "Example": "They organized a surprise party for her.",
+    "Kurdish": "ئاهەنگ",
+    "KurdishExample": "ئاهەنگێکی بە سوپرایزیان بۆ ڕێکخست."
+  },
+  {
+    "Id": "72",
+    "Word": "quick",
+    "Example": "She gave a quick response to the email.",
+    "Kurdish": "خێرا",
+    "KurdishExample": "وەڵامێکی خێرای بۆ ئیمەیڵەکە دایەوە."
+  },
+  {
+    "Id": "73",
+    "Word": "run",
+    "Example": "He can run very fast.",
+    "Kurdish": "ڕاکردن",
+    "KurdishExample": "دەتوانێت زۆر خێرا ڕابکات."
+  },
+  {
+    "Id": "74",
+    "Word": "small",
+    "Example": "The cat is very small.",
+    "Kurdish": "بچووک",
+    "KurdishExample": "پشیلەكە زۆر بچووکە."
+  },
+  {
+    "Id": "75",
+    "Word": "talk",
+    "Example": "They had a long talk about their plans.",
+    "Kurdish": "قسەکردن",
+    "KurdishExample": "قسەیەکی دوورودرێژیان لەسەر پلانەکانیان کرد."
+  },
+  {
+    "Id": "76",
+    "Word": "understand",
+    "Example": "I don't understand this problem.",
+    "Kurdish": "تێگەیشتن",
+    "KurdishExample": "من نازانم ئەم کێشەیە."
+  },
+  {
+    "Id": "77",
+    "Word": "angry",
+    "Example": "He was very angry about the mistake.",
+    "Kurdish": "توڕە",
+    "KurdishExample": "زۆر توڕە بوو لەو هەڵەیە."
+  },
+  {
+    "Id": "78",
+    "Word": "beautiful",
+    "Example": "The sunset was beautiful.",
+    "Kurdish": "جوان",
+    "KurdishExample": "خۆرئاوابوونەكە زۆر جوان بوو."
+  },
+  {
+    "Id": "79",
+    "Word": "careful",
+    "Example": "She was careful while crossing the street.",
+    "Kurdish": "وریا",
+    "KurdishExample": "لەکاتی پەڕینەوە لە شەقامەکە وریابوو."
+  },
+  {
+    "Id": "80",
+    "Word": "dance",
+    "Example": "They love to dance at parties.",
+    "Kurdish": "سەماکردن",
+    "KurdishExample": "زۆر حەزیان لە سەماکردنە لە ئاهەنگەکاندا."
+  },
+  {
+    "Id": "81",
+    "Word": "early",
+    "Example": "She arrived early to the meeting.",
+    "Kurdish": "زوو",
+    "KurdishExample": "زوو گەیشتە کۆبوونەوەکە."
+  },
+  {
+    "Id": "82",
+    "Word": "important",
+    "Example": "My family is very important to me.",
+    "Kurdish": "گرنگ",
+    "KurdishExample": "خێزانەکەم بۆ من زۆر گرنگە."
+  },
+  {
+    "Id": "83",
+    "Word": "green",
+    "Example": "The leaves are green in the spring.",
+    "Kurdish": "سەوز",
+    "KurdishExample": "گەڵاکان لە وەرزی بەهاردا سەوز دەبن."
+  },
+  {
+    "Id": "84",
+    "Word": "happy",
+    "Example": "She was happy with her new gift.",
+    "Kurdish": "دڵخۆش",
+    "KurdishExample": "دڵخۆش بوو بە دیارییە نوێیەکەی."
+  },
+  {
+    "Id": "85",
+    "Word": "ice",
+    "Example": "Add some ice to the drink.",
+    "Kurdish": "سەهۆڵ",
+    "KurdishExample": "بڕێک سەهۆڵ بخەرە ناو خواردنەوەکە."
+  },
+  {
+    "Id": "86",
+    "Word": "juice",
+    "Example": "I drank a glass of orange juice.",
+    "Kurdish": "شەربەت",
+    "KurdishExample": "پەرداخێک شەربەتی پرتەقاڵم خواردەوە."
+  },
+  {
+    "Id": "87",
+    "Word": "kind",
+    "Example": "She is a kind person.",
+    "Kurdish": "میهرەبان",
+    "KurdishExample": "کەسێکی میهرەبانە."
+  },
+  {
+    "Id": "88",
+    "Word": "read",
+    "Example": "They love to read books together.",
+    "Kurdish": "خوێندنەوە",
+    "KurdishExample": "زۆر حەزیان لە خوێندنەوەی کتێبە پێکەوە."
+  },
+  {
+    "Id": "89",
+    "Word": "moon",
+    "Example": "The moon is bright tonight.",
+    "Kurdish": "مانگ",
+    "KurdishExample": "ئەمشەو مانگ گەشاوە."
+  },
+  {
+    "Id": "90",
+    "Word": "night",
+    "Example": "They go to bed early at night.",
+    "Kurdish": "شەو",
+    "KurdishExample": "شەوان زوو دەخەون."
+  },
+  {
+    "Id": "91",
+    "Word": "open",
+    "Example": "The door is open.",
+    "Kurdish": "کردنەوە",
+    "KurdishExample": "دەرگاکە کراوەیە."
+  },
+  {
+    "Id": "92",
+    "Word": "play",
+    "Example": "Children love to play outside.",
+    "Kurdish": "یاریکردن",
+    "KurdishExample": "منداڵان زۆر حەز بە یاریکردن دەکەن لە دەرەوە."
+  },
+  {
+    "Id": "93",
+    "Word": "quiet",
+    "Example": "The library is quiet.",
+    "Kurdish": "بێدەنگ",
+    "KurdishExample": "کتێبخانەکە بێدەنگە."
+  },
+  {
+    "Id": "94",
+    "Word": "run",
+    "Example": "She likes to run in the park.",
+    "Kurdish": "ڕاکردن",
+    "KurdishExample": "حەزی لە ڕاکردنە لەناو پارکدا."
+  },
+  {
+    "Id": "95",
+    "Word": "small",
+    "Example": "He lives in a small house.",
+    "Kurdish": "بچووك",
+    "KurdishExample": "لە خانوویەکی بچووکدا دەژی."
+  },
+  {
+    "Id": "96",
+    "Word": "tall",
+    "Example": "The building is very tall.",
+    "Kurdish": "بەرز",
+    "KurdishExample": "بیناکە زۆر بەرزە."
+  }
+]
