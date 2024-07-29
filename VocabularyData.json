@@ -101,5 +101,58 @@
             "kurdishWord": "بڕۆ سەر جێگاکەت",
             "kurdishDefinition": "بۆ ئەوەی پاڵ بکەویت و بخەویت"
         }
+    ],
+    
+    "Lesson3": [
+        {
+            "id": "1",
+            "word": "Ecstatic",
+            "definition": "very happy",
+            "image": "https://img.freepik.com/premium-vector/man-with-red-jacket-blue-shirt-is-jumping-air-with-his-arms-raised_704913-15650.jpg?w=1060",
+            "kurdishWord": "خۆشحاڵ",
+            "kurdishDefinition": "زۆر خۆشحاڵ"
+        },
+        {
+            "id": "2",
+            "word": "Anxious",
+            "definition": "very worried",
+            "image": "https://img.freepik.com/premium-vector/person-feeling-sad-simple-minimalist-flat-design-style-with-plain-white-background_995281-15748.jpg?w=1060",
+            "kurdishWord": "پەشۆکاو",
+            "kurdishDefinition": "زۆر نیگەران"
+        },
+        {
+            "id": "3",
+            "word": "Furious",
+            "definition": "very angry",
+            "image": "https://img.freepik.com/premium-vector/cartoon-man-with-surprised-expression_1120557-38393.jpg?w=2000",
+            "kurdishWord": "هەڵجوو",
+            "kurdishDefinition": "زۆر تووڕە"
+        },
+        {
+            "id": "4",
+            "word": "Exhausted",
+            "definition": "very tired",
+            "image": "https://img.freepik.com/premium-vector/man-with-his-head-his-hands-is-sitting-table_1120554-3957.jpg?w=2000",
+            "kurdishWord": "شەکەت",
+            "kurdishDefinition": "زۆر ماندوو"
+        },
+        {
+            "id": "5",
+            "word": "Hilarious",
+            "definition": "very funny",
+            "image": "https://img.freepik.com/premium-vector/man-with-glasses-smile-his-face_901739-4097.jpg?w=996",
+            "kurdishWord": "گاڵتەئامێز",
+            "kurdishDefinition": "زۆر پێکەنیناوی"
+        },
+        {
+            "id": "6",
+            "word": "Terrified",
+            "definition": "very scared",
+            "image": "https://img.freepik.com/premium-vector/guy-anxiety-panic-attack-mental-illness-ai-generated-image_362642-2876.jpg?w=1060",
+            "kurdishWord": "تۆقێنەر",
+            "kurdishDefinition": "زۆر ترساو"
+        }
     ]
+
+
 }
