@@ -152,7 +152,60 @@
             "kurdishWord": "تۆقێنەر",
             "kurdishDefinition": "زۆر ترساو"
         }
+    ],
+    
+    "Lesson4": [
+        {
+            "id": "1",
+            "word": "Look at",
+            "definition": "to direct your eyes towards someone or something so that you can see them",
+            "image": "https://img.freepik.com/premium-vector/asian-male-teacher-his-40s-teaching-chemistry_1238364-105389.jpg?w=2000",
+            "kurdishWord": "تێڕامان",
+            "kurdishDefinition": "چاوەکانت بەرەو کەسێک یان شتێک ئاراستە بکەیت تا بتوانیت بیبینیت"
+        },
+        {
+            "id": "2",
+            "word": "Turn around",
+            "definition": "to move so that you are facing in the opposite direction",
+            "image": "https://img.freepik.com/premium-vector/refresh-pictogram_764382-19372.jpg?w=1060",
+            "kurdishWord": "سوڕانەوە",
+            "kurdishDefinition": "بەجۆرێک بجوڵێ کە ڕووت بە ئاراستەی پێچەوانە بێت"
+        },
+        {
+            "id": "3",
+            "word": "Look up to",
+            "definition": "to admire and respect someone",
+            "image": "https://img.freepik.com/premium-vector/happy-young-pretty-woman-surrounded-by-hands-showing-thumbs-up-gesture-concept-public-approval-success-achievement-positive-feedback_115124-192.jpg?w=1060",
+            "kurdishWord": "چاولێکردن",
+            "kurdishDefinition": "بۆ سەرسامبوون و ڕێزگرتن لە کەسێک"
+        },
+        {
+            "id": "4",
+            "word": "Glance",
+            "definition": "to take a brief or hurried look",
+            "image": "https://img.freepik.com/premium-vector/woman-thinking-about-question-vector-illustration_760443-484.jpg?w=1060",
+            "kurdishWord": "چاوتروکان",
+            "kurdishDefinition": "بۆ ئەوەی سەیرێکی کورت یان بەپەلە بکەیت"
+        },
+        {
+            "id": "5",
+            "word": "Stare",
+            "definition": "to look at someone or something for a long time without moving your eyes",
+            "image": "https://img.freepik.com/premium-vector/illustration-of-a-woman-putting-her-hand-on-her-face_951778-6165.jpg?w=1060",
+            "kurdishWord": "چاوتێبڕین",
+            "kurdishDefinition": "بۆ ماوەیەکی زۆر سەیری کەسێک یان شتێک بکەیت بەبێ ئەوەی چاوەکانت بجوڵێنیت"
+        },
+        {
+            "id": "6",
+            "word": "Peek",
+            "definition": "to look quickly, typically in a secretive manner",
+            "image": "https://img.freepik.com/premium-vector/chausie-cat-climbing-curtain_714091-96711.jpg?w=1060",
+            "kurdishWord": "بەدزی سایرکردن",
+            "kurdishDefinition": "بۆ ئەوەی بە خێرایی سەیر بکەیت، بە شێوەیەکی نهێنی"
+        }
     ]
+
+
 
 
 }
