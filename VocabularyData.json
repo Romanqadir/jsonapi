@@ -51,55 +51,55 @@
     
 ],
 
-"Lesson2":[
-    {
-        "id":"1",
-        "word":"Abundant",
-        "definition":" Existing or available in large quantities; plentiful.",
-        "kurdishWord":"بێ شومار",
-        "kurdishDefinition":"شتێکی زۆر لەبەردەستدایە."
-    },
-    {
-        "id":"2",
-        "word":"Benevolent",
-        "definition":"Well-meaning and kind",
-        "kurdishWord":"خێرخوازی",
-        "kurdishDefinition":" مەبەستی باش و میهرەبان"
-    },
-    {
-        "id":"3",
-        "word":"Comprehend",
-        "definition":"To understand or grasp the meaning of something",
-        "kurdishWord":"تێگەیشتن",
-        "kurdishDefinition":"بۆ تێگەیشتن یان تێگەیشتن لە مانای شتێک"
-    },
-    {
-        "id":"4",
-        "word":"Diligent",
-        "definition":"Showing careful and persistent effort or work",
-        "kurdishWord":"تێکۆشەر",
-        "kurdishDefinition":"نیشاندانی هەوڵی ورد و بەردەوام"
-    },
-    {
-        "id":"5",
-        "word":"Eloquent",
-        "definition":"Fluent or persuasive in speaking or writing.",
-        "kurdishWord":"قسەخۆش",
-        "kurdishDefinition":"شارەزا یان قایلکەر لە قسەکردن یان نووسیندا"
-    },
-    {
-        "id":"6",
-        "word":"Gratitude",
-        "definition":"The quality of being thankful or appreciative.",
-        "kurdishWord":"سوپاسگوزاری",
-        "kurdishDefinition":"کوالیتی سوپاسگوزار بوون یان قەدرزانی"
-    },
-    {
-        "id":"7",
-        "word":"Lucid",
-        "definition":"Clear and easily understandable; rational or sane",
-        "kurdishWord":"ڕوونی",
-        "kurdishDefinition":"ڕوون و بە ئاسانی تێگەیشتن؛"
-    }
-]
+
+    "Lesson2": [
+        {
+            "id": "1",
+            "word": "Wake up",
+            "definition": "to stop sleeping and become conscious",
+            "image": "https://img.freepik.com/free-vector/illustration-alarm-clock_53876-18131.jpg?w=1060",
+            "kurdishWord": "هەستان لەخەو",
+            "kurdishDefinition": "بۆ ئەوەی واز لە خەوتن بهێنێت و هۆشیار بێت"
+        },
+        {
+            "id": "2",
+            "word": "Brush teeth",
+            "definition": "to clean your teeth using a toothbrush and toothpaste",
+            "image": "https://img.freepik.com/free-vector/illustration-toothbrush-toothpaste_53876-18132.jpg?w=1060",
+            "kurdishWord": "ددان شۆردن",
+            "kurdishDefinition": "بۆ پاککردنەوەی ددانەکانت بە بەکارهێنانی فڵچەی ددان و مەعجونی ددان"
+        },
+        {
+            "id": "3",
+            "word": "Have breakfast",
+            "definition": "to eat the first meal of the day",
+            "image": "https://img.freepik.com/free-vector/breakfast-food-illustration_1284-13952.jpg?w=1060",
+            "kurdishWord": "نانی بەیانی",
+            "kurdishDefinition": "بۆ خواردنی یەکەم ژەمی ڕۆژەکە"
+        },
+        {
+            "id": "4",
+            "word": "Go to work",
+            "definition": "to leave home and travel to one's place of employment",
+            "image": "https://img.freepik.com/free-vector/businessman-walking-towards-office-building_74855-15526.jpg?w=1060",
+            "kurdishWord": "چوون بۆ کار",
+            "kurdishDefinition": "بۆ جێهێشتنی ماڵ و گەشتکردن بۆ شوێنی کارەکەی"
+        },
+        {
+            "id": "5",
+            "word": "Have lunch",
+            "definition": "to eat the midday meal",
+            "image": "https://img.freepik.com/free-vector/lunch-time-concept-illustration_114360-2236.jpg?w=1060",
+            "kurdishWord": "نانی نیوەڕۆ",
+            "kurdishDefinition": "بۆ خواردنی ژەمی نیوەڕۆ"
+        },
+        {
+            "id": "6",
+            "word": "Go to bed",
+            "definition": "to lie down and go to sleep",
+            "image": "https://img.freepik.com/free-vector/sleepy-boy-going-to-bed_1308-107690.jpg?w=1060",
+            "kurdishWord": "بڕۆ سەر جێگاکەت",
+            "kurdishDefinition": "بۆ ئەوەی پاڵ بکەویت و بخەویت"
+        }
+    ]
 }
