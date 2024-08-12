@@ -1,0 +1,455 @@
+[
+  {
+    "word": "کام وشە هاو واتای وشەی happy",
+    "correctOption": "joyful",
+    "incorrectOption": "sad"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی big",
+    "correctOption": "large",
+    "incorrectOption": "small"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی fast",
+    "correctOption": "quick",
+    "incorrectOption": "slow"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی hot",
+    "correctOption": "warm",
+    "incorrectOption": "cold"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی beautiful",
+    "correctOption": "gorgeous",
+    "incorrectOption": "ugly"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی brave",
+    "correctOption": "courageous",
+    "incorrectOption": "fearful"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی bright",
+    "correctOption": "radiant",
+    "incorrectOption": "dim"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی exciting",
+    "correctOption": "thrilling",
+    "incorrectOption": "boring"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی kind",
+    "correctOption": "compassionate",
+    "incorrectOption": "cruel"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی delicious",
+    "correctOption": "tasty",
+    "incorrectOption": "disgusting"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی cold",
+    "correctOption": "chilly",
+    "incorrectOption": "hot"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی smart",
+    "correctOption": "clever",
+    "incorrectOption": "dumb"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی tired",
+    "correctOption": "sleepy",
+    "incorrectOption": "energetic"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی clean",
+    "correctOption": "tidy",
+    "incorrectOption": "dirty"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی easy",
+    "correctOption": "simple",
+    "incorrectOption": "hard"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی funny",
+    "correctOption": "humorous",
+    "incorrectOption": "serious"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی loud",
+    "correctOption": "noisy",
+    "incorrectOption": "quiet"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی dark",
+    "correctOption": "dim",
+    "incorrectOption": "bright"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی happy",
+    "correctOption": "glad",
+    "incorrectOption": "sad"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی soft",
+    "correctOption": "gentle",
+    "incorrectOption": "rough"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی angry",
+    "correctOption": "mad",
+    "incorrectOption": "calm"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی start",
+    "correctOption": "begin",
+    "incorrectOption": "end"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی soft",
+    "correctOption": "fluffy",
+    "incorrectOption": "hard"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی quick",
+    "correctOption": "fast",
+    "incorrectOption": "slow"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی rich",
+    "correctOption": "wealthy",
+    "incorrectOption": "poor"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی near",
+    "correctOption": "close",
+    "incorrectOption": "far"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی cheap",
+    "correctOption": "inexpensive",
+    "incorrectOption": "expensive"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی funny",
+    "correctOption": "amusing",
+    "incorrectOption": "serious"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی tall",
+    "correctOption": "high",
+    "incorrectOption": "short"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی thin",
+    "correctOption": "slim",
+    "incorrectOption": "fat"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی cook",
+    "correctOption": "prepare",
+    "incorrectOption": "burn"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی clean",
+    "correctOption": "wash",
+    "incorrectOption": "dirty"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی drive",
+    "correctOption": "steer",
+    "incorrectOption": "walk"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی study",
+    "correctOption": "learn",
+    "incorrectOption": "forget"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی write",
+    "correctOption": "compose",
+    "incorrectOption": "erase"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی pack",
+    "correctOption": "bundle",
+    "incorrectOption": "unpack"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی teach",
+    "correctOption": "instruct",
+    "incorrectOption": "mislead"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی build",
+    "correctOption": "construct",
+    "incorrectOption": "destroy"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی travel",
+    "correctOption": "journey",
+    "incorrectOption": "stay"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی work",
+    "correctOption": "labor",
+    "incorrectOption": "rest"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی read",
+    "correctOption": "peruse",
+    "incorrectOption": "ignore"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی repair",
+    "correctOption": "fix",
+    "incorrectOption": "break"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی shop",
+    "correctOption": "buy",
+    "incorrectOption": "sell"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی bake",
+    "correctOption": "cook",
+    "incorrectOption": "freeze"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی paint",
+    "correctOption": "color",
+    "incorrectOption": "erase"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی organize",
+    "correctOption": "arrange",
+    "incorrectOption": "disorder"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی commute",
+    "correctOption": "travel",
+    "incorrectOption": "stay"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی wash",
+    "correctOption": "clean",
+    "incorrectOption": "stain"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی exercise",
+    "correctOption": "work out",
+    "incorrectOption": "rest"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی phone",
+    "correctOption": "call",
+    "incorrectOption": "ignore"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی listen",
+    "correctOption": "hear",
+    "incorrectOption": "ignore"
+  },
+  
+  {
+    "word": "کام وشە هاو واتای وشەی sweep",
+    "correctOption": "clean",
+    "incorrectOption": "scatter"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی fold",
+    "correctOption": "crease",
+    "incorrectOption": "unfold"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی attend",
+    "correctOption": "participate",
+    "incorrectOption": "skip"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی schedule",
+    "correctOption": "plan",
+    "incorrectOption": "cancel"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی save",
+    "correctOption": "store",
+    "incorrectOption": "waste"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی pour",
+    "correctOption": "spill",
+    "incorrectOption": "dry"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی lock",
+    "correctOption": "secure",
+    "incorrectOption": "unlock"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی mail",
+    "correctOption": "send",
+    "incorrectOption": "receive"
+  },
+  {
+    "word": "کام وشە هاو واتای وشەی boil",
+    "correctOption": "heat",
+    "incorrectOption": "freeze"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی happy",
+    "correctOption": "sad",
+    "incorrectOption": "joyful"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی fast",
+    "correctOption": "slow",
+    "incorrectOption": "quick"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی big",
+    "correctOption": "small",
+    "incorrectOption": "large"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی hot",
+    "correctOption": "cold",
+    "incorrectOption": "warm"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی early",
+    "correctOption": "late",
+    "incorrectOption": "on time"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی strong",
+    "correctOption": "weak",
+    "incorrectOption": "powerful"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی light",
+    "correctOption": "heavy",
+    "incorrectOption": "bright"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی noisy",
+    "correctOption": "quiet",
+    "incorrectOption": "loud"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی full",
+    "correctOption": "empty",
+    "incorrectOption": "complete"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی clean",
+    "correctOption": "dirty",
+    "incorrectOption": "tidy"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی afraid",
+    "correctOption": "brave",
+    "incorrectOption": "scared"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی agree",
+    "correctOption": "disagree",
+    "incorrectOption": "concur"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی angry",
+    "correctOption": "calm",
+    "incorrectOption": "mad"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی arrive",
+    "correctOption": "depart",
+    "incorrectOption": "enter"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی attack",
+    "correctOption": "defend",
+    "incorrectOption": "assault"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی bottom",
+    "correctOption": "top",
+    "incorrectOption": "low"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی clever",
+    "correctOption": "stupid",
+    "incorrectOption": "smart"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی cruel",
+    "correctOption": "kind",
+    "incorrectOption": "mean"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی finally",
+    "correctOption": "initially",
+    "incorrectOption": "lastly"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی hide",
+    "correctOption": "reveal",
+    "incorrectOption": "conceal"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی loud",
+    "correctOption": "quiet",
+    "incorrectOption": "noisy"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی nervous",
+    "correctOption": "calm",
+    "incorrectOption": "anxious"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی noise",
+    "correctOption": "silence",
+    "incorrectOption": "sound"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی scare",
+    "correctOption": "comfort",
+    "incorrectOption": "frighten"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی secret",
+    "correctOption": "open",
+    "incorrectOption": "hidden"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی terrible",
+    "correctOption": "wonderful",
+    "incorrectOption": "bad"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی worse",
+    "correctOption": "better",
+    "incorrectOption": "bad"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی alien",
+    "correctOption": "native",
+    "incorrectOption": "foreign"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی friendly",
+    "correctOption": "hostile",
+    "incorrectOption": "kind"
+  },
+  {
+    "word": "کام وشە پێچەوانەی وشەی fail",
+    "correctOption": "succeed",
+    "incorrectOption": "fall"
+  }
+
+
+]
