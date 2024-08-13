@@ -203,6 +203,56 @@
             "kurdishWord": "بەدزی سەیرکردن",
             "kurdishDefinition": "بۆ ئەوەی بە خێرایی سەیر بکەیت، بە شێوەیەکی نهێنی"
         }
+    ],
+    "Lesson5": [
+        {
+            "id": "1",
+            "word": "arrow",
+            "definition": "An arrow is a thin, straight stick shot from a bow",
+            "image": "https://img.freepik.com/free-photo/arrow-with-bright-neon-colors_23-2151205036.jpg?uid=R37862907&ga=GA1.1.865323815.1697063865&semt=ais_hybrid",
+            "kurdishWord": "تیر",
+            "kurdishDefinition": "تیر بریتییە لە دارێکی تەنک و ڕاست کە لە کەوانەوە تەقەی لێدەکرێت"
+        },
+        {
+            "id": "2",
+            "word": "battle",
+            "definition": "A battle is a fight between two armies during a war",
+            "image": "https://img.freepik.com/premium-vector/flicker-candlelight-highlights-glint-steel-as-athletes-move-perfect_216520-188938.jpg?uid=R37862907&ga=GA1.1.865323815.1697063865&semt=ais_hybrid",
+            "kurdishWord": "شەڕ",
+            "kurdishDefinition": "شەڕ بریتییە لە شەڕی نێوان دوو سوپا لە کاتی شەڕدا"
+        },
+        {
+            "id": "3",
+            "word": "bow",
+            "definition": "A bow is a weapon made of curved wood and string that shoots arrows.",
+            "image": "https://img.freepik.com/premium-vector/bow-arrow-icon-outline-gradient_969863-78415.jpg?uid=R37862907&ga=GA1.1.865323815.1697063865&semt=ais_hybrid",
+            "kurdishWord": "کەوان",
+            "kurdishDefinition": "کەوان بریتییە لە چەکێک کە لە دار و تارێکی کێشراو دروستکراوە و تیر لێدەردەچێت."
+        },
+        {
+            "id": "4",
+            "word": "enemy",
+            "definition": "a person who is actively opposed or hostile to someone or something.",
+            "image": "https://img.freepik.com/premium-photo/angry-emoji-with-boxing-gloves_1226883-218.jpg?uid=R37862907&ga=GA1.1.865323815.1697063865&semt=ais_hybrid",
+            "kurdishWord": "دوژمن",
+            "kurdishDefinition": "کەسێک کە چالاکانە دژایەتی یان دوژمنایەتی کەسێک یان شتێک دەکات."
+        },
+        {
+            "id": "5",
+            "word": "entrance",
+            "definition": "An entrance is a place where someone can enter an area",
+            "image": "https://img.freepik.com/free-photo/painting-gate-that-is-open-sun_1340-43319.jpg?uid=R37862907&ga=GA1.1.865323815.1697063865&semt=ais_hybrid",
+            "kurdishWord": "دەرگا",
+            "kurdishDefinition": "دەرگای چوونە ژوورەوە شوێنێکە کە کەسێک بتوانێت بچێتە ناو ناوچەیەکەوە"
+        },
+        {
+            "id": "6",
+            "word": "intend",
+            "definition": "To intend to do something means to plan to do it",
+            "image": "https://img.freepik.com/premium-vector/vector-man-showing-good-idea-gesture_844724-8600.jpg?uid=R37862907&ga=GA1.1.865323815.1697063865&semt=ais_hybrid",
+            "kurdishWord": "مەبەست",
+            "kurdishDefinition": "بەنیازی ئەنجامدانی شتێک واتە پلاندانان بۆ ئەنجامدانی"
+        }
     ]
 
 
