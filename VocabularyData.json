@@ -253,7 +253,60 @@
             "kurdishWord": "مەبەست",
             "kurdishDefinition": "بەنیازی ئەنجامدانی شتێک واتە پلاندانان بۆ ئەنجامدانی"
         }
+    ],
+    
+    "Lesson6": [
+        {
+            "id": "1",
+            "word": "confidence",
+            "definition": "If you have confidence about something, you are sure of it.",
+            "image": "https://img.freepik.com/free-vector/successful-business-man-holding-trophy_1150-35042.jpg?uid=R37862907&ga=GA1.1.865323815.1697063865&semt=ais_hybrid",
+            "kurdishWord": "متمانە",
+            "kurdishDefinition": "ئەگەر متمانەت بە شتێک هەبێت، ئەوا دڵنیای لێی."
+        },
+        {
+            "id": "2",
+            "word": "consequence",
+            "definition": "A consequence is a result of a choice or action.",
+            "image": "https://img.freepik.com/free-vector/choice-abstract-concept-vector-illustration-decision-making-finding-solution-multiple-possibilities-freedom-choice-no-brainer-difficulty-choosing-management-abstract-metaphor_335657-4226.jpg?uid=R37862907&ga=GA1.1.865323815.1697063865&semt=ais_hybrid",
+            "kurdishWord": "دەرئەنجام",
+            "kurdishDefinition": " دەرئەنجام بریتییە لە دەرئەنجامی هەڵبژاردن یان کردارێک"
+        },
+        {
+            "id": "3",
+            "word": "disaster",
+            "definition": "A disaster is a really bad thing that happens.",
+            "image": "https://img.freepik.com/premium-vector/painting-building-with-red-roof-building-with-black-roof_1120557-46466.jpg?uid=R37862907&ga=GA1.1.865323815.1697063865&semt=ais_hybrid",
+            "kurdishWord": "کارەسات",
+            "kurdishDefinition": "کارەسات بەڕاستی شتێکی خراپە کە ڕوودەدات."
+        },
+        {
+            "id": "4",
+            "word": "estimate",
+            "definition": "To estimate something means to make a guess about it.",
+            "image": "https://img.freepik.com/premium-vector/man-is-counting_995281-5207.jpg?uid=R37862907&ga=GA1.1.865323815.1697063865&semt=ais_hybrid",
+            "kurdishWord": "مەزەندەکردن",
+            "kurdishDefinition": "خەمڵاندنی شتێک واتە پێشبینیکردن لەسەری."
+        },
+        {
+            "id": "5",
+            "word": "honor",
+            "definition": "When you honor people or things, you show respect for them.",
+            "image": "https://img.freepik.com/free-vector/realistic-oscars-film-awards-background_23-2151250619.jpg?uid=R37862907&ga=GA1.1.865323815.1697063865&semt=ais_hybrid",
+            "kurdishWord": "ڕێز",
+            "kurdishDefinition": "کاتێک ڕێز لە مرۆڤەکان یان شتەکان دەگریت، ڕێزیان بۆ نیشان دەدەیت."
+        },
+        {
+            "id": "6",
+            "word": "impress",
+            "definition": "To impress someone means to make that person proud.",
+            "image": "https://img.freepik.com/free-vector/public-approval-concept_23-2148402713.jpg?uid=R37862907&ga=GA1.1.865323815.1697063865&semt=ais_hybrid",
+            "kurdishWord": "سەرنج ڕاکێشان",
+            "kurdishDefinition": "سەرسامبوون بە کەسێک واتە شانازی بەو کەسە بکەیت"
+        }
     ]
+
+
 
 
 
