@@ -4,20 +4,44 @@
             "id": "1",
              "description": "کاتی ئێستای سادە بۆ دوو هۆکاری سەرەکی بەکاردێت. یەکەم: بۆ ئەوەی باسی ئەو شتانە بکەین کە لە ئێستادا ڕوودەدەن. دووەم: وەسفکردنی ئەو شتانەی کە بە شێوەیەکی ڕێکوپێک یان هەمیشە ڕوودەدەن. بۆ زۆربەی کردارەکان، فۆڕمی بنەڕەتی بەکاربهێنە (وەک \"play\" یان \"eat\"). بەڵام ئەگەر  بکەر تاک بێت وەک (he, she, it) دەبێت لە کۆتایی فرمانەکە (s, es) زیاد بکەین وەک (plays, eats).",
             "structure": "Subject + base verb, base verb(s,es) + object.",
-           "examples": [
+          "examples": [
     "She plays soccer every weekend.",
+    "هەموو کۆتایی هەفتەیەک یاری تۆپی پێ دەکات.",
+    
     "I read books every night.",
+    "هەموو شەوێک کتێب دەخوێنمەوە.",
+    
     "We go to the gym on Mondays.",
+    "ڕۆژانی دووشەممە دەچینە هۆڵی وەرزش.",
+    
     "She always drinks coffee in the morning.",
+    "هەمیشە بەیانیان قاوە دەخواتەوە.",
+    
     "I study English every day.",
+    "هەموو ڕۆژێک زمانی ئینگلیزی دەخوێنم.",
+    
     "We watch movies on Fridays.",
+    "ڕۆژانی هەینی سەیری فیلم دەکەین.",
+    
     "She takes the bus to work.",
+    "ئەو بە پاس دەچێتە سەر کارەکەی.",
+    
     "I eat breakfast at 7 AM.",
+    "کاتژمێر ٧ی بەیانی نانی بەیانی دەخۆم.",
+    
     "We play tennis every Saturday.",
+    "ئێمە هەموو شەممەیەک یاری تێنس دەکەین.",
+    
     "She likes to swim in the ocean.",
+    "ئەو حەزی لە مەلەکردنە لەناو زەریادا.",
+    
     "I listen to music while I work.",
-    "We cook dinner together every evening."
+    "لەکاتی کارەکەمدا گوێ لە مۆسیقا دەگرم.",
+    
+    "We cook dinner together every evening.",
+    "هەموو ئێوارەیەک پێکەوە ژەمی ئێوارە دروستدەکەین."
 ]
+
 
         }
          
