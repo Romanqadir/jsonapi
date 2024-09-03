@@ -445,7 +445,7 @@
       "id": "57",
       "question": "مامۆستا",
       "options": ["scientist", "engineer", "doctor", "teacher"],
-      "correctOption": "engineer",
+      "correctOption": "teacher",
       "isMatched": false,
       "isDisabled": false
   },
